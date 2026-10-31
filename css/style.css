@@ -1,0 +1,400 @@
+/* ==========================================================================
+   初中英语题库与组卷系统 - 主样式表
+   ========================================================================== */
+
+/* 主题颜色变量定义 */
+:root {
+  --bg: #f3f4f6;
+  --card: #ffffff;
+  --tx: #1f2937;
+  --mu: #6b7280;
+  --bd: #e5e7eb;
+  --pr: #2f6fed;
+  --prt: #ffffff;
+  --ok: #16a34a;
+  --tag: #eef3ff;
+}
+
+/* 深色模式适配 */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #111318;
+    --card: #1b1e26;
+    --tx: #e5e7eb;
+    --mu: #9ca3af;
+    --bd: #2d323d;
+    --pr: #5b8cff;
+    --prt: #0b1020;
+    --ok: #4ade80;
+    --tag: #1f2a44;
+  }
+}
+
+/* 基础全局布局 */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--tx);
+  font: 14px/1.6 -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+/* 顶部导航头栏 */
+header {
+  background: var(--card);
+  border-bottom: 1px solid var(--bd);
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+h1 {
+  font-size: 18px;
+  margin: 0;
+  color: var(--pr);
+}
+
+nav {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+nav button {
+  border: 0;
+  background: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  color: var(--tx);
+  cursor: pointer;
+  font-size: 14px;
+}
+
+nav button.on {
+  background: var(--pr);
+  color: var(--prt);
+}
+
+/* 年级切换区 */
+.stage {
+  margin-left: auto;
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  font-size: 13px;
+}
+
+.stage .grade-btn {
+  border: 1px solid var(--bd);
+  background: var(--card);
+  color: var(--tx);
+  font-size: 13px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.stage .grade-btn:hover {
+  border-color: var(--pr);
+  color: var(--pr);
+}
+
+.stage .grade-btn.on {
+  background: var(--pr);
+  color: var(--prt);
+  border-color: var(--pr);
+}
+
+/* 主内容容器 */
+main {
+  max-width: 1000px;
+  margin: 16px auto;
+  padding: 0 14px;
+}
+
+/* 筛选与操作工具栏 */
+.bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+input,
+select,
+textarea,
+button {
+  font: inherit;
+  color: var(--tx);
+  background: var(--card);
+  border: 1px solid var(--bd);
+  border-radius: 6px;
+  padding: 5px 9px;
+}
+
+button {
+  cursor: pointer;
+}
+
+button.p {
+  background: var(--pr);
+  color: var(--prt);
+  border-color: var(--pr);
+}
+
+button.d {
+  color: #dc2626;
+}
+
+/* 题目卡片 */
+.card {
+  background: var(--card);
+  border: 1px solid var(--bd);
+  border-radius: 8px;
+  padding: 14px;
+  margin-bottom: 12px;
+}
+
+.meta {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: 8px;
+  align-items: center;
+}
+
+.card-foot {
+  display: flex;
+  justify-content: flex-end;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.card-foot .cart {
+  flex: none;
+  padding: 5px 9px;
+  border: 0;
+  background: transparent;
+  font-size: 22px;
+  line-height: 1;
+}
+
+.card-foot .cart.added {
+  background: var(--tag);
+  border-radius: 6px;
+}
+
+.tag {
+  background: var(--tag);
+  color: var(--pr);
+  border-radius: 4px;
+  padding: 0 7px;
+  font-size: 12px;
+}
+
+/* 文章材料展示 */
+.pass {
+  white-space: pre-wrap;
+  border: 1px solid var(--bd);
+  border-radius: 6px;
+  padding: 10px;
+  margin: 8px 0;
+  font-family: "Times New Roman", serif;
+}
+
+.source-art {
+  background: var(--card);
+  border: 1px solid var(--bd);
+  border-radius: 8px;
+  padding: 16px;
+  margin: 8px 0;
+  font: 15px/1.8 Georgia, "Times New Roman", serif;
+}
+
+.source-art p {
+  margin: 0.3em 0;
+}
+
+.source-art .bx {
+  border: 1px solid var(--mu);
+  padding: 8px 12px;
+  margin: 6px 0;
+}
+
+.source-art .bt {
+  border-top: 1px solid var(--mu);
+  margin-top: 8px;
+  padding-top: 6px;
+}
+
+.source-art .sec + .sec {
+  margin-top: 8px;
+}
+
+.source-art .ct {
+  text-align: center;
+  font-weight: 700;
+}
+
+.source-art .ct.l {
+  text-align: left;
+}
+
+.source-art .ind {
+  display: inline-block;
+  text-indent: 2em;
+}
+
+.source-art img {
+  vertical-align: middle;
+  background: #ffffff;
+  border-radius: 4px;
+  max-width: 100%;
+  height: auto;
+}
+
+.source-art .g2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border: 1px solid var(--mu);
+  margin: 6px 0;
+}
+
+.source-art .g2 > div {
+  padding: 8px 10px;
+  border: 0.5px solid var(--mu);
+}
+
+@media (max-width: 560px) {
+  .source-art .g2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* 题目与选项排版 */
+.q {
+  margin: 6px 0;
+}
+
+.opts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0 12px;
+  color: var(--mu);
+}
+
+.grammar-q {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.grammar-q .opts {
+  flex: 1;
+}
+
+.acts {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+/* 答案解析 */
+.exp {
+  background: var(--tag);
+  border-radius: 6px;
+  padding: 8px 10px;
+  margin-top: 8px;
+  font-size: 13px;
+}
+
+.exp b {
+  color: var(--pr);
+}
+
+/* 智能组卷网格 */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+}
+
+/* 试卷排版预览 */
+.sheet {
+  background: #ffffff;
+  color: #000000;
+  border: 1px solid var(--bd);
+  padding: 28px 34px;
+  font-family: "Times New Roman", "SimSun", serif;
+  font-size: 14px;
+  max-width: 794px;
+  margin: 12px auto;
+}
+
+.sheet .opts {
+  color: #000000;
+}
+
+.sheet h2 {
+  text-align: center;
+  margin: 0 0 4px;
+}
+
+.sheet h3 {
+  margin: 14px 0 4px;
+  font-size: 15px;
+}
+
+.ctl {
+  display: flex;
+  gap: 6px;
+  justify-content: flex-end;
+}
+
+.sheet .ctl {
+  font-family: sans-serif;
+}
+
+.lab {
+  color: #1f6fb5;
+}
+
+.muted {
+  color: var(--mu);
+}
+
+pre {
+  white-space: pre-wrap;
+  font-size: 12px;
+  background: var(--tag);
+  padding: 8px;
+  border-radius: 6px;
+}
+
+/* 打印样式支持 */
+@media print {
+  header,
+  .bar,
+  .noprint,
+  .ctl {
+    display: none !important;
+  }
+  body {
+    background: #ffffff;
+  }
+  .sheet {
+    border: 0;
+    padding: 0;
+    margin: 0;
+  }
+}
