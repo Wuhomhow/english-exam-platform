@@ -6967,5 +6967,10084 @@ const SAMPLE=[
         "exp": "最佳标题题。本文介绍了《冰雪奇缘2》这部电影的主要情节和里面的角色。因此An interesting film“一部有趣的电影”适合作标题。故选B。"
       }
     ]
+  },
+  {
+    "id": "jr_cloze7a_1",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "说明文",
+      "七年级上册",
+      "校园环境"
+    ],
+    "title": "七上选词填空 · 一 学校图书馆",
+    "passage": "| usually   loves   their   help   with   schools   are   our   teachers’   at   useful   but |\n\nLibraries are like small treasure (宝库) around the world. We can find libraries almost everywhere-in big cities, small towns, villages and ___1___ .\n\nOur school has a library, too. It’s not very big, ___2___ it’s always clean and tidy. There ___3___ many books in it. Some books are in Chinese, and others are in English. The chairs and desks there are nice and comfortable. The teachers in the library are very friendly. They always ___4___ us find the books we need. There are four small reading rooms in the library. We ___5___ read books or do our homework there quietly. Some books are a bit difficult for us. But with our ___6___ help, we can understand them better. Now, my classmates and I are good ___7___ reading. Reading helps us know many new things and opens ___8___ eyes. We can learn things that we can’t get just from class. You see, libraries are always ___9___ . Everyone in our school ___10___ the library very much, and so do I!",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">usually &nbsp; loves &nbsp; their &nbsp; help &nbsp; with &nbsp; schools &nbsp; are &nbsp; our &nbsp; teachers’ &nbsp; at &nbsp; useful &nbsp; but</div><p><span class=\"ind\">Libraries are like small treasure (宝库) around the world. We can find libraries almost everywhere-in big cities, small towns, villages and <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">Our school has a library, too. It’s not very big, <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> it’s always clean and tidy. There <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> many books in it. Some books are in Chinese, and others are in English. The chairs and desks there are nice and comfortable. The teachers in the library are very friendly. They always <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> us find the books we need. There are four small reading rooms in the library. We <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> read books or do our homework there quietly. Some books are a bit difficult for us. But with our <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> help, we can understand them better. Now, my classmates and I are good <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> reading. Reading helps us know many new things and opens <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> eyes. We can learn things that we can’t get just from class. You see, libraries are always <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> . Everyone in our school <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> the library very much, and so do I!</span></p>",
+    "intro": "本文是一篇说明文，文章主要介绍学校图书馆，介绍图书馆的环境、藏书以及图书馆带给我们的帮助。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "schools",
+        "exp": "句意：我们几乎可以在大城市、小城镇学校以及村庄找到图书馆。根据上文“big cities, small towns”以及下文“villages”，此处是并列列举各类有图书馆的地点，方框内schools表示“学校”，其余词汇不能表示地点，所以选择schools。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "but",
+        "exp": "句意：它不是很大，但是它总是干净又整洁。根据上文“It’s not very big”和下文“it's always clean and tidy”，前后存在转折逻辑，方框内只有but表转折，其余词汇没有该含义，所以选择but。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "are",
+        "exp": "句意：那里有许多书。根据下文复数名词“books”，there be句型be动词要与后面名词数保持一致，方框内只有are为be动词复数形式，其余单词不可用于该句型，所以选择are。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "help",
+        "exp": "句意：图书馆的老师们总是帮助我们找到我们需要的书籍。根据下文“us find the books we need”，结合语境老师帮学生找书，方框内help表示帮助，主语they为复数，用动词原形，其余词汇不符合该句谓语语义，所以选择help。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "usually",
+        "exp": "句意：我们通常在那里安静地读书或者写家庭作业。根据下文“read books or do our homework there quietly”，这是图书馆经常性行为，方框内usually表经常性动作，其余词汇不能作时间副词，所以选择usually。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "teachers’",
+        "exp": "句意：但在老师们的帮助下，我们可以更好地理解它们。根据上文“Some books are a bit difficult for us”，遇到难题需要老师帮助，方框内teachers’表人物所属，其余词汇不满足，所以选择teachers’。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "at",
+        "exp": "句意：现在，我和我的同学擅长阅读。根据上文“be good”以及下文动名词“reading”，be good at doing sth为固定搭配，方框内只有at可以构成该短语，其余介词不能搭配be good，所以选择at。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "our",
+        "exp": "句意：阅读帮助我们了解很多新事物，开阔我们的眼界。根据上文主语“My classmates and I”，需要与之对应的物主代词修饰eyes，方框内our与之对应，其余词汇不符合主语，所以选择our。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "useful",
+        "exp": "句意：你瞧，图书馆总是很有用的。根据上文“We can learn things that we can't get just from class”，能得知图书馆用处很大，方框内useful表示“有用的”，其余剩余词汇语义不匹配，所以选择useful。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "loves",
+        "exp": "句意：我们学校的每个人都非常喜爱图书馆，我也是！根据下文“Everyone in our school”，主语everyone是第三人称单数，方框内loves表示“喜爱”，作本句谓语，其余方框单词均已用完，所以选择loves。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_2",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "说明文",
+      "七年级上册",
+      "动物世界"
+    ],
+    "title": "七上选词填空 · 二 国宝大熊猫的生活习性",
+    "passage": "| months   live   because   years   fast   warm   winter   climbing   rivers   starts   its   so |\n\nMost people really like pandas, but how much do you know about these cute animals? Let me tell you some fun facts about them.\n\nPandas are good at ___1___ trees. They start to learn how to climb trees when they are about seven months old. They can climb really ___2___ and get up very high.\n\nPandas can swim too. However, we don’t usually see them swimming ___3___ most pandas live in the mountains. They don’t need to swim across ___4___ .\n\nPandas grow up very quickly. When a panda is just born (出生), it is small. It drinks ___5___ mother’s milk for about 14 hours every day. It ___6___ to eat bamboo in the sixth month. Eight ___7___ after that, it becomes big and strong. When it is twenty months old, it will ___8___ by itself.\n\nPandas don’t sleep all ___9___ , which is different from some other animals. They find a ___10___ place to eat bamboo during the long cold days. How clever and cute they are!",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">months &nbsp; live &nbsp; because &nbsp; years &nbsp; fast &nbsp; warm &nbsp; winter &nbsp; climbing &nbsp; rivers &nbsp; starts &nbsp; its &nbsp; so</div><p><span class=\"ind\">Most people really like pandas, but how much do you know about these cute animals? Let me tell you some fun facts about them.</span></p><p><span class=\"ind\">Pandas are good at <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> trees. They start to learn how to climb trees when they are about seven months old. They can climb really <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> and get up very high.</span></p><p><span class=\"ind\">Pandas can swim too. However, we don’t usually see them swimming <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> most pandas live in the mountains. They don’t need to swim across <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">Pandas grow up very quickly. When a panda is just born (出生), it is small. It drinks <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> mother’s milk for about 14 hours every day. It <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> to eat bamboo in the sixth month. Eight <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> after that, it becomes big and strong. When it is twenty months old, it will <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> by itself.</span></p><p><span class=\"ind\">Pandas don’t sleep all <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> , which is different from some other animals. They find a <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> place to eat bamboo during the long cold days. How clever and cute they are!</span></p>",
+    "intro": "",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "climbing",
+        "exp": "句意：大熊猫擅长爬树。此处需要动名词，构成固定搭配be good at doing sth.，意为“擅长做某事”，结合后文“learn how to climb trees”的提示，climbing意为“攀爬”，符合语境与语法要求。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "fast",
+        "exp": "句意：它们可以爬得很快，爬到很高的地方。此处需要副词修饰动词climb，说明攀爬的速度。fast为副词，意为“快速地”，对应后文“get up very high”的描述，符合语境。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "because",
+        "exp": "句意：然而我们通常很少见到它们游泳，因为大多数大熊猫生活在山区。此处需要连词引导原因状语从句，后文“most pandas live in the mountains”解释很少见到熊猫游泳的原因，故前后为因果关系。because为连词，意为“因为”，符合前后因果逻辑。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "rivers",
+        "exp": "句意：它们不需要游过河流。此处需要可数名词复数，作swim across的宾语。结合游泳的场景，rivers为名词复数，意为“河流”，符合语境。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "its",
+        "exp": "句意：它每天要喝大约14个小时的母乳。此处需要形容词性物主代词作定语，修饰mother’s milk，表所属关系。its为物主代词，意为“它的”，指代熊猫幼崽的，符合语法与语境。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "starts",
+        "exp": "句意：它在第六个月的时候开始吃竹子。此处需要动词作谓语，主语为it，描述一般事实用一般现在时，谓语动词用第三人称单数形式。starts为动词，意为“开始”，start to do sth.是固定搭配，符合语境。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "months",
+        "exp": "句意：那之后的八个月，它就长得又大又壮了。此处需要可数名词复数，与数词Eight搭配，描述时间长度。months为名词复数，意为“月”，对应前文的生长时间线，符合语境。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "live",
+        "exp": "句意：当它长到二十个月大时，就可以独自生活了。此处需要动词原形，跟在助动词will之后作谓语，构成一般将来时。live为动词，意为“生活”，live by oneself是固定表达，意为“独自生活”，符合语境。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "winter",
+        "exp": "句意：大熊猫不会整个冬天都睡觉，这和其他一些动物不一样。此处需要名词，构成all+表示时间的名词的结构，表“整个……”。winter为名词，意为“冬天”，对应后文“during the long cold days”的描述，符合语境。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "warm",
+        "exp": "句意：它们会在漫长寒冷的日子里找一个暖和的地方吃竹子。此处需要形容词作定语，修饰名词place，描述地方的特点。warm为形容词，意为“温暖的”，对应“寒冷的日子”的对比，符合语境。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_3",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "说明文",
+      "七年级上册",
+      "校园设施"
+    ],
+    "title": "七上选词填空 · 三 楼顶上的特殊运动场",
+    "passage": "| on   with   it   make   green   play   student   interest   raise   smart   club   place |\n\nOur school has a special sports field. It is not on the ground—it is ___1___ the roof of our school building! Why? Because our school does not have enough room for ___2___ .\n\nThe sports field is small but nice. There are some ___3___ trees and flowers around it. It has a football field, two table tennis tables, and a running track (跑道). There is also a ___4___ board on one wall. It can show running information.\n\nEach part of the field has a different colour. It looks very cool.\n\nMany ___5___ love this sports field. They say it is their favourite ___6___ at school. They can do many ___7___ things there. After class, I often spend my free time ___8___ football with my friends there. We also ___9___ the flag there every Monday morning!\n\nOur teachers also like this place. Mr. Gao often plays table tennis with other teachers there after school.\n\nThis sports field ___10___ our school life more fun.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">on &nbsp; with &nbsp; it &nbsp; make &nbsp; green &nbsp; play &nbsp; student &nbsp; interest &nbsp; raise &nbsp; smart &nbsp; club &nbsp; place</div><p><span class=\"ind\">Our school has a special sports field. It is not on the ground—it is <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> the roof of our school building! Why? Because our school does not have enough room for <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">The sports field is small but nice. There are some <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> trees and flowers around it. It has a football field, two table tennis tables, and a running track (跑道). There is also a <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> board on one wall. It can show running information.</span></p><p><span class=\"ind\">Each part of the field has a different colour. It looks very cool.</span></p><p><span class=\"ind\">Many <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> love this sports field. They say it is their favourite <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> at school. They can do many <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> things there. After class, I often spend my free time <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> football with my friends there. We also <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> the flag there every Monday morning!</span></p><p><span class=\"ind\">Our teachers also like this place. Mr. Gao often plays table tennis with other teachers there after school.</span></p><p><span class=\"ind\">This sports field <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> our school life more fun.</span></p>",
+    "intro": "本文介绍学校建在楼顶的特殊运动场，描写运动场的设施、环境，讲述师生都十分喜爱这个场地，它丰富了校园生活。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "on",
+        "exp": "句意：它不在地面上，而是在教学楼的屋顶上。 根据“not on the ground”可知，此处指方位，方框中on表示“在……上”，on the roof是固定搭配，意为“在屋顶上”，符合地点搭配。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "it",
+        "exp": "句意：因为我们学校没有足够空间容纳它。根据上文“It is not on the ground”可知，此处指代运动场，方框中it表示“它”，指代the sports field，符合语境。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "green",
+        "exp": "句意：它周围有一些绿树和鲜花。 空格修饰名词trees，应用形容词，方框中green表示“绿色的”，符合校园绿树成荫的环境。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "smart",
+        "exp": "句意：一面墙上还有一块智能显示屏。 空格修饰名词board，应用形容词，后文说它能显示跑步信息，方框中smart表示“智能的”，符合语境。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "students",
+        "exp": "句意：很多学生都喜欢这个运动场。 many后接可数名词复数，校园里大部分都是学生，方框中student表示“学生”，需变形students，符合语境。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "place",
+        "exp": "句意：他们说这是学校里他们最喜欢的地方。 favourite后接名词，结合上文“sports field”，此处指代楼顶运动场，方框中place表示“地方、场所”，符合语境。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "interesting",
+        "exp": "句意：他们可以在那里做很多有趣的事。 空格修饰名词things，应用形容词，方框中interest意为“兴趣；使……感兴趣”，需变为形容词interesting“有趣的”，符合语境。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "playing",
+        "exp": "句意：课后，我经常利用空闲时间和朋友在那里踢足球。 根据“football”可知，此处指踢足球，spend time (in) doing sth.是固定用法，意为“花费时间做某事”，play需变动名词playing，符合语境。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "raise",
+        "exp": "句意：每周一早上我们也在那里升旗！ 根据“the flag there every Monday morning”及常识可知，周一早晨升国旗，本句为一般现在时，主语we后用动词原形，方框中raise表示“升起”，符合语境。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "makes",
+        "exp": "句意：这个运动场让我们的校园生活更加有趣。 “make sth. + 形容词”是固定用法，意为“使某物……”，主语this sports field是单数，一般现在时谓语动词用三单，方框中make表示“使；让”，需变为makes，符合语境。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_4",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "校园生活"
+    ],
+    "title": "七上选词填空 · 四 “双减”政策下的新校园生活",
+    "passage": "| break   interest   for   geography   delicious   happy   begin   have   can   a |\n\nWith the “double reduction” policy (“双减”政策) coming out, students start a new school life.\n\nAt 7:00, Lucy has an egg, some bread and milk ___1___ breakfast at home, and then she goes to school by bike. The first class ___2___ at 8:00. Lucy has four classes in the morning, and ___3___ is her favourite subject. At 11:45, she has lunch at school. The food is ___4___ and healthy. After that, she and her classmates take a ___5___ in the classroom for half ___6___ hour. In the afternoon, she ___7___ only two classes. After classes, students in Lucy’s school can have many ___8___ after-school activities. Lucy likes playing basketball in the sports club.\n\nShe thinks students ___9___ learn much in these clubs. After school, they have little homework and more free time. Lucy says ___10___ “Now, we are happy every day because of the new policy.”",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">break &nbsp; interest &nbsp; for &nbsp; geography &nbsp; delicious &nbsp; happy &nbsp; begin &nbsp; have &nbsp; can &nbsp; a</div><p><span class=\"ind\">With the “double reduction” policy (“双减”政策) coming out, students start a new school life.</span></p><p><span class=\"ind\">At 7:00, Lucy has an egg, some bread and milk <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> breakfast at home, and then she goes to school by bike. The first class <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> at 8:00. Lucy has four classes in the morning, and <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> is her favourite subject. At 11:45, she has lunch at school. The food is <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> and healthy. After that, she and her classmates take a <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> in the classroom for half <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> hour. In the afternoon, she <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> only two classes. After classes, students in Lucy’s school can have many <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> after-school activities. Lucy likes playing basketball in the sports club.</span></p><p><span class=\"ind\">She thinks students <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> learn much in these clubs. After school, they have little homework and more free time. Lucy says <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> “Now, we are happy every day because of the new policy.”</span></p>",
+    "intro": "",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "for",
+        "exp": "句意：露西在家吃一个鸡蛋、一些面包和牛奶作为早餐。固定搭配“have...for breakfast”意为“早餐吃……”，故填for。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "begins",
+        "exp": "句意：第一节课在八点开始。主语“The first class”为第三人称单数，且全文为一般现在时，谓语动词需用第三人称单数形式。结合备选词，“begin”意为“开始”，故填begins。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "geography",
+        "exp": "句意：露西上午有四节课，地理是她最喜欢的科目。前文提到课程，后文“her favourite subject”需填一门学科。结合备选词，“geography”意为“地理”，符合语境。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "delicious",
+        "exp": "句意：食物美味又健康。系动词“is”后需填形容词作表语，与“healthy”并列。结合备选词，“delicious”意为“美味的”。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "break",
+        "exp": "句意：之后，她和同学们在教室里休息半小时。固定搭配“take a break”意为“休息一下”。结合备选词，“break”意为“休息”。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "an",
+        "exp": "句意：之后，她和同学们在教室里休息半小时。“half an hour”为固定搭配，意为“半小时”，其中“hour”以元音音素开头，故用不定冠词an。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "has",
+        "exp": "句意：下午，她只有两节课。主语“She”为第三人称单数，谓语动词需用第三人称单数形式。结合备选词，“have”意为“有”，故填has。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "interesting",
+        "exp": "句意：放学后，露西学校的学生可以参加许多有趣的课外活动。空处修饰名词“after-school activities”，需填形容词。结合备选词，“interest”的形容词形式“interesting”意为“有趣的”。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "can",
+        "exp": "句意：她认为学生们能在这些俱乐部里学到很多东西。空后“learn”为动词原形，需填情态动词。结合备选词，“can”意为“能够”，符合语境。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "happily",
+        "exp": "句意：露西高兴地说：“现在，因为新政策，我们每天都很开心。”空处修饰动词“says”，需填副词。结合备选词，“happy”的副词形式“happily”意为“高兴地”，故填happily。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_5",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "名著故事"
+    ],
+    "title": "七上选词填空 · 五 画家贝尔曼与最后一片叶子",
+    "passage": "| it   only   interest   and   leaf   count   surprise   he   stay   fall   with   good |\n\nTwo artists (艺术家), Sue and Johnsy, live together in New York. One cold autumn, Johnsy gets ill. Sue takes care of her. Outside their window stands an old tree ___1___ some leaves. On a windy day, Johnsy lies in bed, watching the leaves fall. She thinks she will die (死) when the last leaf (叶子) falls. She ___2___ , “Ten...nine...eight...”\n\nOld Mr. Behrman is an artist, too. He is ___3___ at painting but in bad health. He wants to paint a great work in his life. When Sue tells ___4___ about Johnsy’s story, he is sad and wants to do something for Johnsy.\n\nOne stormy night, the wind is strong and the rain is heavy. There is ___5___ one leaf standing on the tree. Johnsy says she will die when that leaf ___6___ . Sue tells her not to think in that way ___7___ closes the curtains (窗帘) for her.\n\nThe next morning, Johnsy asks Sue to open the curtains. She is ___8___ to find that the last leaf is still there. Johnsy looks at the leaf for a long time. ___9___ gives her great hope.\n\nJohnsy gets better and better. But one day, they hear that Old Mr. Behrman has passed away.\n\nOn that cold night, Old Mr. Behrman goes out to paint the last ___10___ for Johnsy. His leaf saves her life, but he dies from the cold.\n\nThat leaf is Old Mr. Behrman’s greatest work in his life.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">it &nbsp; only &nbsp; interest &nbsp; and &nbsp; leaf &nbsp; count &nbsp; surprise &nbsp; he &nbsp; stay &nbsp; fall &nbsp; with &nbsp; good</div><p><span class=\"ind\">Two artists (艺术家), Sue and Johnsy, live together in New York. One cold autumn, Johnsy gets ill. Sue takes care of her. Outside their window stands an old tree <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> some leaves. On a windy day, Johnsy lies in bed, watching the leaves fall. She thinks she will die (死) when the last leaf (叶子) falls. She <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> , “Ten...nine...eight...”</span></p><p><span class=\"ind\">Old Mr. Behrman is an artist, too. He is <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> at painting but in bad health. He wants to paint a great work in his life. When Sue tells <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> about Johnsy’s story, he is sad and wants to do something for Johnsy.</span></p><p><span class=\"ind\">One stormy night, the wind is strong and the rain is heavy. There is <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> one leaf standing on the tree. Johnsy says she will die when that leaf <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> . Sue tells her not to think in that way <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> closes the curtains (窗帘) for her.</span></p><p><span class=\"ind\">The next morning, Johnsy asks Sue to open the curtains. She is <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> to find that the last leaf is still there. Johnsy looks at the leaf for a long time. <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> gives her great hope.</span></p><p><span class=\"ind\">Johnsy gets better and better. But one day, they hear that Old Mr. Behrman has passed away.</span></p><p><span class=\"ind\">On that cold night, Old Mr. Behrman goes out to paint the last <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> for Johnsy. His leaf saves her life, but he dies from the cold.</span></p><p><span class=\"ind\">That leaf is Old Mr. Behrman’s greatest work in his life.</span></p><p class=\"ct\"><img src=\"assets/images/jr_cloze7a_5_leaf.png\" alt=\"最后一片叶子\" width=\"180\"></p>",
+    "intro": "本文讲述画家贝尔曼冒雨绘制最后一片树叶，挽救了放弃生命希望的病友琼西，这也成为他毕生杰作。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "with",
+        "exp": "句意：在他们的窗外立着一棵有着一些叶子的老树。根据“Outside their window stands an old tree...some leaves.”结合备选词可知，此处指树带有叶子，with“带有，和……一起”，介词。故填with。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "counts",
+        "exp": "句意：她数着：“十……九……八……”。根据“Ten...nine...eight...”结合备选词可知，此处指琼西在数叶子的数量，count“数数”，句子是一般现在时，主语she是第三人称单数，谓语动词用第三人称单数形式counts。故填counts。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "good",
+        "exp": "句意：他擅长画画，但是身体状况很差。根据“He is...at painting”结合备选词可知，此处指擅长画画，是固定搭配be good at“擅长”，good“好的”，形容词。故填good。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "him",
+        "exp": "句意：当苏把琼西的故事告诉他时，他很难过，想要为琼西做些什么。根据“Sue tells...about Johnsy’s story”结合备选词可知，此处指苏把琼西的故事告诉贝尔曼先生，需要用人称代词宾格，he的宾格是him。故填him。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "only",
+        "exp": "句意：树上只剩下一片叶子了。根据“one leaf standing on the tree”结合备选词可知，此处指树上仅剩下一片叶子，only“仅仅，只”，副词。故填only。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "falls",
+        "exp": "句意：琼西说当那片叶子落下时，她就会死去。根据“She thinks she will die (死) when the last leaf (叶子) falls.”结合备选词可知，此处指叶子掉落，fall“落下，掉落”，句子是一般现在时，主语that leaf是第三人称单数，谓语动词用第三人称单数形式falls。故填falls。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "and",
+        "exp": "句意：苏告诉她不要那样想，并且为她拉上了窗帘。根据“tells her not to think in that way”和“closes the curtains for her”结合备选词可知，此处连接两个并列动作，and“和，并且”，连词。故填and。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "surprised",
+        "exp": "句意：她惊讶地发现最后一片叶子依然还在那里。根据“find that the last leaf is still there”结合备选词可知，此处指琼西感到惊讶，是固定搭配be surprised to do sth，surprised“感到惊讶的”，形容词。故填surprised。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "It",
+        "exp": "句意：它给了她巨大的希望。根据“the last leaf is still there”结合备选词可知，此处指代最后一片叶子，it“它”，代词，位于句首首字母大写。故填It。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "leaf",
+        "exp": "句意：在那个寒冷的夜晚，老贝尔曼先生出门为琼西画下了最后一片叶子。根据“the last leaf is still there”结合备选词可知，此处指最后一片叶子，leaf“叶子”，名词。故填leaf。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_6",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "说明文",
+      "七年级上册",
+      "世界文化"
+    ],
+    "title": "七上选词填空 · 六 世界各地的独特生日习俗",
+    "passage": "| its   in   child   but   special   cakes   noodle   a   celebration   have   quickly   because |\n\nBirthdays all over the world\n\nEvery day, many people around the world celebrate their birthdays. Each country has ___1___ own special way.\n\nMany people in the US ___2___ their birthdays with parties, cakes, candles, and the “Happy Birthday” song. After the song, they make a wish and blow out all of the candles ___3___ . In this way, they believe their birthday wishes will come true one day.\n\nIn China, people celebrate birthdays with birthday ___4___ . You can’t cut them up ___5___ the long noodles mean a long life. If a person ___6___ noodles on this special day, he or she will live a long life. In some places, Chinese also eat eggs on their birthdays. They are ___7___ symbol of life and good luck.\n\nPeople in Australia eat a ___8___ kind of bread on their birthdays. The bread is usually white. It also has butter and candies on it. Kids like it very much at birthday parties.\n\nIn Mexico, ___9___ often get pinatas (彩饰陶罐) on their birthdays. Their parents put candies and toys ___10___ the pinata and put it on a tree. Children hit it with a stick until it breaks.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">its &nbsp; in &nbsp; child &nbsp; but &nbsp; special &nbsp; cakes &nbsp; noodle &nbsp; a &nbsp; celebration &nbsp; have &nbsp; quickly &nbsp; because</div><p><span class=\"ind\">Birthdays all over the world</span></p><p><span class=\"ind\">Every day, many people around the world celebrate their birthdays. Each country has <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> own special way.</span></p><p><span class=\"ind\">Many people in the US <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> their birthdays with parties, cakes, candles, and the “Happy Birthday” song. After the song, they make a wish and blow out all of the candles <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> . In this way, they believe their birthday wishes will come true one day.</span></p><p><span class=\"ind\">In China, people celebrate birthdays with birthday <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> . You can’t cut them up <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> the long noodles mean a long life. If a person <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> noodles on this special day, he or she will live a long life. In some places, Chinese also eat eggs on their birthdays. They are <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> symbol of life and good luck.</span></p><p><span class=\"ind\">People in Australia eat a <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> kind of bread on their birthdays. The bread is usually white. It also has butter and candies on it. Kids like it very much at birthday parties.</span></p><p><span class=\"ind\">In Mexico, <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> often get pinatas (彩饰陶罐) on their birthdays. Their parents put candies and toys <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> the pinata and put it on a tree. Children hit it with a stick until it breaks.</span></p>",
+    "intro": "本文主要介绍了世界上不同国家，美国、中国、澳大利亚、墨西哥庆祝生日的独特方式。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "its",
+        "exp": "句意：每个国家都有它自己独特的方式。根据 “Each country”可知，此处需用形容词性物主代词修饰“own special way”，its“它的”，符合语境。故填its。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "celebrate",
+        "exp": "句意：在美国，许多人用派对、蛋糕、蜡烛和《生日快乐》歌来庆祝生日。“celebrate birthdays”是固定搭配，意为“庆祝生日”，句子为一般现在时，主语“Many people” 是复数，谓语动词用原形。故填celebrate。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "quickly",
+        "exp": "句意：唱完歌后，他们许愿并快速吹灭所有蜡烛。此处需用副词修饰动词短语“blow out”，quickly“快速地”，符合语境。故填quickly。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "noodles",
+        "exp": "句意：在中国，人们用生日面条庆祝生日。根据后文“the long noodles mean a long life”可知，此处指生日面条，noodle“面条”，常用复数形式。故填noodles。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "because",
+        "exp": "句意：你不能把它们切断，因为长面条意味着长寿。根据“You can’t cut them up”和“the long noodles mean a long life”可知，前后句为因果关系，because“因为”，引导原因状语从句，符合语境。故填because。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "has",
+        "exp": "句意：如果一个人在这个特殊的日子吃面条，他或她会长寿。“have noodles”是固定搭配，意为“吃面条”，句子为一般现在时，主语“a person”是第三人称单数，谓语动词用第三人称单数形式。故填has。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "a",
+        "exp": "句意：它们是生命和好运的象征。“a symbol of…”是固定搭配，意为“……的象征”，符合语境。故填a。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "special",
+        "exp": "句意：澳大利亚人在生日时吃一种特殊的面包。此处需用形容词修饰名词“kind”，备选词special意为“特殊的”，符合语境。故填special。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "children",
+        "exp": "句意：在墨西哥，孩子们在生日时经常得到彩饰陶罐。根据后文“Children hit it with a stick until it breaks”可知，此处指孩子们，备选词child意为“孩子”，常用复数形式表示泛指。故填children。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "in",
+        "exp": "句意：他们的父母把糖果和玩具放进彩饰陶罐里，然后把它挂在树上。“put…in…”是固定搭配，意为“把……放进……里”，符合语境。故填in。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_7",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 1,
+    "kp": [
+      "选词填空",
+      "说明文",
+      "七年级上册",
+      "家庭亲情"
+    ],
+    "title": "七上选词填空 · 七 丰富多彩的家庭活动",
+    "passage": "| good   feel   flower   remember   teach   sleep   talk   so   sing   time   we   with |\n\nHow often do you do family activities? Spending ___1___ doing these activities is very important. They help ___2___ learn and make happy memories (回忆).\n\nSome family activities ___3___ us new things. For example, visiting a farm ___4___ our family shows us where our food comes from. When our parents teach us to plant ___5___ or vegetables, we learn a lot about nature. Setting up an orange juice stand (摊) together teaches us how to sell things and ___6___ to people.\n\nFamily activities are also a ___7___ way to make happy memories. A family talent show on Saturday night is a lot of fun. We can ___8___ , dance or do magic. Making a family scrapbook (剪贴簿) together is also great. It helps us to ___9___ the good time. These memories will make us ___10___ good even in a bad time.\n\nFamily activities bring us closer as a family. Let’s keep having fun and enjoying our time with our family!",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">good &nbsp; feel &nbsp; flower &nbsp; remember &nbsp; teach &nbsp; sleep &nbsp; talk &nbsp; so &nbsp; sing &nbsp; time &nbsp; we &nbsp; with</div><p><span class=\"ind\">How often do you do family activities? Spending <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> doing these activities is very important. They help <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> learn and make happy memories (回忆).</span></p><p><span class=\"ind\">Some family activities <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> us new things. For example, visiting a farm <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> our family shows us where our food comes from. When our parents teach us to plant <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> or vegetables, we learn a lot about nature. Setting up an orange juice stand (摊) together teaches us how to sell things and <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> to people.</span></p><p><span class=\"ind\">Family activities are also a <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> way to make happy memories. A family talent show on Saturday night is a lot of fun. We can <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> , dance or do magic. Making a family scrapbook (剪贴簿) together is also great. It helps us to <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> the good time. These memories will make us <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> good even in a bad time.</span></p><p><span class=\"ind\">Family activities bring us closer as a family. Let’s keep having fun and enjoying our time with our family!</span></p>",
+    "intro": "本文主要阐述了家庭活动的重要性，包括学习新事物以及通过才艺表演和制作剪贴簿等方式创造和铭记美好回忆。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "time",
+        "exp": "句意：花时间做这些活动非常重要。根据“Spending…doing these activities is very important.”可知，此处表示花时间做这些活动非常重要。spend time doing sth.是固定短语，意为“花时间做某事”。time“时间”，符合语境。故填time。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "us",
+        "exp": "句意：它们帮助我们学习，还能创造快乐的回忆。根据“doing these activities…They help…learn”可知，此处指家庭活动帮助我们学习。we“我们”，符合语境。此处作动词help的宾语，需用宾格形式us。故填us。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "teach",
+        "exp": "句意：一些家庭活动会教我们新东西。根据“Some family activities…us new things”可知，此处表示家庭活动教给我们新东西。teach“教”，符合语境。主语Some family activities是复数，时态为一般现在时，动词需用原形。故填teach。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "with",
+        "exp": "句意：比如，和家人一起参观农场会让我们知道食物的来源。根据“visiting a farm…our family”可知，此处表示和家人一起参观农场。with“和……一起”，符合语境。故填with。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "flowers",
+        "exp": "句意：当父母教我们种花或蔬菜时，我们能学到很多关于自然的知识。根据“plant…or vegetables”可知，此处需填与蔬菜并列的植物名词。flower“花”，符合语境。vegetables是复数，故flower也应用复数形式flowers。故填flowers。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "talk",
+        "exp": "句意：一起摆橙汁摊能教我们如何卖东西，以及如何与人交流。根据“how to sell things and…to people”可知，此处表示对人们说话。talk“说话”，符合语境。and连接并列成分，sell是原形，故talk也用原形。故填talk。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "good",
+        "exp": "句意：家庭活动也是创造快乐回忆的好方式。根据“Family activities are also a…way to make happy memories”可知，家庭活动也是创造快乐回忆的好方式。good“好的”，符合语境。此处作定语修饰名词way。故填good。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "sing",
+        "exp": "句意：我们可以唱歌、跳舞或者变魔术。根据“We can…, dance or do magic.”以及“talent show”可知，此处表示才艺展示。sing“唱歌”，符合语境。can后接动词原形。故填sing。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "remember",
+        "exp": "句意：它能帮助我们记住那些美好时光。根据“Making a family scrapbook (剪贴簿)”以及“helps us to…the good time”可知，做剪贴簿是为了记住美好时光。remember“记住”，符合语境。to后接动词原形。故填remember。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "feel",
+        "exp": "句意：即使在糟糕的时候，这些回忆也会让我们感觉很好。根据“make us…good”可知，此处表示让我们感觉良好。feel“感觉”，符合语境。make sb. do sth.意为“让某人做某事”，需用动词原形。故填feel。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_8",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "体育明星"
+    ],
+    "title": "七上选词填空 · 八 网球新星郑钦文",
+    "passage": "| star   interested   later   after   spend   so   excited   be   a   one   tennis   well |\n\nZheng Qinwen: A Rising Star in    191\n\nZheng Qinwen, a 21-year-old girl from Hubei, is the first Chinese tennis player to win the gold medal in women’s tennis singles at the 2024 Paris Olympics.\n\nWhen she is a little girl, she is ___2___ in tennis. At the age of six, she starts playing it in her hometown Shiyan, Hubei. Six years ___3___ , she moves to Beijing to learn more about her favorite sport. She gets up at 4:30 in the morning and ___4___ about 6 hours exercising every day. She becomes a famous sports ___5___ in tennis. In the 2022 French Open, she reaches the fourth round. There ___6___ so many world’s best players there and she learns a lot from them. In 2024, she gets the ___7___ place in women’s singles (单打) and makes her mark on the list of tennis history. Seeing the five-star red flag rising slowly, she is very ___8___ . She says, “I know I play for my country, ___9___ I can’t give up.”\n\nZheng Qinwen not only sets ___10___ example for us but also shows our Chinese Olympic spirit (精神). We are sure that the future for sports in China will be bright.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">star &nbsp; interested &nbsp; later &nbsp; after &nbsp; spend &nbsp; so &nbsp; excited &nbsp; be &nbsp; a &nbsp; one &nbsp; tennis &nbsp; well</div><p><span class=\"ind\">Zheng Qinwen: A Rising Star in    191</span></p><p><span class=\"ind\">Zheng Qinwen, a 21-year-old girl from Hubei, is the first Chinese tennis player to win the gold medal in women’s tennis singles at the 2024 Paris Olympics.</span></p><p><span class=\"ind\">When she is a little girl, she is <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> in tennis. At the age of six, she starts playing it in her hometown Shiyan, Hubei. Six years <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> , she moves to Beijing to learn more about her favorite sport. She gets up at 4:30 in the morning and <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> about 6 hours exercising every day. She becomes a famous sports <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> in tennis. In the 2022 French Open, she reaches the fourth round. There <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> so many world’s best players there and she learns a lot from them. In 2024, she gets the <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> place in women’s singles (单打) and makes her mark on the list of tennis history. Seeing the five-star red flag rising slowly, she is very <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> . She says, “I know I play for my country, <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> I can’t give up.”</span></p><p><span class=\"ind\">Zheng Qinwen not only sets <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> example for us but also shows our Chinese Olympic spirit (精神). We are sure that the future for sports in China will be bright.</span></p><p class=\"ct\"><img src=\"assets/images/jr_cloze7a_8_zheng.png\" alt=\"郑钦文\" width=\"180\"></p>",
+    "intro": "本文主要介绍了优秀网球运动员郑钦文的成长经历和成就。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "Tennis",
+        "exp": "句意：郑钦文：网坛新星。根据“Zheng Qinwen... is the first Chinese tennis player”可知，郑钦文是网球运动员，题目中实词首字母大写。故填Tennis。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "interested",
+        "exp": "句意：当她还是个小女孩时，就对网球很感兴趣。根据“she is... in”并结合备选词汇可知，此处为固定搭配be interested in。故填interested。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "later",
+        "exp": "句意：六年后，她前往北京，以更深入地学习她最喜爱的运动。根据“Six years... , she moves to Beijing to learn more about her favorite sport.”及备选词汇可知，这里表示六年后，“six years later”表示“六年后”，“later”表示“以后，后来”。故填later。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "spends",
+        "exp": "句意：她每天早上4:30起床，每天花费大约6个小时训练。根据“She... about 6 hours exercising every day. ”及备选词汇可知，此处是spend time doing sth.，主语是第三人称单数，动词用单三形式spends。故填spends。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "star",
+        "exp": "句意：她成为了网球界一位著名的体育明星。根据“She becomes a famous sports... in tennis. ”及备选词汇可知，此处需要填名词star，前面有a，名词用单数。故填star。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "are",
+        "exp": "句意：那里有很多世界顶尖的选手，她从她们身上学到了很多。根据“There... so many world’s best players there”可知，此处用there be句型，后面是复数名词，be用are。故填are。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "first",
+        "exp": "句意：2024年，她在女子单打中获得了第一名，在网球史上留下了她的印记。根据“she gets the... place in women’s singles”及备选词汇可知，她获得了第一名，the后用序数词，one 的序数词是first。故填first。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "excited",
+        "exp": "句意：看着五星红旗冉冉升起，她感到非常激动。根据“Seeing the five-star red flag rising slowly”可知，她的心情激动。故填excited。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "so",
+        "exp": "句意：她说：“我知道我是为国而战，所以我不能放弃。”根据“I know I play for my country, ... I can’t give up.”可知，此处需要填连词，两句有因果关系。故填so。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "an",
+        "exp": "句意：郑钦文不仅为我们树立了一个榜样，也展现了我们中国的奥运精神。根据“Zheng Qinwen not only sets... example for us ”及备选词汇可知，郑钦文为我们树立了一个榜样，需要填冠词，example是元音开头，前面应用an。故填an。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_9",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "季节与生活"
+    ],
+    "title": "七上选词填空 · 九 韩林最喜爱的四个月份",
+    "passage": "| ride   from   kind   take   help   and   weather   favorite   on   but   interested   fish |\n\nI’m Han Lin. I’m ___1___ Beijing. I have four ___2___ months. They are May, July, September, and December.\n\nIn May, the ___3___ is fine. It’s always sunny. I usually fly a kite and ___4___ my cute bike in a park. In July, my family usually go to the beach together. My father ___5___ me with swimming. My grandfather spends a lot of time ___6___ . In September, fruit grows ___7___ trees. My uncle sometimes takes me to his farm to pick up fruit. There are many ___8___ of animals there, too. He has five horses, fifteen ducks, and fifty sheep. In December, it is very cold, ___9___ I can make a snowman outside! It’s so ___10___ and exciting to play in the snow!",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">ride &nbsp; from &nbsp; kind &nbsp; take &nbsp; help &nbsp; and &nbsp; weather &nbsp; favorite &nbsp; on &nbsp; but &nbsp; interested &nbsp; fish</div><p><span class=\"ind\">I’m Han Lin. I’m <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> Beijing. I have four <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> months. They are May, July, September, and December.</span></p><p><span class=\"ind\">In May, the <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> is fine. It’s always sunny. I usually fly a kite and <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> my cute bike in a park. In July, my family usually go to the beach together. My father <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> me with swimming. My grandfather spends a lot of time <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> . In September, fruit grows <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> trees. My uncle sometimes takes me to his farm to pick up fruit. There are many <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> of animals there, too. He has five horses, fifteen ducks, and fifty sheep. In December, it is very cold, <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> I can make a snowman outside! It’s so <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> and exciting to play in the snow!</span></p>",
+    "intro": "本文作者韩林介绍了自己最喜欢的四个月份——五月、七月、九月和十二月。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "from",
+        "exp": "句意：我来自北京。be from“来自”是固定短语，备选词from“从……”符合语境，故填from。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "favourite",
+        "exp": "句意：我有四个最喜欢的月份。根据后文“They are May, July, September, and December”可知，这些是作者“最喜欢的”月份，备选词favorite“最喜欢的”符合语境，故填favorite。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "weather",
+        "exp": "句意：五月的天气很好。根据“It’s always sunny”可知，此处描述“天气”，备选词weather“天气”符合语境，故填weather。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "ride",
+        "exp": "句意：我通常在公园里放风筝和骑我可爱的自行车。ride a bike“骑自行车”是固定短语，备选词ride“骑”符合语境，and连接并列谓语，此处与fly保持一致，用动词原形，故填ride。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "helps",
+        "exp": "句意：我爸爸帮我学游泳。help sb with sth“帮助某人做某事”是固定短语，备选词help“帮助”符合语境。主语My father为第三人称单数，用helps，故填helps。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "fishing",
+        "exp": "句意：我爷爷花很多时间钓鱼。spend time doing sth“花费时间做某事”，根据备选词，fish“钓鱼”的动名词形式fishing符合语境，故填fishing。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "on",
+        "exp": "句意：九月，树上结满了水果。水果长在树上用介词on，备选词on“在……上面”符合语境，故填on。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "kinds",
+        "exp": "句意：那里也有很多种类的动物。many kinds of“许多种类的”是固定短语，备选词kinds“种类”符合语境，故填kinds。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "but",
+        "exp": "句意：十二月非常冷，但我可以在外面堆雪人！前文“very cold”与后文“make a snowman”是转折关系，备选词but“但是”符合语境，故填but。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "interesting",
+        "exp": "句意：在雪地里玩是如此有趣和令人兴奋！根据“exciting”可知，此处需填并列的形容词，形容在雪地里玩的感受，备选词interested的对应形容词interesting“有趣的”（修饰事物）符合语境，故填interesting。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_10",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "日常生活"
+    ],
+    "title": "七上选词填空 · 十 生日惊喜与感恩派对",
+    "passage": "| out   together   so   balloon   enjoy   sing   they   celebrate   always   surprise   in   and |\n\nToday is my birthday. My parents and friends give me a big ___1___ .\n\nWhen I get up in the morning, I see colorful ___2___ and beautiful flowers all over my room. In the afternoon, my friends come to my house to ___3___ my birthday. We play many funny games ___4___ , like hide-and-seek and musical chairs. Then my parents take out a big chocolate birthday cake with candles on it. Everyone ___5___ the birthday song for me. I make a wish and blow ___6___ the candles. After that, we ___7___ the delicious cake and some candies. My friends give me many special gifts ___8___ we take many photos. ___9___ mean a lot to me. I feel so happy and loved.\n\nI will ___10___ remember this wonderful day. I am thankful for my family and friends.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">out &nbsp; together &nbsp; so &nbsp; balloon &nbsp; enjoy &nbsp; sing &nbsp; they &nbsp; celebrate &nbsp; always &nbsp; surprise &nbsp; in &nbsp; and</div><p><span class=\"ind\">Today is my birthday. My parents and friends give me a big <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">When I get up in the morning, I see colorful <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> and beautiful flowers all over my room. In the afternoon, my friends come to my house to <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> my birthday. We play many funny games <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> , like hide-and-seek and musical chairs. Then my parents take out a big chocolate birthday cake with candles on it. Everyone <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> the birthday song for me. I make a wish and blow <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> the candles. After that, we <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> the delicious cake and some candies. My friends give me many special gifts <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> we take many photos. <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> mean a lot to me. I feel so happy and loved.</span></p><p><span class=\"ind\">I will <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> remember this wonderful day. I am thankful for my family and friends.</span></p>",
+    "intro": "本文是一篇记叙文，主要讲述了“我”在生日当天，和父母、朋友一起庆祝，度过了开心且难忘的一天。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "surprise",
+        "exp": "句意：我的父母和朋友给了我一个大大的惊喜。根据“My parents and friends give me a big…”可知，生日时父母和朋友会准备惊喜，方框中“surprise（惊喜）”符合语境，且“a big”后接名词单数。故填surprise。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "balloons",
+        "exp": "句意：当我早上起床时，我看到房间里到处都是彩色的气球和漂亮的花。根据“I see colourful…and beautiful flowers all over my room.”可知，生日场景中常见装饰是气球，方框中“balloon（气球）”符合，且此处表泛指用复数形式“balloons”。故填balloons。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "celebrate",
+        "exp": "句意：下午，我的朋友们来我家庆祝我的生日。根据“my friends come to my house to…my birthday.”可知，朋友来家里是为了庆祝生日，方框中“celebrate（庆祝）”符合，“to”后接动词原形表目的。故填celebrate。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "together",
+        "exp": "句意：我们一起玩很多有趣的游戏，比如捉迷藏和抢椅子。根据“We play many funny games …, like hide-and-seek and musical chairs.”可知，多人游戏是一起玩，方框中“together（一起）”符合语境。故填together。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "sings",
+        "exp": "句意：每个人都为我唱生日歌。根据“Everyone…the birthday song for me.”可知，生日时会唱生日歌，方框中“sing（唱）”符合，主语“Everyone”是第三人称单数，谓语动词用“sings”。故填sings。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "out",
+        "exp": "句意：我许了个愿，然后吹灭了蜡烛。根据“I make a wish and blow…the candles.”可知，生日习俗中许愿后吹灭蜡烛，“blow out”是固定短语表示“吹灭”，方框中“out”符合。故填out。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "enjoy",
+        "exp": "句意：在那之后，我们享用了美味的蛋糕和一些糖果。根据“we…the delicious cake and some candies.”可知，此处是吃蛋糕和糖果，方框中“enjoy（享用）”符合，文章是一般现在时，主语“we”后接动词原形。故填enjoy。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "and",
+        "exp": "句意：我的朋友们给了我很多特别的礼物，我们还拍了很多照片。根据“My friends give me many special gifts…we take many photos.”可知，前后是并列关系，方框中“and（和）”表并列。故填and。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "They",
+        "exp": "句意：它们对我来说意义重大。根据“… mean a lot to me.”可知，此处指代前文的“gifts and photos”，方框中“they（它们）”符合，句首首字母大写。故填They。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "always",
+        "exp": "句意：我会永远记住这美好的一天。根据“I will…remember this wonderful day.”可知，此处是“永远记住”，方框中“always（永远）”符合语境。故填always。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_11",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 1,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "家庭生活"
+    ],
+    "title": "七上选词填空 · 十一 陈杰的双胞胎家庭生活",
+    "passage": "| kind   wonderful   live   be   see   same   have   another   cute   I   look   like |\n\nHello! I’m Chen Jie. I’m 12 years old. I’m from Shanxi, China. I ___1___ with my father, my mother and my sister. My sister’s name ___2___ Chen Jing. She is 12 years old too. We are twins. We live in a big room. We’re in the ___3___ class. My mother is an English teacher. My father ___4___ a big farm. You can see many ___5___ of animals on the farm.\n\nHe has rabbits, horses, cows, ducks, sheep and chickens. ___6___ at the cows! They are black and white. Look at the ducks! They are in a small lake. Let ___7___ count. One, two, three, four, five…fifteen ducks! Oh, no. Look there! ___8___ duck is behind the big tree. Look at the white rabbits. They are ___9___ and they are eating grass.\n\nThis is a very ___10___ farm. I like it very much.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">kind &nbsp; wonderful &nbsp; live &nbsp; be &nbsp; see &nbsp; same &nbsp; have &nbsp; another &nbsp; cute &nbsp; I &nbsp; look &nbsp; like</div><p><span class=\"ind\">Hello! I’m Chen Jie. I’m 12 years old. I’m from Shanxi, China. I <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> with my father, my mother and my sister. My sister’s name <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> Chen Jing. She is 12 years old too. We are twins. We live in a big room. We’re in the <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> class. My mother is an English teacher. My father <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> a big farm. You can see many <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> of animals on the farm.</span></p><p><span class=\"ind\">He has rabbits, horses, cows, ducks, sheep and chickens. <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> at the cows! They are black and white. Look at the ducks! They are in a small lake. Let <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> count. One, two, three, four, five…fifteen ducks! Oh, no. Look there! <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> duck is behind the big tree. Look at the white rabbits. They are <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> and they are eating grass.</span></p><p><span class=\"ind\">This is a very <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> farm. I like it very much.</span></p>",
+    "intro": "本文是一篇记叙文，通过陈杰的自我介绍，描绘了她与双胞胎妹妹的家庭生活以及父亲农场上种类繁多的可爱动物，表达了对这个美好农场的深切喜爱。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "live",
+        "exp": "句意：我和我的爸爸、妈妈还有妹妹一起生活。根据“I...with my father, my mother and my sister”可知，此处表示“居住、生活”，主语是“I”，时态为一般现在时，用动词原形“live”，故填live。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "is",
+        "exp": "句意：我妹妹的名字是陈静。根据“My sister’s name...Chen Jing”可知，主语“my sister’s name”是单数，时态为一般现在时，be动词用“is”，故填is。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "same",
+        "exp": "句意：我们在同一个班级。根据“We’re in the...class”可知，双胞胎常可能在同一个班，“the same”表示“相同的”，符合语境，故填same。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "has",
+        "exp": "句意：我的爸爸有一个大农场。根据“My father...a big farm”可知，此处表示“拥有”，主语“my father”是第三人称单数，时态为一般现在时，动词“have”用三单形式“has”，故填has。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "kinds",
+        "exp": "句意：在农场里你能看到许多种类的动物。根据“You can see many...of animals on the farm”可知，“many kinds of”是固定搭配，意为“许多种类的”，“kind”需用复数形式“kinds”，故填kinds。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "Look",
+        "exp": "句意：看那些奶牛！ 根据“...at the cows! They are black and white”可知，此处是祈使句，“look at”表示“看”，符合语境，句首首字母大写，故填Look。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "me",
+        "exp": "句意：让我数一数。根据“Let...count. One, two, three, four, five...fifteen ducks”可知，“let”后接人称代词宾格，“I”的宾格是“me”，符合语境，故填me。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "Another",
+        "exp": "句意：另一只鸭子在大树后面。根据“fifteen ducks! Oh, no. Look there!...duck is behind the big tree”可知，前面数了15只鸭子，此处指“另一只”，“another”表示“三者及以上中的另一个”，句首首字母大写，故填Another。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "cute",
+        "exp": "句意：它们很可爱，正在吃草。根据“Look at the white rabbits. They are...and they are eating grass”可知，此处需形容词形容兔子，cute“可爱的”符合语境，故填cute。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "wonderful",
+        "exp": "句意：这是一个非常棒的农场。根据“This is a very...farm. I like it very much”可知，此处需形容词修饰农场，结合“喜欢农场” 的语境，wonderful“棒的、极好的”符合语境，故填wonderful。\n请从方框中选出适当的词，用它的正确形式填空，使文章完整、连贯。注意每空1词，每词仅用一次，有两词为多余项。请将答案写在答题卡对应题目的答题位置上。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_12",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 1,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "人与自然"
+    ],
+    "title": "七上选词填空 · 十二 Jack全家与喜爱的动物",
+    "passage": "| the   well   eat   its   sheep   too   be   panda   they   in   much   a |\n\nI’m Jack. In my family, all of us like animals. I like ___1___ best. Pandas live ___2___ China. They like ___3___ bamboo (竹子). They are black and white. There ___4___ a famous lovely panda named Huahua in Chengdu, China. Every day hundreds of people come and take ___5___ photos. My father doesn’t like lions, but he likes tigers very ___6___ . He thinks tigers are strong and ___7___ king of the beasts (兽中之王). My mother keeps some chickens, ducks and pigs in the yard. The chickens and ducks lay eggs (下蛋). They like to walk around our house. My grandfather keeps five ___8___ . They are white. After breakfast, my grandfather takes ___9___ out and goes back home in the afternoon.\n\nDo you like animals? I think you can keep some animals ___10___ .",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">the &nbsp; well &nbsp; eat &nbsp; its &nbsp; sheep &nbsp; too &nbsp; be &nbsp; panda &nbsp; they &nbsp; in &nbsp; much &nbsp; a</div><p><span class=\"ind\">I’m Jack. In my family, all of us like animals. I like <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> best. Pandas live <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> China. They like <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> bamboo (竹子). They are black and white. There <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> a famous lovely panda named Huahua in Chengdu, China. Every day hundreds of people come and take <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> photos. My father doesn’t like lions, but he likes tigers very <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> . He thinks tigers are strong and <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> king of the beasts (兽中之王). My mother keeps some chickens, ducks and pigs in the yard. The chickens and ducks lay eggs (下蛋). They like to walk around our house. My grandfather keeps five <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> . They are white. After breakfast, my grandfather takes <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> out and goes back home in the afternoon.</span></p><p><span class=\"ind\">Do you like animals? I think you can keep some animals <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> .</span></p>",
+    "intro": "本文是一篇记叙文，主要讲述了Jack一家人各自喜欢的动物以及他们与动物相处的日常。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "pandas",
+        "exp": "句意：我最喜欢熊猫。根据“Pandas…”并结合备选词汇可知，此处指熊猫，pandas符合。故填pandas。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "in",
+        "exp": "句意：熊猫生活在中国。“live in”表示“生活在”，是固定搭配。故填in。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "eating",
+        "exp": "句意：它们喜欢吃竹子。根据“bamboo”并结合备选词汇可知，此处指熊猫的食物，eat符合，like doing sth.“喜欢做某事”。故填eating。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "is",
+        "exp": "句意：中国成都有一只著名的可爱熊猫叫花花。此句为there be句型，句子时态为一般现在时，主语为“a famous lovely panda”，用is。故填is。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "their",
+        "exp": "句意：每天数百人来拍它们的照片。此处指代“熊猫的照片”，用their。故填their。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "much",
+        "exp": "句意：我爸爸不喜欢狮子，但他非常喜欢老虎。very much表示“非常”，是固定搭配。故填much。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "the",
+        "exp": "句意：他认为老虎很强壮，是兽中之王。此处特指“兽中之王”，用定冠词the。故填the。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "sheep",
+        "exp": "句意：我爷爷养了五只羊。根据“My grandfather keeps five”并结合备选词汇可知，此处指饲养的动物，sheep单复数同形，符合语境。故填sheep。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "them",
+        "exp": "句意：早饭后，爷爷带它们出去，下午回家。指代前文的sheep，用them，故填them。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "too",
+        "exp": "句意：我认为你也可以养一些动物。根据“I think you can keep some animals...”及所给词可知，此处表达你也可以养一些动物，“too”表示“也”，用于肯定句句末，故填too。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_13",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "说明文",
+      "七年级上册",
+      "校园设施"
+    ],
+    "title": "七上选词填空 · 十三 Kate喜爱的学校音乐中心",
+    "passage": "| always   with   but   amazing   be   important   mistake   it   front   build   have   flower |\n\nHello, everyone! I’m Kate. My favourite place in the school is the music center. It’s in ___1___ of the gym and next to the school garden. ___2___ big windows make the room bright and warm. There is a black piano in the middle. There ___3___ also some guitars and many colorful drums. We ___4___ put them in the corner of the room.\n\nEvery afternoon after school, students like coming here to ___5___ a good time. They sing songs and play different instruments (乐器). The ___6___ music makes me want to dance! I love sitting on the floor and playing the guitar ___7___ friends. We play the same music over and over again to find ___8___ . Most of the time, it’s boring and difficult. ___9___ the perfect (完美的) music gives me a lot of happiness. And I’m sure I will be a great guitarist one day. The music centre isn’t just a(n) ___10___ —it’s where my guitar dream grows stronger and stronger every day.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">always &nbsp; with &nbsp; but &nbsp; amazing &nbsp; be &nbsp; important &nbsp; mistake &nbsp; it &nbsp; front &nbsp; build &nbsp; have &nbsp; flower</div><p><span class=\"ind\">Hello, everyone! I’m Kate. My favourite place in the school is the music center. It’s in <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> of the gym and next to the school garden. <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> big windows make the room bright and warm. There is a black piano in the middle. There <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> also some guitars and many colorful drums. We <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> put them in the corner of the room.</span></p><p><span class=\"ind\">Every afternoon after school, students like coming here to <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> a good time. They sing songs and play different instruments (乐器). The <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> music makes me want to dance! I love sitting on the floor and playing the guitar <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> friends. We play the same music over and over again to find <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> . Most of the time, it’s boring and difficult. <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> the perfect (完美的) music gives me a lot of happiness. And I’m sure I will be a great guitarist one day. The music centre isn’t just a(n) <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> —it’s where my guitar dream grows stronger and stronger every day.</span></p>",
+    "intro": "本文介绍了凯特最喜欢的学校音乐中心，包括其位置、设施及在这里的活动。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "front",
+        "exp": "句意：它在体育馆的前面，紧挨着学校花园。根据“in…of the gym”和备选词汇可知，此处考查短语in front of，表示“在……前面”，front符合语境。故填front。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "Its",
+        "exp": "句意：它的大窗户让房间明亮又温暖。根据“…big windows make the room bright and warm”和备选词汇可知，此处指代音乐中心的窗户，需用形容词性物主代词its，句首首字母大写，Its符合语境。故填Its。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "are",
+        "exp": "句意：还有一些吉他和许多色彩鲜艳的鼓。根据“There…also some guitars”和备选词汇可知，此处是there be句型，主语some guitars是复数，be动词用are，are符合语境。故填are。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "always",
+        "exp": "句意：我们总是把它们放在房间的角落里。根据“We…put them in the corner of the room”和备选词汇可知，此处需填频度副词，always“总是”符合语境。故填always。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "have",
+        "exp": "句意：每天下午放学后，学生们喜欢来这里玩得开心。根据“to…a good time”和备选词汇可知，此处考查短语have a good time，表示“玩得开心”，have符合语境。故填have。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "amazing",
+        "exp": "句意：这令人惊叹的音乐让我想跳舞！根据“…music makes me want to dance”和备选词汇可知，此处需填形容词修饰music，amazing“令人惊叹的”符合语境。故填amazing。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "with",
+        "exp": "句意：我喜欢坐在地板上和朋友们一起弹吉他。根据“playing the guitar…friends”和备选词汇可知，此处表示“和……一起”，with符合语境。故填with。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "mistakes",
+        "exp": "句意：我们一遍又一遍地演奏同一首曲子来找出错误。根据“to find…”和备选词汇可知，此处需填名词，mistake“错误”需用复数形式mistakes，mistakes符合语境。故填mistakes。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "But",
+        "exp": "句意：但完美的音乐给了我很多快乐。根据“Most of the time, it’s boring and difficult.…the perfect music gives me a lot of happiness”和备选词汇可知，此处表转折，but“但是”符合语境，句首首字母大写。故填But。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "building",
+        "exp": "句意：音乐中心不只是一栋大楼——它是我的吉他梦想每天变得越来越强烈的地方。根据“The music centre isn’t just a(n)…”和备选词汇可知，此处需填表示场所的名词，building“大楼”符合语境。故填building。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_14",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 1,
+    "kp": [
+      "选词填空",
+      "说明文",
+      "七年级上册",
+      "校园导览"
+    ],
+    "title": "七上选词填空 · 十四 校园地图与主要场所导览",
+    "passage": "| in   spend   be   make   the   teacher   our   with   like   fun   beautiful   food |\n\nWelcome to our school. Look! This is a map of our school. It is the place I love. I ___1___ most of my daytime with my friends there.\n\nA big sports field is in ___2___ middle of my school. My friend Tom and I play basketball there very often. Tom ___3___ basketball best. Sometimes we play football, too.\n\nThere is a big dining hall. We get many kinds of ___4___ there. Behind the dining hall is the library building. There ___5___ a lot of books, maps and computers in it. I spend most of my time there reading books. I enjoy my time there.\n\nBehind the sports field, on the right of the library building, is the ___6___ building. Teachers always work in that building. Students come to that building when they ___7___ some mistakes on their homework and teachers can help students with them.\n\nWe have a big sculpture (雕像) ___8___ front of our classroom building. It is the sculpture of ___9___ first headmaster. She is a kind and smart woman.\n\nIn a word, our teachers and classmates are very helpful and friendly. It is a peaceful place to study and I can have ___10___ with my friends, so I am not bored (无聊的) with my school life. I love my school.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">in &nbsp; spend &nbsp; be &nbsp; make &nbsp; the &nbsp; teacher &nbsp; our &nbsp; with &nbsp; like &nbsp; fun &nbsp; beautiful &nbsp; food</div><p><span class=\"ind\">Welcome to our school. Look! This is a map of our school. It is the place I love. I <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> most of my daytime with my friends there.</span></p><p><span class=\"ind\">A big sports field is in <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> middle of my school. My friend Tom and I play basketball there very often. Tom <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> basketball best. Sometimes we play football, too.</span></p><p><span class=\"ind\">There is a big dining hall. We get many kinds of <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> there. Behind the dining hall is the library building. There <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> a lot of books, maps and computers in it. I spend most of my time there reading books. I enjoy my time there.</span></p><p><span class=\"ind\">Behind the sports field, on the right of the library building, is the <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> building. Teachers always work in that building. Students come to that building when they <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> some mistakes on their homework and teachers can help students with them.</span></p><p><span class=\"ind\">We have a big sculpture (雕像) <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> front of our classroom building. It is the sculpture of <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> first headmaster. She is a kind and smart woman.</span></p><p><span class=\"ind\">In a word, our teachers and classmates are very helpful and friendly. It is a peaceful place to study and I can have <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> with my friends, so I am not bored (无聊的) with my school life. I love my school.</span></p>",
+    "intro": "本文是一篇说明文，以校园地图为引，依次介绍了运动场、餐厅、图书馆、教学楼等场所及师生的友好氛围，表达了作者对丰富多彩的校园生活的热爱。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "spend",
+        "exp": "句意：我在那里和朋友们度过一天中的大部分时间。根据“most of my daytime with my friends”可知，此处指“花费时间”，“spend”符合语境，全文时态为一般现在时，主语是“I”，动词用原形，故填spend。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "the",
+        "exp": "句意：学校中央有一个大运动场。根据“middle of my school”可知，此处是固定搭配“in the middle of”，表示 “在……中央”，故填the。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "likes",
+        "exp": "句意：汤姆最喜欢篮球。根据“basketball best”可知，此处指“喜欢”，“like”符合语境，全文时态为一般现在时，主语Tom是第三人称单数，动词用三单形式，故填likes。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "food",
+        "exp": "句意：我们在那里能吃到各种各样的食物。根据“dining hall”可知，此处指“食物”，“food”符合语境，故填food。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "are",
+        "exp": "句意：里面有很多书、地图和电脑。根据“there”和“a lot of books”可知，此处是there be句型，全文时态为一般现在时，主语为复数，be动词用are，故填are。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "teachers’",
+        "exp": "句意：运动场后面，图书馆大楼的右边是教师办公楼。根据“Teachers always work in that building”可知，此处指“教师的”办公楼，“teacher”的复数形式“teachers”符合语境，此处用名词所有格形式，故填teachers’。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "make",
+        "exp": "句意：当学生们作业出错时，会来到这座大楼，老师可以帮助他们解决。根据“some mistakes”可知，此处指“犯错误”，用固定搭配“make mistakes”，全文时态为一般现在时，主语“they”是复数，用动词原形，故填make。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "in",
+        "exp": "句意：我们的教学楼前面有一个大雕像。根据“front of our classroom building”可知，此处是固定搭配“in front of”，表示“在……前面”，故填in。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "our",
+        "exp": "句意：那是我们第一任校长的雕像。根据“first headmaster”可知，此处指“我们的”，用形容词性物主代词our修饰名词，故填our。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "fun",
+        "exp": "句意：这是一个安静的学习场所，我可以和朋友们玩得开心，所以我对学校生活不感到无聊。根据“have”和“with my friends”可知，此处是固定搭配“have fun”，表示“玩得开心”，故填fun。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_15",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "人际交往"
+    ],
+    "title": "七上选词填空 · 十五 美国女孩Gina的新校园适应",
+    "passage": "| start   photo   quick   because   make   take   with   together   sport   she   on   information |\n\nGina is a girl from America. She lives in China now ___1___ her parents work here. She’s new at Sunshine Middle School, but she ___2___ new friends here in a short time. When she meets ___3___ classmates, she says “Hello!” and “Good morning!” to them to ___4___ a conversation. Then she shares (分享) some of her ___5___ with her classmates and asks about theirs, such as their names, ages and countries. She and her friends also talk about their favorite food, ___6___ , songs, movies and so on. In this way, they get to know each other ___7___ . They’re all different, but they have a lot of fun ___8___ and help each other. Look! Here’s a ___9___ of them playing ping-pong after school. Gina is the one ___10___ the pink hat! She’s a lovely girl, isn’t she?",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">start &nbsp; photo &nbsp; quick &nbsp; because &nbsp; make &nbsp; take &nbsp; with &nbsp; together &nbsp; sport &nbsp; she &nbsp; on &nbsp; information</div><p><span class=\"ind\">Gina is a girl from America. She lives in China now <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> her parents work here. She’s new at Sunshine Middle School, but she <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> new friends here in a short time. When she meets <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> classmates, she says “Hello!” and “Good morning!” to them to <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> a conversation. Then she shares (分享) some of her <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> with her classmates and asks about theirs, such as their names, ages and countries. She and her friends also talk about their favorite food, <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> , songs, movies and so on. In this way, they get to know each other <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> . They’re all different, but they have a lot of fun <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> and help each other. Look! Here’s a <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> of them playing ping-pong after school. Gina is the one <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> the pink hat! She’s a lovely girl, isn’t she?</span></p>",
+    "intro": "本文主要介绍了美国女孩Gina来到中国一所新学校后，如何通过积极主动的沟通方式，快速结交新朋友并融入新环境的故事，展现了她开朗外向的性格。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "because",
+        "exp": "句意：她现在住在中国，因为她的父母在这里工作。根据“She lives in China now…her parents work here”可知，前后是因果关系，后半句是前半句的原因。because意为“因为”，引导原因状语从句，符合语境。故填because。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "makes",
+        "exp": "句意：她刚到阳光中学，但是在短时间内就在这里交到了新朋友。根据“she…new friends here”可知，此处需要一个谓语动词。固定搭配make friends意为“交朋友”。主语是she，时态为一般现在时，谓语动词需用第三人称单数形式。故填makes。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "her",
+        "exp": "句意：当她遇见她的新同学时，她会对他们说“你好！”“早上好！”来开启一段对话。根据“When she meets…classmates”可知，此处需要一个形容词性物主代词来修饰名词classmates，表示“她的同学”。she是主格，其对应的物主代词是her。故填her。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "start",
+        "exp": "句意：当她遇见她的新同学时，她会对他们说“你好！”“早上好！”来开启一段对话。根据“to…a conversation”可知，此处需要一个动词原形，与to构成不定式作目的状语。固定搭配start a conversation意为“开始一段对话”，符合语境。故填start。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "information",
+        "exp": "句意：然后她会和同学们分享自己的一些信息，也会询问他们的信息，比如姓名、年龄和国籍。根据“asks about theirs, such as their names, ages and countries”可知，他们交换的是姓名、年龄、国家等个人信息。information意为“信息”，符合语境。故填information。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "sports",
+        "exp": "句意：她和她的朋友们也谈论他们最喜欢的食物、体育运动、歌曲、电影等等。根据“talk about their favorite food,…, songs, movies and so on”可知，此处应填入一个和食物、歌曲和电影能够并列的名词。sport意为“运动”，符合语境，在此处泛指各种体育运动，应用复数形式。故填sports。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "quickly",
+        "exp": "句意：通过这种方式，他们很快就互相了解了。根据“they get to know each other…”可知，此处需要一个副词来修饰动词短语get to know。quick是形容词。对应的副词是quickly，意为“快速地”，符合语境。故填quickly。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "together",
+        "exp": "句意：他们的背景各不相同，但在一起时总能玩得很开心，还会互相帮助。根据“they have a lot of fun…and help each other”可知，他们之间的关系很好。have fun together意为“一起玩得开心”，符合语境。故填together。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "photo",
+        "exp": "句意：看！这是一张他们放学后打乒乓球的照片。根据“Look! Here’s a…of them playing ping-pong after school.”可知，此处展示的是放学后打乒乓球的照片。photo意为“照片”，符合语境。故填。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "with",
+        "exp": "句意：Gina是那个戴着粉色帽子的人！根据“…the pink hat”可知，此处需要一个介词来描述Gina的穿着特征。“戴着粉色帽子”可以用介词with来表示伴随。故填with。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_16",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 1,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "校园生活"
+    ],
+    "title": "七上选词填空 · 十六 丰富充实的初中新生活",
+    "passage": "| classmate   he   happy   from   be   many   say   fly   make   with   three   kind |\n\nMy school life is happy and colorful. I go to school ___1___ Monday to Friday. We have four classes in the morning and ___2___ in the afternoon. My favorite subject is English, because I think it’s interesting and fun. Mr. Smith ___3___ always ready to help us with our study. We all like ___4___ very much.\n\nI always have lunch with my ___5___ at school. The food is tasty. After class, I often play basketball ___6___ on the playground. It’s very fun. Sometimes, I also read in the library. There are ___7___ books. In the evening, I usually do my homework. And I need to go to bed before 11 P.M. Mum ___8___ it is important to get enough sleep.\n\nOn weekends, I often go to the park ___9___ my family. The park is near my home. And I like ___10___ kites with my father. We always have a good time there.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">classmate &nbsp; he &nbsp; happy &nbsp; from &nbsp; be &nbsp; many &nbsp; say &nbsp; fly &nbsp; make &nbsp; with &nbsp; three &nbsp; kind</div><p><span class=\"ind\">My school life is happy and colorful. I go to school <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> Monday to Friday. We have four classes in the morning and <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> in the afternoon. My favorite subject is English, because I think it’s interesting and fun. Mr. Smith <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> always ready to help us with our study. We all like <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> very much.</span></p><p><span class=\"ind\">I always have lunch with my <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> at school. The food is tasty. After class, I often play basketball <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> on the playground. It’s very fun. Sometimes, I also read in the library. There are <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> books. In the evening, I usually do my homework. And I need to go to bed before 11 P.M. Mum <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> it is important to get enough sleep.</span></p><p><span class=\"ind\">On weekends, I often go to the park <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> my family. The park is near my home. And I like <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> kites with my father. We always have a good time there.</span></p>",
+    "intro": "本文主要介绍了作者的学校生活。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "from",
+        "exp": "句意：我从周一到周五上学。根据“Monday to Friday”及备选词可知，此处是固定搭配from…to…表示“从……到……”，故填from。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "three",
+        "exp": "句意：我们上午有四节课，下午有三节课。根据“four classes in the morning”及备选词可知，此处应填数词，three“三”，表示下午有三节课。故填three。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "is",
+        "exp": "句意：史密斯先生总是乐于帮助我们的学习。根据“Mr. Smith…always ready to help”及备选词可知，此处缺be动词，主语是“Mr. Smith”，时态为一般现在时，因此填is。故填is。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "him",
+        "exp": "句意：我们都非常喜欢他。此处“like”缺宾语，根据“Mr. Smith”及备选词可知，此处填he的宾格him。故填him。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "classmates",
+        "exp": "句意：我总是和同学在学校吃午饭。根据“with my…at school”及备选词可知，此处表示“同学”，classmate“同学”，此处填复数形式classmates表示泛指。故填classmates。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "happily",
+        "exp": "句意：课后我经常在操场上快乐地打篮球。根据“play basketball”及备选词可知，此处需要副词修饰动词“play”，表示“快乐地打篮球”。happy“快乐的”，副词形式是happily。故填happily。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "many",
+        "exp": "句意：图书馆里有许多书。根据“I also read in the library.…books”及备选词可知，图书馆里有“许多”书，用many修饰可数名词复数，表示“许多”。故填many。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "says",
+        "exp": "句意：妈妈说充足的睡眠很重要。根据“Mum…it is important to”及备选词可知，此处表示“说”，say“说”，主语是Mum，时态为一般现在时，因此用says。故填says。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "with",
+        "exp": "句意：周末我经常和家人去公园。根据“go to the park…my family”及备选词可知，此处表示“和”，用with。故填with。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "flying",
+        "exp": "句意：我喜欢和爸爸一起放风筝。此处是固定搭配fly kites“放风筝”，like doing sth“喜欢做某事”，因此用flying。故填flying。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_17",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 1,
+    "kp": [
+      "选词填空",
+      "说明文",
+      "七年级上册",
+      "体育运动"
+    ],
+    "title": "七上选词填空 · 十七 美国少年的多元运动喜好",
+    "passage": "| same   and   with   play   he   classmate   on   but   spend   a   the   other |\n\nMany people in the USA love sports. Some people like playing sports, but some people always want to watch them ___1___ TV.\n\nAt school, students play sports with their ___2___ . They always have a good time.\n\nMike likes playing volleyball, ___3___ he doesn’t like swimming. In ___4___ free (空闲的) time, he usually ___5___ volleyball with Andy. And Andy is Mike’s classmate, too. So they’re in the ___6___ class.\n\nMillie and Sandy like playing baseball. They ___7___ a lot of time on it. They also help each ___8___ at school. Millie’s best friend, Lily, is a good ping-pong player. She thinks ping-pong is ___9___ easy game. She is happy to play ___10___ her friends. She will be a ping-pong player like many great players in China.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">same &nbsp; and &nbsp; with &nbsp; play &nbsp; he &nbsp; classmate &nbsp; on &nbsp; but &nbsp; spend &nbsp; a &nbsp; the &nbsp; other</div><p><span class=\"ind\">Many people in the USA love sports. Some people like playing sports, but some people always want to watch them <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> TV.</span></p><p><span class=\"ind\">At school, students play sports with their <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> . They always have a good time.</span></p><p><span class=\"ind\">Mike likes playing volleyball, <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> he doesn’t like swimming. In <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> free (空闲的) time, he usually <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> volleyball with Andy. And Andy is Mike’s classmate, too. So they’re in the <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> class.</span></p><p><span class=\"ind\">Millie and Sandy like playing baseball. They <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> a lot of time on it. They also help each <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> at school. Millie’s best friend, Lily, is a good ping-pong player. She thinks ping-pong is <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> easy game. She is happy to play <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> her friends. She will be a ping-pong player like many great players in China.</span></p>",
+    "intro": "本文主要讲述了在美国很多人热爱运动，不同人有不同的运动喜好，有人喜欢参与运动，有人喜欢在电视上观看运动。文中以Mike、Millie、Sandy和Lily等学生为例，介绍了他们各自喜爱的运动项目，以及他们在运动方面的日常活动、互动和想法等。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "on",
+        "exp": "句意：一些人喜欢做运动，但是一些人总是想在电视上看它们。根据“watch them...TV”可知，此处是指通过电视观看，用介词on。故填on。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "classmates",
+        "exp": "句意：在学校，学生们和他们的同学一起做运动。根据“students play sports with their...”可知，此处是指和同学一起做运动，用名词classmate“学生”的复数形式classmates。故填classmates。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "but",
+        "exp": "句意：Mike喜欢打排球，但是他不喜欢游泳。根据“Mike likes playing volleyball...he doesn’t like swimming.”可知，前后句是转折关系，用but连接。故填but。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "his",
+        "exp": "句意：在他的空闲时间，他通常和Andy打排球。根据“...free (空闲的) time”可知，此处是指在他的空闲时间，用形容词性物主代词his修饰名词time。故填his。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "plays",
+        "exp": "句意：在他的空闲时间，他通常和Andy打排球。根据“volleyball with Andy”可知，此处是指打排球，用动词play，句子是一般现在时，主语是第三人称单数，动词用三单形式。故填plays。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "same",
+        "exp": "句意：所以他们在同一个班级。根据“So they’re in the...class.”可知，此处是指同一个班级，用形容词same修饰名词class，前面加定冠词the。故填same。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "spend",
+        "exp": "句意：他们花费很多时间在它上面。根据“a lot of time on it”可知，此处是指花费时间，用动词spend，句子是一般现在时，主语是复数，动词用原形。故填spend。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "other",
+        "exp": "句意：他们在学校也互相帮助。根据“help each...”可知，此处是指互相帮助，用固定短语each other“相互”。故填other。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "an",
+        "exp": "句意：她认为乒乓球是一项简单的运动。根据“easy game”可知，此处是指一项简单的运动，easy是以元音音素开头的，用不定冠词an修饰。故填an。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "with",
+        "exp": "句意：她很高兴和她的朋友们一起玩。根据“play...her friends”可知，此处是指和她的朋友们一起玩，用介词with。故填with。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_18",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "班级生活"
+    ],
+    "title": "七上选词填空 · 十八 李响竞选班长的自我介绍演讲",
+    "passage": "| at   be   I   country   because   make   hard   favourite   too   read   student   in |\n\nHello, everyone! I’m so happy to stand here to say something about me ___1___ I want to be the monitor(班长) of our class. ___2___ name is Li Xiang, and you can call me Mike. It’s my English name.\n\nI like to ___3___ friends with others. I think I can get on well with the other forty-five ___4___ in our class. I often help other students. I can help teachers too. I study very ___5___ . In my free(空闲的) time, I like ___6___ books, and I think science books are interesting. I read them every day.\n\nI’m good ___7___ doing sports. I can run fast and swim very well. And my ___8___ sport is basketball. Also, I ___9___ one of the players of the school basketball team. I want to play basketball with you after school ___10___ .\n\nI think I can be a good monitor. I will help everyone in our class.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">at &nbsp; be &nbsp; I &nbsp; country &nbsp; because &nbsp; make &nbsp; hard &nbsp; favourite &nbsp; too &nbsp; read &nbsp; student &nbsp; in</div><p><span class=\"ind\">Hello, everyone! I’m so happy to stand here to say something about me <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> I want to be the monitor(班长) of our class. <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> name is Li Xiang, and you can call me Mike. It’s my English name.</span></p><p><span class=\"ind\">I like to <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> friends with others. I think I can get on well with the other forty-five <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> in our class. I often help other students. I can help teachers too. I study very <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> . In my free(空闲的) time, I like <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> books, and I think science books are interesting. I read them every day.</span></p><p><span class=\"ind\">I’m good <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> doing sports. I can run fast and swim very well. And my <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> sport is basketball. Also, I <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> one of the players of the school basketball team. I want to play basketball with you after school <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">I think I can be a good monitor. I will help everyone in our class.</span></p>",
+    "intro": "本文是一篇演讲稿，主要讲了李响通过自我介绍竞选班长，阐述了自己友善、好学、热爱运动等优点，希望能获得同学们的支持。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "because",
+        "exp": "句意：我很高兴站在这里说一些关于我的事情，因为我想当我们班的班长。结合“I want to be the monitor of our class”和备选词汇可知，此处需填入表示原因的连词，需用because连接理由。故填because。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "My",
+        "exp": "句意：我的名字是李响，你们可以叫我Mike。结合“name is Li Xiang”和备选词汇可知，此处需用形容词性物主代词My修饰name表示“我的名字”。故填My。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "make",
+        "exp": "句意：我喜欢和别人交朋友。结合“like to...friends with others”和备选词汇可知 ，此处表达交朋友，make friends交朋友，like to后面需用动词原形。故填make。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "students",
+        "exp": "句意：我认为我能和班里其他45名同学相处融洽。结合“the other forty-five...in our class”和备选词汇可知，此处需用可数名词复数students表示“学生”。故填students。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "hard",
+        "exp": "句意：我学习非常努力。结合“I study very...”和备选词汇可知，此处表达学习努力，需用副词hard“努力”修饰动词study。故填hard。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "reading",
+        "exp": "句意：在空闲时间，我喜欢读书。结合“like...books”和备选词汇可知，此处表达喜欢读书，read读，动词like后接动名词。故填reading。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "at",
+        "exp": "句意：我擅长做运动。结合“I’m good...doing sports.”和备选词汇可知，此处表达擅长，be good at擅长，此处需用介词at。故填at。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "favourite",
+        "exp": "句意：我最喜欢的运动是篮球。结合“sport is basketball”和备选词汇可知，此处表达喜好，需用形容词favourite表示“最喜欢的”。故填favourite。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "am",
+        "exp": "句意：我也是校篮球队的队员之一。结合“I...one of the players”和备选词汇可知，此处介绍自己是队员，需用be动词，主语为I，需用am。故填am。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "too",
+        "exp": "句意：放学后我也想和你们一起打篮球。结合“I want to play basketball with you after school...”和备选词汇可知，需用副词“too”表示“也”，置于句末。故填too。\n短文填空，选择一个单词的适当形式填空，每空一词（有两个是多余的）。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_19",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "说明文",
+      "七年级上册",
+      "传统节气"
+    ],
+    "title": "七上选词填空 · 十九 二十四节气之秋分",
+    "passage": "| cool   down   autumn   start   on   try   to   food   same   for   ready   the |\n\nThe Autumn Equinox is one of the 24 solar terms (节气) in China. It usually falls ___1___ September 22nd or 23rd. On this day, the sun shines directly on the equator (赤道). So, day and night are almost the ___2___ length—about 12 hours each.\n\nAfter the Autumn Equinox, the weather gets ___3___ and cooler. The temperature drops little by little. Leaves on trees start to turn yellow and fall ___4___ . Farmers are very busy at this time. They ___5___ harvesting crops like rice and corn. Many fruits, such as apples and pears, are also ___6___ to pick.\n\nThere are some interesting customs for the Autumn Equinox. In some places, people ___7___ to keep eggs upright. It is said that eggs can stand easily on this day. Families often get together ___8___ have a big meal. They may eat mooncakes or other delicious ___9___ .\n\nThe Autumn Equinox is a special time. It shows that autumn is in the middle. People enjoy the cool weather and beauty of ___10___ .",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">cool &nbsp; down &nbsp; autumn &nbsp; start &nbsp; on &nbsp; try &nbsp; to &nbsp; food &nbsp; same &nbsp; for &nbsp; ready &nbsp; the</div><p><span class=\"ind\">The Autumn Equinox is one of the 24 solar terms (节气) in China. It usually falls <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> September 22nd or 23rd. On this day, the sun shines directly on the equator (赤道). So, day and night are almost the <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> length—about 12 hours each.</span></p><p><span class=\"ind\">After the Autumn Equinox, the weather gets <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> and cooler. The temperature drops little by little. Leaves on trees start to turn yellow and fall <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> . Farmers are very busy at this time. They <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> harvesting crops like rice and corn. Many fruits, such as apples and pears, are also <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> to pick.</span></p><p><span class=\"ind\">There are some interesting customs for the Autumn Equinox. In some places, people <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> to keep eggs upright. It is said that eggs can stand easily on this day. Families often get together <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> have a big meal. They may eat mooncakes or other delicious <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">The Autumn Equinox is a special time. It shows that autumn is in the middle. People enjoy the cool weather and beauty of <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> .</span></p>",
+    "intro": "本文介绍了中国二十四节气之一的秋分。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "on",
+        "exp": "句意：它通常出现在9月22日或23日。根据“The Autumn Equinox…falls…September 22nd or 23rd.”可知，具体日期前用介词on。故填on。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "same",
+        "exp": "句意：因此，白天和黑夜的长度几乎相同——大约各12小时。根据“day and night are almost the…length”结合备选词可知，此处指“相同的长度”，same“相同的”，作定语。故填same。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "cooler",
+        "exp": "句意：秋分过后，天气变得越来越凉爽。根据“the weather gets…and cooler”结合备选词可知，天气变得越来越凉爽。cool“凉爽的”，此处用比较级与and后的cooler并列。故填cooler。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "down",
+        "exp": "句意：树上的叶子开始变黄并落下。根据“Leaves on trees start to turn yellow and fall”结合备选词可知，树叶落下了。fall down“落下”，是固定短语。故填down。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "start",
+        "exp": "句意：他们开始收割水稻和玉米等作物。根据“harvesting crops like rice and corn”结合备选词可知，农民开始收割水稻和玉米等作物。start“开始”，动词，句子是一般现在时，主语是复数，动词用原形。故填start。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "ready",
+        "exp": "句意：许多水果，如苹果和梨，也到了可以采摘的时候。根据“Many fruits, such as apples and pears, are also...to pick.”结合备选词可知，许多水果可以准备采摘了。ready“准备好的”符合语境。故填ready。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "try",
+        "exp": "句意：在一些地方，人们尝试让鸡蛋直立起来。根据“people…to keep eggs upright”结合备选词可知，人们尝试让鸡蛋直立起来。try to do“尝试做某事”，主语是people，动词用原形。故填try。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "to",
+        "exp": "句意：家人经常聚在一起吃一顿大餐。分析题干可知，此处用to表目的，构成“get together to do”结构。故填to。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "food",
+        "exp": "句意：他们可能会吃月饼或其他美味的食物。根据“eat mooncakes or other delicious…”结合备选词可知，是指美味的食物。food“食物”符合语境。故填food。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "autumn",
+        "exp": "句意：人们享受着凉爽的天气和秋天的美丽。根据“beauty of…”结合备选词可知，指的是秋天的美丽。autumn“秋天”与上文描述的秋分时节呼应。故填autumn。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_20",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "校园生活"
+    ],
+    "title": "七上选词填空 · 二十 初中校园的一天与多彩课堂",
+    "passage": "| with   because   teach   watch   look   classplay   great   what   favorite   it   but |\n\nHello, everyone! I’m very happy to share my school life with you. This week I have five English ___1___ , I learn some new words. And I also ___2___ an interesting film in the class. ___3___ name is Home Alone. I like it very much.\n\nI like having P.E. ___4___ Mr. White is my P.E. teacher. He is my ___5___ teacher. He is a very strict man, but we all like to play ___6___ him. In his class, he ___7___ us to play basketball, soccer and ping pong. This week our class has a basketball game with Class 5 and we win (赢). I like ___8___ basketball best and I want to be a ___9___ basketball player. ___10___ about you? Tell me something interesting about your school.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">with &nbsp; because &nbsp; teach &nbsp; watch &nbsp; look &nbsp; classplay &nbsp; great &nbsp; what &nbsp; favorite &nbsp; it &nbsp; but</div><p><span class=\"ind\">Hello, everyone! I’m very happy to share my school life with you. This week I have five English <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> , I learn some new words. And I also <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> an interesting film in the class. <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> name is Home Alone. I like it very much.</span></p><p><span class=\"ind\">I like having P.E. <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> Mr. White is my P.E. teacher. He is my <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> teacher. He is a very strict man, but we all like to play <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> him. In his class, he <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> us to play basketball, soccer and ping pong. This week our class has a basketball game with Class 5 and we win (赢). I like <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> basketball best and I want to be a <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> basketball player. <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> about you? Tell me something interesting about your school.</span></p>",
+    "intro": "本文主要介绍了作者在学校的生活。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "classes",
+        "exp": "句意：这周我上了五节英语课，我学习了一些新单词。根据“I have five English...”及备选词可知，是指五节英语课，class“课”，five修饰可数名词复数。故填classes。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "watch",
+        "exp": "句意：我还在课堂上看了一部有趣的电影。根据“And I also...an interesting film”及备选词可知，是指看电影，watch“观看”；时态是一般现在时，主语是I，谓语动词用原形。故填watch。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "Its",
+        "exp": "句意：它的名字是《小鬼当家》。根据上文“an interesting film”可知，此处指代这部电影，修饰名词name，应用备选词it“它”的形容词性物主代词its“它的”，句首首字母要大写。故填Its。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "because",
+        "exp": "句意：我喜欢上体育课，因为怀特先生是我的体育老师。分析句子结构可知，前后构成因果关系，前果后因，备选词because“因为”符合语境。故填because。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "favorite",
+        "exp": "句意：他是我最喜欢的老师。根据“He is my...teacher.”及备选词可知，是指怀特老师是作者最喜欢的老师，favorite“最喜欢的”符合语境，形容词修饰名词teacher。故填favorite。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "with",
+        "exp": "句意：他是个很严厉的人，但我们都喜欢和他一起玩。根据“we all like to play...him”及备选词可知，是指喜欢和怀特老师一起玩，play with sb.“和某人一起玩”，固定短语。故填with。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "teaches",
+        "exp": "句意：在他的课上，他教我们打篮球、踢足球和打乒乓球。根据“he...us to play basketball, soccer and ping pong”及备选词可知，是指怀特老师教学生们做这些运动，teach“教”；时态是一般现在时，主语是he，谓语动词用第三人称单数形式。故填teaches。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "playing",
+        "exp": "句意：我最喜欢打篮球，我想成为一名出色的篮球运动员。根据“I like...basketball best”及备选词可知，是指最喜欢打篮球，play basketball“打篮球”，固定短语；like doing sth.“喜欢做某事”。故填playing。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "great",
+        "exp": "句意：我最喜欢打篮球，我想成为一名出色的篮球运动员。根据“I want to be a...basketball player”及备选词可知，是指成为出色的运动员，形容词great“伟大的，优秀的”符合语境。故填great。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "What",
+        "exp": "句意：你呢？根据“Tell me something interesting about your school.”可知，是询问读者的校园生活，应用what about提问，表示“……怎么样”，句首首字母大写。故填What。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_21",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "校园日常"
+    ],
+    "title": "七上选词填空 · 二十一 欢乐温馨的学校午餐时光",
+    "passage": "| student   and   because   for   they   with   time   have   be   live   busy   so |\n\nIt’s half past eleven now. It’s time to ___1___ lunch. I go to the school dining hall ___2___ my classmates. We have hamburgers ___3___ a lot of vegetables today. Do you have lunch at school like us? In America, many ___4___ have lunch at school. Some of them are from poor families. Their parents can’t give healthy food to ___5___ . Some students ___6___ far from school. They don’t have ___7___ to go home for lunch. I have lunch at school ___8___ my parents are doctors. They are very ___9___ with work all day. We all like to have lunch at school. The food ___10___ nice. Where do you have lunch?",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">student &nbsp; and &nbsp; because &nbsp; for &nbsp; they &nbsp; with &nbsp; time &nbsp; have &nbsp; be &nbsp; live &nbsp; busy &nbsp; so</div><p><span class=\"ind\">It’s half past eleven now. It’s time to <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> lunch. I go to the school dining hall <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> my classmates. We have hamburgers <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> a lot of vegetables today. Do you have lunch at school like us? In America, many <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> have lunch at school. Some of them are from poor families. Their parents can’t give healthy food to <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> . Some students <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> far from school. They don’t have <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> to go home for lunch. I have lunch at school <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> my parents are doctors. They are very <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> with work all day. We all like to have lunch at school. The food <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> nice. Where do you have lunch?</span></p>",
+    "intro": "本文作者介绍自己在学校和同学一起吃午饭的情况。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "have",
+        "exp": "句意：该吃午饭了。根据“It’s half past eleven now”可知，该吃午饭了。have lunch“吃午饭”，to后用原形，故填have。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "with",
+        "exp": "句意：我和同学们一起去学校食堂。此处是指和同学一起，需要用介词with“和”。故填with。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "and",
+        "exp": "句意：今天我们吃汉堡包和很多蔬菜。前后是并列成分，需要用and连接，故填and。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "students",
+        "exp": "句意：在美国，许多学生在学校吃午饭。根据“school”可知，是指学生们，应用复数名词students。故填students。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "them",
+        "exp": "句意：他们的父母不能给他们健康的食物。根据“Some of them are from poor families”可知，此处指代来自贫穷家庭的学生，应用them作宾语，故填them。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "live",
+        "exp": "句意：有些学生住得离学校很远。根据“far from school.”可知，住得离学校远。live“居住”，主语是复数，动词用原形，故填live。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "time",
+        "exp": "句意：他们没有时间回家吃午饭。根据语境可知，住得远，所以没有时间回家吃午饭，time符合语境，故填time。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "because",
+        "exp": "句意：我在学校吃午饭，因为我的父母是医生。前后句是因果关系，后句是原因，需要用because引导原因状语从句，故填because。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "busy",
+        "exp": "句意：他们整天忙于工作。根据“with work all day”可知，医生整天忙于工作，busy符合语境，故填busy。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "is",
+        "exp": "句意：食物很好吃。空处应填be动词，主语是不可数名词，be动词用is，故填is。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_22",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 3,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "助人为乐"
+    ],
+    "title": "七上选词填空 · 二十二 Frank热心助人寻猫记",
+    "passage": "| at   lose   milk   small   good   the   it   thanks   food   but   look   because |\n\nFrank is my good friend. He is kind and loves animals. One day, he sees a ___1___ cat sitting at his door. The cat ___2___ sad (伤心的) and hungry. Frank thinks it must be lost. He decides (决定) to help the cat find ___3___ home.\n\nHe calls the Lost and Found office. ___4___ they say no one loses a cat. Then he asks his friends next door. And they say they don’t ___5___ their cats, either. He wants to ask his parents for help so he brings it home. However, they’re not ___6___ home. He has to put it in a box and gives it some ___7___ to eat. That night, Frank can’t sleep ___8___ because he keeps thinking about the cat.\n\nThe next morning, he has an idea! He puts up Lost and Found notices (启事) in his neighborhood. In ___9___ afternoon, a girl named Anna calls Frank and tells him that it is her cat. She also says ___10___ to him. Frank is very glad that the cat can go back home.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">at &nbsp; lose &nbsp; milk &nbsp; small &nbsp; good &nbsp; the &nbsp; it &nbsp; thanks &nbsp; food &nbsp; but &nbsp; look &nbsp; because</div><p><span class=\"ind\">Frank is my good friend. He is kind and loves animals. One day, he sees a <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> cat sitting at his door. The cat <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> sad (伤心的) and hungry. Frank thinks it must be lost. He decides (决定) to help the cat find <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> home.</span></p><p><span class=\"ind\">He calls the Lost and Found office. <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> they say no one loses a cat. Then he asks his friends next door. And they say they don’t <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> their cats, either. He wants to ask his parents for help so he brings it home. However, they’re not <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> home. He has to put it in a box and gives it some <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> to eat. That night, Frank can’t sleep <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> because he keeps thinking about the cat.</span></p><p><span class=\"ind\">The next morning, he has an idea! He puts up Lost and Found notices (启事) in his neighborhood. In <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> afternoon, a girl named Anna calls Frank and tells him that it is her cat. She also says <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> to him. Frank is very glad that the cat can go back home.</span></p>",
+    "intro": "本文主要讲述了弗兰克帮助别人找猫的故事。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "small",
+        "exp": "句意：一天，他看到一只小猫坐在他的门口。根据“cat sitting at his door.”应该是“小猫”，small意为“小的”，形容词作定语。故填small。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "looks",
+        "exp": "句意：这只猫看起来又饿又伤心。根据“sad (伤心的) and hungry.”可知，此处应该是说猫看起来很伤心。结合所给单词，应该是look，意为“看起来”，主语是The cat，所以谓语动词应该用第三人称单数形式。故填looks。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "its",
+        "exp": "句意：他决定帮助猫找到家。根据“Frank thinks it must be lost.”可知，此处应该是说他决定帮助猫找到它的家。结合所给单词，应该是it，意为“它”，因为空格后面有名词home，所以空格处应该用形容词性物主代词。故填its。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "But",
+        "exp": "句意：但他们说没有人会失去一只猫。根据“He calls the Lost and Found office.”和后文“they say no one loses a cat.”可知，前后句是转折关系。结合所给单词，应该是but，意为“但是”。因为用在句首，所以首字母要大写。故填But。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "lose",
+        "exp": "句意：他们说他们也不会丢失他们的猫。根据“Then he asks his friends next door.”可知，此处应该是他们说他们也没有丢失他们的猫。结合所给单词，应该是lose，意为“丢失”。因为空格前面有助动词“don’t”，所以空格处应该用动词原形。故填lose。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "at",
+        "exp": "句意：然而，他们不在家。根据“However, they’re not…home.”可知，此处应该是说他们不在家。结合所给单词，应该是at home，意为“在家”。故填at。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "food",
+        "exp": "句意：他必须把它放在一个盒子里，给它一些食物吃。根据“gives it some…to eat.”可知，此处应该是给它一些食物吃。结合所给单词，应该是food“食物”。故填food。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "well",
+        "exp": "句意：那天晚上，弗兰克睡不好，因为他一直在想那只猫。根据“because he keeps thinking about the cat.”可知，此处应该是说弗兰克睡不好。结合所给单词，应该是good，意为“好”，因为空格前面有动词sleep，所以空格处应该用副词修饰动词。故填well。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "the",
+        "exp": "句意：下午，一个叫安娜的女孩打电话给弗兰克，告诉是她的猫。根据“In…afternoon,”可知，此处应该是说在下午。结合所给单词，应该是“在下午”，in the afternoon，是固定搭配。故填the。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "thanks",
+        "exp": "句意：她也对他表示感谢。根据前文“a girl named Anna calls Frank and tells him that it is her cat.”可知，此处应该是说她也向他道谢。结合所给单词，应该是thanks，意为“谢谢”。say thanks to sb.，是固定搭配。故填thanks。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_23",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 1,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "同学交往"
+    ],
+    "title": "七上选词填空 · 二十三 初一新同学的自我介绍",
+    "passage": "| be   and   she   three   happy   too   a(n)   in   spell   it   nice   call |\n\nHi! My name is Nancy Brown. Nancy ___1___ my first name: I can ___2___ it, N-A-N-C-Y. I am ___3___ English girl. I am a student ___4___ China now. I am 13 years old. I am in Class Three in NO. 1 Middle School. Students in my class are ___5___ . I like to play with them.\n\nPeter is in Class ___6___ . He is my classmate. He is 13, ___7___ . He likes black best. He has a black telephone. And his telephone number is 325-2145. Cathy is in the same class with us. She is a good girl. ___8___ favorite color is white. She has a white jacket, a white pen ___9___ a white cup. She has a dog. What color is it? It is white and brown. I also have a dog, and ___10___ is black.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">be &nbsp; and &nbsp; she &nbsp; three &nbsp; happy &nbsp; too &nbsp; a(n) &nbsp; in &nbsp; spell &nbsp; it &nbsp; nice &nbsp; call</div><p><span class=\"ind\">Hi! My name is Nancy Brown. Nancy <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> my first name: I can <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> it, N-A-N-C-Y. I am <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> English girl. I am a student <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> China now. I am 13 years old. I am in Class Three in NO. 1 Middle School. Students in my class are <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> . I like to play with them.</span></p><p><span class=\"ind\">Peter is in Class <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> . He is my classmate. He is 13, <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> . He likes black best. He has a black telephone. And his telephone number is 325-2145. Cathy is in the same class with us. She is a good girl. <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> favorite color is white. She has a white jacket, a white pen <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> a white cup. She has a dog. What color is it? It is white and brown. I also have a dog, and <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> is black.</span></p>",
+    "intro": "本文主要介绍了作者的个人信息以及同学的情况。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "is",
+        "exp": "句意：Nancy是我的名。此句是主系表结构，Nancy是第三人称单数形式，be动词用is，故填is。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "spell",
+        "exp": "句意：我可以拼写它。根据“N-A-N-C-Y.”可知，可以拼写这个名字，spell“拼写”，can后接动词原形，故填spell。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "an",
+        "exp": "句意：我是一个英国女孩。此处表示泛指，且English是以元音音素开头的，故填an。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "in",
+        "exp": "句意：我现在是中国的一名学生。China是大地点，要填地点介词in，故填in。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "nice",
+        "exp": "句意：我班的学生很好。are后接形容词作表语，根据“I like to play with them.”可知，同学们很好，所以喜欢和他们玩，nice“友好的”，故填nice。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "Three",
+        "exp": "句意：Peter在三班。根据“I am in Class Three”及“He is my classmate. ”可知，作者在三班，Peter是作者的同学，所以Peter也在三班，Class Three“三班”，故填Three。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "too",
+        "exp": "句意：他也是13岁。此空位于句末，且空格前有逗号隔开，备选词too“也”符合，故填too。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "Her",
+        "exp": "句意：她最欢的颜色是白色。此空修饰favorite color，应用备选词she的形容词性物主代词her“她的”，故填Her。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "and",
+        "exp": "句意：她有一件白色的夹克，一支白色的钢笔和一个白色的杯子。空格前后是并列关系，用and连接，故填and。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "it",
+        "exp": "句意：我也有一只狗，它是黑色的。此空指代前文提到的dog，此空在句中作主语，应填it，故填it。\n用方框中所给单词的适当形式填空，使短文完整、正确。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze7a_24",
+    "stage": "junior",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "选词填空",
+      "记叙文",
+      "七年级上册",
+      "友谊故事"
+    ],
+    "title": "七上选词填空 · 二十四 我的两位好朋友Nancy与Dora",
+    "passage": "| have   black   first   they   name   two   see   English   in   spell   meet   number |\n\nHello! My ___1___ is Zhang Mingming and you can call me Amy. I have ___2___ good friends, Nancy Miller and Dora White. Nancy is ___3___ but she is in China now. She is in Nanjing. Dora is English, too. She is in China and she is in Guangzhou. I am in Shanghai. We often chat online ___4___ English. My WeChat（微信） ___5___ is 1323268. Nancy’s is 1568978 and Dora’s is 1365678. I can’t ___6___ Nancy and Dora. But I can see ___7___ on my mobile phone. Look! This is my ___8___ mobile phone. It is very cool. I also ___9___ a black cup, a black ruler and a black jacket. My English was not good. Nancy and Dora often help me ___10___ words and teach me to speak English. I like them very much.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">have &nbsp; black &nbsp; first &nbsp; they &nbsp; name &nbsp; two &nbsp; see &nbsp; English &nbsp; in &nbsp; spell &nbsp; meet &nbsp; number</div><p><span class=\"ind\">Hello! My <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> is Zhang Mingming and you can call me Amy. I have <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> good friends, Nancy Miller and Dora White. Nancy is <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> but she is in China now. She is in Nanjing. Dora is English, too. She is in China and she is in Guangzhou. I am in Shanghai. We often chat online <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> English. My WeChat（微信） <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> is 1323268. Nancy’s is 1568978 and Dora’s is 1365678. I can’t <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> Nancy and Dora. But I can see <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> on my mobile phone. Look! This is my <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> mobile phone. It is very cool. I also <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> a black cup, a black ruler and a black jacket. My English was not good. Nancy and Dora often help me <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> words and teach me to speak English. I like them very much.</span></p>",
+    "intro": "本文是一篇记叙文。主要介绍了自己的两位好朋友南希和朵拉。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "name",
+        "exp": "句意：我的名字是张明明，你可以叫我艾米。根据“Zhang Mingming”可知，张明明是名字，应用名词name“名字”，故填name。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "two",
+        "exp": "句意：我有两个好朋友，南希·米勒和朵拉·怀特。根据“Nancy Miller and Dora White.”可知，张明明有两个好朋友，此处应填数词two表示“两个”。故填two。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "English",
+        "exp": "句意：南希是英国人，但她现在在中国。根据下文“Dora is English, too.”可知，南希是英国人，应用English“英国人”，故填English。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "in",
+        "exp": "句意：我们经常在网上用英语聊天。根据“We often chat online”和“English”可知，此处指用英文交流。in English“用英语”是固定短语，故填in。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "number",
+        "exp": "句意：我的微信号码是1323268。根据“1323268”可知，此处指微信号码，number“号码”符合句意。故填number。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "see",
+        "exp": "句意：我不能与南希和朵拉见面。根据“But I can see”和“on my mobile phone”以及备选词汇可知，作者看不见南希和朵拉，应用动词see“看见”，情态动词can后用动词原形，故填see。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "them",
+        "exp": "句意：但是我可以在手机上看到她们。根据“But I can see”可知，空格处应填一代词代指南希和朵拉，在句中作宾语，结合备选词汇可知应用they的宾格them，故填them。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "black",
+        "exp": "句意：这是我的黑色手机。根据“I also have a black cup, a black ruler and a black jacket.”和备选词汇可知，是指黑色的手机，应用black“黑色的”，故填black。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "have",
+        "exp": "句意：我还有一个黑色杯子、一把黑色尺子和一件黑色夹克。根据“a black cup, a black ruler and a black jacket”可知，此处指“有”，结合所给词汇可知have符合句意。根据“It is very cool.”可知，本句时态为一般现在时，主语I为第一人称。故填have。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "spell",
+        "exp": "句意：南希和朵拉经常帮我拼写单词，教我说英语。根据“words”和备选词汇可知，应该是帮助作者拼写单词，spell“拼写”，help sb do sth“帮助某人做某事”为固定搭配。故填spell。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_1",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "篇目一"
+    ],
+    "title": "七上完型 · 一 篇目一",
+    "passage": "Hi Amy,\n\nHow are you? Do you know where I am now? I’m in my new school. There is a video (视频) in this ___1___ . In the video, I’ll show you every corner (角落) of my school. It’s just like you’re here with me.\n\nMy new school is very ___2___ , about 50,000 m². It has six buildings and a sports field. First, let’s ___3___ the three buildings in the front of the school. They are in different ___4___ and each has a special use (用途). Building A is red and we have most of our classes in it. Building B is blue and it is for science experiments (实验). The green one is Building C and there are many computer rooms in it.\n\nBehind Building B is the sports field. Every ___5___ , we do Flower Dance (花儿舞蹈) to music there. It’s a(n) ___6___ interesting way to start a day.\n\nOn the right of the sports field is the ___7___ , my favourite place. There are about 5,000 books and many ___8___ bookcases. Each one has a screen (屏幕) and on the screen we can see the names of the books in the bookcase.\n\nThe dining hall is on the left of the sports field. The food there ___9___ every day, so we can always eat different food.\n\nCan you ___10___ the white building at the back of the school? It’s the gym and we have sports classes there on rainy (下雨的) days.\n\nWhat a great school! I feel happy to study in the school. What’s your school like? Write back and tell me!\n\nYours,\n\nKelvin",
+    "passageHtml": "<p><span class=\"ind\">Hi Amy,</span></p><p><span class=\"ind\">How are you? Do you know where I am now? I’m in my new school. There is a video (视频) in this <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> . In the video, I’ll show you every corner (角落) of my school. It’s just like you’re here with me.</span></p><p><span class=\"ind\">My new school is very <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> , about 50,000 m². It has six buildings and a sports field. First, let’s <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> the three buildings in the front of the school. They are in different <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> and each has a special use (用途). Building A is red and we have most of our classes in it. Building B is blue and it is for science experiments (实验). The green one is Building C and there are many computer rooms in it.</span></p><p><span class=\"ind\">Behind Building B is the sports field. Every <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> , we do Flower Dance (花儿舞蹈) to music there. It’s a(n) <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> interesting way to start a day.</span></p><p><span class=\"ind\">On the right of the sports field is the <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> , my favourite place. There are about 5,000 books and many <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> bookcases. Each one has a screen (屏幕) and on the screen we can see the names of the books in the bookcase.</span></p><p><span class=\"ind\">The dining hall is on the left of the sports field. The food there <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> every day, so we can always eat different food.</span></p><p><span class=\"ind\">Can you <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> the white building at the back of the school? It’s the gym and we have sports classes there on rainy (下雨的) days.</span></p><p><span class=\"ind\">What a great school! I feel happy to study in the school. What’s your school like? Write back and tell me!</span></p><p><span class=\"ind\">Yours,</span></p><p><span class=\"ind\">Kelvin</span></p>",
+    "intro": "本文是Kelvin写给Amy的邮件，介绍了自己新学校的情况，包括建筑、运动场、图书馆、餐厅和体育馆等。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "unit",
+          "email",
+          "map",
+          "letter"
+        ],
+        "ans": "B",
+        "exp": "句意：在这封邮件里有一段视频。\n文章为书信格式，且带有视频，说明这是一封邮件，email“邮件”符合。unit“单元”、map“地图”、letter“信件”（多指纸质书信，不能带视频）均不符。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "different",
+          "full",
+          "funny",
+          "big"
+        ],
+        "ans": "D",
+        "exp": "句意：我的新学校很大，大约50,000平方米。\n后文说约50,000平方米，说明学校“很大”，big“大的”符合。different“不同的”、full“满的”、funny“有趣的”均与面积大无关。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "look at",
+          "listen to",
+          "wait for",
+          "get on"
+        ],
+        "ans": "A",
+        "exp": "句意：首先，让我们看看学校前面的三栋建筑。\n后文介绍三栋建筑的颜色和用途，说明是“看”它们，look at“看”符合。listen to“听”、wait for“等待”、get on“上车”均与介绍建筑不符。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "pages",
+          "hobbies",
+          "offices",
+          "colours"
+        ],
+        "ans": "D",
+        "exp": "句意：它们颜色不同，每栋都有特殊用途。\n后文说Building A is red, Building B is blue, Building C is green，说明“颜色”不同，colours“颜色”符合。pages“页”、hobbies“爱好”、offices“办公室”均与红蓝绿无关。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "morning",
+          "afternoon",
+          "evening",
+          "night"
+        ],
+        "ans": "A",
+        "exp": "句意：每天早上，我们随着音乐跳花儿舞蹈。\n“花儿舞蹈”是早晨的活动，morning“早上”符合。afternoon“下午”、evening“傍晚”、night“夜晚”均与早晨活动不符。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "even",
+          "too",
+          "really",
+          "else"
+        ],
+        "ans": "C",
+        "exp": "句意：这是开始一天的一种真正有趣的方式。\n前文说每天早上随着音乐跳花儿舞蹈，后文评价这种方式“有趣”；空处修饰interesting，表示程度，应用really“真正地”符合。even“甚至”、too“太”、else“其他”均不能修饰形容词interesting。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "farm",
+          "library",
+          "garden",
+          "playground"
+        ],
+        "ans": "B",
+        "exp": "句意：运动场右边是图书馆，我最喜欢的地方。\n后文说“There are about 5,000 books”，说明是“图书馆”，library“图书馆”符合。farm“农场”、garden“花园”、playground“操场”均与书无关。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "cute",
+          "quiet",
+          "smart",
+          "famous"
+        ],
+        "ans": "C",
+        "exp": "句意：有大约5000本书和许多智能书架。\n后文说“Each one has a screen”，说明书架是“智能的”，smart“智能的”符合。cute“可爱的”、quiet“安静的”、famous“著名的”均与有屏幕的书架不符。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "starts",
+          "keeps",
+          "waits",
+          "changes"
+        ],
+        "ans": "D",
+        "exp": "句意：那里的食物每天变化，所以我们总能吃到不同的食物。\n后文说“we can always eat different food”，说明食物每天“变化”，changes“变化”符合。starts“开始”、keeps“保持”、waits“等待”均与食物变化不符。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "see",
+          "raise",
+          "mean",
+          "spell"
+        ],
+        "ans": "A",
+        "exp": "句意：你能看到学校后面的白色建筑吗？\n后文说“It’s the gym”，说明是问能否“看到”白色建筑，see“看见”符合。raise“举起”、mean“意味着”、spell“拼写”均与看到建筑不符。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_2",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "Diana想让父亲Mr. Mi"
+    ],
+    "title": "七上完型 · 二 Diana想让父亲Mr. Mi",
+    "passage": "后文说“It’s the gym”，说明是问能否“看到”白色建筑，see“看见”符合。raise“举起”、mean“意味着”、spell“拼写”均与看到建筑不符。\n\nDiana is a middle school student. She goes to school by ___1___ every day. But now, she doesn’t want to take a bus to school. She wants to ride to school ___2___ her best friend Betty.\n\nIt’s six o’clock now. Diana’s father, Mr. Miller, is ___3___ a book in his room. Diana asks, “Daddy, is it difficult to ride a bike?”\n\nMr. Miller says, “Well, yes. But if you ___4___ hard, I’m sure you can learn it well.”\n\n“Can you teach me ___5___ to ride a bike now, Dad?”\n\n“Dear, I want to finish this book. I will ___6___ you on the weekend,” says Mr. Miller.\n\nDiana isn’t happy. She says, “I really want to have a robot ___7___ .”\n\nMr. Miller asks, “Why?”\n\n“You are always ___8___ . Every time I need you, you have things to do,” Diana says. “A robot father can ___9___ me when I want to play. He can always be there when I need him.”\n\nHearing (听到) this, Mr. Miller ___10___ reading and goes to get the bike.",
+    "passageHtml": "<p><span class=\"ind\">后文说“It’s the gym”，说明是问能否“看到”白色建筑，see“看见”符合。raise“举起”、mean“意味着”、spell“拼写”均与看到建筑不符。</span></p><p><span class=\"ind\">Diana is a middle school student. She goes to school by <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> every day. But now, she doesn’t want to take a bus to school. She wants to ride to school <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> her best friend Betty.</span></p><p><span class=\"ind\">It’s six o’clock now. Diana’s father, Mr. Miller, is <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> a book in his room. Diana asks, “Daddy, is it difficult to ride a bike?”</span></p><p><span class=\"ind\">Mr. Miller says, “Well, yes. But if you <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> hard, I’m sure you can learn it well.”</span></p><p><span class=\"ind\">“Can you teach me <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> to ride a bike now, Dad?”</span></p><p><span class=\"ind\">“Dear, I want to finish this book. I will <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> you on the weekend,” says Mr. Miller.</span></p><p><span class=\"ind\">Diana isn’t happy. She says, “I really want to have a robot <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> .”</span></p><p><span class=\"ind\">Mr. Miller asks, “Why?”</span></p><p><span class=\"ind\">“You are always <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> . Every time I need you, you have things to do,” Diana says. “A robot father can <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> me when I want to play. He can always be there when I need him.”</span></p><p><span class=\"ind\">Hearing (听到) this, Mr. Miller <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> reading and goes to get the bike.</span></p>",
+    "intro": "本文主要讲述了Diana想让父亲Mr. Miller现在就教自己骑自行车，但Mr. Miller想看书推迟到周末，Diana失落地表示想要一个能时刻陪伴自己的机器人爸爸，Mr. Miller听后受到触动，立刻放下书去拿自行车教女儿的故事。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "bus",
+          "bike",
+          "car",
+          "taxi"
+        ],
+        "ans": "A",
+        "exp": "句意：她每天乘公共汽车去上学。\n根据后文“she doesn’t want to take a bus to school”可知，此处指Diana此前每天乘公共汽车上学，固定搭配“by bus”表示“乘公共汽车”，应选用bus。bike“自行车”，car“小汽车”，taxi“出租车”，均与后文提到的take a bus信息不符。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "for",
+          "like",
+          "under",
+          "from"
+        ],
+        "ans": "B",
+        "exp": "句意：她想和她最好的朋友Betty一样骑车去上学。\n根据后文“her best friend Betty”以及语境可知，此处指Diana想要“像”好友Betty一样骑自行车上学，应选用介词like表示“像……一样”。for“为了”，under“在……下面”，from“来自”，均不符合句意。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "buying",
+          "finding",
+          "reading",
+          "writing"
+        ],
+        "ans": "C",
+        "exp": "句意：现在是六点钟，Diana的父亲Mr. Miller正在他的房间里看书。\n根据后文Mr. Miller所说的“I want to finish this book”以及文章结尾“reading”可知，此处指Mr. Miller正在房间里看书，应选用reading表示“阅读”。buying“买”，finding“找到”，writing“写”，均不符合上下文语境。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "think",
+          "run",
+          "cry",
+          "practice"
+        ],
+        "ans": "D",
+        "exp": "句意：但如果你努力练习，我相信你能学好的。\n根据常识以及空后“hard, I’m sure you can learn it well”可知，学骑自行车需要刻苦练习，固定搭配“practice hard”表示“努力练习”，应选用practice。think“思考”，run“跑”，cry“哭”，均不能准确体现学习骑车需要付出努力的语境。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "how",
+          "when",
+          "why",
+          "where"
+        ],
+        "ans": "A",
+        "exp": "句意：爸爸，你现在能教我怎样骑自行车吗？\n根据空后“to ride a bike”可知，此处是“疑问词+动词不定式”结构作宾语，固定句式“teach sb. how to do sth.”表示“教某人如何做某事”，应选用how。when“何时”，why“为什么”，where“在哪里”，均不符合句意逻辑。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "call",
+          "leave",
+          "tell",
+          "teach"
+        ],
+        "ans": "D",
+        "exp": "句意：我会在周末教你。\n根据上文Diana的提问“Can you teach me...”可知，此处Mr. Miller是在回应女儿教骑车的要求，表示将在周末教她，应选用teach表示“教”。call“打电话”，leave“离开”，tell“告诉”，均不能呼应前文提到的教学请求。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "mother",
+          "friend",
+          "father",
+          "classmate"
+        ],
+        "ans": "C",
+        "exp": "句意：我真的很想要一个机器人爸爸。\n根据后文Diana所说的“A robot father can…”可知，Diana想要一个机器人“爸爸”，应选用father。mother“母亲”，friend“朋友”，classmate“同班同学”，均与后文明确提到的信息不符。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "late",
+          "busy",
+          "tidy",
+          "cool"
+        ],
+        "ans": "B",
+        "exp": "句意：你总是很忙。\n根据后文“Every time I need you, you have things to do”可知，每次Diana需要父亲时父亲都有事情要做，说明父亲总是很忙碌，应选用busy表示“忙碌的”。late“迟到的”，tidy“整洁的”，cool“凉爽的；酷的”，均无法体现出父亲总是忙于事情的状态。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "play with",
+          "talk to",
+          "look at",
+          "think about"
+        ],
+        "ans": "A",
+        "exp": "句意：当我想玩的时候，机器人爸爸可以陪我玩。\n根据空后“me when I want to play”可知，此处指机器人爸爸能够在自己想玩的时候陪伴玩耍，固定短语“play with sb.”表示“和某人一起玩”，应选用play with。talk to“和……交谈”，look at“看……”，think about“考虑”，均不能与后半句想玩耍的语境形成呼应。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "begins",
+          "stops",
+          "enjoys",
+          "starts"
+        ],
+        "ans": "B",
+        "exp": "句意：听到这些，Mr. Miller停止看书，去拿自行车。\n根据空后“and goes to get the bike”可知，Mr. Miller听了女儿的话后受到触动，停下看书去推自行车，固定搭配“stop doing sth.”表示“停止做某事”，应选用stops。begins“开始”，enjoys“享受”，starts“开始”，均与后文去拿自行车的行动逻辑相悖。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_3",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "篇目三"
+    ],
+    "title": "七上完型 · 三 篇目三",
+    "passage": "Mr. Chen is a DiDi driver. His daily life is very different ___1___ most people because he works at night.\n\nHe usually gets up at 3:00 in the afternoon. After washing his face, he ___2___ his simple breakfast. Then, he watches news on his phone. Next, he ___3___ his car happily to make it tidy and comfortable (舒适).\n\nAround 5:00 p. m., he ___4___ his work. He drives people home from work, to restaurants, or to the train station. At night, the streets become ___5___ , and he often listens to soft music. Sometimes, he talks with passengers (乘客) and they share their fun stories ___6___ .\n\nAt midnight, he takes a short ___7___ . He parks his car near a 24-hour store, eats a snack, and drinks some water. After that, he keeps (继续) ___8___ until early morning.\n\nWhen his work finishes, the sky is still ___9___ . He drives home, takes a shower, and goes to bed as the sun begins to rise.\n\nMr. Chen’s job is sometimes lonely, but he feels good because he ___10___ helping people get home safely every night.",
+    "passageHtml": "<p><span class=\"ind\">Mr. Chen is a DiDi driver. His daily life is very different <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> most people because he works at night.</span></p><p><span class=\"ind\">He usually gets up at 3:00 in the afternoon. After washing his face, he <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> his simple breakfast. Then, he watches news on his phone. Next, he <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> his car happily to make it tidy and comfortable (舒适).</span></p><p><span class=\"ind\">Around 5:00 p. m., he <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> his work. He drives people home from work, to restaurants, or to the train station. At night, the streets become <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> , and he often listens to soft music. Sometimes, he talks with passengers (乘客) and they share their fun stories <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">At midnight, he takes a short <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> . He parks his car near a 24-hour store, eats a snack, and drinks some water. After that, he keeps (继续) <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> until early morning.</span></p><p><span class=\"ind\">When his work finishes, the sky is still <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> . He drives home, takes a shower, and goes to bed as the sun begins to rise.</span></p><p><span class=\"ind\">Mr. Chen’s job is sometimes lonely, but he feels good because he <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> helping people get home safely every night.</span></p>",
+    "intro": "本文是一篇记叙文，主要讲述了滴滴司机陈先生夜间工作的日常生活。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "from",
+          "with",
+          "for",
+          "about"
+        ],
+        "ans": "A",
+        "exp": "句意：他的日常生活和大多数人十分不同，因为他在夜里工作。\n文中交代他夜间上班，和普通人作息存在差异，be different from意为“与……不同”，贴合这种对比关系；with“和”、for“为了”、about“关于”均无法构成该表达。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "sells",
+          "takes",
+          "has",
+          "puts"
+        ],
+        "ans": "C",
+        "exp": "句意：洗完脸之后，他吃简单的早餐。\n前文写到他下午三点起床、洗脸，这是起床后的生活环节，has breakfast意为“吃早餐”，符合生活场景；sells“售卖”、takes“拿”、puts“放置”都不能和breakfast搭配表达吃早饭。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "drives",
+          "moves",
+          "paints",
+          "cleans"
+        ],
+        "ans": "D",
+        "exp": "句意：接下来，他开心地擦洗他的汽车，让它变得整洁舒适。\n后半句目的是让车辆干净舒服，由此可以判断动作是清理车辆，cleans意为“打扫、擦洗”；drives“驾驶”、moves“移动”、paints“绘画”都达不到让车子变整洁的效果。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "likes",
+          "starts",
+          "forgets",
+          "remembers"
+        ],
+        "ans": "B",
+        "exp": "句意：大约下午五点，他开始他的工作。\n到了下午五点，后文就展开描写他接送乘客的工作过程，starts意为“开始”，对应正式开启夜班工作；likes“喜欢”、forgets“忘记”、remembers“记得”均和时间节点下的行为逻辑不匹配。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "crowded",
+          "noisy",
+          "quiet",
+          "bright"
+        ],
+        "ans": "C",
+        "exp": "句意：到了晚上，街道变得安静，他经常听轻柔的音乐。\n夜幕降临之后街上行人变少，quiet意为“安静的”，符合夜晚街道的环境特点；crowded“拥挤的”、noisy“吵闹的”、bright“明亮的”都不符合夜间的实际景象。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "happily",
+          "quickly",
+          "quietly",
+          "sadly"
+        ],
+        "ans": "A",
+        "exp": "句意：有时候，他和乘客交谈，他们愉快地分享有趣的故事。\n分享的是有趣的故事，整体氛围轻松欢乐，happily意为“愉快地”，用来修饰动词share；quickly“快速地”、quietly“安静地”、sadly“悲伤地”均和趣事自带的欢乐氛围相违背。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "walk",
+          "trip",
+          "break",
+          "talk"
+        ],
+        "ans": "C",
+        "exp": "句意：在午夜时分，他短暂休息一会。\n午夜时段他把车停在便利店，吃点心、喝水，属于工作间隙的短暂休整，take a short break意为“短暂休息”；walk“散步”、trip“短途旅行”、talk“交谈”都不是这里想要表达的含义。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "talking",
+          "drinking",
+          "sleeping",
+          "driving"
+        ],
+        "ans": "D",
+        "exp": "句意：在那之后，他继续开车一直到凌晨。\n他的身份是夜班滴滴司机，短暂休整结束，就要继续投入出车工作，driving意为“驾驶”；talking“交谈”、drinking“喝”、sleeping“睡觉”均和司机的工作内容不符。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "dark",
+          "blue",
+          "sunny",
+          "clear"
+        ],
+        "ans": "A",
+        "exp": "句意：当他结束工作的时候，天空依旧漆黑。\n后文提到太阳才刚刚升起，说明此时天还没有亮，dark意为“黑暗的”；blue“蓝色的”、sunny“晴朗的”、clear“晴朗的”都不能描述日出之前的天色。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "enjoys",
+          "stops",
+          "finishes",
+          "sends"
+        ],
+        "ans": "A",
+        "exp": "句意：陈先生的工作有时很孤独，但是他感觉很不错，因为他享受每晚帮助人们平安到家。\n转折词 but 点明他内心感受很好，能看出他从这份工作中获得满足，enjoys doing sth.意为“享受做某事”；stops“停止”、finishes“完成”、sends“发送”都体现不出这份主观上的好感。\n根据短文内容，从A、B、C、D四个选项中选出一个能填入相应空格内的最佳答案。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_4",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "Paul的个人信息、喜好、运动"
+    ],
+    "title": "七上完型 · 四 Paul的个人信息、喜好、运动",
+    "passage": "根据短文内容，从A、B、C、D四个选项中选出一个能填入相应空格内的最佳答案。\n\nMy name is Paul. I’m a middle school student. I’m ___1___ English boy, but now I’m in Shanghai. My parents work here, so I come with them.\n\nI like Chinese, and it’s my favorite ___2___ . It’s difficult, ___3___ it’s interesting. I don’t like geography. It ___4___ boring for me. I have seven classes every day. After school I always play ping-pong with my friends. I love sports, because they’re relaxing. I have two soccer balls, three ___5___ and five ping pong balls. My mom doesn’t like to do sports. But she likes to watch them ___6___ TV.\n\nZhang Peng is my good friend. Next week is ___7___ birthday. He ___8___ fruit, so I want to buy him a cake with strawberries. ___9___ is Zhang Peng’s favorite subject? It’s math. He thinks it is very ___10___ . On Saturday afternoon, he often helps me with my math. Next Monday we will have a math test. Zhang Peng says, “I think you’ll get good grades(分数).”",
+    "passageHtml": "<p><span class=\"ind\">根据短文内容，从A、B、C、D四个选项中选出一个能填入相应空格内的最佳答案。</span></p><p><span class=\"ind\">My name is Paul. I’m a middle school student. I’m <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> English boy, but now I’m in Shanghai. My parents work here, so I come with them.</span></p><p><span class=\"ind\">I like Chinese, and it’s my favorite <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> . It’s difficult, <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> it’s interesting. I don’t like geography. It <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> boring for me. I have seven classes every day. After school I always play ping-pong with my friends. I love sports, because they’re relaxing. I have two soccer balls, three <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> and five ping pong balls. My mom doesn’t like to do sports. But she likes to watch them <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> TV.</span></p><p><span class=\"ind\">Zhang Peng is my good friend. Next week is <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> birthday. He <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> fruit, so I want to buy him a cake with strawberries. <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> is Zhang Peng’s favorite subject? It’s math. He thinks it is very <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> . On Saturday afternoon, he often helps me with my math. Next Monday we will have a math test. Zhang Peng says, “I think you’ll get good grades(分数).”</span></p>",
+    "intro": "本文主要介绍了Paul的个人信息、喜好、运动习惯，以及好朋友张鹏的生日、爱好、最喜欢科目和学习情况等内容。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "a",
+          "an",
+          "the",
+          "/"
+        ],
+        "ans": "B",
+        "exp": "句意：我是一个英国男孩，但现在我在上海。\n空处修饰可数名词单数English boy，English以元音音素开头，应用不定冠词an。a用于辅音音素开头的单词前；the表特指；/为零冠词，均不符合语法和语境。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "food",
+          "store",
+          "sport",
+          "subject"
+        ],
+        "ans": "D",
+        "exp": "句意：我喜欢语文，它是我最喜欢的科目。\n前文提到Chinese（语文）是学科，对应应用subject“科目”。food“食物”、store“商店”、sport“运动” 与语境不符。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "and",
+          "so",
+          "but",
+          "because"
+        ],
+        "ans": "C",
+        "exp": "句意：它很难，但很有趣。\n前文“难”与后文“有趣”存在转折关系，应用but“但是”。and表并列、so表结果、because表原因，均不符合逻辑。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "ans": "B",
+        "exp": "句意：对我来说，它很无聊。\n主语It指代geography，为单数，be动词应用is。am仅与I搭配；are用于复数主语；be为原形，均不符合语法。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "eraser",
+          "erasers",
+          "basketball",
+          "basketballs"
+        ],
+        "ans": "D",
+        "exp": "句意：我有两个足球、三个篮球和五个乒乓球。\n前文two soccer balls和后文five ping pong balls均为复数形式，空处应用复数名词basketballs。eraser“橡皮”、erasers“橡皮（复数）” 与前文运动物品语境不符；basketball为单数，不符合数词three的用法。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "on",
+          "in",
+          "with",
+          "for"
+        ],
+        "ans": "A",
+        "exp": "句意：但她喜欢在电视上看它们。\n固定搭配on TV表示“在电视上”，应用on。其他选项均不能与TV构成该搭配。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "he",
+          "his",
+          "she",
+          "her"
+        ],
+        "ans": "B",
+        "exp": "句意：下周是他的生日。\n前文提到Zhang Peng是男性，此处修饰名词birthday，应用形容词性物主代词his“他的”。he“他”（主格）、she“她”（主格）、her“她的”均不符合语境。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "like",
+          "likes",
+          "buy",
+          "buys"
+        ],
+        "ans": "B",
+        "exp": "句意：他喜欢水果，所以我想给他买一个草莓蛋糕。\n主语He为第三人称单数，谓语动词应用第三人称单数形式，结合后文“买带草莓的蛋糕”可知他喜欢水果，应用likes“喜欢”。like为原形；buy“买”、buys“买（第三人称单数）”与语境不符。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "What",
+          "How",
+          "Where",
+          "Why"
+        ],
+        "ans": "A",
+        "exp": "句意：张鹏最喜欢的科目是什么？\n后文回答It’s math（是数学），是对“什么科目”的回答，应用疑问词What“什么”。How“如何”、Where“哪里”、Why“为什么”均不符合答语逻辑。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "healthy",
+          "fun",
+          "difficult",
+          "boring"
+        ],
+        "ans": "B",
+        "exp": "句意：他认为它很有趣。\n前文提到张鹏最喜欢的科目是数学，后文提到他经常帮Paul学数学，说明他觉得数学很有趣，应用fun“有趣的”。healthy“健康的”、difficult“困难的”、boring“无聊的”均与前文“最喜欢的科目”语境矛盾。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_5",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "篇目五"
+    ],
+    "title": "七上完型 · 五 篇目五",
+    "passage": "前文提到张鹏最喜欢的科目是数学，后文提到他经常帮Paul学数学，说明他觉得数学很有趣，应用fun“有趣的”。healthy“健康的”、difficult“困难的”、boring“无聊的”均与前文“最喜欢的科目”语境矛盾。\n\nHello! I’m Kleo, a 17-year-old happy walrus. I am a member of Zhuhai Chimelong Ocean Kingdom. Look! Walrus Mountain is my home.\n\nI like eating ___1___ very much, like the clams (蛤蜊) from the sea. As for hobbies, I like swimming best. There is a big swimming pool in my home. I spend my days ___2___ and playing in the water every day. And I have a lot of ___3___ , too, because I am a good learner. I ___4___ play the trumpet (小号) and do sit-ups. I always learn something new from my animal ___5___ !\n\nI am a new mother. My son was born in June 2025. ___6___ name is Wowo. At first, he had a health problem ___7___ I had a hard time giving birth to him. But the keepers tried to ___8___ that problem. With their help, he has become a healthy little walrus now. We had a happy party ___9___ him. On that day, he was 100 days old.\n\nOur keepers take good care of us ___10___ . Thanks to them, we enjoy our life in Zhuhai.",
+    "passageHtml": "<p><span class=\"ind\">前文提到张鹏最喜欢的科目是数学，后文提到他经常帮Paul学数学，说明他觉得数学很有趣，应用fun“有趣的”。healthy“健康的”、difficult“困难的”、boring“无聊的”均与前文“最喜欢的科目”语境矛盾。</span></p><p><span class=\"ind\"><p class=\"ct\"><img src=\"assets/images/jr_cloze_test7a_5_1.png\" alt=\"插图\" width=\"220\"></p></span></p><p><span class=\"ind\">Hello! I’m Kleo, a 17-year-old happy walrus. I am a member of Zhuhai Chimelong Ocean Kingdom. Look! Walrus Mountain is my home.</span></p><p><span class=\"ind\">I like eating <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> very much, like the clams (蛤蜊) from the sea. As for hobbies, I like swimming best. There is a big swimming pool in my home. I spend my days <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> and playing in the water every day. And I have a lot of <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> , too, because I am a good learner. I <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> play the trumpet (小号) and do sit-ups. I always learn something new from my animal <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> !</span></p><p><span class=\"ind\">I am a new mother. My son was born in June 2025. <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> name is Wowo. At first, he had a health problem <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> I had a hard time giving birth to him. But the keepers tried to <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> that problem. With their help, he has become a healthy little walrus now. We had a happy party <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> him. On that day, he was 100 days old.</span></p><p><span class=\"ind\">Our keepers take good care of us <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> . Thanks to them, we enjoy our life in Zhuhai.</span></p>",
+    "intro": "本文是一篇记叙文。文章以一只名为Kleo的海象的第一人称视角，介绍了它在珠海长隆海洋王国的快乐生活、爱好、技能，以及它刚出生的儿子Wowo的故事，表达了对饲养员悉心照顾的感激之情。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "vegetables",
+          "fruit",
+          "bread",
+          "seafood"
+        ],
+        "ans": "D",
+        "exp": "句意：我非常喜欢吃海鲜，比如来自海里的蛤蜊。\nvegetables蔬菜；fruit水果；bread面包；seafood海鲜。根据“like the clams (蛤蜊) from the sea.”可知，蛤蜊生活在海里，属于海鲜的一种。故选D。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "sleeping",
+          "swimming",
+          "lying",
+          "running"
+        ],
+        "ans": "B",
+        "exp": "句意：我每天都花时间在水里游泳、玩耍。\nsleeping睡觉；swimming游泳；lying躺；running跑。根据“As for hobbies, I like swimming best. There is a big swimming pool in my home.”可知，家里有游泳池，且“在水里玩耍”提示了是在水中活动，swimming符合语境。故选B。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "songs",
+          "dances",
+          "abilities",
+          "lessons"
+        ],
+        "ans": "C",
+        "exp": "句意：我也有很多本领，因为我是个好学的海象。\nsongs歌曲；dances舞蹈；abilities技能；lessons课程。根据“play the trumpet (小号) and do sit-ups”可知，吹小号和做仰卧起坐属于具体的本领或技能。故选C。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "must",
+          "can",
+          "should",
+          "may"
+        ],
+        "ans": "B",
+        "exp": "句意：我会吹小号，还会做仰卧起坐。\nmust必须；can能；should应该；may可能。根据“play the trumpet (小号) and do sit-ups”可知，此处在描述海象所具备的能力。can意为“能，会”，表能力，符合语境。故选B。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "keepers",
+          "farmers",
+          "police",
+          "students"
+        ],
+        "ans": "A",
+        "exp": "句意：我总是从我的动物饲养员那里学到新东西！\nkeepers饲养员；farmers农民；police警察；students学生。根据“But the keepers tried to…”以及文章背景是在海洋王国可知，照顾动物并教它们技能的人是饲养员。故选A。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "My",
+          "Her",
+          "His",
+          "Their"
+        ],
+        "ans": "C",
+        "exp": "句意：他的名字叫Wowo。\nMy我的；Her她的；His他的；Their他们的。根据“My son was born in June 2025.”可知，Wowo是Kleo的儿子，男性，此处应用形容词性物主代词His指代“他的”。故选C。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "because",
+          "but",
+          "or",
+          "though"
+        ],
+        "ans": "A",
+        "exp": "句意：一开始，他有健康问题，因为我生他的时候非常艰难。\nbecause因为；but但是；or或者；though虽然。根据“he had a health problem…I had a hard time giving birth to him”可知，前后句之间存在因果关系，生产困难是导致健康问题的原因。故选A。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "act out",
+          "take out",
+          "work out",
+          "blow out"
+        ],
+        "ans": "C",
+        "exp": "句意：但饲养员们努力解决了这个问题。\nact out表演；take out取出；work out解决；blow out吹灭。根据“he had a health problem…But the keepers tried to…that problem.”可知，饲养员们是努力去解决这个健康难题。work out a problem意为“解决问题”，符合语境。故选C。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "about",
+          "of",
+          "at",
+          "for"
+        ],
+        "ans": "D",
+        "exp": "句意：我们为他举办了一场开心的派对。\nabout关于；of……的；at在；for为了。根据“We had a happy party…him. On that day, he was 100 days old.”可知，派对是为了庆祝Wowo出生100天而举办的。have a party for sb.是固定搭配，意为“为某人举办派对”。故选D。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "quickly",
+          "carefully",
+          "sadly",
+          "beautifully"
+        ],
+        "ans": "B",
+        "exp": "句意：我们的饲养员细心地照顾着我们。\nquickly快速地；carefully仔细地；sadly悲伤地；beautifully美丽地。根据“Thanks to them, we enjoy our life in Zhuhai.”可知，正是因为饲养员们的悉心照料，海象们才能享受生活。故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_6",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "湖南桑植芙蓉学校为留守儿童在周"
+    ],
+    "title": "七上完型 · 六 湖南桑植芙蓉学校为留守儿童在周",
+    "passage": "On weekends, schools are usually quiet. But at Furong School in Sangzhi of Hunan province, students are ___1___ on weekends. They join in exciting activities like playing soccer and singing with their teachers.\n\nMost students at the school are left-behind children. Their ___2___ work far from home. These students are lonely at home on weekends so the school sets up more than 20 clubs for them. They can ___3___ and relax on weekends. Now there are ___4___ for painting, programming, table tennis and others. Students can join their favorite clubs.\n\nOne student, Haohao, used to like playing video games. Now he is in the Basketball Club. He takes ___5___ classes every weekend, and he doesn’t have time to ___6___ video games. His parents ___7___ that.\n\nHuang Ying, a 13-year-old girl, is in the Tennis Club. “I ___8___ a lot of time playing tennis. I think it is very cool and I ___9___ enjoy it. And I ___10___ very happy when I show my talents” Huang says.",
+    "passageHtml": "<p><span class=\"ind\">On weekends, schools are usually quiet. But at Furong School in Sangzhi of Hunan province, students are <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> on weekends. They join in exciting activities like playing soccer and singing with their teachers.</span></p><p><span class=\"ind\">Most students at the school are left-behind children. Their <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> work far from home. These students are lonely at home on weekends so the school sets up more than 20 clubs for them. They can <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> and relax on weekends. Now there are <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> for painting, programming, table tennis and others. Students can join their favorite clubs.</span></p><p><span class=\"ind\">One student, Haohao, used to like playing video games. Now he is in the Basketball Club. He takes <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> classes every weekend, and he doesn’t have time to <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> video games. His parents <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> that.</span></p><p><span class=\"ind\">Huang Ying, a 13-year-old girl, is in the Tennis Club. “I <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> a lot of time playing tennis. I think it is very cool and I <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> enjoy it. And I <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> very happy when I show my talents” Huang says.</span></p>",
+    "intro": "本文主要讲述了湖南桑植芙蓉学校为留守儿童在周末开设各类俱乐部，让他们在活动中学习、放松，不再孤单的故事。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "bored",
+          "excited",
+          "similar",
+          "excellent"
+        ],
+        "ans": "B",
+        "exp": "句意：但在湖南省桑植的芙蓉学校，学生们在周末很兴奋。\nbored无聊的；excited兴奋的；similar相似的；excellent优秀的。根据后文“They join in exciting activities like playing soccer and singing with their teachers.”可知，学生们参加令人兴奋的活动，所以是兴奋的。故选B。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "parents",
+          "students",
+          "teachers",
+          "children"
+        ],
+        "ans": "A",
+        "exp": "句意：他们的父母在离家很远的地方工作。\nparents父母；students学生；teachers老师；children孩子。根据前文“Most students at the school are left-behind children.”可知，是父母在远方工作。故选A。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "sleep",
+          "eat",
+          "drink",
+          "learn"
+        ],
+        "ans": "D",
+        "exp": "句意：他们可以在周末学习和放松。\nsleep睡觉；eat吃；drink喝；learn学习。根据后文“painting, programming, table tennis and others”可知，学生们可以在俱乐部学习。故选D。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "clubs",
+          "yards",
+          "restaurants",
+          "seats"
+        ],
+        "ans": "A",
+        "exp": "句意：现在有绘画、编程、乒乓球等俱乐部。\nclubs俱乐部；yards院子；restaurants餐馆；seats座位。根据前文“the school sets up more than 20 clubs for them”可知，此处指各类俱乐部。故选A。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "badminton",
+          "basketball",
+          "soccer",
+          "tennis"
+        ],
+        "ans": "B",
+        "exp": "句意：他每个周末都上篮球课。\nbadminton羽毛球；basketball篮球；soccer足球；tennis网球。根据前文“Now he is in the Basketball Club.”可知，他在篮球俱乐部，所以上篮球课。故选B。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "play",
+          "rise",
+          "paint",
+          "post"
+        ],
+        "ans": "A",
+        "exp": "句意：他没有时间玩电子游戏。\nplay玩；rise上升；paint绘画；post邮寄。“play video games”是固定搭配，意为“玩电子游戏”。故选A。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "are good at",
+          "are worried about",
+          "are happy about",
+          "are angry with"
+        ],
+        "ans": "C",
+        "exp": "句意：他的父母对此很高兴。\nare good at擅长；are worried about担心；are happy about对……高兴；are angry with对……生气。根据“he doesn’t have time to play video games”可知，孩子不再沉迷游戏，而是参加有益的俱乐部活动，父母应该是高兴的。故选C。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "take",
+          "cost",
+          "spend",
+          "count"
+        ],
+        "ans": "C",
+        "exp": "句意：我花很多时间打网球。\ntake花费；cost花费；spend花费；count数数。“spend time doing sth.”是固定搭配，意为“花费时间做某事”。故选C。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "exactly",
+          "happily",
+          "clearly",
+          "really"
+        ],
+        "ans": "D",
+        "exp": "句意：我认为它很酷，我真的很喜欢它。\nexactly确切地；happily开心地；clearly清晰地；really真正地。此处用副词修饰动词enjoy，really符合语境，强调真心喜欢。故选D。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "fall",
+          "feel",
+          "find",
+          "grow"
+        ],
+        "ans": "B",
+        "exp": "句意：当我展示我的才能时，我感到非常开心。\nfall落下；feel感觉；find发现；grow成长。“feel happy”是固定搭配，意为“感到开心”。故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_7",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "Ann去商店为哥哥Bob挑选生"
+    ],
+    "title": "七上完型 · 七 Ann去商店为哥哥Bob挑选生",
+    "passage": "Bob is Ann’s brother. His birthday is next week. The family will have a party to ___1___ it. To surprise Bob, Ann wants to ___2___ a gift for him. Ann goes to Mr. Hand’s store. It’s a clothes store. The store is not ___3___ but there are many things in it. The T-shirts look very ___4___ . “Bob likes T-shirts. How about getting one for him?” Ann thinks. A woman in the store comes to her and asks ___5___ , “Can I help you?” “Yes. I am ___6___ a T-shirt for my brother. His favourite ___7___ is blue,” Ann says. “How about this blue T-shirt?” the woman asks. “It’s beautiful, but it’s too ___8___ for my brother. That long one is right for him. What’s the ___9___ of it?” Ann asks. “It’s ten dollars. Today we have a big ___10___ . The second one is 50% off (五折). You can take two for only fifteen dollars,” the woman says. So Ann takes a blue one for Bob and a pink one for herself. Then she goes back home.",
+    "passageHtml": "<p><span class=\"ind\">Bob is Ann’s brother. His birthday is next week. The family will have a party to <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> it. To surprise Bob, Ann wants to <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> a gift for him. Ann goes to Mr. Hand’s store. It’s a clothes store. The store is not <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> but there are many things in it. The T-shirts look very <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> . “Bob likes T-shirts. How about getting one for him?” Ann thinks. A woman in the store comes to her and asks <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> , “Can I help you?” “Yes. I am <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> a T-shirt for my brother. His favourite <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> is blue,” Ann says. “How about this blue T-shirt?” the woman asks. “It’s beautiful, but it’s too <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> for my brother. That long one is right for him. What’s the <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> of it?” Ann asks. “It’s ten dollars. Today we have a big <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> . The second one is 50% off (五折). You can take two for only fifteen dollars,” the woman says. So Ann takes a blue one for Bob and a pink one for herself. Then she goes back home.</span></p>",
+    "intro": "本文主要讲述了Ann去商店为哥哥Bob挑选生日礼物，并遇上商店打折促销，最终以优惠价格买了两件T恤的故事。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "celebrate",
+          "find",
+          "need",
+          "want"
+        ],
+        "ans": "A",
+        "exp": "句意：家人会办一场派对来庆祝这个生日。\ncelebrate庆祝；find发现；need需要；want想要。根据“His birthday is next week. The family will have a party…”可知，举办生日聚会的目的是为了庆祝生日。故选A。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "know",
+          "buy",
+          "play",
+          "ask"
+        ],
+        "ans": "B",
+        "exp": "句意：为了给Bob一个惊喜，Ann想给他买一份礼物。\nknow知道；buy买；play玩；ask问。根据“Ann goes to Mr. Hand’s store.”可知，她去商店是为了买礼物。故选B。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "small",
+          "big",
+          "good",
+          "long"
+        ],
+        "ans": "B",
+        "exp": "句意：这家店不大，但里面有很多商品。\nsmall小的；big大的；good好的；long长的。根据“The store is not…but there are many things in it.”可知，前后句意存在转折，即：这家店不大，但里面有很多商品。故选B。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "healthy",
+          "old",
+          "same",
+          "nice"
+        ],
+        "ans": "D",
+        "exp": "句意：这些T恤看起来很不错。\nhealthy健康的；old旧的；same相同的；nice漂亮的。根据“Bob likes T-shirts. How about getting one for him?”可知，Ann打算买T恤，说明她认为T恤很好看。故选D。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "easily",
+          "warmly",
+          "differently",
+          "sadly"
+        ],
+        "ans": "B",
+        "exp": "句意：店里的一位女士走过来，热情地问：“我能帮您吗？”\neasily容易地；warmly热情地；differently不同地；sadly悲伤地。根据“Can I help you?”可知，这是一种主动提供帮助的礼貌询问，体现了售货员对顾客热情的态度。故选B。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "joining in",
+          "listening to",
+          "coming with",
+          "looking for"
+        ],
+        "ans": "D",
+        "exp": "句意：我正在给我哥哥找一件 T 恤。\njoining in参加；listening to听；coming with与……一同来；looking for寻找。根据 “Ann goes to Mr. Hand’s store.” 以及 “Can I help you?” 可知，Ann身处商店之中，面对店员的询问，她表示自己正在寻找想要购买的商品。故选D。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "activity",
+          "hobby",
+          "food",
+          "colour"
+        ],
+        "ans": "D",
+        "exp": "句意：他最喜欢的颜色是蓝色。\nactivity活动；hobby爱好；food食物；colour颜色。根据“…is blue”以及“How about this blue T-shirt?”可知，蓝色是一种颜色。故选D。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "cool",
+          "nice",
+          "short",
+          "good"
+        ],
+        "ans": "C",
+        "exp": "句意：它很好看，但对我哥哥来说太短了。\ncool凉爽的；nice美好的；short短的；good好的。根据“That long one is right for him.”可知，Ann将这件T恤与那件长的进行了对比，说明这件太短了。故选C。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "price",
+          "number",
+          "example",
+          "question"
+        ],
+        "ans": "A",
+        "exp": "句意：这件多少钱？\nprice价格；number号码；example例子；question问题。根据“It’s ten dollars.”可知，Ann是在询问价格。故选A。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "lesson",
+          "sale",
+          "world",
+          "work"
+        ],
+        "ans": "B",
+        "exp": "句意：今天我们有大促销。\nlesson课；sale出售/甩卖；world世界；work工作。根据“The second one is 50% off (五折). You can take two for only fifteen dollars”可知，商店正在进行打折促销活动，即“大甩卖”。故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_8",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "孤独的农民Leo通过绘画创造奇"
+    ],
+    "title": "七上完型 · 八 孤独的农民Leo通过绘画创造奇",
+    "passage": "Leo is a farmer in a small village, and he likes painting very much. Today is his birthday. He has no friends to celebrate it with him, so he ___1___ a picture of a boy named Andy. In front of him, Leo makes a wish to have a good friend and ___2___ the candles on his birthday cake.\n\nThe next morning, there are some ___3___ from the painting. Looking at the painting, Leo is ___4___ to see Andy saying hello to him.\n\n“ ___5___ can you talk?” Leo asks in surprise.\n\n“Because an angel (天使) does the ___6___ to give me life after you paint me.” Andy says.\n\nAndy has the same hobby as Leo. They become good friends soon. With Andy’s help, Leo practices painting day and night to become a(n) ___7___ painter. They become famous and have much money.\n\nOne night, a man wants to steal (偷) things in Leo’s house. When he walks ___8___ the painting, Andy runs out of it and catches him quickly. After that, all the ___9___ know about the magic painting and come to buy it, but Leo and Andy say no to all of them. In the end, they use all their money to ___10___ an art school and help the children with painting dreams.\n\nThe story shows that art makes wonders and friends bring a wonderful life.",
+    "passageHtml": "<p><span class=\"ind\">Leo is a farmer in a small village, and he likes painting very much. Today is his birthday. He has no friends to celebrate it with him, so he <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> a picture of a boy named Andy. In front of him, Leo makes a wish to have a good friend and <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> the candles on his birthday cake.</span></p><p><span class=\"ind\">The next morning, there are some <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> from the painting. Looking at the painting, Leo is <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> to see Andy saying hello to him.</span></p><p><span class=\"ind\">“ <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> can you talk?” Leo asks in surprise.</span></p><p><span class=\"ind\">“Because an angel (天使) does the <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> to give me life after you paint me.” Andy says.</span></p><p><span class=\"ind\">Andy has the same hobby as Leo. They become good friends soon. With Andy’s help, Leo practices painting day and night to become a(n) <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> painter. They become famous and have much money.</span></p><p><span class=\"ind\">One night, a man wants to steal (偷) things in Leo’s house. When he walks <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> the painting, Andy runs out of it and catches him quickly. After that, all the <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> know about the magic painting and come to buy it, but Leo and Andy say no to all of them. In the end, they use all their money to <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> an art school and help the children with painting dreams.</span></p><p><span class=\"ind\">The story shows that art makes wonders and friends bring a wonderful life.</span></p>",
+    "intro": "本文讲述孤独的农民Leo通过绘画创造奇迹，与画中男孩Andy成为朋友并共同实现梦想的故事。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "takes",
+          "gets",
+          "paints",
+          "buys"
+        ],
+        "ans": "C",
+        "exp": "句意：他没有朋友和他一起庆祝，所以他画了一幅叫安迪的男孩的画。\ntakes拿走；gets得到；paints绘画；buys买。根据“a picture of a boy named Andy”可知，此处指画了一幅画，故选C。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "acts out",
+          "blows out",
+          "takes out",
+          "finds out"
+        ],
+        "ans": "B",
+        "exp": "句意：在他面前，利奥许了一个愿，希望有一个好朋友，然后吹灭了生日蛋糕上的蜡烛。\nacts out表演；blows out吹灭；takes out取出；finds out查明。根据“the candles on his birthday cake”可知，此处指吹灭蜡烛，故选B。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "bells",
+          "conversations",
+          "songs",
+          "sounds"
+        ],
+        "ans": "D",
+        "exp": "句意：第二天早上，这幅画里有一些声音。\nbells铃铛；conversations对话；songs歌曲；sounds声音。根据“from the painting”及后文“Andy saying hello to him”可知，此处指画里传来声音，故选D。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "surprised",
+          "angry",
+          "sad",
+          "bored"
+        ],
+        "ans": "A",
+        "exp": "句意：看着这幅画，利奥惊讶地看到安迪在和他打招呼。\nsurprised惊讶的；angry生气的；sad悲伤的；bored无聊的。根据“Andy saying hello to him”可知，看到画里的人和自己打招呼，利奥很惊讶，故选A。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "When",
+          "How",
+          "Why",
+          "What"
+        ],
+        "ans": "C",
+        "exp": "句意：“你为什么会说话？”利奥惊讶地问。\nWhen什么时候；How怎样；Why为什么；What什么。根据“Because…”可知，此处询问原因，故选C。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "exercise",
+          "magic",
+          "activity",
+          "report"
+        ],
+        "ans": "B",
+        "exp": "句意：因为在你画完我之后，一个天使施展魔法给了我生命。\nexercise锻炼；magic魔法；activity活动；report报告。根据“give me life after you paint me”可知，是天使施展魔法给了画里的人生命，故选B。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "excellent",
+          "important",
+          "funny",
+          "smart"
+        ],
+        "ans": "A",
+        "exp": "句意：在安迪的帮助下，利奥夜以继日地练习绘画，成为一名优秀的画家。\nexcellent优秀的；important重要的；funny有趣的；smart聪明的。根据“With Andy’s help, Leo practices painting day and night”以及“They become famous and have much money.”可知，经过努力练习，利奥成为了优秀的画家，故选A。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "through",
+          "on",
+          "with",
+          "past"
+        ],
+        "ans": "D",
+        "exp": "句意：当他走过这幅画时，安迪从画里跑出来，迅速抓住了他。\nthrough穿过（内部）；on在……上面；with和；past经过。根据“When he walks...the painting”可知，此处指从画旁边经过，walk past“经过”，故选D。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "members",
+          "friends",
+          "villagers",
+          "painters"
+        ],
+        "ans": "C",
+        "exp": "句意：从那以后，所有的村民都知道了这幅神奇的画，都来买它，但利奥和安迪拒绝了他们所有人。\nmembers成员；friends朋友；villagers村民；painters画家。根据“in a small village”可知，此处指村民，故选C。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "collect",
+          "found",
+          "sell",
+          "visit"
+        ],
+        "ans": "B",
+        "exp": "句意：最后，他们用所有的钱创立了一所艺术学校，帮助有绘画梦想的孩子们。\ncollect收集；found创立；sell卖；visit参观。根据“an art school”可知，此处指创立艺术学校，故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_9",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "70岁的Kate保持年轻的日常"
+    ],
+    "title": "七上完型 · 九 70岁的Kate保持年轻的日常",
+    "passage": "Here is a picture of a woman, Kate. It is difficult for us to believe that she is 70 years old. How does she keep ___1___ ? Let’s know something about her daily ___2___ .\n\nIt’s seven o’clock in the morning. Kate goes to the kitchen after she ___3___ . She thinks a good day begins with a glass of water, so the ___4___ thing she does is to drink some water. Then she does some exercise before breakfast. She ___5___ eats too much in the morning. She only ___6___ an egg, a glass of milk, some fruit and a piece of bread for breakfast. After that, she goes to work. Kate is an excellent artist. People like to take pictures of her. She enjoys ___7___ cool clothes in those pictures. She is ___8___ on weekdays, because sometimes she even needs to work at night. But on weekends, she does yoga for half an hour. She says doing yoga is very ___9___ , so she likes to do it. She ___10___ lives a healthy life.",
+    "passageHtml": "<p><span class=\"ind\">Here is a picture of a woman, Kate. It is difficult for us to believe that she is 70 years old. How does she keep <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> ? Let’s know something about her daily <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">It’s seven o’clock in the morning. Kate goes to the kitchen after she <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> . She thinks a good day begins with a glass of water, so the <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> thing she does is to drink some water. Then she does some exercise before breakfast. She <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> eats too much in the morning. She only <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> an egg, a glass of milk, some fruit and a piece of bread for breakfast. After that, she goes to work. Kate is an excellent artist. People like to take pictures of her. She enjoys <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> cool clothes in those pictures. She is <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> on weekdays, because sometimes she even needs to work at night. But on weekends, she does yoga for half an hour. She says doing yoga is very <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> , so she likes to do it. She <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> lives a healthy life.</span></p>",
+    "intro": "本文主要讲述了70岁的Kate保持年轻的日常生活习惯。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "old",
+          "young",
+          "quiet",
+          "tall"
+        ],
+        "ans": "B",
+        "exp": "句意：我们很难相信她已经70岁了，她是如何保持年轻的呢？\nold老；young年轻；quiet安静；tall高。根据前文“It is difficult for us to believe that she is 70 years old.”可知很难相信她70岁了，此处是询问她保持年轻的方法，故选B。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "study",
+          "work",
+          "life",
+          "exercise"
+        ],
+        "ans": "C",
+        "exp": "句意：让我们了解一下她的日常生活。\nstudy学习；work工作；life生活；exercise锻炼。根据“It’s seven o’clock in the morning. Kate goes to the kitchen”可知后文描述的是Kate的日常习惯，故选C。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "gets off",
+          "gets up",
+          "goes to bed",
+          "goes to work"
+        ],
+        "ans": "B",
+        "exp": "句意：早上7点，Kate起床后去厨房。\ngets off下车；gets up起床；goes to bed睡觉；goes to work上班。根据“Kate goes to the kitchen after”可知是起床后去厨房，故选B。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "first",
+          "second",
+          "third",
+          "last"
+        ],
+        "ans": "A",
+        "exp": "句意：她认为美好的一天从一杯水开始，所以她做的第一件事就是喝水。\nfirst第一；second第二；third第三；last最后。根据“begin with”可知是“第一件事”，故选A。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "often",
+          "usually",
+          "always",
+          "never"
+        ],
+        "ans": "D",
+        "exp": "句意：她早上从来不吃太多。\noften经常；usually通常；always总是；never从不。根据后文“She only...an egg, a glass of milk, some fruit and a piece of bread for breakfast”可知是“从不吃多”，故选D。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "has",
+          "joins",
+          "takes",
+          "plays"
+        ],
+        "ans": "A",
+        "exp": "句意：她早餐只吃一个鸡蛋、一杯牛奶、一些水果和一片面包。\nhas吃；joins加入；takes带走；plays玩。根据“an egg, a glass of milk, some fruit and a piece of bread for breakfast”可知是吃后面提到的食物，故选A。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "teaching",
+          "making",
+          "wearing",
+          "running"
+        ],
+        "ans": "C",
+        "exp": "句意：她喜欢穿酷酷的衣服拍照片。\nteaching教；making制作；wearing穿；running跑。根据“cool clothes”可知此处搭配“穿”，故选C。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "free",
+          "funny",
+          "lazy",
+          "busy"
+        ],
+        "ans": "D",
+        "exp": "句意：工作日她很忙，因为有时甚至需要晚上工作。\nfree空闲；funny有趣；lazy懒惰；busy忙。根据“because sometimes she even needs to work at night.”可知她很忙，故选D。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "difficult",
+          "relaxing",
+          "boring",
+          "tiring"
+        ],
+        "ans": "B",
+        "exp": "句意：她说做瑜伽非常放松，所以喜欢做。\ndifficult困难；relaxing放松；boring无聊；tiring累人。根据“so she likes to do it.”可知是正面感受，故选B。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "really",
+          "quickly",
+          "sadly",
+          "easily"
+        ],
+        "ans": "A",
+        "exp": "句意：她真的过着健康的生活。\nreally真的；quickly快速；sadly悲伤地；easily容易地。根据“lives a healthy life”可知此处需要副词修饰动词“lives”，根据上文可知她真的过着健康的生活，故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_10",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "篇目十"
+    ],
+    "title": "七上完型 · 十 篇目十",
+    "passage": "I am an English boy called Bill. My Chinese name is Li Xiang. I live in China with my parents now. I’m a ___1___ in No.2 Middle School.\n\nI usually get up at about 6:30 a.m. in the morning. First, I brush my ___2___ and wash my face. Then, I get dressed and have ___3___ with my family. I often have milk, bread and some fruit. I ___4___ a bus to school and I’m never late for class. After a day of classes, I go home ___5___ with my good friends. I sometimes go to a(n) ___6___ with my parents for dinner. I go to bed at 9:30 p.m.\n\nOn Saturday morning, I also like to ___7___ early and have a nice breakfast at home. It makes me feel ___8___ . Then I take a swimming lesson. In the afternoon, I often visit my grandparents. On Sunday morning, I always help my parents ___9___ housework. In the afternoon, I usually do some reading. Then I ___10___ with my friends in a sports club.\n\nMy family and I really like our life in China.",
+    "passageHtml": "<p><span class=\"ind\">I am an English boy called Bill. My Chinese name is Li Xiang. I live in China with my parents now. I’m a <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> in No.2 Middle School.</span></p><p><span class=\"ind\">I usually get up at about 6:30 a.m. in the morning. First, I brush my <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> and wash my face. Then, I get dressed and have <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> with my family. I often have milk, bread and some fruit. I <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> a bus to school and I’m never late for class. After a day of classes, I go home <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> with my good friends. I sometimes go to a(n) <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> with my parents for dinner. I go to bed at 9:30 p.m.</span></p><p><span class=\"ind\">On Saturday morning, I also like to <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> early and have a nice breakfast at home. It makes me feel <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> . Then I take a swimming lesson. In the afternoon, I often visit my grandparents. On Sunday morning, I always help my parents <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> housework. In the afternoon, I usually do some reading. Then I <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> with my friends in a sports club.</span></p><p><span class=\"ind\">My family and I really like our life in China.</span></p>",
+    "intro": "本文是一篇记叙文，作者比尔（中文名李翔）讲述了自己作为中学生在中国的日常生活和周末活动安排，表达了对中国生活的喜爱。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "doctor",
+          "reporter",
+          "teacher",
+          "student"
+        ],
+        "ans": "D",
+        "exp": "句意：我是第二中学的一名学生。\ndoctor医生；reporter记者；teacher老师；student学生。根据“No.2 Middle School”以及全文描述的日常作息，如上学、放学、上课等，可知作者是一名在校学生。故选D。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "feet",
+          "hands",
+          "teeth",
+          "head"
+        ],
+        "ans": "C",
+        "exp": "句意：首先，我刷牙并洗脸。\nfeet脚；hands手；teeth牙齿；head头。 根据“First, I brush my...and wash my face. ”可知，是刷牙。构成固定搭配“brush one’s teeth”（刷牙）。故选C。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "dinner",
+          "lunch",
+          "breakfast",
+          "supper"
+        ],
+        "ans": "C",
+        "exp": "句意：然后，我穿好衣服和我的家人一起吃早餐。\ndinner晚餐；lunch午餐；breakfast早餐；supper晚饭。 根据前文“I usually get up at about 6:30 a.m.”以及后文“I often have milk, bread and some fruit”，可知这是描述早餐。故选C。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "buy",
+          "take",
+          "make",
+          "send"
+        ],
+        "ans": "B",
+        "exp": "句意：我乘公交车去上学，而且上课从不迟到。\nbuy买；take乘坐；make制作；send发送。 此处表示交通方式，固定搭配“take a bus”意为“乘坐公交车”。故选B。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "happy",
+          "happily",
+          "special",
+          "specially"
+        ],
+        "ans": "B",
+        "exp": "句意：上了一天课后，我和我的好朋友们快乐地回家。\nhappy快乐的（形容词）；happily快乐地（副词）；special特别的（形容词）；specially特别地（副词）。 根据“After a day of classes, I go home...with my good friends.”可知，此处需要副词修饰动词“go home”，表示“开心地回家”。故选B。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "restaurant",
+          "supermarket",
+          "park",
+          "office"
+        ],
+        "ans": "A",
+        "exp": "句意：我有时和我的父母去餐馆吃晚饭。\nrestaurant餐馆；supermarket超市；park公园；office办公室。 根据“for dinner”可知，外出吃晚饭通常去餐馆。故选A。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "get up",
+          "get away",
+          "get off",
+          "get on"
+        ],
+        "ans": "A",
+        "exp": "句意：在周六早上，我也喜欢早起，并在家吃一顿美味的早餐。\nget up起床；get away离开；get off下车；get on上车。 根据后文“have a nice breakfast at home”以及“early”，可知是“早起”。故选A。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "bad",
+          "good",
+          "bored",
+          "funny"
+        ],
+        "ans": "B",
+        "exp": "句意：这让我感觉很好。\nbad坏的；good好的；bored无聊的；funny有趣的。 根据前文“have a nice breakfast”，一顿美好的早餐会让人感觉良好。故选B。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "at",
+          "for",
+          "with",
+          "in"
+        ],
+        "ans": "C",
+        "exp": "句意：在周日早上，我总是帮助我的父母做家务。\nat在；for为了；with用；in在……里。 此处考查固定搭配“help sb. with sth.”，意为“帮助某人做某事”。故选C。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "go shopping",
+          "play chess",
+          "do homework",
+          "play tennis"
+        ],
+        "ans": "D",
+        "exp": "句意：然后我和我的朋友们在体育俱乐部打网球。\ngo shopping购物；play chess下棋；do homework做作业；play tennis打网球。 根据地点“in a sports club”（体育俱乐部），最合理的活动是进行体育运动，“play tennis”符合。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_11",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "13岁男孩夏新（Xia Xin"
+    ],
+    "title": "七上完型 · 十一 13岁男孩夏新（Xia Xin",
+    "passage": "Hi, I am Xia Xin, a 13-year-old boy. I have a ___1___ family. All my family love doing sports and other fun things.\n\nMy ___2___ is 68. He is very healthy, and he is interested in Tai Chi (太极). He does it in the park for an hour every morning. My grandma is 67. She buys many kinds of fruits and vegetables every day because she likes to ___3___ them. She always makes them into a delicious salad. And she is very healthy too.\n\nMy mother is an English ___4___ in a middle school. She teaches well and she is popular (受欢迎的) with her ___5___ .  My father is a doctor. He is ___6___ and has little time for fun. He likes football, but he can only ___7___ it in his free time.\n\nI am never late for school because I ___8___ early every morning. I like ___9___ . I listen to my English teacher carefully in class. I think it is important to learn English. Basketball is my ___10___ sport, and I can play it well. I am a nice boy, so my teachers and classmates all like me.",
+    "passageHtml": "<p><span class=\"ind\">Hi, I am Xia Xin, a 13-year-old boy. I have a <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> family. All my family love doing sports and other fun things.</span></p><p><span class=\"ind\">My <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> is 68. He is very healthy, and he is interested in Tai Chi (太极). He does it in the park for an hour every morning. My grandma is 67. She buys many kinds of fruits and vegetables every day because she likes to <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> them. She always makes them into a delicious salad. And she is very healthy too.</span></p><p><span class=\"ind\">My mother is an English <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> in a middle school. She teaches well and she is popular (受欢迎的) with her <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> .  My father is a doctor. He is <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> and has little time for fun. He likes football, but he can only <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> it in his free time.</span></p><p><span class=\"ind\">I am never late for school because I <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> early every morning. I like <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> . I listen to my English teacher carefully in class. I think it is important to learn English. Basketball is my <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> sport, and I can play it well. I am a nice boy, so my teachers and classmates all like me.</span></p>",
+    "intro": "本文主要讲述了13岁男孩夏新（Xia Xin）的家庭成员及其日常生活，包括家人的兴趣爱好、职业特点以及他自己的学习与运动习惯。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "new",
+          "quiet",
+          "great",
+          "clever"
+        ],
+        "ans": "C",
+        "exp": "句意：我有一个很棒的家庭。\nnew新的；quiet安静的；great棒的；clever聪明的。根据“All my family love doing sports and other fun things”可知，家庭氛围很好，应选褒义词，用great。故选C。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "grandfather",
+          "grandmother",
+          "father",
+          "mother"
+        ],
+        "ans": "A",
+        "exp": "句意：我的祖父68岁了。\ngrandfather祖父；grandmother祖母；father父亲；mother母亲。根据“...is 68.”和后文提到“My grandma is 67. ”为女性可推断，此处应为男性长辈，且是老年人，所以应是祖父。故选A。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "wash",
+          "plant",
+          "draw",
+          "eat"
+        ],
+        "ans": "D",
+        "exp": "句意：她每天买各种各样的水果和蔬菜，因为她喜欢吃它们。\nwash清洗；plant种植；draw绘画；eat吃。根据“buys many kinds of fruits and vegetables”可知，买水果和蔬菜应是因为喜欢吃。故选D。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "nurse",
+          "driver",
+          "teacher",
+          "doctor"
+        ],
+        "ans": "C",
+        "exp": "句意：我妈妈是一所中学的英语老师。\nnurse护士；driver司机；teacher老师；doctor医生。根据“She teaches well”可知，职业是教师。故选C。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "cousins",
+          "students",
+          "friends",
+          "parents"
+        ],
+        "ans": "B",
+        "exp": "句意：她教得很好，在她的学生中很受欢迎。\ncousins表亲；students学生；friends朋友；parents父母。根据“English teacher”可知，妈妈是老师，所以是受学生欢迎。故选B。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "slow",
+          "busy",
+          "sad",
+          "tidy"
+        ],
+        "ans": "B",
+        "exp": "句意：他很忙，几乎没有娱乐时间。\nslow慢的；busy忙碌的；sad悲伤的；tidy整洁的。根据“has little time for fun”可知，他工作繁忙。故选B。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "buy",
+          "take",
+          "read",
+          "play"
+        ],
+        "ans": "D",
+        "exp": "句意：他喜欢足球，但只能在空闲时间踢足球。\nbuy购买；take拿走；read阅读；play踢，玩。根据“likes football”可知，动作应为“踢，玩”。故选D。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "get up",
+          "look up",
+          "pick up",
+          "clean up"
+        ],
+        "ans": "A",
+        "exp": "句意：我上学从不迟到，因为我每天早上都早起。\nget up起床；look up查阅；pick up捡起；clean up打扫。根据“never late for school”可知，不迟到应是因为每天都早起。故选A。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "science",
+          "maths",
+          "English",
+          "Chinese"
+        ],
+        "ans": "C",
+        "exp": "句意：我喜欢英语。\nscience科学；maths数学；English英语；Chinese语文。根据“I listen to my English teacher carefully in class. I think it is important to learn English.”可知，喜欢英语。故选C。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "old",
+          "hot",
+          "cute",
+          "favourite"
+        ],
+        "ans": "D",
+        "exp": "句意：篮球是我最喜欢的运动，我打得很好。\nold老的；hot热的；cute可爱的；favourite最喜欢的。根据“I can play it well”可知，篮球是首选爱好。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_12",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "篇目十二"
+    ],
+    "title": "七上完型 · 十二 篇目十二",
+    "passage": "Hello! I’m John. Now I'm at school. This is my ___1___ . Look! There are 51 desks and 50 chairs in it. ___2___ this desk. It is my desk. It is nice. Do you know its ___3___ ? It’s orange.\n\nMy schoolbag is on the desk. Some books, a pencil box and a watch are in my schoolbag. The ___4___ looks nice. It is useful because it can ___5___ me the time. I get it from my father. He gives it to me as a birthday ___6___ .\n\nIn my pencil box are ___7___ pencils: one red pencil and two yellow pencils. In fact, I don’t like red or yellow. My ___8___ colour is blue. I have many blue things.\n\nOh, where is my key? I can’t ___9___ it. It isn’t in my schoolbag. Is it on the desk? No, it isn’t. I must find it. Please ___10___ me if you see it. Let me tell you my phone number. It’s 627-1858. You can call me after school. Thank you so much.",
+    "passageHtml": "<p><span class=\"ind\">Hello! I’m John. Now I'm at school. This is my <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> . Look! There are 51 desks and 50 chairs in it. <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> this desk. It is my desk. It is nice. Do you know its <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> ? It’s orange.</span></p><p><span class=\"ind\">My schoolbag is on the desk. Some books, a pencil box and a watch are in my schoolbag. The <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> looks nice. It is useful because it can <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> me the time. I get it from my father. He gives it to me as a birthday <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">In my pencil box are <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> pencils: one red pencil and two yellow pencils. In fact, I don’t like red or yellow. My <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> colour is blue. I have many blue things.</span></p><p><span class=\"ind\">Oh, where is my key? I can’t <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> it. It isn’t in my schoolbag. Is it on the desk? No, it isn’t. I must find it. Please <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> me if you see it. Let me tell you my phone number. It’s 627-1858. You can call me after school. Thank you so much.</span></p>",
+    "intro": "本文是一篇记叙文，通过约翰在学校教室的介绍，描述了他的书桌、书包物品和颜色偏好，最后以寻找钥匙并留下联系方式结尾，展现了一个学生的日常校园生活片段。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "bedroom",
+          "school",
+          "classroom",
+          "house"
+        ],
+        "ans": "C",
+        "exp": "句意：这是我的教室。\nbedroom卧室；school学校；classroom教室；house房子。根据“This is my...”可知，从后文提到里面有桌椅可知，这里说的是“教室”，“classroom”符合语境。故选C。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "Look at",
+          "Wake up",
+          "Get up",
+          "Write down"
+        ],
+        "ans": "A",
+        "exp": "句意：看这张桌子。\nLook at看；Wake up醒来；Get up起床；Write down写下。根据“...this desk.”可知，这里是让对方“看”桌子，“Look at”符合语境。故选A。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "number",
+          "colour",
+          "subject",
+          "name"
+        ],
+        "ans": "B",
+        "exp": "句意：你知道它的颜色吗？\nnumber数字；colour颜色；subject科目；name名字。根据后文回答“It’s orange.”可知，此处问的是“颜色”，“colour”符合语境。故选B。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "watch",
+          "book",
+          "bottle",
+          "key"
+        ],
+        "ans": "A",
+        "exp": "句意：这块手表看起来很漂亮。\nwatch手表；book书；bottle瓶子；key钥匙。根据“The...looks nice.”可知，前文提到书包里有手表，这里说“看起来漂亮”的是“手表”，“watch”符合语境。故选A。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "spell",
+          "start",
+          "tell",
+          "circle"
+        ],
+        "ans": "C",
+        "exp": "句意：它很有用，因为它能告诉我时间。\nspell拼写；start开始；tell告诉；circle圈出。根据“It is useful because it can...me the time.”可知，“tell sb. sth.”表示“告诉某人某事”，这里说手表能“告诉”我时间，“tell”符合语境。故选C。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "eraser",
+          "carrot",
+          "yard",
+          "gift"
+        ],
+        "ans": "D",
+        "exp": "句意：他把它作为生日礼物送给我。\neraser橡皮；carrot胡萝卜；yard院子；gift礼物。根据“He gives it to me as a birthday...”可知，这里说父亲送手表作为“礼物”，“gift”符合语境。故选D。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "two",
+          "three",
+          "four",
+          "five"
+        ],
+        "ans": "B",
+        "exp": "句意：我的铅笔盒里有三支铅笔：一支红色铅笔和两支黄色铅笔。\ntwo二；three三；four四；five五。根据后文“one red pencil and two yellow pencils”可知，一共是“三支”铅笔，“three”符合语境。故选B。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "fun",
+          "kind",
+          "next",
+          "favourite"
+        ],
+        "ans": "D",
+        "exp": "句意：我最喜欢的颜色是蓝色。\nfun有趣的；kind善良的；next下一个；favourite最喜欢的。根据“My...colour is blue.”可知，这里说“我”“最喜欢的”颜色是蓝色，“favourite”符合语境。故选D。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "find",
+          "say",
+          "think",
+          "help"
+        ],
+        "ans": "A",
+        "exp": "句意：我找不到它了。\nfind找到；say说；think认为；help帮助。根据“I can’t...it.”可知，前文问钥匙在哪，这里说“找不到”，“find”符合语境。故选A。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "speak",
+          "play",
+          "call",
+          "make"
+        ],
+        "ans": "C",
+        "exp": "句意：如果你看到它，请给我打电话。\nspeak说；play玩；call打电话；make制作。根据“Please...me if you see it.”可知，从后文给出电话号码可知，这里是让对方“打电话”，“call”符合语境。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_13",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "Johnson一家的日常生活"
+    ],
+    "title": "七上完型 · 十三 Johnson一家的日常生活",
+    "passage": "The Johnson family is very loving. Mr. Johnson is a tall man with ___1___ and enjoys cooking. Mrs. Johnson is short and her favourite ___2___ is gardening. Their child, Lily, has long hair and likes singing and ___3___ .\n\nToday, Mr. Johnson makes cakes in the kitchen. Lily comes and asks, “Dad, may I have some cakes now?” Mr. Johnson ___4___ and pushes his glasses up, “Oh, dear. They still need a little time. Another five ___5___ !”\n\nMrs Johnson picks flowers from her garden. She ___6___ them in a vase, and says, “Look, Lily! The flowers are blooming (盛开).” Lily answers, “Yeah, they look really ___7___ !” Lily helps clean the table and sings her favourite song.\n\nAt last, the family sits ___8___ to enjoy the cakes. Lily shows her parents a drawing and her parents both like it. The afternoon is ___9___ . They know happiness is in ___10___ things: time together, cakes, flowers, and love.",
+    "passageHtml": "<p><span class=\"ind\">The Johnson family is very loving. Mr. Johnson is a tall man with <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> and enjoys cooking. Mrs. Johnson is short and her favourite <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> is gardening. Their child, Lily, has long hair and likes singing and <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">Today, Mr. Johnson makes cakes in the kitchen. Lily comes and asks, “Dad, may I have some cakes now?” Mr. Johnson <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> and pushes his glasses up, “Oh, dear. They still need a little time. Another five <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> !”</span></p><p><span class=\"ind\">Mrs Johnson picks flowers from her garden. She <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> them in a vase, and says, “Look, Lily! The flowers are blooming (盛开).” Lily answers, “Yeah, they look really <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> !” Lily helps clean the table and sings her favourite song.</span></p><p><span class=\"ind\">At last, the family sits <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> to enjoy the cakes. Lily shows her parents a drawing and her parents both like it. The afternoon is <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> . They know happiness is in <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> things: time together, cakes, flowers, and love.</span></p>",
+    "intro": "本文介绍了Johnson一家的日常生活，展现了家庭成员间的温馨互动和幸福时光。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "phones",
+          "books",
+          "glasses",
+          "photos"
+        ],
+        "ans": "C",
+        "exp": "句意：Johnson先生是一个戴着眼镜的高个子男人，喜欢烹饪。\nphones电话；books书；glasses眼镜；photos照片。根据“pushes his glasses up”可知，Johnson先生戴着眼镜。故选C。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "activity",
+          "class",
+          "sport",
+          "job"
+        ],
+        "ans": "A",
+        "exp": "句意：Johnson夫人个子矮，最喜欢的活动是园艺。\nactivity活动；class课；sport运动；job工作。根据“gardening”可知，园艺是一种日常活动。故选A。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "writing",
+          "drawing",
+          "speaking",
+          "hiking"
+        ],
+        "ans": "B",
+        "exp": "句意：他们的孩子Lily，有着长头发，喜欢唱歌和画画。\nwriting写作；drawing画画；speaking说话；hiking徒步。根据后文“Lily shows her parents a drawing”可知，Lily喜欢画画。故选B。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "waits",
+          "reads",
+          "laughs",
+          "jumps"
+        ],
+        "ans": "C",
+        "exp": "句意：Johnson先生笑着推了推眼镜。\nwaits等待；reads读；laughs笑；jumps跳。根据“Dad, may I have some cakes now?”可知，Johnson先生应是笑着回答女儿的请求。故选C。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "years",
+          "weeks",
+          "hours",
+          "minutes"
+        ],
+        "ans": "D",
+        "exp": "句意：还需要五分钟！\nyears年；weeks周；hours小时；minutes分钟。根据常识可知，蛋糕制作时间通常以分钟计算。故选D。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "counts",
+          "cleans",
+          "sells",
+          "puts"
+        ],
+        "ans": "D",
+        "exp": "句意：她把它们放在花瓶里，并说道：“看，Lily！这些花正在盛开。”\ncounts数数；cleans清洁；sells卖；puts放。根据“in a vase”可知，是指把花放在花瓶里。故选D。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "dirty",
+          "beautiful",
+          "small",
+          "strong"
+        ],
+        "ans": "B",
+        "exp": "句意：是的，它们看起来真漂亮！\ndirty脏的；beautiful漂亮的；small小的；strong强壮的。根据“The flowers are blooming”可知，是指花很漂亮。故选B。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "quietly",
+          "happily",
+          "sadly",
+          "tiredly"
+        ],
+        "ans": "B",
+        "exp": "句意：最后，一家人开心地坐着享用蛋糕。\nquietly安静地；happily开心地；sadly难过地；tiredly疲惫地。根据“enjoy the cakes.”可知，是开心地坐着享用蛋糕。故选B。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "full",
+          "free",
+          "great",
+          "cold"
+        ],
+        "ans": "C",
+        "exp": "句意：这个下午很棒。\nfull满的；free自由的；great极好的；cold冷的。根据前文介绍一家人做蛋糕、赏花及唱歌等温馨活动可知，这个下午是很好的。故选C。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "small",
+          "funny",
+          "tidy",
+          "different"
+        ],
+        "ans": "A",
+        "exp": "句意：他们知道幸福存在于小事中：一起共度时光、蛋糕、鲜花和爱。\nsmall小的；funny有趣的；tidy整洁的；different不同的。根据“time together, cakes, flowers, and love”可知，幸福存在于这些小事中。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_14",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "篇目十四"
+    ],
+    "title": "七上完型 · 十四 篇目十四",
+    "passage": "Students keep animals and grow vegetables at Zhuxi Middle School in Yangzhou, Jiangsu. The school has a small ___1___ . There are seven ducks, three chickens and a pig on the farm. There is also a place for ___2___ to grow vegetables. “We ___3___ potatoes and tomatoes here,” said one student in Grade 7. “Then, we will give them to the cooks at our school.”\n\nAnd Zhuxi Middle School is not the only one to let students do farm work. In Chongqing No. 1 Middle School, we can also see ___4___ and fruit on the top of the teaching building. Students grow them with the help of their parents and teachers. You can easily see their ___5___ faces when they are farming. They have a lot of fun there.\n\n“We feel so excited that we jump up and down happily when we see our hard work can ___6___ make the plants grow. And it’s really a good way for us to get close to nature (大自然) and ___7___ about nature at school. ”\n\nTeachers believe the students can know about subjects like biology (生物) more easily ___8___ students can see how they work in real life. What’s more, students can know that good results (结果) ___9___ hard work. They will also learn to be a ___10___ student by taking care of the animals and plants.\n\nMore schools may have a farm for students.",
+    "passageHtml": "<p><span class=\"ind\">Students keep animals and grow vegetables at Zhuxi Middle School in Yangzhou, Jiangsu. The school has a small <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> . There are seven ducks, three chickens and a pig on the farm. There is also a place for <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> to grow vegetables. “We <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> potatoes and tomatoes here,” said one student in Grade 7. “Then, we will give them to the cooks at our school.”</span></p><p><span class=\"ind\">And Zhuxi Middle School is not the only one to let students do farm work. In Chongqing No. 1 Middle School, we can also see <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> and fruit on the top of the teaching building. Students grow them with the help of their parents and teachers. You can easily see their <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> faces when they are farming. They have a lot of fun there.</span></p><p><span class=\"ind\">“We feel so excited that we jump up and down happily when we see our hard work can <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> make the plants grow. And it’s really a good way for us to get close to nature (大自然) and <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> about nature at school. ”</span></p><p><span class=\"ind\">Teachers believe the students can know about subjects like biology (生物) more easily <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> students can see how they work in real life. What’s more, students can know that good results (结果) <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> hard work. They will also learn to be a <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> student by taking care of the animals and plants.</span></p><p><span class=\"ind\">More schools may have a farm for students.</span></p>",
+    "intro": "本文是一篇记叙文，主要讲述了江苏扬州竹西中学和重庆第一中学的学生在学校参与农场活动的情况，包括饲养动物、种植蔬菜等，以及这些活动对学生学习和成长的积极影响。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "lake",
+          "room",
+          "shop",
+          "farm"
+        ],
+        "ans": "D",
+        "exp": "句意：江苏扬州竹西中学有一个小型农场。\nlake湖；room房间；shop商店；farm农场。根据“There are seven ducks, three chickens and a pig on the farm.”可知，学校有一个农场，故选D。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "parents",
+          "students",
+          "drivers",
+          "teachers"
+        ],
+        "ans": "B",
+        "exp": "句意：农场还有一个地方供学生种植蔬菜。\nparents父母；students学生；drivers司机；teachers老师。根据“Students keep animals and grow vegetables”可知，种植蔬菜的是学生，故选B。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "watch",
+          "have",
+          "plant",
+          "need"
+        ],
+        "ans": "C",
+        "exp": "句意：七年级的一名学生说：“我们在这里种植土豆和西红柿。”\nwatch观看；have有；plant种植；need需要。根据“potatoes and tomatoes”和“grow vegetables”可知，这里是种植蔬菜，故选C。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "vegetables",
+          "desks",
+          "tables",
+          "bookcases"
+        ],
+        "ans": "A",
+        "exp": "句意：在重庆第一中学，我们还可以在教学楼的顶部看到蔬菜和水果。\nvegetables蔬菜；desks桌子；tables桌子；bookcases书柜。根据“fruit”和“grow them”可知，与水果并列的是蔬菜，故选A。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "interesting",
+          "magic",
+          "boring",
+          "happy"
+        ],
+        "ans": "D",
+        "exp": "句意：当他们在农场工作时，很容易看到他们快乐的面孔。\ninteresting有趣的；magic魔法的；boring无聊的；happy快乐的。根据“They have a lot of fun there.”可知，学生们很开心，故选D。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "kindly",
+          "really",
+          "easily",
+          "specially"
+        ],
+        "ans": "B",
+        "exp": "句意：当我们看到我们的辛勤劳动真的能让植物生长时，我们感到非常兴奋，高兴得跳上跳下。\nkindly友好地；really真正地；easily容易地；specially特别地。根据“make the plants grow”可知，强调劳动确实能让植物生长，故选B。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "learn",
+          "talk",
+          "think",
+          "look"
+        ],
+        "ans": "A",
+        "exp": "句意：这对我们来说是一个很好的方式，让我们在学校亲近自然，了解自然。\nlearn学习；talk谈论；think思考；look看。根据“get close to ature (大自然)”和“about nature”可知，这里是学习自然知识，故选A。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "but",
+          "because",
+          "so",
+          "or"
+        ],
+        "ans": "B",
+        "exp": "句意：老师们相信，因为学生可以看到这些知识在现实生活中的应用，所以他们能更容易地理解生物等学科。\nbut但是；because因为；so所以；or或者。根据前后句的因果关系可知，这里用because引导原因状语从句，故选B。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "wake up",
+          "get up",
+          "come to",
+          "come from"
+        ],
+        "ans": "D",
+        "exp": "句意：更重要的是，学生们可以知道好的结果来自辛勤的工作。\nwake up醒来；get up起床；come to来到；come from来自。根据“hard work”可知，成果来自努力，故选D。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "funny",
+          "good",
+          "cute",
+          "handsome"
+        ],
+        "ans": "B",
+        "exp": "句意：他们还将通过照顾动物和植物学会成为一个好学生。\nfunny有趣的；good好的；cute可爱的；handsome英俊的。根据“learn to be”和上下文积极意义可知，这里指成为好学生，故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_15",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "作者的教室布局和学习用品"
+    ],
+    "title": "七上完型 · 十五 作者的教室布局和学习用品",
+    "passage": "Hello! I’m John. Now I’m at school. This is my ___1___ . Look! There are 51 desks and 50 chairs in it. ___2___ this desk. It is my desk. It is nice. Do you know its ___3___ ? It’s orange. My schoolbag is on the desk. Some books, a pencil box and a watch are in my schoolbag. The ___4___ looks nice. It is useful because it can ___5___ me the time. I get it from my father. He gives it to me as a ___6___ gift. In my pencil box are ___7___ pencils: one red pencil and two yellow pencils. In fact, I don’t like red or yellow. My ___8___ colour is blue. I have many blue things. Oh, where is my key? I can’t ___9___ it. It isn’t in my schoolbag. Is it on the desk? No, it isn’t. I must find it. Please ___10___ me if you see it. Let me tell you my phone number. It’s 627-1858. You can call me after school. Thank you so much.",
+    "passageHtml": "<p><span class=\"ind\">Hello! I’m John. Now I’m at school. This is my <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> . Look! There are 51 desks and 50 chairs in it. <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> this desk. It is my desk. It is nice. Do you know its <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> ? It’s orange. My schoolbag is on the desk. Some books, a pencil box and a watch are in my schoolbag. The <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> looks nice. It is useful because it can <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> me the time. I get it from my father. He gives it to me as a <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> gift. In my pencil box are <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> pencils: one red pencil and two yellow pencils. In fact, I don’t like red or yellow. My <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> colour is blue. I have many blue things. Oh, where is my key? I can’t <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> it. It isn’t in my schoolbag. Is it on the desk? No, it isn’t. I must find it. Please <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> me if you see it. Let me tell you my phone number. It’s 627-1858. You can call me after school. Thank you so much.</span></p>",
+    "intro": "本文介绍了作者的教室布局和学习用品。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "bedroom",
+          "school",
+          "classroom",
+          "house"
+        ],
+        "ans": "C",
+        "exp": "句意：这是我的教室。\nbedroom卧室；school学校；classroom教室；house房子。根据“There are 51 desks and 50 chairs in it.”可知，设空处是介绍教室。故选C。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "look at",
+          "wake up",
+          "get up",
+          "write down"
+        ],
+        "ans": "A",
+        "exp": "句意：看这张桌子。\nlook at看；wake up叫醒；get up起床；write down写下。根据“this desk”以及“It is my desk. It is nice.”可知，此处说看这张桌子。故选A。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "number",
+          "colour",
+          "subject",
+          "bell"
+        ],
+        "ans": "B",
+        "exp": "句意：你知道它的颜色吗？\nnumber数字；colour颜色；subject科目；bell铃。根据“It’s orange.”可知，此处是问颜色。故选B。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "watch",
+          "book",
+          "bottle",
+          "key"
+        ],
+        "ans": "A",
+        "exp": "句意：这个手表看起来不错。\nwatch手表；book书；bottle瓶子；key钥匙。根据“It is useful because it can...me the time.”可知，后文提到能告诉时间，此处指的是手表。故选A。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "spell",
+          "start",
+          "tell",
+          "circle"
+        ],
+        "ans": "C",
+        "exp": "句意：它很有用，因为它能告诉我时间。\nspell拼写；start开始；tell告诉；circle环绕。根据“me the time”可知，此处是说手表能够告诉“我”时间，tell sb. the time“告诉某人时间”。故选C。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "sport",
+          "homework",
+          "pet",
+          "birthday"
+        ],
+        "ans": "D",
+        "exp": "句意：他把它作为生日礼物送给我。\nsport运动；homework作业；pet宠物；birthday生日。根据“He gives it to me as a...gift.”可知，此处指手表是作为生日礼物。故选D。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "two",
+          "three",
+          "four",
+          "five"
+        ],
+        "ans": "B",
+        "exp": "句意：我的铅笔盒里有三支铅笔。\ntwo二；three三；four四；five五。根据“one red pencil and two yellow pencils”可知，一共有三支铅笔。故选B。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "fun",
+          "kind",
+          "next",
+          "favourite"
+        ],
+        "ans": "D",
+        "exp": "句意：我最喜欢的颜色是蓝色。\nfun有趣的；kind和蔼的；next下一个；favourite最喜欢的。根据“I have many blue things.”可知，此处指最喜欢的颜色是蓝色。故选D。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "find",
+          "say",
+          "think",
+          "help"
+        ],
+        "ans": "A",
+        "exp": "句意：我找不到它了。\nfind找到；say说；think认为；help帮助。根据“Oh, where is my key? I can’t...it.”可知，此处指找不到钥匙了。故选A。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "speak",
+          "play",
+          "call",
+          "make"
+        ],
+        "ans": "C",
+        "exp": "句意：如果你看到它，请给我打电话。\nspeak说；play玩；call打电话；make制作。根据“You can call me after school.”可知，此处是让打电话。故选C。\nI’m a middle school student in Jingdezhen, Jiangxi. Let me tell you something about a famous     649     in our city. His name is Li Junyong, but we call him Brother Chicken Chop (鸡排), because he has a small     650     stall (摊) and it sells chicken chops. He is about fifty years old, so he is not very     651    . But he is full of energy every day."
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_16",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "江西景德镇一位卖鸡排的摊主李俊"
+    ],
+    "title": "七上完型 · 十六 江西景德镇一位卖鸡排的摊主李俊",
+    "passage": "I’m a middle school student in Jingdezhen, Jiangxi. Let me tell you something about a famous ___1___ in our city. His name is Li Junyong, but we call him Brother Chicken Chop (鸡排), because he has a small ___2___ stall (摊) and it sells chicken chops. He is about fifty years old, so he is not very ___3___ . But he is full of energy every day.\n\nThere are always many people waiting in front of his stall. Why? Because he ___4___ hard and makes his food very delicious every day. What’s more, he is very ___5___ to his customers (顾客). Brother Chicken Chop is also funny. He always smiles and ___6___ to make people laugh. Many students would ___7___ to go to his stall to try the chicken chop after school. It is only five or six yuan for one. That’s not too much ___8___ for students!\n\nNow he is famous on the Internet, but he says he will ___9___ selling (卖) chicken chops and try to make his chicken chops more delicious.\n\nWe all like Brother Chicken Chop. He is not just a ___10___ . He is also our friend. Do you want to come and try his chicken chops here? Welcome! I’m sure you will like them too!",
+    "passageHtml": "<p><span class=\"ind\">I’m a middle school student in Jingdezhen, Jiangxi. Let me tell you something about a famous <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> in our city. His name is Li Junyong, but we call him Brother Chicken Chop (鸡排), because he has a small <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> stall (摊) and it sells chicken chops. He is about fifty years old, so he is not very <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> . But he is full of energy every day.</span></p><p><span class=\"ind\">There are always many people waiting in front of his stall. Why? Because he <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> hard and makes his food very delicious every day. What’s more, he is very <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> to his customers (顾客). Brother Chicken Chop is also funny. He always smiles and <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> to make people laugh. Many students would <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> to go to his stall to try the chicken chop after school. It is only five or six yuan for one. That’s not too much <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> for students!</span></p><p><span class=\"ind\">Now he is famous on the Internet, but he says he will <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> selling (卖) chicken chops and try to make his chicken chops more delicious.</span></p><p><span class=\"ind\">We all like Brother Chicken Chop. He is not just a <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> . He is also our friend. Do you want to come and try his chicken chops here? Welcome! I’m sure you will like them too!</span></p>",
+    "intro": "本文介绍了江西景德镇一位卖鸡排的摊主李俊勇，他虽年近五十但充满活力，因食物美味、待人友善且幽默风趣而深受学生喜爱。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "woman",
+          "man",
+          "boy",
+          "child"
+        ],
+        "ans": "B",
+        "exp": "句意：让我告诉你我们城市一位著名的男士。\nwoman女人；man男人；boy男孩；child孩子。根据“His name is Li Junyong”可知是男性，且“about fifty years old”说明是成年男性。故选B。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "fruit",
+          "flower",
+          "dress",
+          "food"
+        ],
+        "ans": "D",
+        "exp": "句意：他有一个小的小吃摊位，卖鸡排。\nfruit水果；flower花；dress裙子；food食物。根据“sells chicken chops”可知是食品摊。故选D。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "fat",
+          "heavy",
+          "young",
+          "tall"
+        ],
+        "ans": "C",
+        "exp": "句意：他五十岁左右，所以不很年轻。\nfat胖的；heavy重的；young年轻的；tall高的。根据“about fifty years old”可知不是非常年轻。故选C。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "fishes",
+          "plays",
+          "counts",
+          "works"
+        ],
+        "ans": "D",
+        "exp": "句意：因为他工作很努力，每天都把他的食物做得很美味。\nfishes钓鱼；plays玩；counts数数；works工作。根据“makes his food very delicious every day”可知是工作努力。故选D。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "unkind",
+          "kind",
+          "impolite",
+          "unfriendly"
+        ],
+        "ans": "B",
+        "exp": "句意：更重要的是，他对顾客很友好。\nunkind不友善的；kind友善的；impolite不礼貌的；unfriendly不友好的。根据“always smiles”和“make people laugh”可知友善。故选B。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "tells jokes",
+          "plays ping-pong",
+          "keeps tidy",
+          "speaks Chinese"
+        ],
+        "ans": "A",
+        "exp": "句意：他总是微笑并讲笑话逗人笑。\ntells jokes讲笑话；plays ping-pong打乒乓球；keeps tidy保持整洁；speaks Chinese说中文。根据“make people laugh”可知应是讲笑话。故选A。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "like",
+          "need",
+          "learn",
+          "ask"
+        ],
+        "ans": "A",
+        "exp": "句意：很多学生放学后都想去他的摊位尝尝鸡排。\nlike喜欢；need需要；learn学习；ask询问。根据“try the chicken chop”可知表示去的意愿，would like to do sth“想要做某事”。故选A。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "work",
+          "fun",
+          "money",
+          "time"
+        ],
+        "ans": "C",
+        "exp": "句意：那对学生来说不是太多钱。\nwork工作；fun乐趣；money钱；time时间。根据“five or six yuan”可知指钱。故选C。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "keep",
+          "learn",
+          "begin",
+          "give up"
+        ],
+        "ans": "A",
+        "exp": "句意：现在他在网上很有名，但他说他会继续卖鸡排，并试着把他的鸡排做得更美味。\nkeep继续；learn学习；begin开始；give up放弃。根据“try to make his chicken chops more delicious”可知是继续经营。故选A。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "teacher",
+          "farmer",
+          "cook",
+          "policeman"
+        ],
+        "ans": "C",
+        "exp": "句意：他不只是一位厨师。\nteacher老师；farmer农民；cook厨师；policeman警察。根据前文“he has a small ... stall (摊) and it sells chicken chops”可知职业是厨师。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_17",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "一个叫李华的男孩"
+    ],
+    "title": "七上完型 · 十七 一个叫李华的男孩",
+    "passage": "Li Hua is a nice boy. When meeting new people, he always likes to ___1___ them with a smile. On his first day at school, he introduces himself to the class and he ___2___ his name clearly, L-I-H-U-A．After class, he often has a friendly ___3___ with his classmates.\n\nReading is his favorite ___4___ , and he reads books after supper every day. To do his homework well, he often goes to the ___5___ to find useful information. After school, he likes to ___6___ time with his cousin. His cousin is a tall and ___7___ boy who is good at playing soccer. Though they have ___8___ hobbies, they can learn from each other. Sometimes, Li Hua may make a small ___9___ in his homework and needs to correct it. He often asks his teacher, “What does this word ___10___ ?” and feels happy after he knows the answer. What a hard-working boy he is!",
+    "passageHtml": "<p><span class=\"ind\">Li Hua is a nice boy. When meeting new people, he always likes to <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> them with a smile. On his first day at school, he introduces himself to the class and he <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> his name clearly, L-I-H-U-A．After class, he often has a friendly <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> with his classmates.</span></p><p><span class=\"ind\">Reading is his favorite <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> , and he reads books after supper every day. To do his homework well, he often goes to the <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> to find useful information. After school, he likes to <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> time with his cousin. His cousin is a tall and <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> boy who is good at playing soccer. Though they have <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> hobbies, they can learn from each other. Sometimes, Li Hua may make a small <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> in his homework and needs to correct it. He often asks his teacher, “What does this word <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> ?” and feels happy after he knows the answer. What a hard-working boy he is!</span></p>",
+    "intro": "本文介绍了一个叫李华的男孩，他待人友好，喜欢阅读，勤奋好学，与表弟相处融洽。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "greet",
+          "tell",
+          "see",
+          "look"
+        ],
+        "ans": "A",
+        "exp": "句意：遇到新朋友时，他总是喜欢微笑着跟他们打招呼。\ngreet问候；tell告诉；see看见，强调结果；look看，强调动作。根据“When meeting new people”和“with a smile”可知，见到新朋友时，李华会微笑着打招呼。故选A。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "speaks",
+          "spells",
+          "says",
+          "reads"
+        ],
+        "ans": "B",
+        "exp": "句意：在他上学的第一天，他向全班做了自我介绍，且他把自己的名字拼写得很清楚，L-I-H-U-A。\nspeaks说；spells拼写；says说；reads读。根据“L-I-H-U-A”可知，此处是拼写名字。故选B。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "play",
+          "thing",
+          "conversation",
+          "meeting"
+        ],
+        "ans": "C",
+        "exp": "句意：下课后，他经常和同学们友好地交谈。\nplay玩乐；thing事情；conversation交谈；meeting会议。根据“has a friendly”可知，此处指课后进行友好交谈。故选C。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "hobby",
+          "picture",
+          "sport",
+          "colour"
+        ],
+        "ans": "A",
+        "exp": "句意：阅读是他最喜欢的爱好，且他每天晚饭后都读书。\nhobby爱好；picture图片；sport运动；colour颜色。根据“Reading”可知，阅读是爱好。故选A。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "library",
+          "hospital",
+          "park",
+          "supermarket"
+        ],
+        "ans": "A",
+        "exp": "句意：为了做好他的家庭作业，他经常去图书馆寻找有用的信息。\nlibrary图书馆；hospital医院；park公园；supermarket超市。根据“find useful information”可知，此处指去图书馆查找信息，然后做作业。故选A。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "start",
+          "let",
+          "spend",
+          "take"
+        ],
+        "ans": "C",
+        "exp": "句意：放学后，他喜欢和他的表弟一起度过时间。\nstart开始；let让；spend度过；take拿。根据“time with his cousin”可知，此处指放学后和表弟待在一起，度过时间。故选C。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "kind",
+          "strong",
+          "clever",
+          "fat"
+        ],
+        "ans": "B",
+        "exp": "句意：他的表弟是一个高大强壮的男孩，擅长踢足球。\nkind友好的；strong强壮的；clever聪明的；fat胖的。根据“good at playing soccer”可知，擅长踢足球的人通常是强壮的。故选B。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "different",
+          "same",
+          "favorite",
+          "easy"
+        ],
+        "ans": "A",
+        "exp": "句意：虽然他们有不同的爱好，但他们可以相互学习。\ndifferent不同的；same相同的；favorite最喜欢的；easy容易的。根据“Reading is his favorite hobby”和“who is good at playing soccer”可知，李华和表弟的爱好不同，一个喜欢读书，一个喜欢踢足球。故选A。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "problem",
+          "mistake",
+          "question",
+          "fun"
+        ],
+        "ans": "B",
+        "exp": "句意：有时，李华可能在他的家庭作业中犯了一个小错误，并需要改正它。\nproblem问题；mistake错误；question问题；fun乐趣。根据“correct it”可知，需要改正的是作业中的错误。故选B。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "do",
+          "mean",
+          "make",
+          "think"
+        ],
+        "ans": "B",
+        "exp": "句意：他经常问他的老师，“这个词是什么意思？”且当他知道答案后感到很高兴。\ndo做；mean意思是；make制作；think认为。根据“What does this word”和“after he knows the answer”可知，此处是询问单词的意思。故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_18",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "篇目十八"
+    ],
+    "title": "七上完型 · 十八 篇目十八",
+    "passage": "Hi, I’m a student in Beijing. I’m ___1___ here, so I don’t have many friends now. Can you be my friend? Now, let me tell you more about me. I’m thirteen years old. My English ___2___ is Bella. I’m good at English, so I can speak English ___3___ .  Also, I can speak some Chinese.\n\nI have many ___4___ things because my favourite colour is blue. ___5___ my skirt and hat. They are both blue. My favourite day of the week is Friday, because we have a music class that day. I love listening to music and I also like to ___6___ songs loudly.\n\nI live in a house with a ___7___ . There are fruit trees in it. I also ___8___ some flowers there. I usually water (浇水) them in the afternoon. After school, I often play games with my friends and have ___9___ .\n\nIf you want to know more about me, you can ___10___ me at 639-7651. It’s my phone number (号码)!",
+    "passageHtml": "<p><span class=\"ind\">Hi, I’m a student in Beijing. I’m <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> here, so I don’t have many friends now. Can you be my friend? Now, let me tell you more about me. I’m thirteen years old. My English <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> is Bella. I’m good at English, so I can speak English <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> .  Also, I can speak some Chinese.</span></p><p><span class=\"ind\">I have many <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> things because my favourite colour is blue. <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> my skirt and hat. They are both blue. My favourite day of the week is Friday, because we have a music class that day. I love listening to music and I also like to <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> songs loudly.</span></p><p><span class=\"ind\">I live in a house with a <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> . There are fruit trees in it. I also <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> some flowers there. I usually water (浇水) them in the afternoon. After school, I often play games with my friends and have <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">If you want to know more about me, you can <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> me at 639-7651. It’s my phone number (号码)!</span></p>",
+    "intro": "本文是Bella的自我介绍，内容包括个人情况、兴趣爱好和联系方式等。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "tall",
+          "warm",
+          "new",
+          "sorry"
+        ],
+        "ans": "C",
+        "exp": "句意：我刚到这儿，所以现在没有很多朋友。\ntall高的；warm温暖的；new新的；sorry抱歉的。根据“don’t have many friends now”可推断 ，“我”是新来的。故选C。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "bell",
+          "home",
+          "cap",
+          "name"
+        ],
+        "ans": "D",
+        "exp": "句意：我的英文名字是贝拉。\nbell铃铛；home家；cap帽子；name名字。根据“Bella”可知，此处指英文名字。故选D。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "nice",
+          "well",
+          "good",
+          "hard"
+        ],
+        "ans": "B",
+        "exp": "句意：我擅长英语，所以我英语说得很好。\nnice美好的；well好地；good好的；hard艰难的。此处需副词修饰动词 “speak”（说），应填“well”。故选B。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "white",
+          "brown",
+          "green",
+          "blue"
+        ],
+        "ans": "D",
+        "exp": "句意：我有很多蓝色的东西，因为我最喜欢的颜色是蓝色。\nwhite白色的；brown棕色的；green绿色的；blue蓝色的。根据“my favourite colour is blue”可知，物品是“蓝色的”，应填“blue”。故选D。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "Look  up",
+          "Welcome to",
+          "Speak to",
+          "Look at"
+        ],
+        "ans": "D",
+        "exp": "句意：看我的裙子和帽子。\nLook up查阅；Welcome to欢迎来到；Speak to和……说话；Look at看。根据“my skirt and hat”可知，此处是“看某物”，应填“Look at”。故选D。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "sing",
+          "see",
+          "lose",
+          "need"
+        ],
+        "ans": "A",
+        "exp": "句意：我喜欢听音乐，也喜欢大声唱歌。\nsing唱；see看见；lose丢失；need需要。与“songs”搭配用“sing”。故选A。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "school",
+          "park",
+          "museum",
+          "yard"
+        ],
+        "ans": "D",
+        "exp": "句意：我住在一个带院子的房子里。\nschool学校；park公园；museum博物馆；yard院子。根据“live in a house”和“there are fruit trees in it”可知，“it”指代“院子”，应填“yard”。故选D。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "plant",
+          "greet",
+          "buy",
+          "spell"
+        ],
+        "ans": "A",
+        "exp": "句意：我还在那儿种了一些花。\nplant种植；greet问候；buy买；spell拼写。根据“I usually water them”可知，“them”指代“种的花”，应填“plant”。故选A。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "breakfast",
+          "fun",
+          "time",
+          "class"
+        ],
+        "ans": "B",
+        "exp": "句意：放学后，我经常和朋友们玩游戏，玩得很开心。\nbreakfast早餐；fun乐趣；time时间；class班级。“have fun”是固定搭配，意为“玩得开心”，符合“play games”（玩游戏）的语境，应填“fun”。故选B。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "show",
+          "thank",
+          "call",
+          "meet"
+        ],
+        "ans": "C",
+        "exp": "句意：如果你想了解更多关于我的事情，可以打639-7651这个电话找我。\nshow展示；thank感谢；call打电话；meet遇见。根据“639-7651. It’s my phone number”可知，此处指“打电话”，应填“call”。故选C。\nDear Jane,"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_19",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "几种具有代表性的中国食物及其文"
+    ],
+    "title": "七上完型 · 十九 几种具有代表性的中国食物及其文",
+    "passage": "Dear Jane,\n\nHow are things going these days? I’m writing to let you know about Chinese food.\n\nHow many ___1___ of Chinese food do you know? I’d like to ___2___ you some specials in the local restaurant. ___3___ Ⅰ is noodles. There are many ___4___ kinds of noodles in China, like hand-rolled noodles, pulled noodles, knife-cut noodles and fried noodles. For each Chinese person, noodles stand for a long life. That is why it is so popular for everyone.\n\nSpecial Ⅱ is ___5___ . They are quite famous. I think you must know ___6___ . They are made of vegetables and meat. There are ___7___ kinds of Chinese specials in the famous cartoon movie Kung Fu Panda: noodles and fried jiaozi.\n\n686     we also have another kind of jiaozi. The word jiaozi in Chinese means the end of winter and the beginning of spring. It is one of the main foods that we eat during the Spring Festival. It is a symbol of family reunion (团聚). We often eat boiled jiaozi ___9___ Chinese New Year’s Eve (除夕). Now, there are lots of jiaozi restaurants everywhere and people can enjoy it whenever they like it.\n\nI like Chinese food very much. I hope you like it, ___10___ .",
+    "passageHtml": "<p><span class=\"ind\">Dear Jane,</span></p><p><span class=\"ind\">How are things going these days? I’m writing to let you know about Chinese food.</span></p><p><span class=\"ind\">How many <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> of Chinese food do you know? I’d like to <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> you some specials in the local restaurant. <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> Ⅰ is noodles. There are many <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> kinds of noodles in China, like hand-rolled noodles, pulled noodles, knife-cut noodles and fried noodles. For each Chinese person, noodles stand for a long life. That is why it is so popular for everyone.</span></p><p><span class=\"ind\">Special Ⅱ is <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> . They are quite famous. I think you must know <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> . They are made of vegetables and meat. There are <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> kinds of Chinese specials in the famous cartoon movie Kung Fu Panda: noodles and fried jiaozi.</span></p><p><span class=\"ind\">686     we also have another kind of jiaozi. The word jiaozi in Chinese means the end of winter and the beginning of spring. It is one of the main foods that we eat during the Spring Festival. It is a symbol of family reunion (团聚). We often eat boiled jiaozi <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> Chinese New Year’s Eve (除夕). Now, there are lots of jiaozi restaurants everywhere and people can enjoy it whenever they like it.</span></p><p><span class=\"ind\">I like Chinese food very much. I hope you like it, <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> .</span></p>",
+    "intro": "本文介绍了几种具有代表性的中国食物及其文化内涵。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "pairs",
+          "kinds",
+          "groups",
+          "sizes"
+        ],
+        "ans": "B",
+        "exp": "句意：你知道多少种中国食物？\npairs对；kinds种类；groups组；sizes尺寸。询问食物种类使用“how many kinds of”。故选B。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "tell",
+          "speak",
+          "talk",
+          "say"
+        ],
+        "ans": "A",
+        "exp": "句意：我想告诉你当地餐馆的一些特色菜。\ntell告诉；speak说（语言）；talk交谈；say说（内容）。固定搭配“tell sb. sth.”意为“告诉某人某事”。故选A。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "Food",
+          "Drink",
+          "Fruit",
+          "Special"
+        ],
+        "ans": "D",
+        "exp": "句意：特色菜一是面条。\nFood食物；Drink饮料；Fruit水果；Special特色菜。根据上文“specials in the local restaurant”及下文“Special Ⅱ”可知，此处介绍第一种特色菜。故选D。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "different",
+          "same",
+          "interesting",
+          "delicious"
+        ],
+        "ans": "A",
+        "exp": "句意：中国有许多不同种类的面条，比如手擀面、拉面、刀削面和炒面。\ndifferent不同的；same相同的；interesting有趣的；delicious美味的。根据后文“like hand-rolled noodles, pulled noodles, knife-cut noodles and fried noodles.”列举的面条种类可知，强调种类“不同”。故选A。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "porridge",
+          "jiaozi",
+          "hamburgers",
+          "cakes"
+        ],
+        "ans": "B",
+        "exp": "句意：特色菜二是饺子，它们非常有名。\nporridge粥；jiaozi饺子；hamburgers汉堡；cakes蛋糕。根据下文“They are made of vegetables and meat.”及“Kung Fu Panda: noodles and fried jiaozi.”可知，电影中提到面条和饺子，且上一段已经介绍了面条，则本段主要介绍饺子。故选B。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "their",
+          "they",
+          "it",
+          "them"
+        ],
+        "ans": "D",
+        "exp": "句意：我想你一定知道它们。\ntheir它们的；they它们（主格）；it它；them它们（宾格）。根据“Special Ⅱ is…they are quite famous”可知，此处指代前文“they”，即“饺子”，且作动词know的宾语，需用宾格。故选D。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "two",
+          "three",
+          "four",
+          "five"
+        ],
+        "ans": "A",
+        "exp": "句意：在著名的卡通电影《功夫熊猫》中有两种中国特色食物：面条和煎饺。\ntwo二；three三；four四；five五。根据“noodles and fried jiaozi”可知是两种。故选A。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "As",
+          "Or",
+          "So",
+          "But"
+        ],
+        "ans": "D",
+        "exp": "句意：但是我们还有另一种饺子。\nAs因为；Or或者；So所以；But但是。此处与上文提到的煎饺形成转折，引出另一种饺子。故选D。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "in",
+          "on",
+          "at",
+          "of"
+        ],
+        "ans": "B",
+        "exp": "句意：我们经常在除夕夜吃水饺。\nin用于年、月；on用于具体某一天；at用于具体时刻；of……的。“Chinese New Year’s EVE”（除夕）是特定的一天，需用介词on。故选B。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "too",
+          "either",
+          "also",
+          "as well"
+        ],
+        "ans": "A",
+        "exp": "句意：我希望你也喜欢它。\ntoo也（用于肯定句句末）；either也（用于否定句句末）；also也（用于句中）；as well也（用于句末，语气正式）。此处为肯定句句末，表达“也”用too。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_20",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "篇目二十"
+    ],
+    "title": "七上完型 · 二十 篇目二十",
+    "passage": "In Langlang Mountain, there’s a little monster called Xiao Hei. He works for the Mountain King. Every morning, he ___1___ up early to collect firewood (柴火). The work is tiring, but he ___2___ complains (抱怨).\n\nOne day, the Mountain King gives him a new task (任务): “Go to the east hill and ___3___ three red fruits. They can make me strong.” Xiao Hei takes a bag and starts his trip.\n\nThe road to east hill is ___4___ . There are big stones (石头) everywhere. He falls down twice, but he gets up and goes ___5___ . On the way, he meets a small rabbit. Its leg is hurt. Xiao Hei stops to bandage (包扎) it. The rabbit says “thank you” ___6___ him.\n\nAfter a long walk, he ___7___ the east hill. He finds the red fruits on a tall tree. He climbs up the tree ___8___ picks them carefully. When he gets back, it’s already evening.\n\nThe Mountain King is waiting for him. He sees the fruits and says, “You’re so ___9___ !” He even gives Xiao Hei a small cake. Xiao Hei eats the cake and feels very ___10___ . He thinks hard work is always worth (值得的) it.",
+    "passageHtml": "<p><span class=\"ind\">In Langlang Mountain, there’s a little monster called Xiao Hei. He works for the Mountain King. Every morning, he <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> up early to collect firewood (柴火). The work is tiring, but he <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> complains (抱怨).</span></p><p><span class=\"ind\">One day, the Mountain King gives him a new task (任务): “Go to the east hill and <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> three red fruits. They can make me strong.” Xiao Hei takes a bag and starts his trip.</span></p><p><span class=\"ind\">The road to east hill is <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> . There are big stones (石头) everywhere. He falls down twice, but he gets up and goes <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> . On the way, he meets a small rabbit. Its leg is hurt. Xiao Hei stops to bandage (包扎) it. The rabbit says “thank you” <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> him.</span></p><p><span class=\"ind\">After a long walk, he <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> the east hill. He finds the red fruits on a tall tree. He climbs up the tree <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> picks them carefully. When he gets back, it’s already evening.</span></p><p><span class=\"ind\">The Mountain King is waiting for him. He sees the fruits and says, “You’re so <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> !” He even gives Xiao Hei a small cake. Xiao Hei eats the cake and feels very <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> . He thinks hard work is always worth (值得的) it.</span></p>",
+    "intro": "本文是一篇记叙文，讲述了小怪物小黑为山王工作的故事。他每天早起砍柴，虽然工作辛苦但从不抱怨。后来他接受新任务去东山寻找红色果实，克服困难完成任务并帮助受伤的兔子，最终获得山王的称赞和奖励。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "gets",
+          "stands",
+          "takes",
+          "makes"
+        ],
+        "ans": "A",
+        "exp": "句意：每天早晨，他早起去收集柴火。\ngets得到；stands站立；takes拿；makes制作。根据“Every morning, he…up early to collect firewood”可知，此处是“起床”的固定搭配“get up”。故选A。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "often",
+          "usually",
+          "always",
+          "never"
+        ],
+        "ans": "D",
+        "exp": "句意：工作很累，但他从不抱怨。\noften经常；usually通常；always总是；never从不。根据“The work is tiring, but he…complains”中but的转折关系可知，小黑不抱怨。故选D。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "look",
+          "grow",
+          "buy",
+          "find"
+        ],
+        "ans": "D",
+        "exp": "句意：去东山找到三个红色果实。\nlook看；grow种植；buy买；find找到。根据“Go to the east hill and…three red fruits”可知，山王要求小黑“找到”果实。故选D。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "easy",
+          "safe",
+          "difficult",
+          "short"
+        ],
+        "ans": "C",
+        "exp": "句意：去东山的路很艰难。\neasy容易的；safe安全的；difficult困难的；short短的。根据“There are big stones (石头) everywhere. He falls down twice”可知，路上布满石头且摔倒，说明路难走。故选C。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "on",
+          "in",
+          "out",
+          "down"
+        ],
+        "ans": "A",
+        "exp": "句意：他摔倒两次，但他起来继续前进。\non在……上；in在……里；out外面；down向下。根据“he gets up and goes…”可知，短语“go on”表示“继续前进”。故选A。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "for",
+          "to",
+          "with",
+          "at"
+        ],
+        "ans": "B",
+        "exp": "句意：兔子对他说“谢谢”。\nfor为了；to向；with和；at在。固定搭配“say thank you to sb.”表示“向某人道谢”。故选B。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "arrives",
+          "reaches",
+          "gets",
+          "comes"
+        ],
+        "ans": "B",
+        "exp": "句意：走了很久后，他到达了东山。\narrives到达（需接at/in）；reaches到达；gets得到；comes来。根据“After a long walk, he…the east hill”可知，reach可直接接地点，表示“到达”。故选B。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "so",
+          "but",
+          "and",
+          "or"
+        ],
+        "ans": "C",
+        "exp": "句意：他爬上树并小心地摘下果实。\nso所以；but但是；and并且；or或者。根据“He climbs up the tree…picks them carefully”可知，爬树和摘果实是顺承动作，用and。故选C。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "lazy",
+          "stupid",
+          "slow",
+          "good"
+        ],
+        "ans": "D",
+        "exp": "句意：他看到果实说：“你真好！”\nlazy懒惰的；stupid愚蠢的；slow慢的；good好的。根据“He sees the fruits and says…”可知，山王因小黑完成任务而表扬他。故选D。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "sad",
+          "happy",
+          "angry",
+          "tired"
+        ],
+        "ans": "B",
+        "exp": "句意：小黑吃了蛋糕，感到很开心。\nsad悲伤的；happy开心的；angry生气的；tired疲惫的。根据“He thinks hard work is always worth (值得的) it.”可知，小黑觉得付出值得，心情愉悦。故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_21",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "约翰·布朗的大家庭以及他们的兴"
+    ],
+    "title": "七上完型 · 二十一 约翰·布朗的大家庭以及他们的兴",
+    "passage": "John Brown has a big family. Let’s look at his family tree. These are his grandparents. His grandfather’s ___1___ is Peter Brown. Cindy is his grandma. She wears a ___2___ jacket. Her favorite colors are white and purple. They have two sons, Frank and Dale, and a ___3___ , Helen. Frank is John’s father. He can play the ___4___ well. Dale is John’s uncle. He has so many animals on his big ___5___ , such as horses, ducks, ___6___ and cows.\n\n705    is that girl? She is John’s ___8___ . She is his uncle’s daughter and her name is Mary. She loves gardening, so she spends a lot of time on the ___9___ every day. Eric is John’s brother. He always goes ___10___ on weekends because he likes travelling on foot.",
+    "passageHtml": "<p><span class=\"ind\">John Brown has a big family. Let’s look at his family tree. These are his grandparents. His grandfather’s <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> is Peter Brown. Cindy is his grandma. She wears a <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> jacket. Her favorite colors are white and purple. They have two sons, Frank and Dale, and a <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> , Helen. Frank is John’s father. He can play the <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> well. Dale is John’s uncle. He has so many animals on his big <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> , such as horses, ducks, <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> and cows.</span></p><p><span class=\"ind\">705    is that girl? She is John’s <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> . She is his uncle’s daughter and her name is Mary. She loves gardening, so she spends a lot of time on the <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> every day. Eric is John’s brother. He always goes <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> on weekends because he likes travelling on foot.</span></p>",
+    "intro": "本文介绍了约翰·布朗的大家庭以及他们的兴趣爱好和活动。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "family name",
+          "first name",
+          "full name",
+          "last name"
+        ],
+        "ans": "C",
+        "exp": "句意：他祖父的全名是彼得·布朗。\nfamily name姓；first name名；full name全名；last name姓。根据“Peter Brown”可知，此处说的是全名，故选C。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "black",
+          "pink",
+          "purple",
+          "blue"
+        ],
+        "ans": "C",
+        "exp": "句意：她穿着一件紫色夹克。\nblack黑色；pink粉色；purple紫色；blue蓝色。根据“Her favorite colors are white and purple.”可知，她穿着紫色夹克，故选C。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "daughter",
+          "boy",
+          "cousin",
+          "aunt"
+        ],
+        "ans": "A",
+        "exp": "句意：他们有两个儿子，弗兰克和戴尔，还有一个女儿，海伦。\ndaughter女儿；boy男孩；cousin堂兄弟；aunt阿姨。根据“They have two sons”可知，此处是介绍他们的女儿，故选A。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "guitar",
+          "chess",
+          "tennis",
+          "ping- pong"
+        ],
+        "ans": "A",
+        "exp": "句意：他吉他弹得很好。\nguitar吉他；chess象棋；tennis网球；ping-pong乒乓球。根据“play the”可知，能用the修饰的是乐器，故选A。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "garden",
+          "grass",
+          "farm",
+          "house"
+        ],
+        "ans": "C",
+        "exp": "句意：他的大农场里有很多动物，比如马、鸭子、绵羊和奶牛。\ngarden花园；grass草地；farm农场；house房子。根据“He has so many animals”可知，动物是在农场，故选C。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "chicken",
+          "sheep",
+          "goose",
+          "dog"
+        ],
+        "ans": "B",
+        "exp": "句意：他的大农场里有很多动物，比如马、鸭子、绵羊和奶牛。\nchicken鸡肉，鸡；sheep绵羊；goose鹅；dog狗。根据“such as horses, ducks...and cows”可知，此处名词应用复数形式，而A、C、D均为单数名词，故选B。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "What",
+          "Who",
+          "Where",
+          "How"
+        ],
+        "ans": "B",
+        "exp": "句意：那个女孩是谁？\nWhat什么；Who谁；Where哪里；How怎样。根据“She is John’s...”可知，此处是问女孩是谁，故选B。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "classmate",
+          "sister",
+          "cousin",
+          "aunt"
+        ],
+        "ans": "C",
+        "exp": "句意：她是约翰的表妹。\nclassmate同学；sister姐妹；cousin堂兄弟，堂姐妹；aunt阿姨。根据“She is his uncle’s daughter”可知，此处指的是堂姐妹，故选C。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "cats",
+          "plants",
+          "books",
+          "homework"
+        ],
+        "ans": "B",
+        "exp": "句意：她喜欢园艺，所以她每天花很多时间在植物上。\ncats猫；plants植物；books书；homework作业。根据“She loves gardening”可知，她很多时间花在植物上，故选B。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "hiking",
+          "shopping",
+          "dancing",
+          "running"
+        ],
+        "ans": "A",
+        "exp": "句意：他周末总是去徒步旅行，因为他喜欢步行旅行。\nhiking远足；shopping购物；dancing跳舞；running跑步。根据“because he likes travelling on foot.”可知，此处指的是她周末去远足，故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_22",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "篇目二十二"
+    ],
+    "title": "七上完型 · 二十二 篇目二十二",
+    "passage": "This term, I have a good friend in my new school. Do you want to know about my friend? Let me tell you. ___1___ name is Alice. She and I are in the same class. So she is my ___2___ . She is a volleyball (排球) ___3___ in our school. All of us like to watch her volleyball games. Alice thinks volleyball is ___4___ and relaxing. She plays it five days a week. So she is ___5___ good at playing volleyball. And we would ___6___ to play it with her after school.\n\nAlice says she wants to be a great ___7___ player. So she needs to keep healthy. She always has an apple, one banana, some milk and two eggs for ___8___ . For lunch, she eats some rice, ___9___ and some vegetables. For dinner, she always eats vegetable salad. After dinner, Alice likes to watch volleyball games on ___10___ with her parents at home. Would you like to make friends with her?",
+    "passageHtml": "<p><span class=\"ind\">This term, I have a good friend in my new school. Do you want to know about my friend? Let me tell you. <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> name is Alice. She and I are in the same class. So she is my <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> . She is a volleyball (排球) <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> in our school. All of us like to watch her volleyball games. Alice thinks volleyball is <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> and relaxing. She plays it five days a week. So she is <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> good at playing volleyball. And we would <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> to play it with her after school.</span></p><p><span class=\"ind\">Alice says she wants to be a great <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> player. So she needs to keep healthy. She always has an apple, one banana, some milk and two eggs for <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> . For lunch, she eats some rice, <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> and some vegetables. For dinner, she always eats vegetable salad. After dinner, Alice likes to watch volleyball games on <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> with her parents at home. Would you like to make friends with her?</span></p>",
+    "intro": "本文作者主要介绍了自己的好朋友爱丽丝。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "My",
+          "His",
+          "Her",
+          "Your"
+        ],
+        "ans": "C",
+        "exp": "句意：她的名字是爱丽丝。\nMy我的；His他的；Her她的；Your你的。根据下文中“She”可知，爱丽丝是女孩，应该用her。故选C。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "student",
+          "sister",
+          "workmate",
+          "classmate"
+        ],
+        "ans": "D",
+        "exp": "句意：所以她是我的同学。\nstudent学生；sister姐姐；workmate同事；classmate同学。根据“She and I are in the same class.”可知，在一个班级，因此她们是同学。故选D。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "star",
+          "singer",
+          "dancer",
+          "writer"
+        ],
+        "ans": "A",
+        "exp": "句意：她是我们学校的排球明星。\nstar明星；singer歌手；dancer舞者；writer作家。根据“All of us like to watch her volleyball games.”可知，在学校很多人喜欢看她打排球，因此在学校她是排球明星。故选A。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "tidy",
+          "interesting",
+          "boring",
+          "hard"
+        ],
+        "ans": "B",
+        "exp": "句意：爱丽丝认为排球有趣又放松。\ntidy整洁的；interesting有趣的；boring无聊的；hard努力地。根据“and relaxing”可知，她认为排球很有趣。故选B。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "very",
+          "then",
+          "else",
+          "also"
+        ],
+        "ans": "A",
+        "exp": "句意：所以她非常擅长打排球。\nvery很；then然后；else其他；also也。此处说的是她很擅长打排球，应用副词very。故选A。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "have",
+          "live",
+          "speak",
+          "like"
+        ],
+        "ans": "D",
+        "exp": "句意：放学后我们想和她一起玩。\nhave有；live住；speak说；like喜欢。would like to do sth.意为“想要做某事”，固定词组。故选D。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "basketball",
+          "soccer",
+          "volleyball",
+          "baseball"
+        ],
+        "ans": "C",
+        "exp": "句意：爱丽丝说她想成为一名伟大的排球运动员。\nbasketball篮球；soccer足球；volleyball排球；baseball棒球。根据“…good at playing volleyball.”可知，此处说的是她想成为一名排球运动员。故选C。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "meal",
+          "breakfast",
+          "lunch",
+          "dinner"
+        ],
+        "ans": "B",
+        "exp": "句意：她早餐总是吃一个苹果、一根香蕉、一些牛奶和两个鸡蛋。\nmeal餐；breakfast早餐；lunch午餐；dinner晚餐。根据“For lunch”以及“For dinner”可知，此处说的是早餐。故选B。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "tomato",
+          "potato",
+          "grape",
+          "chicken"
+        ],
+        "ans": "D",
+        "exp": "句意：午餐，她吃一些米饭，鸡肉和一些蔬菜。\ntomato西红柿；potato土豆；grape葡萄；chicken鸡肉。根据“For lunch, she eats some rice, …and some vegetables.”可知，此处说的是午餐，vegetables已经包含西红柿和土豆了，因此此处说的是吃一些鸡肉。故选D。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "radio",
+          "phone",
+          "TV",
+          "post"
+        ],
+        "ans": "C",
+        "exp": "句意：晚饭后，爱丽丝喜欢在家和父母一起看电视上的排球比赛。\nradio收音机；phone手机；TV电视；post邮件。根据“Alice likes to watch volleyball games on…”可知，此处说的是在电视上看比赛。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_23",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "王胜利和他的好朋友彼得在同一个"
+    ],
+    "title": "七上完型 · 二十三 王胜利和他的好朋友彼得在同一个",
+    "passage": "Good morning! I ___1___ Wang Shengli. You can ___2___ me Shengli. I have a good friend. His ___3___ is Peter. We are in the same (相同的) ___4___ , Class 3, Grade 7. When we meet in the ___5___ , I often say “Good morning!” and then ask “ ___6___ are you?” He always answers “I’m fine.” In class, the teacher asks him to ___7___ “time.” “T-I-M-E.” He does well. When class is ___8___ , we go out and do sports in the playground. Listen! There goes the ___9___ . It’s time ___10___ us to go home. So we go home together.",
+    "passageHtml": "<p><span class=\"ind\">Good morning! I <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> Wang Shengli. You can <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> me Shengli. I have a good friend. His <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> is Peter. We are in the same (相同的) <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> , Class 3, Grade 7. When we meet in the <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> , I often say “Good morning!” and then ask “ <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> are you?” He always answers “I’m fine.” In class, the teacher asks him to <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> “time.” “T-I-M-E.” He does well. When class is <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> , we go out and do sports in the playground. Listen! There goes the <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> . It’s time <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> us to go home. So we go home together.</span></p>",
+    "intro": "本文讲述了王胜利和他的好朋友彼得在同一个班级上学，他们每天早晨相遇时互相问候，课堂上学习，课后一起运动，并在放学铃声响起后一起回家的故事。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "ans": "C",
+        "exp": "句意：我是王胜利。\nis是，主语是三单；are是，主语是you或复数；am是，主语是I；be是，动词原形。主语是I，be动词用am。故选C。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "say",
+          "call",
+          "speak",
+          "tell"
+        ],
+        "ans": "B",
+        "exp": "句意：你可以叫我胜利。\nsay说；call叫；speak说；tell告诉。根据“Shengli”可知，这里表示称呼某人，应用call。故选B。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "name",
+          "book",
+          "friend",
+          "teacher"
+        ],
+        "ans": "A",
+        "exp": "句意：他的名字是彼得。\nname名字；book书；friend朋友；teacher老师。根据“Peter”可知，彼得是他的名字，故选A。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "school",
+          "library",
+          "class",
+          "city"
+        ],
+        "ans": "C",
+        "exp": "句意：我们在同一个班级，七年级三班。\nschool学校；library图书馆；class班级；city城市。根据“Class 3, Grade 7”可知，两人在一个班，故选C。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "afternoon",
+          "morning",
+          "evening",
+          "night"
+        ],
+        "ans": "B",
+        "exp": "句意：我们早上见面时，我经常说“早上好！”\nafternoon下午；morning早上；evening晚上；night夜晚。根据“Good morning!”可知，“早上好”是早上说的，故选B。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "Who",
+          "Where",
+          "How",
+          "Why"
+        ],
+        "ans": "C",
+        "exp": "句意：然后问“你好吗？”\nWho谁；Where哪里；How怎样；Why为什么。how are you“你好吗”，常用问候用语。故选C。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "spell",
+          "write",
+          "read",
+          "listen"
+        ],
+        "ans": "A",
+        "exp": "句意：老师让他拼写“time”这个单词。\nspell拼写；write写；read阅读；listen听。根据“T-I-M-E.”可知，是指拼写单词，故选A。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "good",
+          "hard",
+          "over",
+          "fine"
+        ],
+        "ans": "C",
+        "exp": "句意：下课后，我们去操场上做运动。\ngood好的；hard难的；over结束；fine好的。根据“we go out and do sports in the playground”可知，去操场做运动应该是在课程结束的时候，故选C。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "bird",
+          "bell",
+          "clock",
+          "bike"
+        ],
+        "ans": "B",
+        "exp": "句意：听！铃响了。\nbird鸟；bell铃；clock钟；bike自行车。根据“Listen! There goes the ”可知，表示铃声的响起，应用bell。故选B。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "at",
+          "for",
+          "with",
+          "in"
+        ],
+        "ans": "B",
+        "exp": "句意：该到我们回家的时间了。\nat在；for为了；with和；in在……里。It’s time for sb to do sth“该是某人做某事的时候了”，是固定句型。故选B。\n“I feel a bit ‘emo’.” Do you often     729     people say this?“ Emo” is short for“ emotional (情绪化的)”. Everyone has     730     feelings from time to time. You may not     731     to eat, speak, learn, or play when you fail the test. You may feel unlucky when you     732     the key and so on. Hey, don’t forget that you are the master (主人) of your emotions.     733     to deal with (处理) bad emotions? Here are some ways for     734    .\n735     taking a deep breath (呼吸). Keep doing it and you can calm down (冷静下来). Next, just move. Do some exercises, such as jumping and hiking. Hugging is a nice try, too.     736     your parents, pets or your teddy bear. It may make you feel good.     737     is another good way to relax. You can talk to others.\nDo you know any other good     738    ?\n729．A．listenB．listen toC．hear\n730．A．niceB．badC．excited\n731．A．mustB．needC．want\n732．A．findB．loseC．get\n733．A．WhatB．WhyC．How\n734．A．meB．youC．us\n735．A．FirstB．NextC．At last\n736．A．HugB．HugsC．Hugging\n737．A．TalkB．TalksC．Talking\n738．A．ideaB．an ideaC．ideas"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_24",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "如何处理坏情绪的方法"
+    ],
+    "title": "七上完型 · 二十四 如何处理坏情绪的方法",
+    "passage": "“I feel a bit ‘emo’.” Do you often ___1___ people say this?“ Emo” is short for“ emotional (情绪化的)”. Everyone has ___2___ feelings from time to time. You may not ___3___ to eat, speak, learn, or play when you fail the test. You may feel unlucky when you ___4___ the key and so on. Hey, don’t forget that you are the master (主人) of your emotions. ___5___ to deal with (处理) bad emotions? Here are some ways for ___6___ .\n\n735     taking a deep breath (呼吸). Keep doing it and you can calm down (冷静下来). Next, just move. Do some exercises, such as jumping and hiking. Hugging is a nice try, too. ___8___ your parents, pets or your teddy bear. It may make you feel good. ___9___ is another good way to relax. You can talk to others.\n\nDo you know any other good ___10___ ?",
+    "passageHtml": "<p><span class=\"ind\">“I feel a bit ‘emo’.” Do you often <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> people say this?“ Emo” is short for“ emotional (情绪化的)”. Everyone has <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> feelings from time to time. You may not <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> to eat, speak, learn, or play when you fail the test. You may feel unlucky when you <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> the key and so on. Hey, don’t forget that you are the master (主人) of your emotions. <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> to deal with (处理) bad emotions? Here are some ways for <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">735     taking a deep breath (呼吸). Keep doing it and you can calm down (冷静下来). Next, just move. Do some exercises, such as jumping and hiking. Hugging is a nice try, too. <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> your parents, pets or your teddy bear. It may make you feel good. <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> is another good way to relax. You can talk to others.</span></p><p><span class=\"ind\">Do you know any other good <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> ?</span></p>",
+    "intro": "本文主要讲述了如何处理坏情绪的方法。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "listen",
+          "listen to",
+          "hear"
+        ],
+        "ans": "C",
+        "exp": "句意：你经常听到人们这样说吗？\nlisten听；listen to听；hear听到。根据“Do you often...people say this?”可知，此处表示听到人们说“我觉得有点‘emo’”，强调听到的结果。故选C。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "nice",
+          "bad",
+          "excited"
+        ],
+        "ans": "B",
+        "exp": "句意：每个人都有不好的情绪。\nnice好的；bad坏的；excited兴奋的。根据“You may feel unlucky”可知，每个人都会有情绪化的感觉。故选B。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "must",
+          "need",
+          "want"
+        ],
+        "ans": "C",
+        "exp": "句意：你可能不想吃饭、说话、学习或玩耍。\nmust必须；need需要；want想要。根据“You may not...to eat, speak, learn, or play when you fail the test.”可知，空后是不定式，且此处强调不想做这些事，用want to do sth“想要做某事”。故选C。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "find",
+          "lose",
+          "get"
+        ],
+        "ans": "B",
+        "exp": "句意：当你丢失钥匙时，你可能会感到不幸。\nfind找到；lose丢失；get得到。根据“You may feel unlucky when you...the key and so on.”可知，丢失钥匙会让人感到不幸。故选B。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "What",
+          "Why",
+          "How"
+        ],
+        "ans": "C",
+        "exp": "句意：如何处理不好的情绪？\nWhat什么；Why为什么；How如何。根据“to deal with (处理) bad emotions?”可知，此处是指如何处理坏情绪。故选C。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "me",
+          "you",
+          "us"
+        ],
+        "ans": "B",
+        "exp": "句意：这里有一些方法给你。\nme我；you你/你们；us我们。根据“Here are some ways for”可知，此处表示给你一些方法。故选B。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "First",
+          "Next",
+          "At last"
+        ],
+        "ans": "A",
+        "exp": "句意：首先，深呼吸。\nFirst首先；Next接下来；At last最后。根据“Next”可知，此处是介绍第一个方法。故选A。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "Hug",
+          "Hugs",
+          "Hugging"
+        ],
+        "ans": "A",
+        "exp": "句意：拥抱你的父母、宠物或你的泰迪熊。\nHug拥抱，动词原形；Hugs拥抱，动词三单；Hugging拥抱，动名词/现在分词。分析句子可知，本句是祈使句，以动词原形开头。故选A。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "Talk",
+          "Talks",
+          "Talking"
+        ],
+        "ans": "C",
+        "exp": "句意：说话是另一种放松的好方法。\nTalk说话，动词原形；Talks说话，动词三单；Talking说话，动名词/现在分词。空处在句中作主语，需用动名词。故选C。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "idea",
+          "an idea",
+          "ideas"
+        ],
+        "ans": "C",
+        "exp": "句意：你知道其他好的方法吗？\nidea主意；an idea一个主意；ideas主意，复数。idea是可数名词，any后跟可数名词复数形式。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_25",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "本和妈妈去购物的经过"
+    ],
+    "title": "七上完型 · 二十五 本和妈妈去购物的经过",
+    "passage": "Ben isn’t happy. His sister has a cold and his grandparents need to look ___1___ her. There is ___2___ food at home, so his mom goes shopping and he has to go, too. He walks with his mom to their ___3___ . It is a fine day, so his mom puts the roof (车顶) down. Ben’s hair is blown (吹) by the wind. It’s fun and Ben begins to sing ___4___ .\n\nMom ___5___ the car and they go into the store. Shopping takes a long time because Mom buys a lot of food. When the ___6___ is done, Ben helps his mom put the bags in the car. Then he gets into the car.\n\n“Good boy. You are very ___7___ ,” says Mom “Do you want to have an ice cream?” “Yes, please,” says Ben happily.\n\nWhen they get to the ice cream ___8___ , they find there are many flavors (口味). Ben doesn’t know what to eat “ ___9___ ,” says Mom, “This is taking you longer than the shopping.” Ben takes the strawberry flavor. It is nice.\n\nBen finds that shopping isn’t so ___10___ . He feels very happy not only because he has some ice cream, but also because he can help his mom when shopping.",
+    "passageHtml": "<p><span class=\"ind\">Ben isn’t happy. His sister has a cold and his grandparents need to look <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> her. There is <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> food at home, so his mom goes shopping and he has to go, too. He walks with his mom to their <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> . It is a fine day, so his mom puts the roof (车顶) down. Ben’s hair is blown (吹) by the wind. It’s fun and Ben begins to sing <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">Mom <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> the car and they go into the store. Shopping takes a long time because Mom buys a lot of food. When the <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> is done, Ben helps his mom put the bags in the car. Then he gets into the car.</span></p><p><span class=\"ind\">“Good boy. You are very <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> ,” says Mom “Do you want to have an ice cream?” “Yes, please,” says Ben happily.</span></p><p><span class=\"ind\">When they get to the ice cream <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> , they find there are many flavors (口味). Ben doesn’t know what to eat “ <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> ,” says Mom, “This is taking you longer than the shopping.” Ben takes the strawberry flavor. It is nice.</span></p><p><span class=\"ind\">Ben finds that shopping isn’t so <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> . He feels very happy not only because he has some ice cream, but also because he can help his mom when shopping.</span></p>",
+    "intro": "本文主要讲述了本和妈妈去购物的经过。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "at",
+          "after",
+          "about",
+          "for"
+        ],
+        "ans": "B",
+        "exp": "句意：他的妹妹感冒了，他的祖父母需要照顾她。\nat在；after之后；about关于；for为了。根据“His sister has a cold”可知，祖父母要照顾妹妹，look after “照顾”。故选B。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "much",
+          "little",
+          "some",
+          "a little"
+        ],
+        "ans": "B",
+        "exp": "句意：家里的食物很少，所以他妈妈去购物，他也得去。\nmuch许多；little很少；some一些；a little少量。根据“so his mom goes shopping”可知，家里没什么食物，表示否定含义，应用little，故选B。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "house",
+          "car",
+          "school",
+          "class"
+        ],
+        "ans": "B",
+        "exp": "句意：他和妈妈一起走向他们的车。\nhouse房子；car汽车；school学校；class班级。根据下文可知，他们是开车去的，所以是走向车，故选B。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "early",
+          "really",
+          "well",
+          "happily"
+        ],
+        "ans": "D",
+        "exp": "句意：这很有趣，本开始高兴地唱歌。\nearly早；really真正；well好；happily开心地。根据“It’s fun”可知，本很开心，故选D。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "stops",
+          "sells",
+          "drives",
+          "opens"
+        ],
+        "ans": "A",
+        "exp": "句意：妈妈停车，他们走进了商店。\nstops停止；sells售卖；drives开车；opens打开。根据“the car ”可知，是指妈妈停车，然后他们去商店，故选A。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "talking",
+          "thinking",
+          "shopping",
+          "selling"
+        ],
+        "ans": "C",
+        "exp": "句意：当购物完成后，本帮助他的妈妈把袋子放进车里。\ntalking谈论；thinking认为；shopping购物；selling卖。根据“Shopping takes a long time because Mom buys a lot of food.”可知，是指购物，故选C。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "welcome",
+          "thankful",
+          "helpful",
+          "cool"
+        ],
+        "ans": "C",
+        "exp": "句意：你真乐于助人。\nwelcome受欢迎的；thankful感激的；helpful有帮助的；cool凉爽的。根据“Ben helps his mom put the bags in the car. Then he gets into the car.”可知，本帮妈妈把袋子放进车里，所以妈妈说本乐于助人，故选C。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "office",
+          "class",
+          "farm",
+          "store"
+        ],
+        "ans": "D",
+        "exp": "句意：当他们来到冰淇淋店时，他们发现有很多口味。\noffice办公室；class班级；farm农场；store商店。根据“ they find there are many flavors (口味)”可知，去冰淇淋商店买冰淇淋，故选D。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "Come on",
+          "Thank you",
+          "Excuse me",
+          "For sure"
+        ],
+        "ans": "A",
+        "exp": "句意：快点。\nCome on快点；Thank you谢谢；Excuse me打扰一下；For sure肯定。根据“This is taking you longer than the shopping”可知，妈妈催促本快点选择冰淇淋的口味，故选A。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "busy",
+          "boring",
+          "fun",
+          "free"
+        ],
+        "ans": "B",
+        "exp": "句意：本发现购物并不是那么无聊。\nbusy忙的；boring无聊的；fun有趣的；free自由的。根据“He feels very happy not only because he has some ice cream, but also because he can help his mom when shopping.”可知，本认为购物不是那么无聊，故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_26",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "篇目二十六"
+    ],
+    "title": "七上完型 · 二十六 篇目二十六",
+    "passage": "I have a lot of photos. Look at this one! This is a photo of my ___1___ . I have a big family. There are ___2___ people in it. My grandparents are in the first photo. This is my ___3___ . She is very old, but she is very healthy because she ___4___ every day. This is my grandfather. He is 80 years old. Their birthdays are in ___5___ . My grandma’s birthday is on July 1st. And my grandpa’s birthday is on July 22nd. These are my parents. My father is a ___6___ . He works in the hospital. My mother is an art teacher in a middle school. She ___7___ well and students like her very much. ___8___ is the boy? It’s me. I am a middle school student. My favourite ___9___ is Chinese. I think it is ___10___ . See you!",
+    "passageHtml": "<p><span class=\"ind\">I have a lot of photos. Look at this one! This is a photo of my <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> . I have a big family. There are <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> people in it. My grandparents are in the first photo. This is my <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> . She is very old, but she is very healthy because she <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> every day. This is my grandfather. He is 80 years old. Their birthdays are in <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> . My grandma’s birthday is on July 1st. And my grandpa’s birthday is on July 22nd. These are my parents. My father is a <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> . He works in the hospital. My mother is an art teacher in a middle school. She <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> well and students like her very much. <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> is the boy? It’s me. I am a middle school student. My favourite <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> is Chinese. I think it is <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> . See you!</span></p>",
+    "intro": "本文作者介绍了自己的家人。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "school",
+          "friend",
+          "family",
+          "room"
+        ],
+        "ans": "C",
+        "exp": "句意：这是我的全家福。\nschool学校；friend朋友；family家庭；room房间。根据“I have a big family”可知，是家庭的照片，故选C。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "four",
+          "five",
+          "six",
+          "seven"
+        ],
+        "ans": "B",
+        "exp": "句意：里面有五个人。\nfour四；five五；six六；seven七。根据“My grandparents”，“These are my parents.”和“It’s me”可知，一个五个人，故选B。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "grandmother",
+          "uncle",
+          "cousin",
+          "brother"
+        ],
+        "ans": "A",
+        "exp": "句意：这是我的祖母。\ngrandmother祖母；uncle叔叔；cousin堂弟；brother哥哥。根据“She is very old”可知，是祖母，故选A。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "watches TV",
+          "plays games",
+          "eats junk food",
+          "does sports"
+        ],
+        "ans": "D",
+        "exp": "句意：她很老了，但她很健康，因为她每天都做运动。\nwatches TV看电视；plays games玩游戏；eats junk food吃垃圾食品；does sports做运动。根据“she is very healthy”可知，每天做运动所以很健康，故选D。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "July",
+          "August",
+          "September",
+          "October"
+        ],
+        "ans": "A",
+        "exp": "句意：他们的生日在七月。\nJuly七月；August八月；September九月；October十月。根据“My grandma’s birthday is on July 1st. ”可知，生日在七月，故选A。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "teacher",
+          "driver",
+          "doctor",
+          "worker"
+        ],
+        "ans": "C",
+        "exp": "句意：我父亲是一名医生。\nteacher老师；driver司机；doctor医生；worker工人。根据“He works in the hospital.”可知，父亲是医生，故选C。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "sings",
+          "draws",
+          "listens",
+          "dances"
+        ],
+        "ans": "B",
+        "exp": "句意：她画得很好，学生们很喜欢她。\nsings唱歌；draws画画；listens听；dances跳舞。根据“My mother is an art teacher”可知，美术老师教画画，故选B。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "Who",
+          "Where",
+          "What",
+          "When"
+        ],
+        "ans": "A",
+        "exp": "句意：那个男孩是谁？\nWho谁；Where在哪里；What什么；When什么时候。根据“It’s me.”可知，问男孩是谁，故选A。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "food",
+          "subject",
+          "school",
+          "sports"
+        ],
+        "ans": "B",
+        "exp": "句意：我最喜欢的科目是语文。\nfood食物；subject科目；school学校；sports运动。根据“Chinese”可知，语文是科目，故选B。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "boring",
+          "difficult",
+          "interesting",
+          "bad"
+        ],
+        "ans": "C",
+        "exp": "句意：我觉得很有趣。\nboring无聊的；difficult困难的；interesting有趣的；bad坏的。根据“favourie”可知，最喜欢语文是因为语文有趣，故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_27",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "Jay在花园里种植蔬菜、水果和"
+    ],
+    "title": "七上完型 · 二十七 Jay在花园里种植蔬菜、水果和",
+    "passage": "Jay lives in a village. He grows (种植，生长) vegetables, fruit and flowers in his garden. They grow very well all through the year from spring to winter. And he sells them in his ___1___ .\n\nEvery day, Jay gets some ___2___ for his living room tables and eats some fruit and vegetables. His vegetables and fruit are very fresh. His flowers are nice. People like to ___3___ them. So there are always many people in his store.\n\n762     does Jay grow these nice things? Here is the answer. He plays ___5___ music for his plants. The plants in the garden ___6___ music all day long. Everything grows well. It is ___7___ , right? Jay does some of the work, and ___8___ does the other (其余的) work! Music helps ___9___ grow nice fruit, vegetables and flowers. Plants ___10___ music! So you see, music can make a big difference in our life!",
+    "passageHtml": "<p><span class=\"ind\">Jay lives in a village. He grows (种植，生长) vegetables, fruit and flowers in his garden. They grow very well all through the year from spring to winter. And he sells them in his <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> .</span></p><p><span class=\"ind\">Every day, Jay gets some <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> for his living room tables and eats some fruit and vegetables. His vegetables and fruit are very fresh. His flowers are nice. People like to <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> them. So there are always many people in his store.</span></p><p><span class=\"ind\">762     does Jay grow these nice things? Here is the answer. He plays <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> music for his plants. The plants in the garden <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> music all day long. Everything grows well. It is <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> , right? Jay does some of the work, and <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> does the other (其余的) work! Music helps <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> grow nice fruit, vegetables and flowers. Plants <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> music! So you see, music can make a big difference in our life!</span></p>",
+    "intro": "本文主要讲述了Jay在花园里种植蔬菜、水果和花朵，并把它们卖到商店里，他的蔬菜和水果很新鲜，花朵很漂亮，人们都喜欢买他的东西，他的秘诀就是为他的植物播放音乐。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "garden",
+          "house",
+          "car",
+          "store"
+        ],
+        "ans": "D",
+        "exp": "句意：他在店里卖。\ngarden花园；house房子；car汽车；store商店。根据后文“So there are always many people in his store.”可知，在店里卖，故选D。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "flowers",
+          "bread",
+          "oranges",
+          "milk"
+        ],
+        "ans": "A",
+        "exp": "句意：每天，Jay在客厅的桌子上放一些花，吃一些水果和蔬菜。\nflowers花；bread面包；oranges橘子；milk牛奶。根据“His vegetables and fruit are very fresh. His flowers are nice.”可知，提到蔬菜、水果和花，故选A。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "eat",
+          "take",
+          "buy",
+          "watch"
+        ],
+        "ans": "C",
+        "exp": "句意：人们喜欢买它们。\neat吃；take拿；buy买；watch观看。根据“People like to...them. So there are always many people in his store.”可知，店里有很多人，所以人们喜欢买店里的东西，故选C。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "Where",
+          "How",
+          "When",
+          "Why"
+        ],
+        "ans": "B",
+        "exp": "句意：Jay是怎么种出这些好东西的？\nWhere在哪里；How如何；When何时；Why为什么。根据“...does Jay grow these nice things? Here is the answer.”和后文可知，是询问如何种出这些好东西的，故选B。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "healthy",
+          "beautiful",
+          "bad",
+          "short"
+        ],
+        "ans": "B",
+        "exp": "句意：他为他的植物演奏优美的音乐。\nhealthy健康的；beautiful优美的；bad坏的；short短的。根据“He plays...music for his plants.”可知，演奏优美的音乐，故选B。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "think about",
+          "look at",
+          "listen to",
+          "ask for"
+        ],
+        "ans": "C",
+        "exp": "句意：花园里的植物整天都在听音乐。\nthink about考虑；look at看；listen to听；ask for请求。根据“The plants in the garden...music all day long.”可知，植物整天都在听音乐。故选C。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "interesting",
+          "boring",
+          "tidy",
+          "free"
+        ],
+        "ans": "A",
+        "exp": "句意：这很有趣，对吧？\ninteresting有趣的；boring无聊的；tidy整洁的；free自由的。联系前文可知，给植物演奏音乐是很有趣的，故选A。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "music",
+          "fruit",
+          "water",
+          "time"
+        ],
+        "ans": "A",
+        "exp": "句意：Jay负责一部分工作，而音乐负责其余的工作！\nmusic音乐；fruit水果；water水；time时间。根据后句“Music helps...”可知，强调音乐的作用，故选A。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "it",
+          "her",
+          "him",
+          "them"
+        ],
+        "ans": "C",
+        "exp": "句意：音乐帮助他种出漂亮的水果、蔬菜和鲜花。\nit它；her她；him他；them他们。根据“Music helps...grow nice fruit, vegetables and flowers.”可知，此处指前文出现的Jay，故选C。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "have",
+          "play",
+          "help",
+          "love"
+        ],
+        "ans": "D",
+        "exp": "句意：植物喜欢音乐！\nhave有；play玩；help帮助；love爱。根据“Plants...music! So you see, music can make a big difference in our life!”可知，植物喜欢音乐，故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_28",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "作者的书包是一个大红书包"
+    ],
+    "title": "七上完型 · 二十八 作者的书包是一个大红书包",
+    "passage": "Hello! My first name is Mary and my ___1___ name is Green. I’m a ___2___ of 12 in Ivy Middle School. I have a good ___3___ . She’s Red. Every day, she takes all my school things—my pencil box, dictionary, ID card, ___4___ ... And she goes to school with me by school bus. On the school bus, she sits with me. In the ___5___ , she has classes with me. After class, ___6___ in the classroom alone (独自). After school, she runs (奔跑) to the school bus with me.\n\nDo you know my friend? She’s my red ___7___ ! I like the ___8___ very much, so I call her Red. She’s very big and ___9___ me a lot. I really want to ___10___ thanks to her.",
+    "passageHtml": "<p><span class=\"ind\">Hello! My first name is Mary and my <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> name is Green. I’m a <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> of 12 in Ivy Middle School. I have a good <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> . She’s Red. Every day, she takes all my school things—my pencil box, dictionary, ID card, <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> ... And she goes to school with me by school bus. On the school bus, she sits with me. In the <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> , she has classes with me. After class, <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> in the classroom alone (独自). After school, she runs (奔跑) to the school bus with me.</span></p><p><span class=\"ind\">Do you know my friend? She’s my red <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> ! I like the <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> very much, so I call her Red. She’s very big and <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> me a lot. I really want to <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> thanks to her.</span></p>",
+    "intro": "本文介绍了作者的书包是一个大红书包，它是作者妈妈送给她的生日礼物，它很大，能帮助作者带很多东西。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "first",
+          "middle",
+          "next",
+          "last"
+        ],
+        "ans": "D",
+        "exp": "句意：我的名字是玛丽，我的姓是格林。\nfirst第一；middle中间；next接下来；last最后。根据“Green”可知，格林是姓，last name“姓氏”，故选D。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "girl",
+          "brother",
+          "grandmother",
+          "son"
+        ],
+        "ans": "A",
+        "exp": "句意：我是常春藤中学的一名12岁的女孩。\ngirl女孩；brother兄弟；grandmother祖母；son儿子。根据上文的“My first name is Mary”可知是女孩，故选A。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "dog",
+          "mother",
+          "friend",
+          "cousin"
+        ],
+        "ans": "C",
+        "exp": "句意：我有一个好朋友。\ndog狗；mother妈妈；friend朋友；cousin表兄弟姐妹。根据下文“Do you know my friend?”可知，此处是朋友，故选C。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "books",
+          "quilts",
+          "oranges",
+          "uncles"
+        ],
+        "ans": "A",
+        "exp": "句意： 每天，她带着我所有的学习用品——我的铅笔盒，字典，身份证，书。\nbooks书；quilts被子；oranges橘子；uncles叔叔。根据“school things”可知，只有books“书”属于学习用品。故选A。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "computer",
+          "classroom",
+          "picture",
+          "map"
+        ],
+        "ans": "B",
+        "exp": "句意：在教室里她和我一起上课。\ncomputer计算机；classroom教室；picture图画；map地图。根据“has classes”可知，是在教室里上课，故选B。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "I’m",
+          "you’re",
+          "he’s",
+          "she’s"
+        ],
+        "ans": "D",
+        "exp": "句意：下课后，她独自一人在教室里。\nI’m我是；you’re你是；he’s他是；she’s她是。根据上文的“she”可知，此空也是she，故选D。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "schoolbag",
+          "jacket",
+          "phone",
+          "cup"
+        ],
+        "ans": "A",
+        "exp": "句意：她是我的红书包。\nschoolbag书包；jacket夹克衫；phone电话；cup杯子。根据上文“she takes all my school things”可推知，“she”指书包，故选A。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "key",
+          "color",
+          "sister",
+          "family"
+        ],
+        "ans": "B",
+        "exp": "句意：我叫她Red是因为我非常喜欢这个颜色。\nkey钥匙；color颜色；sister姐妹；family家庭。根据“she’s my red schoolbag”可知，是喜欢红色，故选B。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "helps",
+          "finds",
+          "calls",
+          "thanks"
+        ],
+        "ans": "A",
+        "exp": "句意：她很大，并且对我帮助很大。\nhelps帮助；finds找到；calls打电话；thanks谢谢。根据下文“thanks to her”可知，她帮助了我，所以我感谢她，故选A。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "spell",
+          "see",
+          "say",
+          "ask"
+        ],
+        "ans": "C",
+        "exp": "句意：我真的想对她说谢谢。\nspell拼写；see看见；say说；ask问。根据“thanks to her”可知，考查say sth. to sb.“对某人说……”，故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_cloze_test7a_29",
+    "stage": "junior",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "完形填空",
+      "记叙文",
+      "七年级上册",
+      "篇目二十九"
+    ],
+    "title": "七上完型 · 二十九 篇目二十九",
+    "passage": "My name is Eric Black. Black is my ___1___ name. I’m from New York. I study in the International Language (语言) School and learn ___2___ in it. It’s a good ___3___ . Now I can ___4___ and write Chinese very well. My school ID card number is 9104623. Li Ming is my friend. He is a Chinese ___5___ . His English is good. He ___6___ helps me study Chinese. He is helpful. He is in No. 1 Middle School. We can meet after school. Grace and Linda are his ___7___ sisters. Grace is 10 years old. She likes ___8___ . Look, her schoolbag, quilt and pencil box are all red. Linda is 3 years old. She always greets me, “ ___9___ are you?”. Usually, I say “ ___10___ .” to her. We always have a good time together!",
+    "passageHtml": "<p><span class=\"ind\">My name is Eric Black. Black is my <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> name. I’m from New York. I study in the International Language (语言) School and learn <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> in it. It’s a good <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> . Now I can <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> and write Chinese very well. My school ID card number is 9104623. Li Ming is my friend. He is a Chinese <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> . His English is good. He <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> helps me study Chinese. He is helpful. He is in No. 1 Middle School. We can meet after school. Grace and Linda are his <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> sisters. Grace is 10 years old. She likes <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> . Look, her schoolbag, quilt and pencil box are all red. Linda is 3 years old. She always greets me, “ <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> are you?”. Usually, I say “ <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> .” to her. We always have a good time together!</span></p>",
+    "intro": "本文是Eric Black的自我介绍，他介绍了他的学校信息和他的好朋友李明的个人情况及他的妹妹们。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "first",
+          "last",
+          "full",
+          "middle"
+        ],
+        "ans": "B",
+        "exp": "句意：Black是我的姓氏。\nfirst第一的；last最后的；full满的；middle中间的。根据“Eric Black.”可知，Black是姓，“姓”是last name或family name。故选B。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "English",
+          "Chinese",
+          "China",
+          "England"
+        ],
+        "ans": "B",
+        "exp": "句意：我在国际语言学校上学，并在那里学习汉语。\nEnglish英语；Chinese汉语；China中国；England英格兰。根据下文“write Chinese very well”可知，写汉语写得很好，说明是学习汉语。故选B。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "home",
+          "hospital",
+          "school",
+          "park"
+        ],
+        "ans": "C",
+        "exp": "句意：它是一所很好的学校。\nhome家；hospital医院；school学校；park公园。根据上文“International Language (语言) School”可知此处指学校。故选C。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "say",
+          "tell",
+          "speak",
+          "talk"
+        ],
+        "ans": "C",
+        "exp": "句意：现在我可以把汉语讲得很好，也可以写得很好。\nsay说；tell告诉；speak讲（语言）；talk交谈。动词短语speak Chinese表示“讲汉语”。故选C。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "girl",
+          "man",
+          "woman",
+          "boy"
+        ],
+        "ans": "D",
+        "exp": "句意：他是一个中国男孩。\ngirl女孩；man男人；woman女人；boy男孩。根据“Li Ming is my friend.”和“He”可知李明是一个中国男孩。故选D。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "often",
+          "never",
+          "hardly",
+          "seldom"
+        ],
+        "ans": "A",
+        "exp": "句意：他经常帮助我学习汉语。\noften经常；never从不；hardly几乎不；seldom极少。根据“He is helpful.”可知应是经常帮助我学习汉语。故选A。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "one",
+          "two",
+          "first",
+          "second"
+        ],
+        "ans": "B",
+        "exp": "句意：Grace和Linda是他的两个妹妹。\none一个；two两个；first第一；second第二。根据“Grace and Linda”可知是两个妹妹，应用基数词two表示数量。故选B。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "white",
+          "yellow",
+          "blue",
+          "red"
+        ],
+        "ans": "D",
+        "exp": "句意：她喜欢红色。\nwhite白色；yellow黄色；blue蓝色；red红色。根据下文“Look, her schoolbag, quilt and pencil box are all red. ”可知，她的书包、被子和铅笔盒都是红色的，说明她喜欢红色。故选D。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "Whose",
+          "What color",
+          "How",
+          "How old"
+        ],
+        "ans": "C",
+        "exp": "句意：她总是对我说：“你好吗？”\nWhose谁的；What color什么颜色；How怎么样；How old多大年纪。根据“She always greets me”及“are you”可知此处应用“How are you?”表示问好。故选C。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "Fine",
+          "Welcome",
+          "Thanks",
+          "Hello"
+        ],
+        "ans": "A",
+        "exp": "句意：通常，我跟她说“很好”。\nFine很好；Welcome欢迎；Thanks谢谢；Hello你好。How are you的回答是Fine。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_1",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "应用文",
+      "九年级上册",
+      "篇目一"
+    ],
+    "title": "九上阅读 · 一 篇目一",
+    "passage": "2026 “Beautiful Zhuhai” Photo Competition\n\nAre you interested in taking photos? Yes! Do you want to show your best photos of Zhuhai and win a big prize? Yes! Then join us and follow these steps NOW!\n\nSnap it!\n\nTake photos about “New Era (时代), New Zhuhai”. Photos should show Zhuhai’s changes and development in recent years, the wonderful life or special sights. A photo set (no more than 4 photos). We accept colour photos only. Black-and-white photos are not welcome.\n\nUpload it!\n\nGo to the website www.zhuhainews.cn and upload your photos there.\n\nDescribe it!\n\nTry to describe the photos within 50 words and try to catch people’s attention.\n\nShare it!\n\nShare the post with your friends and invite your friends to “like” your photos. The more likes you get, the more likely you will win.\n\nPrizes\n\nFirst prize | 2 winners | 3,000 yuan per person\nSecond prize | 5 winners | 2,000 yuan per person\nThird prize | 10 winners | 1,000 yuan per person\nAward of excellence | 30 winners | 200 yuan per person\n\nThe competition is open to ALL! Don’t forget to upload your photos before 31 December, 2026.",
+    "passageHtml": "<p><span class=\"ind\">2026 “Beautiful Zhuhai” Photo Competition</span></p><p><span class=\"ind\">Are you interested in taking photos? Yes! Do you want to show your best photos of Zhuhai and win a big prize? Yes! Then join us and follow these steps NOW!</span></p><p><span class=\"ind\">Snap it!</span></p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/jr_read9a_1_1.png\" alt=\"插图\" style=\"max-width:100%;height:auto;border-radius:4px\"></div><p><span class=\"ind\">Take photos about “New Era (时代), New Zhuhai”. Photos should show Zhuhai’s changes and development in recent years, the wonderful life or special sights. A photo set (no more than 4 photos). We accept colour photos only. Black-and-white photos are not welcome.</span></p><p><span class=\"ind\">Upload it!</span></p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/jr_read9a_1_2.png\" alt=\"插图\" style=\"max-width:100%;height:auto;border-radius:4px\"></div><p><span class=\"ind\">Go to the website www.zhuhainews.cn and upload your photos there.</span></p><p><span class=\"ind\">Describe it!</span></p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/jr_read9a_1_3.png\" alt=\"插图\" style=\"max-width:100%;height:auto;border-radius:4px\"></div><p><span class=\"ind\">Try to describe the photos within 50 words and try to catch people’s attention.</span></p><p><span class=\"ind\">Share it!</span></p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/jr_read9a_1_4.png\" alt=\"插图\" style=\"max-width:100%;height:auto;border-radius:4px\"></div><p><span class=\"ind\">Share the post with your friends and invite your friends to “like” your photos. The more likes you get, the more likely you will win.</span></p><p><span class=\"ind\">Prizes</span></p><div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">First prize</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">2 winners</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">3,000 yuan per person</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Second prize</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">5 winners</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">2,000 yuan per person</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Third prize</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">10 winners</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">1,000 yuan per person</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Award of excellence</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">30 winners</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">200 yuan per person</td></tr></table></div><p><span class=\"ind\">The competition is open to ALL! Don’t forget to upload your photos before 31 December, 2026.</span></p>",
+    "intro": "本文是一篇应用文，主要介绍2026“美丽珠海”摄影比赛的参加步骤、奖项设置及参赛要求。",
+    "qs": [
+      {
+        "q": "If you want to join the photo competition, what should you do first?",
+        "opts": [
+          "Take photos.",
+          "Describe the photos.",
+          "Share the photos.",
+          "Upload the photos."
+        ],
+        "ans": "A",
+        "exp": "文中第一个步骤是“Snap it!”，即先拍摄照片；之后才是上传、描述、分享。"
+      },
+      {
+        "q": "Who is more likely to win the competition?",
+        "opts": [
+          "A student whose photos get only a few likes online.",
+          "An old man who takes very beautiful black and white photos.",
+          "A teacher who describes her photos attractively.",
+          "A farmer who puts five wonderful photos in his photo set."
+        ],
+        "ans": "C",
+        "exp": "文中“Describe it!”部分提到描述要“catch people’s attention”（吸引人们的注意力），C项“一位能生动描述自己照片的老师。”最符合。"
+      },
+      {
+        "q": "Which of the following is TRUE?",
+        "opts": [
+          "You have to email your photos before 31 December, 2026.",
+          "Your classmate Fu Xing can take part in the competition.",
+          "You have to write 100 words to describe the photos.",
+          "The beautiful photo you took on the Great Wall will win a prize."
+        ],
+        "ans": "B",
+        "exp": "文中“The competition is open to ALL!”，说明所有人都可参加。"
+      },
+      {
+        "q": "If Mr. Smith ranks the third in the competition, how much will he get?",
+        "opts": [
+          "3,000 yuan.",
+          "2,000 yuan.",
+          "1,000 yuan.",
+          "200 yuan."
+        ],
+        "ans": "B",
+        "exp": "表格中提到：一等奖2人，二等奖5人，三等奖10人。第三名属于二等奖，奖金为每人2,000元。"
+      },
+      {
+        "q": "Where can you probably read this text?",
+        "opts": [
+          "In a science report.",
+          "In a food guide.",
+          "In a daily newspaper.",
+          "In an art magazine."
+        ],
+        "ans": "C",
+        "exp": "本文是面向公众的摄影比赛通知，最可能出现在日报上。科学报告、美食指南和艺术杂志，均不符合其宣传通知的性质。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_2",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "计时方式的发展历程"
+    ],
+    "title": "九上阅读 · 二 计时方式的发展历程",
+    "passage": "How do we know the time? A clock, a watch or a mobile phone can help us. However, many years ago there were no clocks and knowing the time was not so easy. Over the centuries people have developed different ways of telling the time.\n\nAbout 5,500 years ago, the Egyptians invented the sun clock. This was a tall stone building. Its shadow showed the movement of the sun. So people were able to know midday. The Egyptians made a sundial  (日晷) about 3,500 years ago. It was smaller than the sun clock and could let people know the time for half a day. On cloudy days or at night it was impossible to tell the time with a sun clock or a sundial. Water clocks were the first clocks not to use the sun. The idea is simple. Water flows, and it shows the hours. The Egyptians used water clocks about 3,400 years ago. These clocks were popular in the Middle East and China. But they failed to make people know the exact time.\n\nIn the 13th century, the mechanical clock was invented. This was more exact, but it was expensive to make one. Over the next few centuries, springs (发条) were added around 1500. This made people able to get the correct time and allowed clocks to be smaller. In 1927, the first quartz clock was developed. It was also cheaper for ordinary people to own a clock. People began depending on them more and more to run businesses, markets and so on. More recently, in 1956, the digital clock came. And nowadays satellites send our mobile phones the time to the exact second.\n\nThere has been a lot of progress in timekeeping. Clocks are always changing but some things never change. Many of us still have trouble getting out of bed on time and not being late for school or work.",
+    "passageHtml": "<p><span class=\"ind\">How do we know the time? A clock, a watch or a mobile phone can help us. However, many years ago there were no clocks and knowing the time was not so easy. Over the centuries people have developed different ways of telling the time.</span></p><p><span class=\"ind\">About 5,500 years ago, the Egyptians invented the sun clock. This was a tall stone building. Its shadow showed the movement of the sun. So people were able to know midday. The Egyptians made a sundial  (日晷) about 3,500 years ago. It was smaller than the sun clock and could let people know the time for half a day. On cloudy days or at night it was impossible to tell the time with a sun clock or a sundial. Water clocks were the first clocks not to use the sun. The idea is simple. Water flows, and it shows the hours. The Egyptians used water clocks about 3,400 years ago. These clocks were popular in the Middle East and China. But they failed to make people know the exact time.</span></p><p><span class=\"ind\">In the 13th century, the mechanical clock was invented. This was more exact, but it was expensive to make one. Over the next few centuries, springs (发条) were added around 1500. This made people able to get the correct time and allowed clocks to be smaller. In 1927, the first quartz clock was developed. It was also cheaper for ordinary people to own a clock. People began depending on them more and more to run businesses, markets and so on. More recently, in 1956, the digital clock came. And nowadays satellites send our mobile phones the time to the exact second.</span></p><p><span class=\"ind\">There has been a lot of progress in timekeeping. Clocks are always changing but some things never change. Many of us still have trouble getting out of bed on time and not being late for school or work.</span></p>",
+    "intro": "本文主要讲述计时方式的发展历程，介绍从古至今不同种类计时工具的发明、特点与演变，最后说明计时技术虽不断进步，但人们难以准时起床的问题始终存在。",
+    "qs": [
+      {
+        "q": "According to the passage, we can’t use a ________ to tell the time on a rainy day.",
+        "opts": [
+          "water clock",
+          "sun clock",
+          "digital clock",
+          "mechanical clock"
+        ],
+        "ans": "B",
+        "exp": "第二段指出：“On cloudy days or at night it was impossible to tell the time with a sun clock or a sundial”，说明阴天或雨天没有阳光时，太阳钟不能用来计时。"
+      },
+      {
+        "q": "What’s the meaning of the underlined word “ordinary” in the third paragraph?",
+        "opts": [
+          "modern",
+          "special",
+          "common",
+          "wealthy"
+        ],
+        "ans": "C",
+        "exp": "第三段描述石英钟：“It was also cheaper for ordinary people to own a clock”，结合前文机械钟制作昂贵，可推断ordinary意为“普通的”，和common同义。"
+      },
+      {
+        "q": "How many kinds of clocks are mentioned in the passage?",
+        "opts": [
+          "Five.",
+          "Six.",
+          "Seven.",
+          "Eight."
+        ],
+        "ans": "B",
+        "exp": "第二段和第三段依次提到sun clock，sundial，water clock，mechanical clock，quartz clock，digital clock，一共6种时钟。"
+      },
+      {
+        "q": "Which of the following shows the structure (结构) of the passage?",
+        "opts": [
+          "<img src=\"assets/images/jr_read9a_2_opt_1.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_2_opt_2.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_2_opt_3.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_2_opt_4.png\" height=\"70\" style=\"vertical-align:middle\">"
+        ],
+        "ans": "A",
+        "exp": "第一段总起，引出人们研发了不同计时方式；第二、三段分别按时间顺序介绍历代时钟；第四段对计时技术的发展进行总结。文章是总—分—总结构。"
+      },
+      {
+        "q": "What does the passage mainly talk about?",
+        "opts": [
+          "The importance of time.",
+          "The kinds of clocks.",
+          "The inventions of clocks.",
+          "The development of timekeeping."
+        ],
+        "ans": "D",
+        "exp": "第四段点明主旨：“There has been a lot of progress in timekeeping”，全文围绕计时方式的发展展开，文章主要讲述计时技术的发展。\n301．________ people will be given prizes in total.\nA．ThreeB．FiveC．NineD．Ten\n302．________ can take part in the competition.\nA．A 16-year-old singerB．A 13-year-old daughter of a judge\nC．A 15-year-old son of the head organizer LindaD．A 12-year-old student with a Parent Permission\n303．________ is the most important factor (因素) for deciding the winners.\nA．Voice QualityB．Song Choice\nC．Audience ResponseD．Dancing Ability\n304．If a 14-year-old singer wants to enter the competition, which parts of the form must be completed?\n①Singer’s Name        ②the Parent Permission    ③Date of the Event\n④Singer’s Age        ⑤place and time\nA．②③B．①④C．②④D．③⑤\n305．Where is the passage probably from?\nA．A poster.B．A website.C．A newspaper.D．A magazine."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_3",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "应用文",
+      "九年级上册",
+      "篇目三"
+    ],
+    "title": "九上阅读 · 三 篇目三",
+    "passage": "English Week Singing Competition 2026Entry Form●Singer’s Name: ________●Singer’s Age (13—15 years old) : ________●Competition Type: Music●Singing: Bring your own CD．Prepare 2 songs. ●Fee: Free●Entry Date: Before November 15, 2026Competition Rules:●Relatives of judges (评委) and organizers are not allowed to take part in it. ●All singers should be between 13 and 15 years old. Singers aged 12 or younger need the agreement of a parent to take part in the competition. (See the Parent Permission below) ●All singers must arrive at least 30 minutes before the start of the competition. Late comers will not be allowed to join. Prizes: 1st Prize—¥1000 (1 prize only) ; 2nd Prize—¥500 (3 prizes) ; 3rd Prize—¥200 (5 prizes) Winners will be decided according to the following:Voice Quality 50%     Song Choice 15%    Audience Response 25%    Dancing Ability 10%Head Organizer: LindaTel: 0756-2532000Website: www. elevenmiddleschool. comDate of the Event: November 16, 2026Place: Lecture Hall, Eleven Middle SchoolTime: 2:00 p. m. —5:00 p. m. Parent PermissionParent Name: ________     Signature: ________     Date Signed: ________For more information, please click HERE. | Entry Form●Singer’s Name: ________●Singer’s Age (13—15 years old) : ________●Competition Type: Music●Singing: Bring your own CD．Prepare 2 songs. ●Fee: Free●Entry Date: Before November 15, 2026 |  | Parent PermissionParent Name: ________     Signature: ________     Date Signed: ________\nEntry Form●Singer’s Name: ________●Singer’s Age (13—15 years old) : ________●Competition Type: Music●Singing: Bring your own CD．Prepare 2 songs. ●Fee: Free●Entry Date: Before November 15, 2026 | \nParent PermissionParent Name: ________     Signature: ________     Date Signed: ________",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">English Week Singing Competition 2026Entry Form●Singer’s Name: ________●Singer’s Age (13—15 years old) : ________●Competition Type: Music●Singing: Bring your own CD．Prepare 2 songs. ●Fee: Free●Entry Date: Before November 15, 2026Competition Rules:●Relatives of judges (评委) and organizers are not allowed to take part in it. ●All singers should be between 13 and 15 years old. Singers aged 12 or younger need the agreement of a parent to take part in the competition. (See the Parent Permission below) ●All singers must arrive at least 30 minutes before the start of the competition. Late comers will not be allowed to join. Prizes: 1st Prize—¥1000 (1 prize only) ; 2nd Prize—¥500 (3 prizes) ; 3rd Prize—¥200 (5 prizes) Winners will be decided according to the following:Voice Quality 50%     Song Choice 15%    Audience Response 25%    Dancing Ability 10%Head Organizer: LindaTel: 0756-2532000Website: www. elevenmiddleschool. comDate of the Event: November 16, 2026Place: Lecture Hall, Eleven Middle SchoolTime: 2:00 p. m. —5:00 p. m. Parent PermissionParent Name: ________     Signature: ________     Date Signed: ________For more information, please click HERE.<br><img src=\"assets/images/jr_read9a_3_tbl_1.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Entry Form●Singer’s Name: ________●Singer’s Age (13—15 years old) : ________●Competition Type: Music●Singing: Bring your own CD．Prepare 2 songs. ●Fee: Free●Entry Date: Before November 15, 2026</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_3_tbl_2.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Parent PermissionParent Name: ________     Signature: ________     Date Signed: ________</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Entry Form●Singer’s Name: ________●Singer’s Age (13—15 years old) : ________●Competition Type: Music●Singing: Bring your own CD．Prepare 2 songs. ●Fee: Free●Entry Date: Before November 15, 2026</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_3_tbl_3.png\" style=\"max-width:80px;height:auto\"></td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Parent PermissionParent Name: ________     Signature: ________     Date Signed: ________</td></tr></table></div>",
+    "intro": "本文是一篇应用文，介绍了2026年英语周歌唱比赛的相关事宜，包含报名表、比赛规则、奖项设置、评分标准、活动信息及家长同意书等内容，用于告知有意参赛者报名要求与比赛相关安排。",
+    "qs": [
+      {
+        "q": "________ people will be given prizes in total.",
+        "opts": [
+          "Three",
+          "Five",
+          "Nine",
+          "Ten"
+        ],
+        "ans": "C",
+        "exp": "根据文章“Prizes: 1st Prize—¥1000 (1 prize only) ; 2nd Prize—¥500 (3 prizes) ; 3rd Prize—¥200 (5 prizes)”可知，一等奖1名、二等奖3名、三等奖5名，相加可得总共有9人能获奖。"
+      },
+      {
+        "q": "________ can take part in the competition.",
+        "opts": [
+          "A 16-year-old singer",
+          "A 13-year-old daughter of a judge",
+          "A 15-year-old son of the head organizer Linda",
+          "A 12-year-old student with a Parent Permission"
+        ],
+        "ans": "D",
+        "exp": "根据文章“Competition Rules…All singers should be between 13 and 15 years old. Singers aged 12 or younger need the agreement of a parent to take part in the competition.”可知，12岁及以下的歌手持有家长同意书即可参赛，12岁有家长同意书的学生符合参赛要求。"
+      },
+      {
+        "q": "________ is the most important factor (因素) for deciding the winners.",
+        "opts": [
+          "Voice Quality",
+          "Song Choice",
+          "Audience Response",
+          "Dancing Ability"
+        ],
+        "ans": "A",
+        "exp": "根据文章“Winners will be decided according to the following: Voice Quality 50%…”可知，音质占评分比重的50%，是所有因素中占比最高的，是决定获胜者的最重要因素。"
+      },
+      {
+        "q": "If a 14-year-old singer wants to enter the competition, which parts of the form must be completed?",
+        "opts": [
+          "②③",
+          "①④",
+          "②④",
+          "③⑤"
+        ],
+        "ans": "B",
+        "exp": "根据文章Entry Form部分的“Singer’s Name: ________”“Singer’s Age (13—15 years old) : ________”以及规则中“Singers aged 12 or younger need the agreement of a parent to take part in the competition”可知，14岁参赛者处于13-15岁的参赛年龄范围内，无需填写家长同意书；活动日期、地点时间是比赛的固定公开信息，不需要参赛者填写，因此参赛者仅需填写歌手姓名和歌手年龄，选项B符合题意。"
+      },
+      {
+        "q": "Where is the passage probably from?",
+        "opts": [
+          "A poster.",
+          "A website.",
+          "A newspaper.",
+          "A magazine."
+        ],
+        "ans": "B",
+        "exp": "根据文章最后一句“For more information, please click HERE.”以及文中给出的官方网址可知，“点击”是网页的典型操作，由此可推断这篇文章很可能来自一个网站。\n阅读下列短文，从每小题所给的A、B、C、D四个选项中选出一个最佳选项。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_4",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目四"
+    ],
+    "title": "九上阅读 · 四 篇目四",
+    "passage": "On December 17, 1903, Wilbur and Orville Wright made the first successful powered flight in history, making their dream come true.\n\nIt all started when Orville was 7 and Wilbur was 11. Their father gave them a toy helicopter (直升机), which made them dream of flying. Their mother, who knew much about machines and science, also influenced them a lot.\n\nWhen the brothers grew up, they entered the printing business. Then they opened a bicycle repair shop. It wasn’t long before they were making their own bikes. However, the brothers never stopped to study flight. They studied what other people learned about flight. By 1900, the Wright brothers were ready to test their first Flyer. They tried many times. Finally, on December 17, 1903, they achieved success.\n\nThat day, the brothers flew four times. Orville flew the Flyer the first time. That flight lasted 12 seconds and went 120 feet. Their second flight went 175 feet and the third 200 feet. Wilbur flew the fourth flight. It reached 852 feet in 59 seconds. After that last flight, the Flyer became too broken to fly again because of the strong wind.\n\nThey kept testing new designs to improve their Flyer. Later, they began to teach others to fly. They even opened their own flying school. The brothers did make travel more convenient for people.",
+    "passageHtml": "<p><span class=\"ind\">On December 17, 1903, Wilbur and Orville Wright made the first successful powered flight in history, making their dream come true.</span></p><p><span class=\"ind\">It all started when Orville was 7 and Wilbur was 11. Their father gave them a toy helicopter (直升机), which made them dream of flying. Their mother, who knew much about machines and science, also influenced them a lot.</span></p><p><span class=\"ind\">When the brothers grew up, they entered the printing business. Then they opened a bicycle repair shop. It wasn’t long before they were making their own bikes. However, the brothers never stopped to study flight. They studied what other people learned about flight. By 1900, the Wright brothers were ready to test their first Flyer. They tried many times. Finally, on December 17, 1903, they achieved success.</span></p><p><span class=\"ind\">That day, the brothers flew four times. Orville flew the Flyer the first time. That flight lasted 12 seconds and went 120 feet. Their second flight went 175 feet and the third 200 feet. Wilbur flew the fourth flight. It reached 852 feet in 59 seconds. After that last flight, the Flyer became too broken to fly again because of the strong wind.</span></p><p><span class=\"ind\">They kept testing new designs to improve their Flyer. Later, they began to teach others to fly. They even opened their own flying school. The brothers did make travel more convenient for people.</span></p>",
+    "intro": "本文是一篇记叙文，讲述了莱特兄弟从小怀揣飞行梦想，经过不断研究和试验，最终在1903年成功实现首次动力飞行的故事。",
+    "qs": [
+      {
+        "q": "What’s the second paragraph mainly about?",
+        "opts": [
+          "The Wright brothers’ happy childhood.",
+          "The Wright brothers’ journey to success.",
+          "The flying experiences of the Wright brothers.",
+          "The influence of the Wright brothers’ parents on their dream."
+        ],
+        "ans": "D",
+        "exp": "第二段提到父亲送玩具直升机让他们梦想飞行，母亲对机器和科学了解很多也影响了他们，因此主要讲父母对莱特兄弟梦想的影响。"
+      },
+      {
+        "q": "What can we learn from the text?",
+        "opts": [
+          "The Wright brothers’ mother was a science teacher.",
+          "The Wright brothers flew four times on December 17, 1903.",
+          "Wilbur Wright was 7 when he got the toy helicopter.",
+          "The flying was canceled to avoid the strong wind."
+        ],
+        "ans": "B",
+        "exp": "由第三、四段“Finally, on December 17, 1903, they achieved success. That day, the brothers flew four times.”可知，1903年12月17日他们飞了四次。"
+      },
+      {
+        "q": "What does the underlined word “It” in Paragraph 4 refer to?",
+        "opts": [
+          "The first flight.",
+          "The second flight.",
+          "The third flight.",
+          "The fourth flight."
+        ],
+        "ans": "D",
+        "exp": "第四段前文描述了四次飞行：第一次Orville，第二次175英尺，第三次200英尺，第四次Wilbur飞了852英尺。接着“After that last flight, the Flyer became too broken...”，因此“that last flight”指第四次飞行，故It指代the fourth flight。"
+      },
+      {
+        "q": "What does the story tell us?",
+        "opts": [
+          "Many hands make light work.",
+          "Everyone can be an inventor.",
+          "Hard work makes dreams come true.",
+          "It’s always good to have more skills."
+        ],
+        "ans": "C",
+        "exp": "文章讲述了莱特兄弟从小梦想飞行，克服困难、不断试验，最终成功，说明努力能使梦想成真。\n阅读下列短文，从每小题所给的A、B、C、D四个选项中选出一个最佳选项。\n310．Who can join in the competition?\nA．People of all ages.B．Students over 16 years old.\nC．Children under 11 years old.D．Students between 12 and 15 years old.\n311．What must you do to enter the competition?\nA．Be good at drawing.B．Be interested in invention.\nC．Be a member of the club.D．Be creative and hard-working.\n312．While submitting your invention idea, what are you supposed to do?\nA．Send it by yourself.B．Describe your invention.\nC．Make a self-introduction.D．Submit it before December 30."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_5",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目五"
+    ],
+    "title": "九上阅读 · 五 篇目五",
+    "passage": "Inventors of the FutureThe Young Inventor Club is calling on young students aged 12-15 to join in the invention competition.\nEnter the competition:Step 1: Join the club!Sign up for the Young Inventor Club. It’s free and easy. Simply click (点击) the “Join the Club” and fill out the necessary information.Step 2: Come up with an idea.You can record problems that you see in your everyday life. And think of ways to solve them and write down anything that comes to you. Then, choose the best one as your invention idea.Step 3: Submit (提交) your invention idea.Send us a picture or drawing of your invention with your name and phone number. You should also send a written description of your invention.\nTime:●Submit your invention idea no later than December 20, 2024.●The top 3 winners will be announced on December 30, 2024. For more information, please visit our website: www.younginventorclub.com.",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Inventors of the FutureThe Young Inventor Club is calling on young students aged 12-15 to join in the invention competition.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Enter the competition:Step 1: Join the club!Sign up for the Young Inventor Club. It’s free and easy. Simply click (点击) the “Join the Club” and fill out the necessary information.Step 2: Come up with an idea.You can record problems that you see in your everyday life. And think of ways to solve them and write down anything that comes to you. Then, choose the best one as your invention idea.Step 3: Submit (提交) your invention idea.Send us a picture or drawing of your invention with your name and phone number. You should also send a written description of your invention.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Time:●Submit your invention idea no later than December 20, 2024.●The top 3 winners will be announced on December 30, 2024. For more information, please visit our website: www.younginventorclub.com.</td></tr></table></div>",
+    "intro": "本文是一则发明竞赛通知，介绍了“未来发明家”比赛的参赛资格、报名步骤（加入俱乐部、提出想法、提交发明创意）以及时间安排。",
+    "qs": [
+      {
+        "q": "Who can join in the competition?",
+        "opts": [
+          "People of all ages.",
+          "Students over 16 years old.",
+          "Children under 11 years old.",
+          "Students between 12 and 15 years old."
+        ],
+        "ans": "D",
+        "exp": "第一段明确指出：“The Young Inventor Club is calling on young students aged 12-15 to join in the invention competition.”，因此参赛者为12至15岁的学生。"
+      },
+      {
+        "q": "What must you do to enter the competition?",
+        "opts": [
+          "Be good at drawing.",
+          "Be interested in invention.",
+          "Be a member of the club.",
+          "Be creative and hard-working."
+        ],
+        "ans": "C",
+        "exp": "“Step 1: Join the club!”明确指出：“Sign up for the Young Inventor Club. It’s free and easy.”，说明参赛必须先成为俱乐部成员。"
+      },
+      {
+        "q": "While submitting your invention idea, what are you supposed to do?",
+        "opts": [
+          "Send it by yourself.",
+          "Describe your invention.",
+          "Make a self-introduction.",
+          "Submit it before December 30."
+        ],
+        "ans": "B",
+        "exp": "“Step 3: Submit your invention idea.”明确指出：“You should also send a written description of your invention.”，因此提交时需要描述自己的发明。\n阅读下列短文，从每小题所给的A、B、C、D四个选项中选出一个最佳选项。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_6",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 3,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目六"
+    ],
+    "title": "九上阅读 · 六 篇目六",
+    "passage": "Wu Mingzhu is a 94-year-old expert at growing melons (瓜), and she recently returned to Turpan, Xinjiang Uygur Autonomous Region, where she worked for many years. The local people welcomed her with warm smiles and cheers.\n\nWu was born in Wuhan, Hubei Province, and she graduated (毕业) from Southwest University in 1953. Two years later, she decided to help farmers in Xinjiang grow melons, even though the working conditions were really difficult back then.\n\nShe spent three years visiting more than 300 farms to learn about the best ways to grow melons. In 1973, she opened a special center in Hainan Province to improve melon breeding (培育). Thanks to Wu and her team, about 80 percent of the watermelons and sweet melons we eat today come from their hard work over more than 60 years!\n\nEven though Wu has some trouble remembering her family members because of her illness, she feels happy whenever someone mentions “melon”. It reminds her of all the fun and important work she did with melons during her whole life.",
+    "passageHtml": "<p><span class=\"ind\">Wu Mingzhu is a 94-year-old expert at growing melons (瓜), and she recently returned to Turpan, Xinjiang Uygur Autonomous Region, where she worked for many years. The local people welcomed her with warm smiles and cheers.</span></p><p><span class=\"ind\">Wu was born in Wuhan, Hubei Province, and she graduated (毕业) from Southwest University in 1953. Two years later, she decided to help farmers in Xinjiang grow melons, even though the working conditions were really difficult back then.</span></p><p><span class=\"ind\">She spent three years visiting more than 300 farms to learn about the best ways to grow melons. In 1973, she opened a special center in Hainan Province to improve melon breeding (培育). Thanks to Wu and her team, about 80 percent of the watermelons and sweet melons we eat today come from their hard work over more than 60 years!</span></p><p><span class=\"ind\">Even though Wu has some trouble remembering her family members because of her illness, she feels happy whenever someone mentions “melon”. It reminds her of all the fun and important work she did with melons during her whole life.</span></p>",
+    "intro": "本文是一篇记叙文，主要讲述了“西瓜奶奶”吴明珠扎根新疆，毕生致力于瓜类培育研究，为我国瓜类育种事业做出巨大贡献的故事。",
+    "qs": [
+      {
+        "q": "When did Wu decide to work in Xinjiang?",
+        "opts": [
+          "In 1953.",
+          "In 1954.",
+          "In 1955.",
+          "In 1956."
+        ],
+        "ans": "C",
+        "exp": "根据文章第二段“Wu was born in Wuhan, Hubei Province, and she graduated from Southwest University in 1953. Two years later, she decided to help farmers in Xinjiang grow melons, even though the working conditions were really difficult back then.”，1953年毕业，两年后即1955年，她决定去新疆工作。"
+      },
+      {
+        "q": "What’s the purpose of Wu’s effort?",
+        "opts": [
+          "To grow better melons.",
+          "To become a famous expert.",
+          "To fight with her illness.",
+          "To graduate from her university."
+        ],
+        "ans": "A",
+        "exp": "根据文章第三段“She spent three years visiting more than 300 farms to learn about the best ways to grow melons. In 1973, she opened a special center in Hainan Province to improve melon breeding.”可知，她努力的目的是种植出更好的瓜类。"
+      },
+      {
+        "q": "What’s the main idea of the text?",
+        "opts": [
+          "A healthy diet.",
+          "Mother of melons.",
+          "A forgetful grandma.",
+          "Famous places in China."
+        ],
+        "ans": "B",
+        "exp": "文章全文围绕吴明珠毕生致力于瓜类种植与培育研究展开，讲述了她为瓜类事业做出的巨大贡献，“Mother of melons”最能概括文章主旨。\n阅读下列短文，从每小题所给的A、B、C、D四个选项中选出一个最佳选项。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_7",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目七"
+    ],
+    "title": "九上阅读 · 七 篇目七",
+    "passage": "You get into bed after a long day and plan to spend a few minutes on your phone before sleeping. However, falling asleep isn’t as easy as expected. What’s wrong?\n\nAccording to a new study, your phone may be the problem. Researchers asked 85 kids aged 11 to 14 to wear body cameras for a week, starting from three hours before bedtime. A second camera was placed in their bedrooms to monitor their phone use in bed. The kids also wore a device (设备) to record their sleep.\n\nResearchers found that 99% of the kids used their phones in the two hours before bed, over half used their phones while in bed, and about a third used them after trying to sleep. The results showed that screen time in bed put off kids’ sleep by about half an hour and cut down on their total sleep time.\n\nThe influence was larger when they played games or used more than one screen.\n\n“While the science guidelines (指南) suggest no screen time in an hour or two before bed, keeping phones out of the bedroom might help you get a better night’s sleep,” said the lead researcher, Bradley Brosnan.",
+    "passageHtml": "<p><span class=\"ind\">You get into bed after a long day and plan to spend a few minutes on your phone before sleeping. However, falling asleep isn’t as easy as expected. What’s wrong?</span></p><p><span class=\"ind\">According to a new study, your phone may be the problem. Researchers asked 85 kids aged 11 to 14 to wear body cameras for a week, starting from three hours before bedtime. A second camera was placed in their bedrooms to monitor their phone use in bed. The kids also wore a device (设备) to record their sleep.</span></p><p><span class=\"ind\">Researchers found that 99% of the kids used their phones in the two hours before bed, over half used their phones while in bed, and about a third used them after trying to sleep. The results showed that screen time in bed put off kids’ sleep by about half an hour and cut down on their total sleep time.</span></p><p><span class=\"ind\">The influence was larger when they played games or used more than one screen.</span></p><p><span class=\"ind\">“While the science guidelines (指南) suggest no screen time in an hour or two before bed, keeping phones out of the bedroom might help you get a better night’s sleep,” said the lead researcher, Bradley Brosnan.</span></p>",
+    "intro": "本文是一篇研究报告，介绍了关于青少年睡前使用手机对睡眠影响的研究。",
+    "qs": [
+      {
+        "q": "What does the underlined word “monitor” in Paragraph 2 mean?",
+        "opts": [
+          "Keep away from.",
+          "Take care of.",
+          "Keep an eye on.",
+          "Get in the way of."
+        ],
+        "ans": "C",
+        "exp": "第二段指出：“A second camera was placed in their bedrooms to monitor their phone use in bed.”摄像头用于观察孩子们在床上使用手机的情况，因此“monitor”意为“监控、观察”，C项“Keep an eye on”符合。"
+      },
+      {
+        "q": "How many of the kids used their phones while in bed?",
+        "opts": [
+          "Less than 30%.",
+          "More than 50%.",
+          "Almost 70%.",
+          "Exactly 99%."
+        ],
+        "ans": "B",
+        "exp": "第三段明确指出：“over half used their phones while in bed”，“over half”即超过50%。"
+      },
+      {
+        "q": "What’s Bradley Brosnan’s suggestion for a better sleep?",
+        "opts": [
+          "Keeping phones out of the bedroom.",
+          "Going to bed one or two hours earlier.",
+          "Using eye-friendly screens to play games.",
+          "Turning off the phone before going to bed."
+        ],
+        "ans": "A",
+        "exp": "最后一段Bradley Brosnan指出：“keeping phones out of the bedroom might help you get a better night’s sleep”，因此他的建议是将手机放在卧室外。"
+      },
+      {
+        "q": "What’s the best title for the text?",
+        "opts": [
+          "Kids’ unhealthy phone use habits",
+          "Some useful ways to help kids sleep well",
+          "A new device for monitoring sleep patterns",
+          "A study on how screen time influences sleep"
+        ],
+        "ans": "D",
+        "exp": "全文围绕一项关于睡前屏幕时间（尤其是手机使用）对睡眠影响的研究展开，介绍了研究方法和结果，因此最佳标题为“一项关于屏幕时间如何影响睡眠的研究”。\n阅读下列短文，从每小题所给的A、B、C、D四个选项中选出一个最佳选项。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_8",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "中国深蓝航天公司在直播中首次售"
+    ],
+    "title": "九上阅读 · 八 中国深蓝航天公司在直播中首次售",
+    "passage": "On Oct. 24, Deep Blue Aerospace, a Chinese space company, sold two space travel tickets in a livestream (直播). This was the first time space tickets were sold in China. Each ticket was 1.5 million yuan. But during the stream, they were sold for 1 million yuan each.\n\nThe space trip will last about 12 minutes. According to the company, passengers will sit in a spacecraft (航天器) that is about 4 meters tall and 3.5 meters wide, with six big windows and space for six people. The spacecraft will go 100 kilometers above Earth.\n\nTravelers will experience weightlessness (失重) for at least five minutes and see Earth from above before coming back down safely.\n\nPassengers must be between 18 and 60 years old. They need to be healthy. They also have to take some training before the trip.\n\nThe trip will use the company's Nebula-1 rocket. It runs on O2 and kerosene (煤油) and can be reused. This makes the trip cheaper. As this technology gets better, space tickets might become less expensive, said a leader of Deep Blue Aerospace.\n\nThe company plans to do lots of tests in 2026 to make sure the space trip is safe. They hope to begin the trip in 2027.",
+    "passageHtml": "<p><span class=\"ind\">On Oct. 24, Deep Blue Aerospace, a Chinese space company, sold two space travel tickets in a livestream (直播). This was the first time space tickets were sold in China. Each ticket was 1.5 million yuan. But during the stream, they were sold for 1 million yuan each.</span></p><p><span class=\"ind\">The space trip will last about 12 minutes. According to the company, passengers will sit in a spacecraft (航天器) that is about 4 meters tall and 3.5 meters wide, with six big windows and space for six people. The spacecraft will go 100 kilometers above Earth.</span></p><p><span class=\"ind\">Travelers will experience weightlessness (失重) for at least five minutes and see Earth from above before coming back down safely.</span></p><p><span class=\"ind\">Passengers must be between 18 and 60 years old. They need to be healthy. They also have to take some training before the trip.</span></p><p><span class=\"ind\">The trip will use the company's Nebula-1 rocket. It runs on O2 and kerosene (煤油) and can be reused. This makes the trip cheaper. As this technology gets better, space tickets might become less expensive, said a leader of Deep Blue Aerospace.</span></p><p><span class=\"ind\">The company plans to do lots of tests in 2026 to make sure the space trip is safe. They hope to begin the trip in 2027.</span></p>",
+    "intro": "本文主要介绍了中国深蓝航天公司在直播中首次售卖太空旅行门票的相关信息，包括价格、行程时长、乘客体验、乘客要求以及火箭技术特点。",
+    "qs": [
+      {
+        "q": "What did Deep Blue Aerospace do on Oct. 24?",
+        "opts": [
+          "It sold cheaper space tickets during a livestream.",
+          "It made less than 1 million yuan by selling products.",
+          "It gave away two free tickets for a trip to space.",
+          "It live streamed two people being sent into space."
+        ],
+        "ans": "A",
+        "exp": "根据第一段“On Oct. 24, Deep Blue Aerospace... sold two space travel tickets in a livestream. This was the first time space tickets were sold in China. Each ticket was 1.5 million yuan. But during the stream, they were sold for 1 million yuan each.”可知，深蓝航天在10月24日的直播中销售了两张太空旅行票，原本每张150万元，但在直播中以每张100万元售出，因此可以推断在直播中售卖的太空票价格更便宜。"
+      },
+      {
+        "q": "What do we know about Deep Blue Aerospace’s space trip?",
+        "opts": [
+          "Travelers can stay in space for 12 days.",
+          "Travelers can see Earth from above.",
+          "Travelers will try spacewalks before returning.",
+          "Children need to travel with their parents."
+        ],
+        "ans": "B",
+        "exp": "根据第三段“Travelers will experience weightlessness for at least five minutes and see Earth from above before coming back down safely.”可知，旅行者将在太空中体验至少五分钟的失重状态，并且能够从上方看到地球，然后安全返回。因此可以确定旅行者有机会从太空看到地球。"
+      },
+      {
+        "q": "What can we infer from the text?",
+        "opts": [
+          "Space travel will become popular in 2027.",
+          "The company can keep travelers safe in space now.",
+          "The first group of space travelers will be five people.",
+          "Space travelers may be some of the rich people."
+        ],
+        "ans": "D",
+        "exp": "根据第一段“Each ticket was 1.5 million yuan. But during the stream, they were sold for 1 million yuan each.”可知，太空旅行票原价每张150万元，即使在直播优惠中也需100万元。这样的价格对普通人来说非常昂贵，因此可以推断购买太空旅行票的人可能是经济条件较好的富人。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_9",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目九"
+    ],
+    "title": "九上阅读 · 九 篇目九",
+    "passage": "Madison Checketts is a young inventor. When she was 12 years old, she loved going to beaches with her family. But every time she went there, she saw many plastic water bottles on the beaches. Seeing plastic pollute her favourite beaches year after year, Madison decided it was time to do something about it.\n\nAfter learning a lot about plastic pollution, Madison decided to develop an eco-friendly water bottle. Through lots of hard work, she created the Eco-Hero—an edible water bottle. People can easily drink the water by poking (戳) a hole at the top of the bottle and can eat the bottle after finishing the water. It only costs about $1.20 to make.\n\nCreating the Eco-Hero was not an easy job. Madison went through many tests. “I just kept trying new things, and if it didn’t work, I would do some more research and try again,” she said.\n\nThinking about the future of the Eco-Hero, Madison said she wants to do more tests to improve the water bottle and make it stronger and bigger. She hoped her invention could be used during races—as runners stop for water, they’d be able to use the Eco-Hero, drink the water and eat the bottle.\n\nThe Eco-Hero encourages people to do something to make the world a better place. “Everyone can bring about changes to the world, even if it’s just in a small way,” said Madison.",
+    "passageHtml": "<p><span class=\"ind\">Madison Checketts is a young inventor. When she was 12 years old, she loved going to beaches with her family. But every time she went there, she saw many plastic water bottles on the beaches. Seeing plastic pollute her favourite beaches year after year, Madison decided it was time to do something about it.</span></p><p><span class=\"ind\">After learning a lot about plastic pollution, Madison decided to develop an eco-friendly water bottle. Through lots of hard work, she created the Eco-Hero—an edible water bottle. People can easily drink the water by poking (戳) a hole at the top of the bottle and can eat the bottle after finishing the water. It only costs about $1.20 to make.</span></p><p><span class=\"ind\">Creating the Eco-Hero was not an easy job. Madison went through many tests. “I just kept trying new things, and if it didn’t work, I would do some more research and try again,” she said.</span></p><p><span class=\"ind\">Thinking about the future of the Eco-Hero, Madison said she wants to do more tests to improve the water bottle and make it stronger and bigger. She hoped her invention could be used during races—as runners stop for water, they’d be able to use the Eco-Hero, drink the water and eat the bottle.</span></p><p><span class=\"ind\">The Eco-Hero encourages people to do something to make the world a better place. “Everyone can bring about changes to the world, even if it’s just in a small way,” said Madison.</span></p>",
+    "intro": "本文是一篇记叙文，主要讲述了12岁的年轻发明家Madison Checketts因看到海滩上的塑料水瓶污染问题，发明了可食用的环保水瓶Eco-Hero的故事。",
+    "qs": [
+      {
+        "q": "What did Madison see when she went to the beaches?",
+        "opts": [
+          "Plastic bags.",
+          "Glass water bottles.",
+          "Wooden boxes.",
+          "Plastic water bottles."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“But every time she went there, she saw many plastic water bottles on the beaches.”可知，Madison在海滩上看到的是塑料水瓶。故选D。"
+      },
+      {
+        "q": "What does “edible” mean in Paragraph 2?",
+        "opts": [
+          "Safe to eat.",
+          "Good for the environment.",
+          "Easy to break.",
+          "Convenient to recycle."
+        ],
+        "ans": "A",
+        "exp": "词句猜测题。根据“People can easily drink the water by poking a hole at the top of the bottle and can eat the bottle after finishing the water.”可知，人们可以通过在瓶子顶部戳一个洞来喝水，喝完水后可以吃掉瓶子，“edible”意为“可食用的”。故选A。"
+      },
+      {
+        "q": "According to Paragraph 3, which words can best describe Madison?",
+        "opts": [
+          "Never give up.",
+          "Work well together.",
+          "Respect all people.",
+          "Always be confident."
+        ],
+        "ans": "A",
+        "exp": "推理判断题。根据“I just kept trying new things, and if it didn’t work, I would do some more research and try again.”可推知，Madison是一个“永不放弃”的人。故选A。"
+      },
+      {
+        "q": "What does Madison plan to do in the future?",
+        "opts": [
+          "To reduce the cost of the Eco-Hero.",
+          "To introduce the Eco-Hero in schools.",
+          "To sell the Eco-Hero in other countries.",
+          "To make the Eco-Hero stronger and bigger."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“Madison said she wants to do more tests to improve the water bottle and make it stronger and bigger.”可知，她计划让Eco-Hero变得更坚固和更大。故选D。"
+      },
+      {
+        "q": "Which is the best title of the text?",
+        "opts": [
+          "A Useful Way to Save Beaches",
+          "An Amazing Water Bottle",
+          "The Problem of Plastic Pollution",
+          "How to Make Plastic Bottles"
+        ],
+        "ans": "B",
+        "exp": "最佳标题题。通读全文可知，全文围绕Madison发明的可食用环保水瓶Eco-Hero展开，重点介绍了其创新性和环保意义。故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_10",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "珠海阳光旅行社推出的新疆7天冬"
+    ],
+    "title": "九上阅读 · 十 珠海阳光旅行社推出的新疆7天冬",
+    "passage": "Winter vacation is coming soon! Zhuhai Sunshine Travel Company is now introducing a 7-day winter tour to Xinjiang. It will be an unforgettable trip for you!\n\nThere are two choices for your tour:\n\nPlane TourTransportation: By planePrice: ¥ 8,000 per person (including flight tickets, hotel, and two meals each day). | Train TourTransportation: By trainPrice: ¥ 3,500 per person (including train tickets, hotel, and only one meal each day).\n\nFood and Activities:\n\nFood: In Xinjiang, there are many delicious foods. One popular dish is samsa (烤包子). It is a meat pie that is filled with mutton, onions and carrots. Another favourite is naan—a kind of special bread. It can be round or long, thick or thin. Besides, a “meter kebab” (一米羊肉串) is also worth trying.\n\nSkiing: Xinjiang is a popular place for skiing because it has plenty of soft snow in winter. Another advantage of skiing here is that you can enjoy the beautiful views while skiing.\n\nCampfire party: Campfire parties are held at night, where people gather to sing and dance. You can even join in by wearing traditional Xinjiang costumes to experience the beauty of the local culture.\n\nImportant Tips: Xinjiang is very cold and dry in winter. Remember to bring your warmest clothes and drink plenty of water.\n\nIf you’re interested in this journey, please email us at zh.travel@example.com to book your trip",
+    "passageHtml": "<p><span class=\"ind\">Winter vacation is coming soon! Zhuhai Sunshine Travel Company is now introducing a 7-day winter tour to Xinjiang. It will be an unforgettable trip for you!</span></p><p><span class=\"ind\">There are two choices for your tour:</span></p><div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Plane TourTransportation: By planePrice: ¥ 8,000 per person (including flight tickets, hotel, and two meals each day).</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Train TourTransportation: By trainPrice: ¥ 3,500 per person (including train tickets, hotel, and only one meal each day).</td></tr></table></div><p><span class=\"ind\">Food and Activities:</span></p><p><span class=\"ind\">Food: In Xinjiang, there are many delicious foods. One popular dish is samsa (烤包子). It is a meat pie that is filled with mutton, onions and carrots. Another favourite is naan—a kind of special bread. It can be round or long, thick or thin. Besides, a “meter kebab” (一米羊肉串) is also worth trying.</span></p><p><span class=\"ind\">Skiing: Xinjiang is a popular place for skiing because it has plenty of soft snow in winter. Another advantage of skiing here is that you can enjoy the beautiful views while skiing.</span></p><p><span class=\"ind\">Campfire party: Campfire parties are held at night, where people gather to sing and dance. You can even join in by wearing traditional Xinjiang costumes to experience the beauty of the local culture.</span></p><p><span class=\"ind\">Important Tips: Xinjiang is very cold and dry in winter. Remember to bring your warmest clothes and drink plenty of water.</span></p><p><span class=\"ind\">If you’re interested in this journey, please email us at zh.travel@example.com to book your trip</span></p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/jr_read9a_10_1.png\" alt=\"插图\" style=\"max-width:100%;height:auto;border-radius:4px\"></div>",
+    "intro": "本文主要介绍了珠海阳光旅行社推出的新疆7天冬季旅行，包括旅行方式、价格、食物、活动以及重要提示等信息。",
+    "qs": [
+      {
+        "q": "How much does it cost if Mary and her parents choose Plane Tour?",
+        "opts": [
+          "3,500 yuan.",
+          "8,000 yuan.",
+          "10,500 yuan.",
+          "24,000 yuan."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“Price: ¥ 8,000 per person (including flight tickets, hotel, and two meals each day).”可知，飞机团每人费用8000元，Mary和父母三人合计8000×3=24000元。故选D。"
+      },
+      {
+        "q": "According to the text, you can enjoy food in Xinjiang EXCEPT ________.",
+        "opts": [
+          "samsa",
+          "naan",
+          "dim sum",
+          "meter kebab"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“One popular dish is samsa (烤包子)...Another favourite is naan—a kind of special bread. Besides, a ‘meter kebab’ (一米羊肉串) is also worth trying.”可知，文中提到了烤包子、馕和一米羊肉串，没有提到“dim sum”。故选C。"
+      },
+      {
+        "q": "Why is Xinjiang a popular place for skiing?",
+        "opts": [
+          "Because it is cold enough in Xinjiang.",
+          "Because it has plenty of soft snow in winter.",
+          "Because skiing center provides food for tourists.",
+          "Because people can go to the campfire party after skiing."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Xinjiang is a popular place for skiing because it has plenty of soft snow in winter.”可知，新疆是一处热门滑雪胜地，因为这里冬季有着大量松软的积雪。故选B。"
+      },
+      {
+        "q": "According to the text, what do you need to take if you go to Xinjiang in winter?",
+        "opts": [
+          "A meat pie.",
+          "Warmest clothes.",
+          "Lots of water.",
+          "Xinjiang costumes."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Xinjiang is very cold and dry in winter. Remember to bring your warmest clothes and drink plenty of water.”可知，冬天去新疆要带最暖和的衣服。故选B。"
+      },
+      {
+        "q": "Where can you probably find this text?",
+        "opts": [
+          "A story book.",
+          "A personal diary.",
+          "A science report.",
+          "A travel magazine."
+        ],
+        "ans": "D",
+        "exp": "推理判断题。通读全文可知，这是一个介绍旅游项目的广告，最有可能来自旅游杂志。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_11",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目十一"
+    ],
+    "title": "九上阅读 · 十一 篇目十一",
+    "passage": "Do you want to make your room special? A lava lamp (熔岩灯) is a good choice. When you turn it on, the soft light will make you feel relaxed and comfortable. A lava lamp is not just for giving light, but also a mix of science and art. Making a lava lamp is fun. Do you want to have a try? Here comes the guide.\n\nI. Materials you need:\n\nA lamp, a clean glass, some water, some vegetable oil, a little food coloring and some pieces of Alka-Seltzer tablets (泡腾片).II. Steps to follow:\n\n① Choose a clean and dry glass.\n\n② Pour the vegetable oil into the glass until it is about 3/4 full. Then, add water slowly until the glass is nearly full.\n\n③ Add a few drops of food coloring into the mixture of water and oil. You can choose one color or several colors to get different effects.\n\n④ Break an Alka-Seltzer tablet into small pieces. Put one or two small pieces into the glass.\n\n⑤ Place the glass on the lamp. Turn it on and you will get the Lava Lamp Effect. III. The Science behind:\n\nLava lamps are made of a kind of special colored liquid (液体). This liquid shows a scientific principle that water and oil do not mix together. You can clearly see the colored water and oil moving up and down. They run in a fantastic way, just like a magic show. IV. Safety Tips:\n\nDon’t eat any of the materials.\n\nKeep the experiment away from open fire.\n\nWith a little effort and creativity, you can have your own lava lamp that will not only decorate your room but also bring you the fun of DIY!",
+    "passageHtml": "<p><span class=\"ind\">Do you want to make your room special? A lava lamp (熔岩灯) is a good choice. When you turn it on, the soft light will make you feel relaxed and comfortable. A lava lamp is not just for giving light, but also a mix of science and art. Making a lava lamp is fun. Do you want to have a try? Here comes the guide.</span></p><p><span class=\"ind\">I. Materials you need:</span></p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/jr_read9a_11_5.png\" alt=\"插图\" style=\"max-width:100%;height:auto;border-radius:4px\"></div><p><span class=\"ind\">A lamp, a clean glass, some water, some vegetable oil, a little food coloring and some pieces of Alka-Seltzer tablets (泡腾片).II. Steps to follow:</span></p><p><span class=\"ind\">① Choose a clean and dry glass.</span></p><p><span class=\"ind\">② Pour the vegetable oil into the glass until it is about 3/4 full. Then, add water slowly until the glass is nearly full.</span></p><p><span class=\"ind\">③ Add a few drops of food coloring into the mixture of water and oil. You can choose one color or several colors to get different effects.</span></p><p><span class=\"ind\">④ Break an Alka-Seltzer tablet into small pieces. Put one or two small pieces into the glass.</span></p><p><span class=\"ind\">⑤ Place the glass on the lamp. Turn it on and you will get the Lava Lamp Effect. III. The Science behind:</span></p><p><span class=\"ind\">Lava lamps are made of a kind of special colored liquid (液体). This liquid shows a scientific principle that water and oil do not mix together. You can clearly see the colored water and oil moving up and down. They run in a fantastic way, just like a magic show. IV. Safety Tips:</span></p><p><span class=\"ind\">Don’t eat any of the materials.</span></p><p><span class=\"ind\">Keep the experiment away from open fire.</span></p><p><span class=\"ind\">With a little effort and creativity, you can have your own lava lamp that will not only decorate your room but also bring you the fun of DIY!</span></p>",
+    "intro": "本文是一篇说明文，主要介绍了熔岩灯的特点，详细列出了制作熔岩灯所需的材料、步骤，解释了背后的科学原理，并给出了安全提示，旨在教人们如何在家制作熔岩灯。",
+    "qs": [
+      {
+        "q": "How does the writer start the passage?",
+        "opts": [
+          "By asking a question.",
+          "By listing some numbers.",
+          "By giving an example.",
+          "By sharing an experience."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“Do you want to make your room special?”可知，你想让你的房间变得特别吗？因此，作者以一个问题开篇引出主题。故选A。"
+      },
+      {
+        "q": "How much oil is needed in the experiment?",
+        "opts": [
+          "<img src=\"assets/images/jr_read9a_11_opt_1.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_11_opt_2.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_11_opt_3.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_11_opt_4.png\" height=\"70\" style=\"vertical-align:middle\">"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“II. Steps to follow”部分第②点“Pour the vegetable oil into the glass until it is about 3/4 full.”可知，将植物油倒入玻璃杯中，直到大约四分之三满。因此，实验需要的油量是杯子的四分之三满。故选C。"
+      },
+      {
+        "q": "________ is the correct order of making a lava lamp.",
+        "opts": [
+          "c-b-a-e-d",
+          "c-b-a-d-e",
+          "a-c-d-b-e",
+          "a-c-b-d-e"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“II. Steps to follow”部分的步骤：根据“① Choose a clean and dry glass.”可知，选择一个干净干燥的玻璃杯，对应c；“② Pour the vegetable oil into the glass... add water...”可知，倒入植物油和水，对应b；根据“③ Add a few drops of food coloring...”可知，加入食用色素，对应a；根据“④ Put one or two small pieces of Alka-Seltzer tablets into the glass.”可知，放入泡腾片碎片，对应d；根据“⑤ Place the glass on the lamp and turn it on.”可知，将杯子放在灯上并打开灯，对应e。因此，正确顺序为c-b-a-d-e。故选B。"
+      },
+      {
+        "q": "What does the underlined word “principle” mean?",
+        "opts": [
+          "A tool used for making things.",
+          "A personal idea about something.",
+          "A subject people talk about.",
+          "A way that things usually happen."
+        ],
+        "ans": "D",
+        "exp": "词句猜测题。根据文章“III. The Science behind”部分“This liquid shows a scientific principle that water and oil do not mix together.”可知，“水和油不相溶”是一种科学规律。因此，principle意思是“规律”，即“事物通常发生的方式”。故选D。"
+      },
+      {
+        "q": "What’s the main purpose of this passage?",
+        "opts": [
+          "To explain why lava lamps are so popular.",
+          "To tell people where to buy the best lava lamps.",
+          "To show people’s different designs of lava lamps.",
+          "To teach people how to make lava lamps at home."
+        ],
+        "ans": "D",
+        "exp": "主旨大意题。根据“Making a lava lamp is fun. Do you want to have a try? Here comes the guide.”以及后文对材料、步骤、科学原理和安全提示的详细介绍，可知文章的核心目的是教人们在家制作熔岩灯。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_12",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "珠海的一些活动"
+    ],
+    "title": "九上阅读 · 十二 珠海的一些活动",
+    "passage": "Zhuhai is a wonderful city that always provides all kinds of activities for the public. Here are some plans of the activities for you.\n\nThe Family-friendly ActivitiesCome and stay in our hotel! You will have a great time with your families. You can try delicious food, enjoy amazing penguin shows and have fun games. If you want to get more information, please log in the Chimelong Tourism Mini Program on WeChat. Time: Nov. 18th, 2024—Jan. 3rd, 2025Place: Chimelong Penguin Hotel, HengqinPrice: Free for guests who stay in the hotel | The Puppet ShowCome and watch the puppet show! It’s from the famous story Journey to the West. You’ll enjoy the amazing adventure and feel the charm of traditional culture. Don’t miss it! Please go to the official WeChat account of Zhuhai Grand Theater to buy tickets. Time: Feb. 2nd, 2025Place: Zhuhai Grand Theater, No. 129 Yuwan Road, XiangzhouPrice: ¥120\nThe Sports EventCome and join us! Whether you are a professional runner or just want to challenge yourself, there are different kinds of races for you, the Full Marathon (42.195km), the Half Marathon (21.0975km) and the Mini Marathon (5km). Please click the website to sign up http://www.zhuhaimarathon.com. Time: Jan. 12, 2025Place: Zhuhai Museum, Ji’an Road, XiangzhouPrice: ¥200 for Full Marathon¥200 for Half Marathon¥80 for Mini Marathon | The Art ExhibitionWe have 276 pieces of works from 123 countries and regions waiting for you. You can find the latest development of photography here. If you like taking photos, you can’t miss it. Please scan the QR code to make an appointment or search for introduction of the exhibition. Time: Nov. 2nd, 2024—Feb. 16th, 2025\n | Place: Guyuan Art Museum, No. 388 Meihua East Road, XiangzhouPrice: Free | \n\nCome and create nice memories with us in Zhuhai!",
+    "passageHtml": "<div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/jr_read9a_12_1.png\" alt=\"插图\" style=\"max-width:100%;height:auto;border-radius:4px\"></div><p><span class=\"ind\">Zhuhai is a wonderful city that always provides all kinds of activities for the public. Here are some plans of the activities for you.</span></p><div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">The Family-friendly ActivitiesCome and stay in our hotel! You will have a great time with your families. You can try delicious food, enjoy amazing penguin shows and have fun games. If you want to get more information, please log in the Chimelong Tourism Mini Program on WeChat. Time: Nov. 18th, 2024—Jan. 3rd, 2025Place: Chimelong Penguin Hotel, HengqinPrice: Free for guests who stay in the hotel<br><img src=\"assets/images/jr_read9a_12_tbl_2.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">The Puppet ShowCome and watch the puppet show! It’s from the famous story Journey to the West. You’ll enjoy the amazing adventure and feel the charm of traditional culture. Don’t miss it! Please go to the official WeChat account of Zhuhai Grand Theater to buy tickets. Time: Feb. 2nd, 2025Place: Zhuhai Grand Theater, No. 129 Yuwan Road, XiangzhouPrice: ¥120<br><img src=\"assets/images/jr_read9a_12_tbl_3.png\" style=\"max-width:80px;height:auto\"></td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">The Sports EventCome and join us! Whether you are a professional runner or just want to challenge yourself, there are different kinds of races for you, the Full Marathon (42.195km), the Half Marathon (21.0975km) and the Mini Marathon (5km). Please click the website to sign up http://www.zhuhaimarathon.com. Time: Jan. 12, 2025Place: Zhuhai Museum, Ji’an Road, XiangzhouPrice: ¥200 for Full Marathon¥200 for Half Marathon¥80 for Mini Marathon<br><img src=\"assets/images/jr_read9a_12_tbl_4.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">The Art ExhibitionWe have 276 pieces of works from 123 countries and regions waiting for you. You can find the latest development of photography here. If you like taking photos, you can’t miss it. Please scan the QR code to make an appointment or search for introduction of the exhibition. Time: Nov. 2nd, 2024—Feb. 16th, 2025<br><img src=\"assets/images/jr_read9a_12_tbl_5.png\" style=\"max-width:80px;height:auto\"></td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Place: Guyuan Art Museum, No. 388 Meihua East Road, XiangzhouPrice: Free</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_12_tbl_6.png\" style=\"max-width:80px;height:auto\"></td></tr></table></div><p><span class=\"ind\">Come and create nice memories with us in Zhuhai!</span></p>",
+    "intro": "本文主要介绍了珠海的一些活动。",
+    "qs": [
+      {
+        "q": "According to the passage, you can _______ in Hengqin.",
+        "opts": [
+          "enjoy a puppet show",
+          "watch a penguin show",
+          "see a photo art exhibition",
+          "take part in a marathon"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“You can try delicious food, enjoy amazing penguin shows and have fun games.”以及“Place: Chimelong Penguin Hotel, Hengqin”可知，你可以在横琴观看企鹅表演。故选B。"
+      },
+      {
+        "q": "Peter wants to try the Half Marathon and his father wants to run 5 kilometers. They need to pay _______.",
+        "opts": [
+          "¥80",
+          "¥200",
+          "¥280",
+          "¥400"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“¥200 for Half Marathon”以及“¥80 for Mini Marathon”可知，彼得想试试半程马拉松，他的父亲想跑5公里，他们需要支付280元。故选C。"
+      },
+      {
+        "q": "Which of the following ways can help you learn more about the Photo Art Exhibition?",
+        "opts": [
+          "Scanning the QR code.",
+          "Visiting the official website.",
+          "Going to the official WeChat account.",
+          "Logging in the Mini Program on WeChat."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“Please scan the QR code to make an appointment or search for introduction of the exhibition.”可知，扫描二维码可以帮助你了解更多关于摄影艺术展的信息。故选A。"
+      },
+      {
+        "q": "You can take part in _______ during this winter vacation.",
+        "opts": [
+          "the Chimelong Penguin Festival and Zhuhai Marathon",
+          "the Chimelong Penguin Festival and the Puppet Show",
+          "Zhuhai Marathon and the 19th China International Photo Art Exhibition",
+          "the Puppet Show and the 19th China International Photo Art Exhibition"
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“The Puppet Show Time: Feb. 2nd, 2025”以及“The Art Exhibition Time: Nov. 2nd, 2024—Feb. 16th, 2025”可知，你可以在这个寒假参加木偶戏和第19届中国国际摄影艺术展。故选D。"
+      },
+      {
+        "q": "Where can you most probably read the passage?",
+        "opts": [
+          "On a website.",
+          "In a story book.",
+          "In a newspaper.",
+          "In a science magazine."
+        ],
+        "ans": "A",
+        "exp": "推理判断题。根据“Zhuhai is a wonderful city that always provides all kinds of activities for the public. Here are some plans of the activities for you.”以及通读全文可知，本文主要介绍了珠海的一些活动，可能在网站上读到这篇文章。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_13",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 3,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目十三"
+    ],
+    "title": "九上阅读 · 十三 篇目十三",
+    "passage": "Rainbows are created by light shining through water or clear objects. In nature, rainbows usually appear where rain and sunlight meet. Rainbows are beautiful jokes of light. Science, though, has unlocked how they work. Where and When Rainbows Appear\n\nIf you see a rainbow, it usually means it is raining in front of you and the sun is shining behind you. Rainbows appear in  rain or mist (雾). You need both water, in the air and direct sunlight to see one. If the sky is too cloudy, you won’t see a rainbow. The best time to see a rainbow is in the early morning or late afternoon. At that time, the sun is at a good angle (角度). Sometimes, you may even see two or three rainbows together. There are even rainbows at night made by moonlight. They are called moonbows.\n\nA rainbow looks like a half circle from the ground, but it is actually a full circle. Sometimes, airplane pilots can see the whole circle from the sky. How Rainbows Form\n\nA French scientist named René Descartes studied rainbows over 400 years ago. He used sunlight and a water-filled ball to do experiments. He learned that to see a rainbow, you must be looking at the light from the right angle. Understanding rainbows helps to know how light travels. Light moves at different speeds through different substances. For example, light moves faster in air than in water. When light enters water, it slows down and changes direction. This is why a pencil in a glass of water looks bent (弯曲的) .\n\nRainbows form when sunlight enters raindrops. The light bends inside each drop, reflects off the inside, and bends again when it comes out. This happens in millions of drops at the same time, creating all the colors of a rainbow.",
+    "passageHtml": "<div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/jr_read9a_13_5.png\" alt=\"插图\" style=\"max-width:100%;height:auto;border-radius:4px\"></div><p><span class=\"ind\">Rainbows are created by light shining through water or clear objects. In nature, rainbows usually appear where rain and sunlight meet. Rainbows are beautiful jokes of light. Science, though, has unlocked how they work. Where and When Rainbows Appear</span></p><p><span class=\"ind\">If you see a rainbow, it usually means it is raining in front of you and the sun is shining behind you. Rainbows appear in  rain or mist (雾). You need both water, in the air and direct sunlight to see one. If the sky is too cloudy, you won’t see a rainbow. The best time to see a rainbow is in the early morning or late afternoon. At that time, the sun is at a good angle (角度). Sometimes, you may even see two or three rainbows together. There are even rainbows at night made by moonlight. They are called moonbows.</span></p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/jr_read9a_13_6.png\" alt=\"插图\" style=\"max-width:100%;height:auto;border-radius:4px\"></div><p><span class=\"ind\">A rainbow looks like a half circle from the ground, but it is actually a full circle. Sometimes, airplane pilots can see the whole circle from the sky. How Rainbows Form</span></p><p><span class=\"ind\">A French scientist named René Descartes studied rainbows over 400 years ago. He used sunlight and a water-filled ball to do experiments. He learned that to see a rainbow, you must be looking at the light from the right angle. Understanding rainbows helps to know how light travels. Light moves at different speeds through different substances. For example, light moves faster in air than in water. When light enters water, it slows down and changes direction. This is why a pencil in a glass of water looks bent (弯曲的) .</span></p><p><span class=\"ind\">Rainbows form when sunlight enters raindrops. The light bends inside each drop, reflects off the inside, and bends again when it comes out. This happens in millions of drops at the same time, creating all the colors of a rainbow.</span></p>",
+    "intro": "本文是一篇说明文，主要介绍了彩虹的相关科学知识，包括彩虹出现的时间、地点、形态，以及彩虹形成的科学原理。",
+    "qs": [
+      {
+        "q": "Which sentence below can best explain the underlined sentence “Rainbows are beautiful tricks of light” in Paragraph 1?",
+        "opts": [
+          "Rainbows are tricks made by many scientists.",
+          "Someone lied to us about the truth of rainbows.",
+          "Rainbows are made by some unknown magic tricks",
+          "The light plays jokes on people’s eyes and makes rainbows."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据后文“Science, though, has unlocked how they work.”和彩虹形成的原理可知，彩虹是光的作用形成的，并非真正的“诡计”，而是光给人视觉上的呈现。选项D“光捉弄人的眼睛，形成了彩虹”最贴合句意。故选D。"
+      },
+      {
+        "q": "What does the underlined word “substances” mean in paragraph 4?",
+        "opts": [
+          "expressions",
+          "materials",
+          "requests",
+          "introductions"
+        ],
+        "ans": "B",
+        "exp": "词句猜测题。根据后文“For example, light moves faster in air than in water.”可知，此处是说光在不同物质中传播速度不同，“substances”指“物质、材料”，与“materials”含义相近。故选B。"
+      },
+      {
+        "q": "Which could be the best picture for the underlined sentence in Paragraph 6?",
+        "opts": [
+          "<img src=\"assets/images/jr_read9a_13_opt_1.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_13_opt_2.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_13_opt_3.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_13_opt_4.png\" height=\"70\" style=\"vertical-align:middle\">"
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据第六段“For example, light moves faster in air than in water. When light enters water, it slows down and changes direction.”可知，光在空气中比在水中传播的更快，当光进入水中，方向会改变，选项B最符合。故选B。"
+      },
+      {
+        "q": "Which statement below is TRUE according to the article?",
+        "opts": [
+          "A rainbow can be a complete circle as well as a half circle.",
+          "You need to stand at a right angle to see a rainbow.",
+          "Light seems to make a pencil bend in water.",
+          "Light moves faster in water than in air."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据第三段“A rainbow looks like a half circle from the ground, but it is actually a full circle. Sometimes, airplane pilots can see the whole circle from the sky.”可知，彩虹从地面视角看是半圆形，实际本身是完整的圆形，飞行员在高空能看到完整的圆形彩虹。因此“彩虹既可以是完整的圆，也可以是半圆”的表述正确。故选A。"
+      },
+      {
+        "q": "What is the best title for the passage?",
+        "opts": [
+          "The Science Behind Rainbows",
+          "How to Make a Rainbow",
+          "The Beauty of Rainbows",
+          "René Descartes and His Discovery"
+        ],
+        "ans": "A",
+        "exp": "最佳标题题。文章围绕彩虹展开，既介绍了彩虹出现的条件、时间、形态，也详细解释了其形成的科学原理，核心是彩虹背后的科学知识，选项A“彩虹背后的科学”最适合作为标题。故选A。\n348．Which is the closest subway station to the museum?\nA．King Square.B．Nelson Street.C．Embankment.D．Charming Cross.\n349．How much should Lily pay if she goes with her 6-year-old son?\nA．10 dollars.B．Free.C．20 dollars.D．15 dollars.\n350．What does the sign  mean?\nA．Having a meal.B．Enjoying photos.\nC．Asking for information.D．Buying a present.\n351．Where can we find Museum Shop?\nA．In East Garden.B．Next to Dining Space.\nC．Across from Lost & Found. D．Between Ancient Arts and Modern Arts.\n352．The text is probably taken from _________.\nA．a travel diaryB．a shopping listC．a street mapD．a visitor guide"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_14",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "阳光艺术博物馆的一些信息"
+    ],
+    "title": "九上阅读 · 十四 阳光艺术博物馆的一些信息",
+    "passage": "Sunshine Art museumPlace: On the north side of King SquareArriving Here: Subway stations:         Nelson Street (2-minute walk) Embankment (3-minute walk) Charming Cross (7-minute walk) Opening Hours: Mon.—Sat.         10 a.m.—4 p.m. Prices: Adults: $ 10/personChildren under 12: FreeConnect with us: Call 723-1182 for more information.",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Sunshine Art museumPlace: On the north side of King SquareArriving Here: Subway stations:         Nelson Street (2-minute walk) Embankment (3-minute walk) Charming Cross (7-minute walk) Opening Hours: Mon.—Sat.         10 a.m.—4 p.m. Prices: Adults: $ 10/personChildren under 12: FreeConnect with us: Call 723-1182 for more information.<br><img src=\"assets/images/jr_read9a_14_tbl_2.png\" style=\"max-width:80px;height:auto\"></td></tr></table></div>",
+    "intro": "本文主要介绍了阳光艺术博物馆的一些信息。",
+    "qs": [
+      {
+        "q": "Which is the closest subway station to the museum?",
+        "opts": [
+          "King Square.",
+          "Nelson Street.",
+          "Embankment.",
+          "Charming Cross."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Arriving Here:”包含的内容可知，Nelson Street地铁站到博物馆最近，只需步行2分钟。故选B。"
+      },
+      {
+        "q": "How much should Lily pay if she goes with her 6-year-old son?",
+        "opts": [
+          "10 dollars.",
+          "Free.",
+          "20 dollars.",
+          "15 dollars."
+        ],
+        "ans": "A",
+        "exp": "推理判断题。根据“Adults: $ 10/person Children under 12: Free”可知，成年人需要支付10美元，12岁以下的儿童免费，故选A。"
+      },
+      {
+        "q": "What does the sign  mean?",
+        "opts": [
+          "<img src=\"assets/images/jr_read9a_14_opt_1.png\" height=\"70\" style=\"vertical-align:middle\">"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据图标可知，这个符号表示“Information Desk”，意思是你可以在这里询问信息，故选C。"
+      },
+      {
+        "q": "Where can we find Museum Shop?",
+        "opts": [
+          "In East Garden.",
+          "Next to Dining Space.",
+          "Across from Lost & Found.",
+          "Between Ancient Arts and Modern Arts."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据阳光艺术博物馆的地图可知，博物馆商店在失物招领处的对面，故选C。"
+      },
+      {
+        "q": "The text is probably taken from _________.",
+        "opts": [
+          "a travel diary",
+          "a shopping list",
+          "a street map",
+          "a visitor guide"
+        ],
+        "ans": "D",
+        "exp": "推理判断题。根据全文可知，本文介绍了博物馆地点、交通、开放时间、价格、地图等信息，可推断符合游客指南的特征。故选D。\n353．This workshop will take place on ________.\nA．Friday morning.B．Friday afternoon.\nC．Saturday evening.D．Saturday afternoon.\n354．How many people can join in this workshop?\nA．At least twenty.B．At least thirty.\nC．No more than twenty.D．At most thirty.\n355．Which of the following statements is true?\nA．You can book a place for the workshop by sending an email.\nB．If you take part in the workshop, you don’t need to pay for it.\nC．The workshop will take place online.\nD．You should take some tools to join in the workshop.\n356．What is the right order of the steps?\nA．②①③⑤④⑥B．⑥②③①④⑤C．②③①⑤⑥④D．⑥②①③⑤④\n357．The purpose of the passage is to ________.\nA．introduce an activityB．sell the tea art courses\nC．sell tea leavesD．introduce some tea sets"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_15",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目十五"
+    ],
+    "title": "九上阅读 · 十五 篇目十五",
+    "passage": "Tea has played an important role in Chinese life since ancient times. When we need to relax, a cup of warm Chinese tea can always bring comfort. While many people enjoy drinking tea, not everyone knows the proper way to prepare it. Welcome to our workshop. You can learn how to make a good cup of Chinese tea for free.Time: 3:00 p.m.-5:30 p.m. Saturday (November 15)Place: City Art CenterNotes:● We’ll provide all the tools and materials.● For only 20 people.● To book a place for the activity, please scan the QR code by 8:00 p.m. Friday.……………………………………………………………………………………………………………For those who want to make a cup of tea at home for guests (客人), here are some tips for you.Please prepare your favorite tea leaves. Then, get your tea sets ready: a tea tong, a teapot, a fair cup, teacups, and a tea tray. | Notes:● We’ll provide all the tools and materials.● For only 20 people.● To book a place for the activity, please scan the QR code by 8:00 p.m. Friday. |  |  | For those who want to make a cup of tea at home for guests (客人), here are some tips for you.Please prepare your favorite tea leaves. Then, get your tea sets ready: a tea tong, a teapot, a fair cup, teacups, and a tea tray.\nNotes:● We’ll provide all the tools and materials.● For only 20 people.● To book a place for the activity, please scan the QR code by 8:00 p.m. Friday. | \n | For those who want to make a cup of tea at home for guests (客人), here are some tips for you.Please prepare your favorite tea leaves. Then, get your tea sets ready: a tea tong, a teapot, a fair cup, teacups, and a tea tray.\nHere are the steps of making a cup of tea:■ Rinse the tea sets. Use a tea tong to hold the cup and clean it with hot water. You can clean other tea cups in the same way.■ Add tea leaves into the teapot. If you like strong tea, use more leaves; if you prefer a lighter taste, use fewer leaves.■ Rinse the tea leaves. Add hot water into the teapot. Steep (泡) 5-10 seconds, and pour out the water.■ Pour hot water into the teapot again until the teapot is about 4/5 full, leaving space for the tea leaves to unfurl. (展开)■ Pour the tea into a fair cup.■ Pour the tea into the tea cups. Then place the tea cups on the tea tray and offer it to the guest. Once the tea is served, you can sit back, share it with friends, and enjoy a peaceful moment together.",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Tea has played an important role in Chinese life since ancient times. When we need to relax, a cup of warm Chinese tea can always bring comfort. While many people enjoy drinking tea, not everyone knows the proper way to prepare it. Welcome to our workshop. You can learn how to make a good cup of Chinese tea for free.Time: 3:00 p.m.-5:30 p.m. Saturday (November 15)Place: City Art CenterNotes:● We’ll provide all the tools and materials.● For only 20 people.● To book a place for the activity, please scan the QR code by 8:00 p.m. Friday.……………………………………………………………………………………………………………For those who want to make a cup of tea at home for guests (客人), here are some tips for you.Please prepare your favorite tea leaves. Then, get your tea sets ready: a tea tong, a teapot, a fair cup, teacups, and a tea tray.<br><img src=\"assets/images/jr_read9a_15_tbl_2.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_15_tbl_3.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Notes:● We’ll provide all the tools and materials.● For only 20 people.● To book a place for the activity, please scan the QR code by 8:00 p.m. Friday.</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_15_tbl_4.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_15_tbl_5.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">For those who want to make a cup of tea at home for guests (客人), here are some tips for you.Please prepare your favorite tea leaves. Then, get your tea sets ready: a tea tong, a teapot, a fair cup, teacups, and a tea tray.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Notes:● We’ll provide all the tools and materials.● For only 20 people.● To book a place for the activity, please scan the QR code by 8:00 p.m. Friday.</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_15_tbl_6.png\" style=\"max-width:80px;height:auto\"></td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_15_tbl_7.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">For those who want to make a cup of tea at home for guests (客人), here are some tips for you.Please prepare your favorite tea leaves. Then, get your tea sets ready: a tea tong, a teapot, a fair cup, teacups, and a tea tray.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Here are the steps of making a cup of tea:■ Rinse the tea sets. Use a tea tong to hold the cup and clean it with hot water. You can clean other tea cups in the same way.■ Add tea leaves into the teapot. If you like strong tea, use more leaves; if you prefer a lighter taste, use fewer leaves.■ Rinse the tea leaves. Add hot water into the teapot. Steep (泡) 5-10 seconds, and pour out the water.■ Pour hot water into the teapot again until the teapot is about 4/5 full, leaving space for the tea leaves to unfurl. (展开)■ Pour the tea into a fair cup.■ Pour the tea into the tea cups. Then place the tea cups on the tea tray and offer it to the guest. Once the tea is served, you can sit back, share it with friends, and enjoy a peaceful moment together.</td></tr></table></div>",
+    "intro": "本文是一篇关于免费茶艺工作坊的通知，并附有在家泡茶的小贴士。",
+    "qs": [
+      {
+        "q": "This workshop will take place on ________.",
+        "opts": [
+          "Friday morning.",
+          "Friday afternoon.",
+          "Saturday evening.",
+          "Saturday afternoon."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据通知中“Time: 3:00 p.m.-5:30 p.m. Saturday (November 15)”可知，工作坊在周六下午举行。故选D。"
+      },
+      {
+        "q": "How many people can join in this workshop?",
+        "opts": [
+          "At least twenty.",
+          "At least thirty.",
+          "No more than twenty.",
+          "At most thirty."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据通知中“Notes: ...For only 20 people.”可知，工作坊仅限20人参加，即不超过20人。故选C。"
+      },
+      {
+        "q": "Which of the following statements is true?",
+        "opts": [
+          "You can book a place for the workshop by sending an email.",
+          "If you take part in the workshop, you don’t need to pay for it.",
+          "The workshop will take place online.",
+          "You should take some tools to join in the workshop."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据通知中“You can learn how to make a good cup of Chinese tea for free.”可知，参加这个工作坊是免费的。B项表述正确。A项“通过邮件预订”文中未提及；C项“在线举行”与地点“City Art Center”不符；D项“需自带工具”与“We’ll provide all the tools and materials.”矛盾。故选B。"
+      },
+      {
+        "q": "What is the right order of the steps?",
+        "opts": [
+          "<img src=\"assets/images/jr_read9a_15_opt_1.png\" height=\"70\" style=\"vertical-align:middle\">"
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据泡茶步骤部分可知正确顺序为：⑥清洗茶具→②把茶叶放进茶壶→①冲洗茶叶→③再次将热水倒入茶壶，直到茶壶大约4/5满，留出空间让茶叶展开→⑤把茶倒入公道杯→④把茶倒入茶杯。故选D。"
+      },
+      {
+        "q": "The purpose of the passage is to ________.",
+        "opts": [
+          "introduce an activity",
+          "sell the tea art courses",
+          "sell tea leaves",
+          "introduce some tea sets"
+        ],
+        "ans": "A",
+        "exp": "主旨大意题。通读全文可知，文章主要目的是介绍一个免费的茶艺工作坊活动。故选A。\n358．How long does the competition last?\nA．5 days.B．6 days.C．7 days.D．8 days.\n359．Who can take part in the competition?\nA．A twelve-year-old boy.\nB．A girl with a seven-minute film.\nC．A woman who made an interesting film on December 4th.\nD．A 15-year-old student whose film has a good storyline.\n360．When can we watch the winners’ films?\nA．On December 18th.B．On December 3rd.\nC．On December 8th.D．On December 5th.\n361．How can we get more information?\nA．By sending an email.B．By writing a letter.\nC．By making a phone call.D．By visiting the National Film Theater.\n362．Where can we read the passage?\nA．In a novel.B．In a movie.C．In a dictionary.D．On a website."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_16",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目十六"
+    ],
+    "title": "九上阅读 · 十六 篇目十六",
+    "passage": "We’re looking for young film-makers with imagination (想象力). Have you got an idea for a great movie? Don’t keep it to yourself. Join us, share your ideas and make a film.\nTime of the competition: December 3rd—8th, 2025.Place: At the National Film Theater.\nRules and suggestions for competitors: ※You have to be aged between 13 and 25 in order to take part in our competition.※ We suggest that your film should be no more than 5 minutes, because we want to show as many films as we can on the big screen.※Most types of films are OK, such as MP4/WMV/MKV/FLV and so on.※Films with interesting storylines will get extra (额外的) points.\nOthers: *Get an entry form and fill in it before December 1st, 2025.*Hand in your film before December 2, 2025.*The winners and their films will be posted online on December 15th.Everyone can watch them from that day on.Please call 443-2983 or visit www.filmmakersoftheyear.com for more information.",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">We’re looking for young film-makers with imagination (想象力). Have you got an idea for a great movie? Don’t keep it to yourself. Join us, share your ideas and make a film.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Time of the competition: December 3rd—8th, 2025.Place: At the National Film Theater.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Rules and suggestions for competitors: ※You have to be aged between 13 and 25 in order to take part in our competition.※ We suggest that your film should be no more than 5 minutes, because we want to show as many films as we can on the big screen.※Most types of films are OK, such as MP4/WMV/MKV/FLV and so on.※Films with interesting storylines will get extra (额外的) points.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Others: *Get an entry form and fill in it before December 1st, 2025.*Hand in your film before December 2, 2025.*The winners and their films will be posted online on December 15th.Everyone can watch them from that day on.Please call 443-2983 or visit www.filmmakersoftheyear.com for more information.</td></tr></table></div>",
+    "intro": "本文是一则电影制作比赛的公告，文章介绍了比赛时间、地点、参赛规则及获取更多信息的方式。",
+    "qs": [
+      {
+        "q": "How long does the competition last?",
+        "opts": [
+          "5 days.",
+          "6 days.",
+          "7 days.",
+          "8 days."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Time of the competition: December 3rd—8th, 2025”可知，比赛时间是2025年12月3日至8日，故应是持续6天。故选B。"
+      },
+      {
+        "q": "Who can take part in the competition?",
+        "opts": [
+          "A twelve-year-old boy.",
+          "A girl with a seven-minute film.",
+          "A woman who made an interesting film on December 4th.",
+          "A 15-year-old student whose film has a good storyline."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“You have to be aged between 13 and 25”和“Films with interesting storylines will get extra (额外的) points”可知，年龄需在13至25岁之间，且有趣情节的电影可获加分，D项“15岁且电影情节好”完全符合条件。故选D。"
+      },
+      {
+        "q": "When can we watch the winners’ films?",
+        "opts": [
+          "On December 18th.",
+          "On December 3rd.",
+          "On December 8th.",
+          "On December 5th."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“The winners and their films will be posted online on December 15th”和“Everyone can watch them from that day on”可知，最早观看时间为12月15日，选项中仅有A项“12月18日”晚于该日期。其他选项均为比赛期间日期。故选A。"
+      },
+      {
+        "q": "How can we get more information?",
+        "opts": [
+          "By sending an email.",
+          "By writing a letter.",
+          "By making a phone call.",
+          "By visiting the National Film Theater."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“Please call 443-2983 or visit www.filmmakersoftheyear.com for more information”可知，可以联系电话或访问网站获取信息。故选C。"
+      },
+      {
+        "q": "Where can we read the passage?",
+        "opts": [
+          "In a novel.",
+          "In a movie.",
+          "In a dictionary.",
+          "On a website."
+        ],
+        "ans": "D",
+        "exp": "推理判断题。通读全文并根据文章末尾提供的网址及比赛公告的文体特征（含联系方式、规则说明等），可推知此文最可能发布于网站。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_17",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目十七"
+    ],
+    "title": "九上阅读 · 十七 篇目十七",
+    "passage": "When you walk in a Chinese city early in the morning, you will see groups of people exercising in the park. You’ll see them moving through a set of slow movements. As their bodies move from one exercise to the next, their minds are focused only on their deep, relaxed breath.\n\nTai Chi is part of the national cultural heritage (遗产), which Chinese people take pride in. According to a survey in 2007, more than 2 million Americans practiced Tai Chi.\n\nTai Chi is called a mind-body type of exercise because it mixes meditation (冥想) with physical movement. Because it’s also a low-impact (低冲击) exercise, it may be suitable for older adults. But it’s a useful exercise for people of all ages.\n\nIf Tai Chi is something you might like to try, look for a Tai Chi class near you. Keep in mind that training programs are different in many ways. You might want to ask around for advice or try a class before you sign up.  ▲\n\nTai Chi is generally considered a low-risk exercise that is both safe and enjoyable. If you have any physical or medical problems, talk with your health care provider before starting any exercise program. And remember, although Tai Chi has many benefits, it can’t take the place of regular medical care.",
+    "passageHtml": "<p><span class=\"ind\">When you walk in a Chinese city early in the morning, you will see groups of people exercising in the park. You’ll see them moving through a set of slow movements. As their bodies move from one exercise to the next, their minds are focused only on their deep, relaxed breath.</span></p><p><span class=\"ind\">Tai Chi is part of the national cultural heritage (遗产), which Chinese people take pride in. According to a survey in 2007, more than 2 million Americans practiced Tai Chi.</span></p><p><span class=\"ind\">Tai Chi is called a mind-body type of exercise because it mixes meditation (冥想) with physical movement. Because it’s also a low-impact (低冲击) exercise, it may be suitable for older adults. But it’s a useful exercise for people of all ages.</span></p><p><span class=\"ind\">If Tai Chi is something you might like to try, look for a Tai Chi class near you. Keep in mind that training programs are different in many ways. You might want to ask around for advice or try a class before you sign up.  ▲</span></p><p><span class=\"ind\">Tai Chi is generally considered a low-risk exercise that is both safe and enjoyable. If you have any physical or medical problems, talk with your health care provider before starting any exercise program. And remember, although Tai Chi has many benefits, it can’t take the place of regular medical care.</span></p>",
+    "intro": "本文是一篇说明文，主要介绍了太极拳作为中国文化遗产的一部分，其特点、益处以及在全球的普及情况。",
+    "qs": [
+      {
+        "q": "Why does the writer give the example in Paragraph 1?",
+        "opts": [
+          "To describe a scene.",
+          "To introduce the topic.",
+          "To provide a tool.",
+          "To show the opinion."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。通读第一段并根据“As their bodies move from one exercise to the next, their minds are focused only on their deep, relaxed breath.”和“Tai Chi is part of the national cultural heritage”可知，作者通过描述这一场景，引出太极拳的主题。故选B。"
+      },
+      {
+        "q": "What can we know from Paragraph 2?",
+        "opts": [
+          "Some foreigners are interested in Tai Chi.",
+          "Tai Chi makes people happy, wise and energetic.",
+          "Chinese people don’t take Tai Chi seriously now.",
+          "Tai Chi was considered a way to make one’s life colorful."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“According to a survey in 2007, more than 2 million Americans practiced Tai Chi.”可知，超过200万美国人在练习太极拳。说明外国人对太极拳感兴趣。故选A。"
+      },
+      {
+        "q": "What does the underlined word “suitable” mean in Paragraph 3?",
+        "opts": [
+          "Bad.",
+          "Right.",
+          "Difficult.",
+          "Important."
+        ],
+        "ans": "B",
+        "exp": "词句猜测题。根据“Because it’s also a low-impact exercise”可知，因为它也是一种低冲击运动，可能适合老年人。“suitable”意为“合适的”，与选项B意思相近。故选B。"
+      },
+      {
+        "q": "Which of the following can be put in “ ▲ ” in Paragraph 4?",
+        "opts": [
+          "Tai Chi can help you solve physical and medical problems.",
+          "Tai Chi is a good choice for people of all ages.",
+          "Before you learn Tai Chi, you must know its history well.",
+          "Ask Tai Chi coaches about their training and experience."
+        ],
+        "ans": "D",
+        "exp": "推理判断题。根据“Keep in mind that training programs are different in many ways. You might want to ask around for advice or try a class before you sign up.”可知，此处与咨询或试课的具体行动有关。选项D“向太极拳教练询问他们的训练和经验。”符合语境。故选D。"
+      },
+      {
+        "q": "What is the best title for this passage?",
+        "opts": [
+          "Different Schools of Tai Chi Around the World",
+          "A Useful Exercise Program for the Old",
+          "Tai Chi—A National Heritage and Wonderful Exercise",
+          "The Advantages and Disadvantages of Practicing Tai Chi"
+        ],
+        "ans": "C",
+        "exp": "最佳标题题。通读全文并根据“Tai Chi is part of the national cultural heritage”可知，全文围绕太极拳作为文化遗产和锻炼方式展开，介绍了其特点、益处及全球普及情况。选项C“太极拳——国家遗产和绝佳锻炼方式”最全面概括文章主旨，最适合当标题。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_18",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "汉语中表示方向的词语所蕴含的历"
+    ],
+    "title": "九上阅读 · 十八 汉语中表示方向的词语所蕴含的历",
+    "passage": "Have you ever wondered why we say shangcesuo (上厕所) instead of xiacesuo, and yijianxiangzuo (意见相左) instead of yijianxiangyou? Many Chinese words have directions in them, and there is lots of history and culture hidden behind.\n\nUp or down\n\n | We use shangcesuo to mean “go to the bathroom” and xiachufang to mean “go to the kitchen”. Why? In ancient times, houses were laid out in a certain way. The gate of the house would face south, with the bathroom in the northeastern part of the house and the kitchen in the southeastern part. In Chinese, we talk about the north as shang and the south as xia. So people would say they’re going up to the bathroom and down to the kitchen.\n | Ancient Chinese not only used shang and xia to refer to (指代) directions but also social positions. For example, people used huangshang to refer to the emperor and dianxia to refer to princes who had a lower position than the emperor.\n\nLeft or right\n\n | Most people today are right-handed. They feel uncomfortable if they try to use their left hand to write or use chopsticks. This was true in old times as well. So in ancient China, “left” was related to being different, such as in yijianxiangzuo. If people don’t accept common beliefs, we still say they are following  ▲  .\n | “Left” and “right” also have something to do with people’s social position. For a long time in ancient China, “right” stood for higher position than “left”. For example, the character “佑”, developed from “右”, means a person in a higher position would protect someone in a lower position.",
+    "passageHtml": "<p><span class=\"ind\">Have you ever wondered why we say shangcesuo (上厕所) instead of xiacesuo, and yijianxiangzuo (意见相左) instead of yijianxiangyou? Many Chinese words have directions in them, and there is lots of history and culture hidden behind.</span></p><p><span class=\"ind\">Up or down</span></p><div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_18_tbl_8.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">We use shangcesuo to mean “go to the bathroom” and xiachufang to mean “go to the kitchen”. Why? In ancient times, houses were laid out in a certain way. The gate of the house would face south, with the bathroom in the northeastern part of the house and the kitchen in the southeastern part. In Chinese, we talk about the north as shang and the south as xia. So people would say they’re going up to the bathroom and down to the kitchen.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_18_tbl_9.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Ancient Chinese not only used shang and xia to refer to (指代) directions but also social positions. For example, people used huangshang to refer to the emperor and dianxia to refer to princes who had a lower position than the emperor.</td></tr></table></div><p><span class=\"ind\">Left or right</span></p><div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_18_tbl_10.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Most people today are right-handed. They feel uncomfortable if they try to use their left hand to write or use chopsticks. This was true in old times as well. So in ancient China, “left” was related to being different, such as in yijianxiangzuo. If people don’t accept common beliefs, we still say they are following  ▲  .</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_18_tbl_11.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">“Left” and “right” also have something to do with people’s social position. For a long time in ancient China, “right” stood for higher position than “left”. For example, the character “佑”, developed from “右”, means a person in a higher position would protect someone in a lower position.</td></tr></table></div>",
+    "intro": "本文主要介绍了汉语中表示方向的词语所蕴含的历史文化。",
+    "qs": [
+      {
+        "q": "Why does the writer use shangcesuo and yijianxiangzuo in the first paragraph?",
+        "opts": [
+          "To tell a story.",
+          "To introduce the topic.",
+          "To give an example.",
+          "To solve a mystery."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。第一段通过“上厕所”和“意见相左”的例子引出汉语中方向词背后蕴含历史文化的主题。故选B。"
+      },
+      {
+        "q": "What are the words “huangshang” and “dianxia” mentioned for?",
+        "opts": [
+          "To tell a story of the emperor and prince.",
+          "To show that shang and xia refer to directions.",
+          "To show how houses were laid out in ancient China.",
+          "To explain that shang and xia can be used to show social positions."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“Ancient Chinese not only used shang and xia to refer to directions but also social positions.”可知，提到“皇上”和“殿下”是为了说明“上”和“下”可用于表示社会地位。故选D。"
+      },
+      {
+        "q": "Which of the following can be best put in  ▲  ?",
+        "opts": [
+          "pangmenzuodao",
+          "shangcuanxiatiao",
+          "qishangmanxia",
+          "Zuosiyouxiang"
+        ],
+        "ans": "A",
+        "exp": "推理判断题。根据“If people don’t accept common beliefs”可知，此处指“不认同普遍观念的人”，与“旁门左道”（非主流的做法）意思相符。故选A。"
+      },
+      {
+        "q": "Which picture shows the layout of houses in ancient China according to the passage?",
+        "opts": [
+          "<img src=\"assets/images/jr_read9a_18_opt_1.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_18_opt_2.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_18_opt_3.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_18_opt_4.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_18_opt_5.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_18_opt_6.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_18_opt_7.png\" height=\"70\" style=\"vertical-align:middle\">"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“The gate of the house would face south, with the bathroom in the northeastern part...and the kitchen in the southeastern part.”可知，房屋布局为大门朝南，卫生间在东北方，厨房在东南方。图B符合此布局。故选B。"
+      },
+      {
+        "q": "What’s the best title for the passage?",
+        "opts": [
+          "Why Chinese Say “Up” to Toilet",
+          "Left and Right in Chinese History",
+          "Directions Speak in Chinese Culture",
+          "How to Tell the Directions in China"
+        ],
+        "ans": "C",
+        "exp": "最佳标题题。文章主要介绍了汉语中“上下左右”等方向词所承载的历史文化内涵。故选C。\n373．What should you do before you begin the chemical test?\nA．Heat up the water.B．Pull the balloon long.\nC．Blow up the balloon.D．Fill the bottle with soft drinks.\n374．What shows that the chemical test is successful?\nA．The soft drink bottle is broken.B．O₂ has been created in the bottle.\nC．The balloon gets bigger and bigger.D．The balloon becomes smaller suddenly.\n375．What does the underlined word “Introducing” mean?\nA．ProducingB．AddingC．RequiringD．Gathering\n376．What is the principle (原理) behind the test?\nA．Mixing a base with an acid creates CO2.B．Mixing baking soda with the gas creates O2.\nC．Adding vinegar to water produces an acid.D．Adding lemon juice to vinegar produces water.\n377．Where is this passage most probably from?\nA．A poster.B．A storybook.C．A guidebook.D．A science magazine."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_19",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "课堂上用小苏打和醋混合产生二氧"
+    ],
+    "title": "九上阅读 · 十九 课堂上用小苏打和醋混合产生二氧",
+    "passage": "We can do many interesting chemical tests in our class. Today, we will use CO2 to blow up a balloon! What※a balloon    ※a soft drink bottle    ※ some baking soda (苏打粉)    ※ some vinegar (醋) HowBefore you begin the test, make sure that you pull the balloon long to make it as easy as possible to blow it up. And put 40 ml of water into the soft drink bottle. Then follow the pictures to finish the test: WhyIf everything goes well, then the gas will make the balloon blow up. Introducing the vinegar (lemon juice is also OK) to the baking soda creates a chemical effect. The baking soda is a base (碱), while the vinegar is an acid (酸). When the two are mixed, they create CO2. The gas fills the soft drink bottle quickly. However, it doesn’t get away from the balloon, pushing it outwards and blowing it up.",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">We can do many interesting chemical tests in our class. Today, we will use CO2 to blow up a balloon! What※a balloon    ※a soft drink bottle    ※ some baking soda (苏打粉)    ※ some vinegar (醋) HowBefore you begin the test, make sure that you pull the balloon long to make it as easy as possible to blow it up. And put 40 ml of water into the soft drink bottle. Then follow the pictures to finish the test: WhyIf everything goes well, then the gas will make the balloon blow up. Introducing the vinegar (lemon juice is also OK) to the baking soda creates a chemical effect. The baking soda is a base (碱), while the vinegar is an acid (酸). When the two are mixed, they create CO2. The gas fills the soft drink bottle quickly. However, it doesn’t get away from the balloon, pushing it outwards and blowing it up.<br><img src=\"assets/images/jr_read9a_19_tbl_1.png\" style=\"max-width:80px;height:auto\"></td></tr></table></div>",
+    "intro": "本文主要介绍了课堂上用小苏打和醋混合产生二氧化碳吹气球的化学实验，包括实验材料、操作前准备、实验原理及相关说明。",
+    "qs": [
+      {
+        "q": "What should you do before you begin the chemical test?",
+        "opts": [
+          "Heat up the water.",
+          "Pull the balloon long.",
+          "Blow up the balloon.",
+          "Fill the bottle with soft drinks."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Before you begin the test, make sure that you pull the balloon long to make it as easy as possible to blow it up.”可知，实验前，需拉长气球。故选B。"
+      },
+      {
+        "q": "What shows that the chemical test is successful?",
+        "opts": [
+          "The soft drink bottle is broken.",
+          "O₂ has been created in the bottle.",
+          "The balloon gets bigger and bigger.",
+          "The balloon becomes smaller suddenly."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“If everything goes well, then the gas will make the balloon blow up.”可知，如果一切顺利的话，那么这种气体就会让气球鼓起来，即让气球变大。故选C。"
+      },
+      {
+        "q": "What does the underlined word “Introducing” mean?",
+        "opts": [
+          "Producing",
+          "Adding",
+          "Requiring",
+          "Gathering"
+        ],
+        "ans": "B",
+        "exp": "词句猜测题。根据“Introducingthe vinegar (lemon juice is also OK) to the baking soda creates a chemical effect.”可知，向小苏打中加入醋（柠檬汁也可以）会产生化学反应，因此此处introduce是添加，加入的意思。故选B。"
+      },
+      {
+        "q": "What is the principle (原理) behind the test?",
+        "opts": [
+          "Mixing a base with an acid creates CO2.",
+          "Mixing baking soda with the gas creates O2.",
+          "Adding vinegar to water produces an acid.",
+          "Adding lemon juice to vinegar produces water."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“The baking soda is a base, while the vinegar is an acid. When the two are mixed, they create CO2.”可知，苏打粉是碱，醋是酸，两者混合产生二氧化碳。故选A。"
+      },
+      {
+        "q": "Where is this passage most probably from?",
+        "opts": [
+          "A poster.",
+          "A storybook.",
+          "A guidebook.",
+          "A science magazine."
+        ],
+        "ans": "D",
+        "exp": "推理判断题。通读全文可知，本文主要介绍了课堂上用小苏打和醋混合产生二氧化碳吹气球的化学实验，包括实验材料、操作前准备、实验原理及相关说明，可推断文章主要来源于科学杂志。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_20",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目二十"
+    ],
+    "title": "九上阅读 · 二十 篇目二十",
+    "passage": "Welcome to Quanji Hotel in Jinwan District as you are watching the 15th Air Show in Zhuhai. We will do all we can to make your stay an enjoyable one.\n\nStar Rating: ☆☆☆☆\n\nHotel Facilities\nGeneral | √Dining room√Coffee shop√Gym centre √Parking lot√Laundry room | Room | √Safe box√Air-conditioner√Private bathroom√Television√Telephone\n |  | Internet | Free Wi-Fi in the whole hotel\nHotel Services\nServicesCharges | 24-hour front desk, morning call, ticket service, taxi service, message and fax service, etc.●A single room: ¥328 yuan per night.●A double room: ¥388 yuan per night.●A luxury room: ¥488 yuan per night.●¥40 yuan per meal, children under 12 years old are half off.\nHotel Rules\n●Pets are not allowed.●Guests are responsible for their own property (财产) and safety.●Smoke only in the smoking area.\nThings to remember\n※Check-in time: 2:00 p.m. (present your ID card, passport).※Check-out time: noon.※Meal time: Breakfast (7:30 - 9:30) Lunch (11:30 -13:30) Dinner (18:00 - 20:00)※Your reservation is absolutely safe.",
+    "passageHtml": "<p><span class=\"ind\">Welcome to Quanji Hotel in Jinwan District as you are watching the 15th Air Show in Zhuhai. We will do all we can to make your stay an enjoyable one.</span></p><p><span class=\"ind\">Star Rating: ☆☆☆☆</span></p><div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Hotel Facilities</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">General</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">√Dining room√Coffee shop√Gym centre √Parking lot√Laundry room</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Room</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">√Safe box√Air-conditioner√Private bathroom√Television√Telephone</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Internet</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Free Wi-Fi in the whole hotel</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Hotel Services</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">ServicesCharges</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">24-hour front desk, morning call, ticket service, taxi service, message and fax service, etc.●A single room: ¥328 yuan per night.●A double room: ¥388 yuan per night.●A luxury room: ¥488 yuan per night.●¥40 yuan per meal, children under 12 years old are half off.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Hotel Rules</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">●Pets are not allowed.●Guests are responsible for their own property (财产) and safety.●Smoke only in the smoking area.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Things to remember</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">※Check-in time: 2:00 p.m. (present your ID card, passport).※Check-out time: noon.※Meal time: Breakfast (7:30 - 9:30) Lunch (11:30 -13:30) Dinner (18:00 - 20:00)※Your reservation is absolutely safe.</td></tr></table></div>",
+    "intro": "本文主要是珠海金湾区全季酒店的服务信息介绍。",
+    "qs": [
+      {
+        "q": "What time can you enjoy your lunch in Quanji Hotel?",
+        "opts": [
+          "At 12:00.",
+          "At 13:40.",
+          "At 14:00.",
+          "At 15:00."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“Lunch (11:30 -13:30)”可知，午饭时间是11:30 -13:30，故可以在12点吃午餐。故选A。"
+      },
+      {
+        "q": "What can’t you do when staying in the hotel?",
+        "opts": [
+          "Buy tickets.",
+          "Bring pets.",
+          "Play sports.",
+          "Dance."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Pets are not allowed.”可知，酒店禁止携带宠物。故选B。"
+      },
+      {
+        "q": "Which of the following is NOT true?",
+        "opts": [
+          "There is a telephone in the room.",
+          "Smoking is allowed everywhere.",
+          "You can check out at 12 o’clock.",
+          "Guests are responsible for their own safety."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Smoke only in the smoking area.”可知，只能在吸烟区吸烟，并非到处允许。故选B。"
+      },
+      {
+        "q": "If Mr. Smith and his 10-year-old daughter have a meal in the hotel, how much should they pay?",
+        "opts": [
+          "¥40.",
+          "¥60.",
+          "¥80.",
+          "¥100."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据“¥40 yuan per meal, children under 12 years old are half off.”可知，餐费标准为每餐¥40，12岁以下儿童半价，史密斯先生为成人，需¥40；其女儿10岁，半价即¥20，总费用为¥40 + ¥20 = ¥60。故选B。"
+      },
+      {
+        "q": "Where can you read the information?",
+        "opts": [
+          "On a movie poster.",
+          "In a storybook.",
+          "In a travel guide.",
+          "In a magazine."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。通读全文内容可知，本文是对酒店的详细介绍，与旅游指南相关。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_21",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "动物天生就具有某些不寻常的方向"
+    ],
+    "title": "九上阅读 · 二十一 动物天生就具有某些不寻常的方向",
+    "passage": "Some animals can easily find their way home after a long journey. How do they make it? Scientific (科学的) research shows that they are born with certain unusual abilities for direction.\n\nA certain kind of ants, for example, can count their steps to avoid getting lost. They can go as far as 110 meters and bring food home. These ants live in the open desert (沙漠), so they have nothing to guide them along the way. It’s like someone walking six kilometers through a dark forest.\n\nSome fish have an unbelievable sense of smell. They can smell even a single drop of their home water in a large sea area. Some sea birds have a similar ability. They are able to make a smell map of their flying area.\n\nSome animals can sense the earth’s magnetic field (磁场), while humans can’t. This magnetic field guides a certain kind of fish when they swim a long way to a place and then come back. How can this kind of fish do that? It is still a mystery. Scientists have no good answers yet.\n\nHowever, animals with such unusual abilities still have difficulty dealing with environmental changes caused by human activities. For example, many birds depend on stars for direction, but they get lost easily at night when city lights are kept on all night. To solve this problem, we can simply turn off some lights at night. Clearly, one small act of humans may mean a lot to animals.",
+    "passageHtml": "<p><span class=\"ind\">Some animals can easily find their way home after a long journey. How do they make it? Scientific (科学的) research shows that they are born with certain unusual abilities for direction.</span></p><p><span class=\"ind\">A certain kind of ants, for example, can count their steps to avoid getting lost. They can go as far as 110 meters and bring food home. These ants live in the open desert (沙漠), so they have nothing to guide them along the way. It’s like someone walking six kilometers through a dark forest.</span></p><p><span class=\"ind\">Some fish have an unbelievable sense of smell. They can smell even a single drop of their home water in a large sea area. Some sea birds have a similar ability. They are able to make a smell map of their flying area.</span></p><p><span class=\"ind\">Some animals can sense the earth’s magnetic field (磁场), while humans can’t. This magnetic field guides a certain kind of fish when they swim a long way to a place and then come back. How can this kind of fish do that? It is still a mystery. Scientists have no good answers yet.</span></p><p><span class=\"ind\">However, animals with such unusual abilities still have difficulty dealing with environmental changes caused by human activities. For example, many birds depend on stars for direction, but they get lost easily at night when city lights are kept on all night. To solve this problem, we can simply turn off some lights at night. Clearly, one small act of humans may mean a lot to animals.</span></p>",
+    "intro": "本文主要讲述了动物天生就具有某些不寻常的方向感。",
+    "qs": [
+      {
+        "q": "How can a certain kind of ants find their way?",
+        "opts": [
+          "By counting their steps.",
+          "By bringing food together.",
+          "By walking through a forest.",
+          "By sensing the earth’s magnetic field (磁场)."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“A certain kind of ants, for example, can count their steps to avoid getting lost.”可知，某一类蚂蚁能通过数自己的步子来找到路。故选A。"
+      },
+      {
+        "q": "What does the underlined word “mystery” in Paragraph 4 probably mean?",
+        "opts": [
+          "Choice.",
+          "Reasons.",
+          "Secret.",
+          "Feeling."
+        ],
+        "ans": "C",
+        "exp": "词句猜测题。根据“Scientists have no good answers yet.”可知，科学家还没有好的答案，说明它仍然是个谜，“mystery”意为“谜”，与“secret”意思相近。故选C。"
+      },
+      {
+        "q": "What are people advised to do according to the last paragraph?",
+        "opts": [
+          "To help animals.",
+          "To travel at night.",
+          "To keep city lights on.",
+          "To change the environment."
+        ],
+        "ans": "A",
+        "exp": "推理判断题。根据“To solve this problem, we can simply turn off some lights at night. Clearly, one small act of humans may mean a lot to animals.”可知，最后一段建议人们晚上关灯等一些小的举动来帮助动物。故选A。"
+      },
+      {
+        "q": "Which of the following best shows the structure of the passage? (P=Paragraph)",
+        "opts": [
+          "<img src=\"assets/images/jr_read9a_21_opt_1.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_21_opt_2.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_21_opt_3.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_21_opt_4.png\" height=\"70\" style=\"vertical-align:middle\">"
+        ],
+        "ans": "D",
+        "exp": "篇章结构题。第一段引出主题“有些动物天生就有不同寻常的方向感”；第二段到第四段举例说明动物感知方向的能力；第五段介绍人类活动对动物的影响。故选D。"
+      },
+      {
+        "q": "What’s the best title for this passage?",
+        "opts": [
+          "Birds’ Sense of Light",
+          "Fish’s Sense of Smell",
+          "Animals’ Sense of Direction",
+          "Animals’ sense of the earth’s magnetic field (磁场)"
+        ],
+        "ans": "C",
+        "exp": "最佳标题题。根据“Scientific (科学的) research shows that they are born with certain unusual abilities for direction.”及全文可知，本文主要介绍了动物的方向感。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_22",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目二十二"
+    ],
+    "title": "九上阅读 · 二十二 篇目二十二",
+    "passage": "Honghong, the one-year-old baby tiger, lives in the South China Tiger Raise Center in Shaoguan. The South China tigers are special to China. These big cats suffered (遭受) population losses because of bad environment. Now there are 14 such big cats in the raise center.\n\nLei Shengqiao, a keeper at the raise center, said that baby tigers went into the school when they turned three months old. Lei said “The main task of the school is to provide wild training for young tigers. There are climbing shelves and different kinds of toy balls for training the wild nature of young tigers.”\n\nThere are more than 240 South China tigers in the country now, but there were only 18 in the 1950s.  ▲  The answer is that we have a powerful country. The country has already taken some actions to protect the South China tigers, such as building the national parks and setting red lines for protecting. The country even has carried out some projects to rescue them. Under these projects, the number of endangered (濒危的) animals has increased and they come back to the wild.\n\nTo protect the South China tigers, we should try everything we can to provide a good environment for them. Clearly, one small act of humans may mean a lot to animals.",
+    "passageHtml": "<p><span class=\"ind\">Honghong, the one-year-old baby tiger, lives in the South China Tiger Raise Center in Shaoguan. The South China tigers are special to China. These big cats suffered (遭受) population losses because of bad environment. Now there are 14 such big cats in the raise center.</span></p><p><span class=\"ind\">Lei Shengqiao, a keeper at the raise center, said that baby tigers went into the school when they turned three months old. Lei said “The main task of the school is to provide wild training for young tigers. There are climbing shelves and different kinds of toy balls for training the wild nature of young tigers.”</span></p><p><span class=\"ind\">There are more than 240 South China tigers in the country now, but there were only 18 in the 1950s.  ▲  The answer is that we have a powerful country. The country has already taken some actions to protect the South China tigers, such as building the national parks and setting red lines for protecting. The country even has carried out some projects to rescue them. Under these projects, the number of endangered (濒危的) animals has increased and they come back to the wild.</span></p><p><span class=\"ind\">To protect the South China tigers, we should try everything we can to provide a good environment for them. Clearly, one small act of humans may mean a lot to animals.</span></p>",
+    "intro": "本文是一篇说明文，介绍了华南虎的生存现状、幼虎野外训练情况、数量变化及国家的保护举措，强调了人类应尽力为华南虎提供良好环境以保护它们。",
+    "qs": [
+      {
+        "q": "Why did the big cats suffer population losses?",
+        "opts": [
+          "Because they don’t have enough food to eat.",
+          "Because their living places become worse.",
+          "Because they are really special to China.",
+          "Because they are dying out in the wild."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“These big cats suffered population losses because of bad environment.”可知，因为它们的生存环境变差了。故选B。"
+      },
+      {
+        "q": "What is the main task of school according to Paragraph 2?",
+        "opts": [
+          "To provide young tigers with kinds of toy balls.",
+          "To train young tigers how to climb in the wild.",
+          "To offer young tigers skills to live in the wild.",
+          "To protect young tigers to grow more healthily."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“The main task of the school is to provide wild training for young tigers.”可知，学校的主要任务是为幼虎提供野外生存技能训练。故选C。"
+      },
+      {
+        "q": "Which of the following can be put in “ ▲ ” in Paragraph 3?",
+        "opts": [
+          "Why do the South China tigers increase year by year?",
+          "What can we do to protect the South China tigers?",
+          "Where do the South China tigers live?",
+          "Will the South China tigers die out?"
+        ],
+        "ans": "A",
+        "exp": "推理判断题。根据后文“The answer is that we have a powerful country.”及该国保护华南虎的举措可知，空格处应是提出“华南虎数量为何逐年增加”的问题。故选A。"
+      },
+      {
+        "q": "What does the underlined word “rescue” in Paragraph 3 probably mean?",
+        "opts": [
+          "Save.",
+          "Find.",
+          "Train.",
+          "Use."
+        ],
+        "ans": "A",
+        "exp": "词句猜测题。根据“The country even has carried out some projects to rescue them. Under these projects, the number of endangered animals has increased and they come back to the wild.”可知，“rescue”意为“拯救”，与“Save”同义。故选A。"
+      },
+      {
+        "q": "Which can be the best title for the passage?",
+        "opts": [
+          "Information of the Tiger Raise Center",
+          "Environment of the Tiger Raise Center",
+          "Population of the South China Tiger",
+          "Introduction of the South China Tiger"
+        ],
+        "ans": "D",
+        "exp": "主旨大意题。根据全文内容，文章围绕华南虎的生存现状、保护措施等展开介绍，核心是对华南虎的相关情况说明。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_23",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目二十三"
+    ],
+    "title": "九上阅读 · 二十三 篇目二十三",
+    "passage": "Nowadays, with the development of science and technology, people in China can do many things online. Many people even travel online because they are too busy and have no time to travel. But there are many people choosing offline tours (线下旅游). I did a survey (调查) among 500 women and 500 men from November 1st to November 2nd. Here are the results.\n\n | \nFrom the diagram 1, we found that 78% of people like offline tours. They think they can see, hear, smell and touch something. They can also meet different people and try all kinds of local food. What’s more, they think that read ten thousand books, and travel ten thousand miles. | Some people think online tours are better because they can learn about the places of interest without spending much time. From the diagram 2, we found that most men choose online tours because they can visit more places with less money. Most women want to visit places of interest and take pictures during offline tours.\n\nIf you want to travel, which will you choose, online tours or offline tours?",
+    "passageHtml": "<p><span class=\"ind\">Nowadays, with the development of science and technology, people in China can do many things online. Many people even travel online because they are too busy and have no time to travel. But there are many people choosing offline tours (线下旅游). I did a survey (调查) among 500 women and 500 men from November 1st to November 2nd. Here are the results.</span></p><div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_23_tbl_1.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_23_tbl_2.png\" style=\"max-width:80px;height:auto\"></td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">From the diagram 1, we found that 78% of people like offline tours. They think they can see, hear, smell and touch something. They can also meet different people and try all kinds of local food. What’s more, they think that read ten thousand books, and travel ten thousand miles.</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Some people think online tours are better because they can learn about the places of interest without spending much time. From the diagram 2, we found that most men choose online tours because they can visit more places with less money. Most women want to visit places of interest and take pictures during offline tours.</td></tr></table></div><p><span class=\"ind\">If you want to travel, which will you choose, online tours or offline tours?</span></p>",
+    "intro": "本文是一篇说明文，介绍了一项关于人们选择在线旅游还是线下旅游的调查结果，包括两种旅游方式的受欢迎程度、男女选择差异及原因等。",
+    "qs": [
+      {
+        "q": "How many ways do people travel now?",
+        "opts": [
+          "One.",
+          "Two.",
+          "Three.",
+          "Four."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Many people even travel online...But there are many people choosing offline tours (线下旅游).”可知，现在人们旅行有两种方式。故选B。"
+      },
+      {
+        "q": "How many people choose online tours?",
+        "opts": [
+          "110.",
+          "220.",
+          "390.",
+          "780."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据“I did a survey (调查) among 500 women and 500 men...”及“Diagram (图表) 1中22%的人喜欢在线旅游”，即(500 + 500)×22% = 220，可知，选择在线旅游的有220人。故选B。"
+      },
+      {
+        "q": "What does the underlined sentence in Paragraph 2 mean in Chinese?",
+        "opts": [
+          "千里之行，始于足下。",
+          "旅行是最好的老师。",
+          "读万卷书，行万里路。",
+          "行百里者半九十。"
+        ],
+        "ans": "C",
+        "exp": "词句猜测题。根据“read ten thousand books, and travel ten thousand miles”可知，其对应的中文意思是“读万卷书，行万里路”。故选C。"
+      },
+      {
+        "q": "Why do most men choose online tours?",
+        "opts": [
+          "To save money.",
+          "To take pictures.",
+          "To spend more time.",
+          "To have more fun."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“most men choose online tours because they can visit more places with less money”可知，大多数男性选择在线旅游是为了省钱。故选A。"
+      },
+      {
+        "q": "Where is this passage most probably from?",
+        "opts": [
+          "A storybook.",
+          "A science report.",
+          "A medical website.",
+          "A travel magazine."
+        ],
+        "ans": "D",
+        "exp": "推理判断题。根据文章围绕在线旅游和线下旅游展开，可知这篇文章最可能来自旅游杂志。故选D。\n398．When will this community event take place?\nA．This Friday morning.B．This Saturday afternoon.\nC．Next Saturday afternoon.D．Next Friday morning.\n399．How many people can take part in the activity?\nA．At least thirty.B．At least twelve.C．At most thirty.D．At most twelve.\n400．How can people book a place for the activity?\nA．By sending an email to the community center.\nB．By calling Mr. Li before Friday evening.\nC．By visiting the square in person on Saturday.\nD．By filling out a form online.\n401．What is the right order of the DIY steps mentioned?\nA．②→①→③→④B．①→③→②→④C．③→②→①→④D．④→①→③→②\n402．What is the main purpose of the passage?\nA．To report a health problem.\nB．To show people how to protect themselves from mosquitoes.\nC．To recommend a new product.\nD．To introduce a free community invention activity."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_24",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "本周六下午将举办的免费制作“太"
+    ],
+    "title": "九上阅读 · 二十四 本周六下午将举办的免费制作“太",
+    "passage": "Worried about mosquitoes (蚊子) and diseases like Dengue or Chikungunya fever?This summer, let’s build a creative mosquito-repellent (防蚊) device to protect ourselves!Mosquitoes are more than just annoying; they can carry diseases. In Guangdong, we need to be especially careful about viruses like Chikungunya. This makes it important to keep mosquitoes away. This weekend, join us to make a simple but creative “Solar-Powered Mosquito Repeller” FOR FREE. It’s a perfect way to learn about invention and stay healthy at the same time!Time: 2:30 p.m.—5:00 p.m., Saturday (August 16)Place: Sunshine Community Center, Yuexiu District, Guangzhou Please note:All tools and materials (like small solar panels, safe electronic parts) will be provided as shown in the picture.For 30 people only. The people must be 12 years old or above. First come, first served.To book your place for the activity, please call Mr. Li at 020-87654321 by 8:00 p.m. this Friday.For those who want to try making it at home, here are the basic steps:Connect a small solar panel to a mini fan using safe wires.Attach a piece of mosquito-repellent paper to the front of the fan.Carefully make some small holes on the plastic bottle. Place the fan inside the bottle, facing the holes.Put the bottle where the sun can reach the solar panel. The sun powers the fan, which then blows the repellent smell out through the holes to keep mosquitoes away!",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Worried about mosquitoes (蚊子) and diseases like Dengue or Chikungunya fever?This summer, let’s build a creative mosquito-repellent (防蚊) device to protect ourselves!Mosquitoes are more than just annoying; they can carry diseases. In Guangdong, we need to be especially careful about viruses like Chikungunya. This makes it important to keep mosquitoes away. This weekend, join us to make a simple but creative “Solar-Powered Mosquito Repeller” FOR FREE. It’s a perfect way to learn about invention and stay healthy at the same time!Time: 2:30 p.m.—5:00 p.m., Saturday (August 16)Place: Sunshine Community Center, Yuexiu District, Guangzhou Please note:All tools and materials (like small solar panels, safe electronic parts) will be provided as shown in the picture.For 30 people only. The people must be 12 years old or above. First come, first served.To book your place for the activity, please call Mr. Li at 020-87654321 by 8:00 p.m. this Friday.For those who want to try making it at home, here are the basic steps:Connect a small solar panel to a mini fan using safe wires.Attach a piece of mosquito-repellent paper to the front of the fan.Carefully make some small holes on the plastic bottle. Place the fan inside the bottle, facing the holes.Put the bottle where the sun can reach the solar panel. The sun powers the fan, which then blows the repellent smell out through the holes to keep mosquitoes away!<br><img src=\"assets/images/jr_read9a_24_tbl_2.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_24_tbl_3.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_24_tbl_4.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_24_tbl_5.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_24_tbl_6.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_24_tbl_7.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_24_tbl_8.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_24_tbl_9.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_24_tbl_10.png\" style=\"max-width:80px;height:auto\"></td></tr></table></div>",
+    "intro": "本文主要介绍了本周六下午将举办的免费制作“太阳能驱蚊器”的社区活动，包括活动时间、地点、参与人数限制、报名方式，还介绍了在家制作的步骤。",
+    "qs": [
+      {
+        "q": "When will this community event take place?",
+        "opts": [
+          "This Friday morning.",
+          "This Saturday afternoon.",
+          "Next Saturday afternoon.",
+          "Next Friday morning."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Time: 2:30 p.m.—5:00 p.m., Saturday (August 16)”可知活动在本周六下午举行。故选B。"
+      },
+      {
+        "q": "How many people can take part in the activity?",
+        "opts": [
+          "At least thirty.",
+          "At least twelve.",
+          "At most thirty.",
+          "At most twelve."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“For 30 people only.”可知最多30人能参加活动。故选C。"
+      },
+      {
+        "q": "How can people book a place for the activity?",
+        "opts": [
+          "By sending an email to the community center.",
+          "By calling Mr. Li before Friday evening.",
+          "By visiting the square in person on Saturday.",
+          "By filling out a form online."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“To book your place for the activity, please call Mr. Li at 020-87654321 by 8:00 p.m. this Friday.”可知人们要在周五晚上前给李先生打电话预定活动名额。故选B。"
+      },
+      {
+        "q": "What is the right order of the DIY steps mentioned?",
+        "opts": [
+          "<img src=\"assets/images/jr_read9a_24_opt_1.png\" height=\"70\" style=\"vertical-align:middle\">"
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“For those who want to try making it at home, here are the basic steps: Connect a small solar panel to a mini fan using safe wires. Attach a piece of mosquito-repellent paper to the front of the fan. Carefully make some small holes on the plastic bottle. Place the fan inside the bottle, facing the holes. Put the bottle where the sun can reach the solar panel.”可知，正确的顺序是：先用安全电线将小型太阳能板连接到迷你风扇上；接着在风扇前面贴一张驱蚊纸；然后把风扇放进瓶子里，让风扇对着孔；最后把瓶子放在阳光能照射到太阳能板的地方。故选②→①→③→④。故选A。"
+      },
+      {
+        "q": "What is the main purpose of the passage?",
+        "opts": [
+          "To report a health problem.",
+          "To show people how to protect themselves from mosquitoes.",
+          "To recommend a new product.",
+          "To introduce a free community invention activity."
+        ],
+        "ans": "D",
+        "exp": "主旨大意题。通读全文可知，文章主要是介绍一个免费的社区发明活动，即制作太阳能驱蚊器。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_25",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "广东许多学生具备说粤语和普通话"
+    ],
+    "title": "九上阅读 · 二十五 广东许多学生具备说粤语和普通话",
+    "passage": "Many students in Guangdong find learning English difficult, but they often overlook a special skill they already have: being bilingual (双语) in Cantonese and Putonghua.\n\nZhang Tingting, a 14-year-old from Guangzhou, is a perfect example. “I’ve spoken Cantonese at home ever since I was little, but I use Putonghua at school,” she explained. “We are now encouraged to use Putonghua in classrooms, and it’s natural for students to speak Putonghua even during class breaks.”\n\nThis is common for many local students. However, with more students from other parts of China moving to Guangzhou, the use of Cantonese is declining. A report shows that now only about 40 percent of students in Guangzhou can fully understand their local dialect (方言). As a result, Putonghua is often heard even during school breaks.\n\nThis situation has raised concerns. Many people are worried that the local culture is dying as the dialect is no longer popular. “The most vivid words and expressions are born of dialects,” noted a language expert. Zhang Tingting fully agrees with his idea. She sometimes finds it strange and difficult to express certain Cantonese phrases in Putonghua, feeling that something of the local culture may be lost.\n\nFortunately, officials in Guangdong have found this problem.  ▲  As we all know, some primary schools in Shanghai have asked students to speak the Shanghai dialect four days a month. Inspired by Shanghai, starting from this year, there are almost 30 Guangzhou kindergartens encouraging children to speak their local dialect during breaks.\n\nOf course, promoting Cantonese doesn’t mean rejecting Putonghua. Instead, it helps create a multicultural environment where local expressions make our communication richer and more lively.",
+    "passageHtml": "<p><span class=\"ind\">Many students in Guangdong find learning English difficult, but they often overlook a special skill they already have: being bilingual (双语) in Cantonese and Putonghua.</span></p><p><span class=\"ind\">Zhang Tingting, a 14-year-old from Guangzhou, is a perfect example. “I’ve spoken Cantonese at home ever since I was little, but I use Putonghua at school,” she explained. “We are now encouraged to use Putonghua in classrooms, and it’s natural for students to speak Putonghua even during class breaks.”</span></p><p><span class=\"ind\">This is common for many local students. However, with more students from other parts of China moving to Guangzhou, the use of Cantonese is declining. A report shows that now only about 40 percent of students in Guangzhou can fully understand their local dialect (方言). As a result, Putonghua is often heard even during school breaks.</span></p><p><span class=\"ind\">This situation has raised concerns. Many people are worried that the local culture is dying as the dialect is no longer popular. “The most vivid words and expressions are born of dialects,” noted a language expert. Zhang Tingting fully agrees with his idea. She sometimes finds it strange and difficult to express certain Cantonese phrases in Putonghua, feeling that something of the local culture may be lost.</span></p><p><span class=\"ind\">Fortunately, officials in Guangdong have found this problem.  ▲  As we all know, some primary schools in Shanghai have asked students to speak the Shanghai dialect four days a month. Inspired by Shanghai, starting from this year, there are almost 30 Guangzhou kindergartens encouraging children to speak their local dialect during breaks.</span></p><p><span class=\"ind\">Of course, promoting Cantonese doesn’t mean rejecting Putonghua. Instead, it helps create a multicultural environment where local expressions make our communication richer and more lively.</span></p>",
+    "intro": "本文主要介绍了广东许多学生具备说粤语和普通话的双语能力，但随着更多中国其他地区学生来到广州，粤语使用量在下降，引发对当地文化消亡的担忧，广东官员已采取行动拯救方言，且推广粤语并非拒绝普通话，而是创造多元文化环境。",
+    "qs": [
+      {
+        "q": "What special skill do many students in Guangdong have?",
+        "opts": [
+          "They can speak English very well.",
+          "They are able to speak both Cantonese and Putonghua.",
+          "They find it easy to learn Cantonese and Putonghua.",
+          "They can understand many different Chinese dialects."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Many students in Guangdong find learning English difficult, but they often overlook a special skill they already have: being bilingual (双语) in Cantonese and Putonghua.”可知广东许多学生具备的特殊技能是能说粤语和普通话。故选B。"
+      },
+      {
+        "q": "What’s the main trend (趋势) of the Cantonese usage among students in Guangzhou according to the passage?",
+        "opts": [
+          "<img src=\"assets/images/jr_read9a_25_opt_1.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_25_opt_2.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_25_opt_3.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_25_opt_4.png\" height=\"70\" style=\"vertical-align:middle\">"
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“However, with more students from other parts of China moving to Guangzhou, the use of Cantonese is declining.”可知广州学生中使用粤语的主要趋势是使用量在下降，图片A符合。故选A。"
+      },
+      {
+        "q": "What does the underlined word “vivid” mean in English?",
+        "opts": [
+          "Common.",
+          "Lively.",
+          "Complex.",
+          "Difficult."
+        ],
+        "ans": "B",
+        "exp": "词句猜测题。根据“The most vivid words and expressions are born of dialects”以及“She sometimes finds it strange and difficult to express certain Cantonese phrases in Putonghua, feeling that something of the local culture may be lost.”可知最生动的词汇和表达源于方言，所以“vivid”意思是“生动的”，与“Lively”意思相近。故选B。"
+      },
+      {
+        "q": "Which of the following can be put in “ ▲ “ in Paragraph 5?",
+        "opts": [
+          "They are still looking for a good solution.",
+          "Many students are unable to speak their local dialect now.",
+          "Children all want to learn different dialects.",
+          "And they have taken action to save their dialects now."
+        ],
+        "ans": "D",
+        "exp": "推理判断题。根据“Fortunately, officials in Guangdong have found this problem.”以及“As we all know, some primary schools in Shanghai have asked students to speak the Shanghai dialect four days a month. Inspired by Shanghai, starting from this year, there are almost 30 Guangzhou kindergartens encouraging children to speak their local dialect during breaks.”可知广东官员发现了问题并采取行动拯救方言。D选项“并且他们现在已经采取行动拯救他们的方言了”符合语境。故选D。"
+      },
+      {
+        "q": "Which can be the best title for this passage?",
+        "opts": [
+          "We Are Bilingual Talents",
+          "Dialects Are Popular",
+          "Save Dialects",
+          "A Problem of Zhang Tingting"
+        ],
+        "ans": "C",
+        "exp": "最佳标题题。本文主要围绕广东方言（粤语）使用减少，当地文化面临消亡，以及为拯救方言所采取的行动展开，所以最佳标题是“拯救方言”。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_26",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目二十六"
+    ],
+    "title": "九上阅读 · 二十六 篇目二十六",
+    "passage": "In ancient China, there were “four treasures of the study”—the writing brush, ink, paper, and the inkstone (砚台). Among all the inkstones, the Chengni inkstone was one of the most famous and was widely loved.\n\nThe Chengni inkstone has a long history, first appearing during the Western Han Dynasty, but the skills of making it were lost during the  late Ming Dynasty and early Qing Dynasty. Thankfully, today the traditional skills have been revived (恢复) with the help of Lin Yongmao and his son Lin Tao.\n\nIn 1984, Lin Yongmao began working at the museum in Xinjiang County, Shanxi Province. There he read some books about the Xinjiang Chengni inkstone, and then decided to revive the lost skills.\n\nIt was easier said than done. It took the father and son two years to find proper material to produce the Chengni inkstone. That was just the first step. After failing many times, they finally succeeded in making two Chengni inkstones in 1991. Three years later, their Chengni inkstones won a gold prize at an expo (博览会) on China’s famous inkstones.\n\nBut the father and son did not stop there. While improving the skills of making the Chengni inkstone, they set up a workshop in the hope of passing the skills on to young people. They also worked with universities and colleges to make the Chengni inkstone more popular. At the same time, Lin Tao has created special Chengni inkstone products and brought them to competitions at home and abroad to expand the influence of the Chengni inkstone.",
+    "passageHtml": "<div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/jr_read9a_26_1.png\" alt=\"插图\" style=\"max-width:100%;height:auto;border-radius:4px\"></div><p><span class=\"ind\">In ancient China, there were “four treasures of the study”—the writing brush, ink, paper, and the inkstone (砚台). Among all the inkstones, the Chengni inkstone was one of the most famous and was widely loved.</span></p><p><span class=\"ind\">The Chengni inkstone has a long history, first appearing during the Western Han Dynasty, but the skills of making it were lost during the  late Ming Dynasty and early Qing Dynasty. Thankfully, today the traditional skills have been revived (恢复) with the help of Lin Yongmao and his son Lin Tao.</span></p><p><span class=\"ind\">In 1984, Lin Yongmao began working at the museum in Xinjiang County, Shanxi Province. There he read some books about the Xinjiang Chengni inkstone, and then decided to revive the lost skills.</span></p><p><span class=\"ind\">It was easier said than done. It took the father and son two years to find proper material to produce the Chengni inkstone. That was just the first step. After failing many times, they finally succeeded in making two Chengni inkstones in 1991. Three years later, their Chengni inkstones won a gold prize at an expo (博览会) on China’s famous inkstones.</span></p><p><span class=\"ind\">But the father and son did not stop there. While improving the skills of making the Chengni inkstone, they set up a workshop in the hope of passing the skills on to young people. They also worked with universities and colleges to make the Chengni inkstone more popular. At the same time, Lin Tao has created special Chengni inkstone products and brought them to competitions at home and abroad to expand the influence of the Chengni inkstone.</span></p>",
+    "intro": "本文是一篇说明文，主要介绍了中国“文房四宝”之一的澄泥砚的历史、失传与复兴过程。",
+    "qs": [
+      {
+        "q": "What do we know about the Chengni inkstone?",
+        "opts": [
+          "It has quite a long history.",
+          "It was popular only in Shanxi Province.",
+          "It became famous in the late Qing Dynasty.",
+          "It first appeared during the Eastern Han Dynasty."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据第二段“The Chengni inkstone has a long history, first appearing during the Western Han Dynasty”可知，澄泥砚拥有悠久的历史。故选A。"
+      },
+      {
+        "q": "When did Lin Yongmao and Lin Tao win a gold prize?",
+        "opts": [
+          "In 1984.",
+          "In 1986.",
+          "In 1991.",
+          "In 1994."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据第四段“they finally succeeded in making two Chengni inkstones in 1991. Three years later, their Chengni inkstones won a gold prize...”可知，蔺永茂和蔺涛于1991年成功制成澄泥砚，三年后，即1994年，他们的澄泥砚获得金奖。故选D。"
+      },
+      {
+        "q": "What’s the purpose of Paragraph 4?",
+        "opts": [
+          "To tell readers how to produce the Chengni inkstone.",
+          "To explain how hard it was to revive the Chengni inkstone.",
+          "To encourage readers to learn about China’s famous inkstones.",
+          "To help readers understand the importance of the Chengni inkstone."
+        ],
+        "ans": "B",
+        "exp": "主旨大意题。根据第四段“It took the father and son two years to find proper material...After failing many times, they finally succeeded in making two Chengni inkstones...”可知，本段描述了蔺氏父子寻找材料、多次失败后最终成功制作澄泥砚的艰辛过程，目的是说明复兴澄泥砚技艺的困难。故选B。"
+      },
+      {
+        "q": "The underlined word “expand” in the last paragraph means “________”.",
+        "opts": [
+          "clear",
+          "increase",
+          "avoid",
+          "accept"
+        ],
+        "ans": "B",
+        "exp": "词句猜测题。根据最后一段“Lin Tao...brought them to competitions at home and abroad to expand the influence”和选项可推知，蔺涛将澄泥砚带到国内外参加比赛，是为了增加其影响力。因此，expand意为increase“增加”。故选B。"
+      },
+      {
+        "q": "What is the best title for the passage?",
+        "opts": [
+          "Inkstones in ancient China",
+          "Best inkstone makers in China",
+          "Bringing ancient skills back to life",
+          "Introducing inkstones to the world"
+        ],
+        "ans": "C",
+        "exp": "最佳标题题。全文围绕澄泥砚技艺的失传与复兴展开，重点讲述蔺氏父子如何让这一古老技艺重获新生。因此，选项C“让古老技艺重焕生机”是最佳标题。故选C。\nFunny Inventions\n413．Time Temp Glasses are special because they ________\nA．can change your body temperature\nB．help people see very faraway places\nC．tell you the temperature in an easier way\nD．can show you the right time\n414．The Alarm Fork ________.\nA．comes in two colorsB．helps people eat healthily\nC．tells people what to eatD．is cheap\n415．How much should you pay if you buy one Smell This?\nA．$8.B．$10.C．$15.D．$30.\n416．The Banana Suitcase might be useful for someone who ________.\nA．often takes bananas on tripsB．wants to grow a banana plant\nC．has little interest in eating bananasD．likes going a trip\n417．Where might you see this material?\nA．In a tourist map.B．In a science magazine.\nC．In a health report.D．In a storybook."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_27",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目二十七"
+    ],
+    "title": "九上阅读 · 二十七 篇目二十七",
+    "passage": "Funny Inventions\n\nTime Temp GlassesAre you a person who wants to know the time and temperature during the day? You might like Time Temp Glasses. These special glasses show the time above your right eye and the temperature above your left eye. It is surely easier than wearing a watch, and you will never have to guess the temperature.Price: $20 for one pair.\nAlarm ForkDo you eat too quickly? Do you eat too much? How can an Alarm Fork help you? Well, this special fork has two lights: one green and one red. When the green light is on, its OK to take a bite (一口) of food. The fork “knows” when you take a bite, and soon the red light goes on. Wait for the green light before you take another bitePrice: $8 for one.\nSmell ThisHow do you know whether your breath smells nice or not? It’s difficult to know, because it’s very hard to smell the air that comes out of your own mouth. Smell This is useful for this situation. Smell This covers your nose and your mouth, so it is easy to smell the air that comes out of your mouth.Price: $15 for one\nBanana SuitcaseHas this ever happened to you? You put a banana in your bag in the morning and when you open the bag at noon, the banana looks as if someone drove a car over it. If you put your banana in the Banana Suitcase, this will never happen. It keeps a banana safe, delicious, and looking like a banana!Price: $10 for one.",
+    "passageHtml": "<p><span class=\"ind\">Funny Inventions</span></p><div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Time Temp GlassesAre you a person who wants to know the time and temperature during the day? You might like Time Temp Glasses. These special glasses show the time above your right eye and the temperature above your left eye. It is surely easier than wearing a watch, and you will never have to guess the temperature.Price: $20 for one pair.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Alarm ForkDo you eat too quickly? Do you eat too much? How can an Alarm Fork help you? Well, this special fork has two lights: one green and one red. When the green light is on, its OK to take a bite (一口) of food. The fork “knows” when you take a bite, and soon the red light goes on. Wait for the green light before you take another bitePrice: $8 for one.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Smell ThisHow do you know whether your breath smells nice or not? It’s difficult to know, because it’s very hard to smell the air that comes out of your own mouth. Smell This is useful for this situation. Smell This covers your nose and your mouth, so it is easy to smell the air that comes out of your mouth.Price: $15 for one</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Banana SuitcaseHas this ever happened to you? You put a banana in your bag in the morning and when you open the bag at noon, the banana looks as if someone drove a car over it. If you put your banana in the Banana Suitcase, this will never happen. It keeps a banana safe, delicious, and looking like a banana!Price: $10 for one.</td></tr></table></div>",
+    "intro": "本文是说明文。主要介绍了四款有趣的发明，分别是时间温度眼镜、警报叉子、口气检测仪和香蕉保护盒，并说明了它们的功能与价格。",
+    "qs": [
+      {
+        "q": "Time Temp Glasses are special because they ________",
+        "opts": [
+          "can change your body temperature",
+          "help people see very faraway places",
+          "tell you the temperature in an easier way",
+          "can show you the right time"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“These special glasses show the time above your right eye and the temperature above your left eye. It is surely easier than wearing a watch, and you will never have to guess the temperature.”可知，时间温度眼镜的特别之处在于能更简单地告知时间与温度。故选C。"
+      },
+      {
+        "q": "The Alarm Fork ________.",
+        "opts": [
+          "comes in two colors",
+          "helps people eat healthily",
+          "tells people what to eat",
+          "is cheap"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Do you eat too quickly? Do you eat too much? How can an Alarm Fork help you? Well, this special fork has two lights... Wait for the green light before you take another bite”可知，警报叉子通过灯光提示控制进食节奏，帮助人们避免吃得太快或太多，即帮助人们健康饮食。故选B。"
+      },
+      {
+        "q": "How much should you pay if you buy one Smell This?",
+        "opts": [
+          "$8.",
+          "$10.",
+          "$15.",
+          "$30."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“Smell This”部分的“Price: $15 for one”可知，购买一个口气检测仪需要支付15美元。故选C。"
+      },
+      {
+        "q": "The Banana Suitcase might be useful for someone who ________.",
+        "opts": [
+          "often takes bananas on trips",
+          "wants to grow a banana plant",
+          "has little interest in eating bananas",
+          "likes going a trip"
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“Banana Suitcase”部分的“You put a banana in your bag in the morning... If you put your banana in the Banana Suitcase, this will never happen. It keeps a banana safe”可知，香蕉保护盒能保护香蕉在携带时不被压坏，因此香蕉盒子适合那些经常带着香蕉旅行的人。故选A。"
+      },
+      {
+        "q": "Where might you see this material?",
+        "opts": [
+          "In a tourist map.",
+          "In a science magazine.",
+          "In a health report.",
+          "In a storybook."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。本文介绍的是四款具有创新功能的发明，这类内容通常会出现在科学杂志上。故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_28",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "纸的起源"
+    ],
+    "title": "九上阅读 · 二十八 纸的起源",
+    "passage": "Paper was invented by a Chinese man called Cai Lun almost 2,000 years ago. It didn’t spread to Europe until the year 1100. And four hundred years later, a German discovered that he could make the best paper from trees. After that, countries rich in forests, such as Canada, Sweden, America and Finland became the most important ones in paper making.\n\nThe common uses for paper include newspapers, magazines and books. But do you know that paper can be used for keeping warm? For example, in Finland, the farmers wear paper boots to keep their feet warm in the snow. And even houses can be insulated (使绝缘)from heat or cold with paper.\n\nHowever, we have to understand that paper still comes from trees now. If we keep on wasting so much paper, there will not be any trees left on the earth some day in the near future. Every day people throw away about 2,800 tons of paper in the world, which means that we are cutting down nearly 48,000 trees every day. The fact is that it takes more than 10 years for a tree to grow.\n\nAs for this problem, we can do many things in daily life. We can use both sides of every piece of paper. We can make useful things out of used paper. We can use china or glass cups instead of paper ones. When shopping, we can use fewer paper bags and reuse them if we have some.\n\nIn short, we should keep a balance (平衡) between using paper and protecting trees, and do it now before it is too late.",
+    "passageHtml": "<p><span class=\"ind\">Paper was invented by a Chinese man called Cai Lun almost 2,000 years ago. It didn’t spread to Europe until the year 1100. And four hundred years later, a German discovered that he could make the best paper from trees. After that, countries rich in forests, such as Canada, Sweden, America and Finland became the most important ones in paper making.</span></p><p><span class=\"ind\">The common uses for paper include newspapers, magazines and books. But do you know that paper can be used for keeping warm? For example, in Finland, the farmers wear paper boots to keep their feet warm in the snow. And even houses can be insulated (使绝缘)from heat or cold with paper.</span></p><p><span class=\"ind\">However, we have to understand that paper still comes from trees now. If we keep on wasting so much paper, there will not be any trees left on the earth some day in the near future. Every day people throw away about 2,800 tons of paper in the world, which means that we are cutting down nearly 48,000 trees every day. The fact is that it takes more than 10 years for a tree to grow.</span></p><p><span class=\"ind\">As for this problem, we can do many things in daily life. We can use both sides of every piece of paper. We can make useful things out of used paper. We can use china or glass cups instead of paper ones. When shopping, we can use fewer paper bags and reuse them if we have some.</span></p><p><span class=\"ind\">In short, we should keep a balance (平衡) between using paper and protecting trees, and do it now before it is too late.</span></p>",
+    "intro": "本文主要介绍了纸的起源，纸的用处以及纸是由树木制造而成。人们浪费纸的现象导致砍伐树木非常严重，本文就此提供了几种避免浪费纸张的建议。",
+    "qs": [
+      {
+        "q": "When did making paper from trees spread widely around the world?",
+        "opts": [
+          "2,000 years ago.",
+          "In 1100.",
+          "After 1500.",
+          "In 1500."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“It didn’t spread to Europe until the year 1100. And four hundred years later, a German discovered that he could make the best paper from trees. ”可知，在1500年之后才广泛传遍全世界。故选C。"
+      },
+      {
+        "q": "What’s the main idea of the second paragraph?",
+        "opts": [
+          "Paper is very popular in Finland.",
+          "Paper can be used in many ways.",
+          "Paper is widely used by farmers in Finland.",
+          "Paper is common."
+        ],
+        "ans": "B",
+        "exp": "主旨大意题。根据“The common uses for paper include newspapers, magazines and books. But do you know that paper can be used for keeping warm?”可知，本段介绍了纸的用处。故选B。"
+      },
+      {
+        "q": "How many trees do we need to make one ton of paper?",
+        "opts": [
+          "About 48,000.",
+          "About 17.",
+          "About 2,800.",
+          "About 10."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据“Every day people throw away about 2,800 tons of paper in the world, which means that we are cutting down nearly 48,000 trees every day.”可知，世界上每天人们扔掉大约2800吨纸，这意味着我们每天砍伐近4.8万棵树，也就是1吨纸我们就需要约17棵树。故选B。"
+      },
+      {
+        "q": "What can we do to save paper according to the fourth paragraph?",
+        "opts": [
+          "Using plastic bags instead of paper ones.",
+          "Stop making things made of paper",
+          "Making new things out of used paper.",
+          "Using only one side of every piece of paper."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“We can make useful things out of used paper.”可知，我们可以用废纸做有用的东西来节省纸张。故选C。"
+      },
+      {
+        "q": "Which of the following is TRUE?",
+        "opts": [
+          "A German made the best paper in 1100.",
+          "We should plant more trees for making paper.",
+          "The writer is worried about paper waste.",
+          "People only like using paper."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。根据“If we keep on wasting so much paper, there will not be any trees left on the earth some day in the near future.”可知，作者很担心纸张浪费的现象。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_29",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目二十九"
+    ],
+    "title": "九上阅读 · 二十九 篇目二十九",
+    "passage": "English is widely spoken and taught in over 118 countries and is commonly used around the world as a trade language. So, learning English helps you communicate with almost the whole world.\n\nWhen learning English, you may meet a lot of problems. Volunteer Students started a survey about it on August 10th. One month later, the results came out. Now you find a pie chart about it.\n\nDifficulties expected when learning a new language",
+    "passageHtml": "<p><span class=\"ind\">English is widely spoken and taught in over 118 countries and is commonly used around the world as a trade language. So, learning English helps you communicate with almost the whole world.</span></p><p><span class=\"ind\">When learning English, you may meet a lot of problems. Volunteer Students started a survey about it on August 10th. One month later, the results came out. Now you find a pie chart about it.</span></p><p><span class=\"ind\">Difficulties expected when learning a new language</span></p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/jr_read9a_29_1.png\" alt=\"插图\" style=\"max-width:100%;height:auto;border-radius:4px\"></div>",
+    "intro": "本文是一篇说明文。文章以图表的形式介绍了学习英语时有哪些预期困难。",
+    "qs": [
+      {
+        "q": "How many expected difficulties are mentioned in this pie chart?",
+        "opts": [
+          "Five.",
+          "Six.",
+          "Seven.",
+          "Eight."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据图表可知，一共提到了8种英语学习预期会出现的困难。故选D。"
+      },
+      {
+        "q": "________ of the learners think they have no native speakers to practise with.",
+        "opts": [
+          "11%",
+          "15%",
+          "16%",
+          "24%"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据图表“No access to native speakers.”可知，无法与当地人练习的比例饼图标注为15%。故选B。"
+      },
+      {
+        "q": "According to the pie chart, ________ is the main expected difficulty for most people.",
+        "opts": [
+          "bad teaching method",
+          "not enough time",
+          "not enough money",
+          "no access to native speakers"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据图表“Not enough time”可知，没有足够时间占比为24%，是所有预期困难中占比最高的，由此可见，这可能是大多数人面临主要预期困难。故选B。"
+      },
+      {
+        "q": "The result of the survey came out in _______.",
+        "opts": [
+          "August",
+          "September",
+          "October",
+          "November"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Volunteer Students started a survey about it on August 10th. One month later, the results came out.”可知，调查从 8月10日开始，一个月后结果出炉，正好是在9月。故选B。"
+      },
+      {
+        "q": "The pie chart is designed to _________.",
+        "opts": [
+          "show the expected difficulties of learning a new language",
+          "prove it is impossible to learn a new language very well",
+          "warn people it is very difficult to learn a new language",
+          "encourage more people to learn a new language in their free time"
+        ],
+        "ans": "A",
+        "exp": "主旨大意题。根据“When learning English, you may meet a lot of problems...Now you find a pie chart about it.”可知，该图表意在向大家展示学习一门新语言会有哪些预期困难。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_30",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目三十"
+    ],
+    "title": "九上阅读 · 三十 篇目三十",
+    "passage": "Preparing for an exam can be stressful, but it doesn’t have to be. There’s no need to stress out or cram (突击准备). By doing a couple of simple things, you will be confident and ready for anything that comes up on the test.\n\n◆Start studying early.\n\nIf the class material is especially difficult for you, start studying early. Give yourself enough time to truly understand the material, practice it and then review it. Get a full night’s sleep before the exam. Your brain needs time to digest everything you’ve put into it, so start early and you don’t have to stay up all night.\n\n◆Read through your notes that may be on the exam.\n\nIt will refresh (刷新) your memory of the material and help you remember what you learnt. It will also help you to know all the information in your notes, including where it is located in your notes, so that you know where to find them, and what might be missing from your notes.\n\n◆Get some good notes.\n\nIf you’re not a good note taker, or there are “holes” in your notes, then ask a friend if you can copy his or her notes. Good notes can make all the difference when you’re studying. They make difficult points easier to understand and remember.\n\n◆Ask your teacher about the test material.\n\nOne of the easiest ways to begin your studying is to find out what is on the test directly from your teacher. Many teachers will provide some guidance on what will and will not be covered on the test. Knowing which material the test will cover can help you focus on the main material that you need to study.",
+    "passageHtml": "<p><span class=\"ind\">Preparing for an exam can be stressful, but it doesn’t have to be. There’s no need to stress out or cram (突击准备). By doing a couple of simple things, you will be confident and ready for anything that comes up on the test.</span></p><p><span class=\"ind\">◆Start studying early.</span></p><p><span class=\"ind\">If the class material is especially difficult for you, start studying early. Give yourself enough time to truly understand the material, practice it and then review it. Get a full night’s sleep before the exam. Your brain needs time to digest everything you’ve put into it, so start early and you don’t have to stay up all night.</span></p><p><span class=\"ind\">◆Read through your notes that may be on the exam.</span></p><p><span class=\"ind\">It will refresh (刷新) your memory of the material and help you remember what you learnt. It will also help you to know all the information in your notes, including where it is located in your notes, so that you know where to find them, and what might be missing from your notes.</span></p><p><span class=\"ind\">◆Get some good notes.</span></p><p><span class=\"ind\">If you’re not a good note taker, or there are “holes” in your notes, then ask a friend if you can copy his or her notes. Good notes can make all the difference when you’re studying. They make difficult points easier to understand and remember.</span></p><p><span class=\"ind\">◆Ask your teacher about the test material.</span></p><p><span class=\"ind\">One of the easiest ways to begin your studying is to find out what is on the test directly from your teacher. Many teachers will provide some guidance on what will and will not be covered on the test. Knowing which material the test will cover can help you focus on the main material that you need to study.</span></p>",
+    "intro": "本文是一篇说明文，主要讲述了备考的几个实用方法，包括提前开始学习、通读笔记、补充完善笔记、向老师咨询考试范围等。",
+    "qs": [
+      {
+        "q": "What does the underlined word “digest” in Paragraph 3 probably mean?",
+        "opts": [
+          "Influence.",
+          "Celebrate.",
+          "Experience.",
+          "Understand."
+        ],
+        "ans": "D",
+        "exp": "词句猜测题。根据“Your brain needs time to digest everything you’ve put into it, so start early and you don’t have to stay up all night”可知，此处指大脑需要时间理解输入的知识，“digest”意为“理解”。故选D。"
+      },
+      {
+        "q": "What is advised before the exam according to the passage?",
+        "opts": [
+          "Staying up all night.",
+          "Studying by yourself.",
+          "Reviewing the notes carefully.",
+          "Asking teachers for the answers."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“Read through your notes that may be on the exam”可知，文章建议考试前要仔细复习笔记。故选C。"
+      },
+      {
+        "q": "How can you solve the “holes” in your notes?",
+        "opts": [
+          "By going over the notes again.",
+          "By asking friends for good notes.",
+          "By being a good note taker next time.",
+          "By watching videos of teachers on the Internet."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“If you’re not a good note taker, or there are ‘holes’ in your notes, then ask a friend if you can copy his or her notes”可知，笔记有漏洞时可以向朋友借好的笔记来补充。故选B。"
+      },
+      {
+        "q": "We can tell that asking your teacher about the test material _________.",
+        "opts": [
+          "can make it easier to prepare for the exam",
+          "is not allowed at school",
+          "helps you get some good notes",
+          "makes you worry about the exam"
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“One of the easiest ways to begin your studying is to find out what is on the test directly from your teacher... Knowing which material the test will cover can help you focus on the main material that you need to study”可知，向老师咨询考试范围能帮助聚焦复习重点，让备考更轻松。故选A。"
+      },
+      {
+        "q": "What is the structure of the passage?",
+        "opts": [
+          "<img src=\"assets/images/jr_read9a_30_opt_1.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_30_opt_2.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_30_opt_3.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_30_opt_4.png\" height=\"70\" style=\"vertical-align:middle\">"
+        ],
+        "ans": "D",
+        "exp": "篇章结构题。通读全文可知，文章第一段总述“备考可以不紧张，通过简单方法就能准备充分”，之后段落分别介绍具体方法，是“总—分”结构。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_31",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "中国2D动画电影《浪浪山的小妖"
+    ],
+    "title": "九上阅读 · 三十一 中国2D动画电影《浪浪山的小妖",
+    "passage": "A Chinese 2D animated film, “Nobody” (The Little Monsters of Langlang Mountain), has become a summer hit. Made by Shanghai Animation Film Studio, it was released (上映) on August 2nd, 2025. By August 11th, it had earned 574 million yuan, breaking the record for Chinese 2D animated films—Big Fish & Begonia’s (《大鱼海棠》) 573 million yuan. It also got 8.6 on Douban, winning the hearts of both kids and adults.\n\nThe film tells a warm story. Based on a short film from Chinese Tales, it follows four little monsters: a pig, a toad (蟾蜍), a weasel (黄鼠狼), and a gorilla. They work for a mountain king, but lose their jobs by accident. To survive, they pretend (假扮) to be Tang Monk and his team from Journey to the West (a famous Chinese classic) and start a journey west. Along the way, they grow from finding food to saving villagers. A famous line says, “We may be nobodies in society, but we are pillars (顶梁柱) at home,” making people think about life.\n\nWhat makes it special? Its beautiful Chinese ink painting style stands out—each picture uses 50 ink layers. The name of the movie is also very meaningful and profound (具有深意的). “Nobody” tells us: even small people can be heroes.\n\nThe film’s success has also made its merchandise (商品) popular. Over 300 products, from plush toys to stationery, sell quickly.\n\n“Nobody” is more than a movie. It brings joy and teaches us that everyone can be a hero.",
+    "passageHtml": "<p><span class=\"ind\">A Chinese 2D animated film, “Nobody” (The Little Monsters of Langlang Mountain), has become a summer hit. Made by Shanghai Animation Film Studio, it was released (上映) on August 2nd, 2025. By August 11th, it had earned 574 million yuan, breaking the record for Chinese 2D animated films—Big Fish & Begonia’s (《大鱼海棠》) 573 million yuan. It also got 8.6 on Douban, winning the hearts of both kids and adults.</span></p><p><span class=\"ind\">The film tells a warm story. Based on a short film from Chinese Tales, it follows four little monsters: a pig, a toad (蟾蜍), a weasel (黄鼠狼), and a gorilla. They work for a mountain king, but lose their jobs by accident. To survive, they pretend (假扮) to be Tang Monk and his team from Journey to the West (a famous Chinese classic) and start a journey west. Along the way, they grow from finding food to saving villagers. A famous line says, “We may be nobodies in society, but we are pillars (顶梁柱) at home,” making people think about life.</span></p><p><span class=\"ind\">What makes it special? Its beautiful Chinese ink painting style stands out—each picture uses 50 ink layers. The name of the movie is also very meaningful and profound (具有深意的). “Nobody” tells us: even small people can be heroes.</span></p><p><span class=\"ind\">The film’s success has also made its merchandise (商品) popular. Over 300 products, from plush toys to stationery, sell quickly.</span></p><p><span class=\"ind\">“Nobody” is more than a movie. It brings joy and teaches us that everyone can be a hero.</span></p>",
+    "intro": "本文介绍了中国2D动画电影《浪浪山的小妖怪》。",
+    "qs": [
+      {
+        "q": "What can we learn about “Nobody” from the first paragraph?",
+        "opts": [
+          "It was made by a studio in Beijing.",
+          "It was released on August 11th, 2025.",
+          "It earned more than “Big Fish & Begonia”",
+          "It got a score of 8.6 on a foreign website."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“By August 11th, it had earned 574 million yuan, breaking the record for Chinese 2D animated films—Big Fish & Begonia’s (《大鱼海棠》) 573 million yuan.”可知，截至8月11日，《浪浪山的小妖怪》票房已达5.74亿元，打破了中国2D动画电影《大鱼海棠》5.73亿元的票房纪录。故选C。"
+      },
+      {
+        "q": "Why do the four little monsters pretend to be Tang Monk and his team?",
+        "opts": [
+          "To make friends with villagers.",
+          "To find a new job and survive.",
+          "To learn from the classic story.",
+          "To help the mountain king."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“They work for a mountain king, but lose their jobs by accident. To survive, they pretend (假扮) to be Tang Monk and his team from Journey to the West(a famous Chinese classic) and start a journey west.”可知，他们为一位山王工作，但意外地失去了工作。为了生存，他们假装成《西游记》（中国著名名著）中的唐僧和他的团队，开始了西游。故选B。"
+      },
+      {
+        "q": "The underlined phrase “stands out” in Paragraph 3 probably means _________.",
+        "opts": [
+          "is easy to notice",
+          "is hard to understand",
+          "is similar to others",
+          "is expensive to make"
+        ],
+        "ans": "A",
+        "exp": "词句猜测题。根据“What makes it special? Its beautiful Chinese ink painting style stands out—each picture uses 50 ink layers.”可知，它有什么特别之处？其美丽的中国水墨画风格脱颖而出——每幅画使用50层墨水。划线词的意思是“脱颖而出”，与“is easy to notice（很容易注意到）”意思相近。故选A。"
+      },
+      {
+        "q": "What is the structure of the passage?",
+        "opts": [
+          "①/②③/④⑤",
+          "①②/③④/⑤",
+          "①/②③④/⑤",
+          "①②③/④⑤"
+        ],
+        "ans": "C",
+        "exp": "篇章结构题。文章第一段作为引言，总体介绍电影《浪浪山的小妖怪》成为暑期爆款的基本情况，包括制作方、上映日期、票房纪录和口碑评分；第二、三、四段构成文章的主体部分，详细阐述电影的多方面内容，包括描述故事情节和主题内涵，分析艺术特色和片名深意，介绍商业影响和衍生品销售；第五段作为结论，总结升华电影的意义，强调它不止是娱乐，还传递了“每个人都能成为英雄”的价值观。正确结构为①/②③④/⑤。故选C。"
+      },
+      {
+        "q": "What can we know from the passage?",
+        "opts": [
+          "The film’s merchandise is not popular.",
+          "Only kids are interested in the film.",
+          "The story of the film is original and not from any short film.",
+          "The film wants to tell us common people can be heroes."
+        ],
+        "ans": "D",
+        "exp": "推理判断题。根据“‘Nobody’ tells us: even small people can be heroes.”可知，《浪浪山的小妖怪》告诉我们：即使是普通人也可以成为英雄，可以推断出电影想告诉我们普通人可以成为英雄，D选项符合。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_32",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "戏剧节如何利用最新技术提升戏剧"
+    ],
+    "title": "九上阅读 · 三十二 戏剧节如何利用最新技术提升戏剧",
+    "passage": "The Drama Festival runs in and outside China from June 20 to July 7. Sixty-five works were put on both in theaters and online. “The festival is all about imagination connecting drama with the latest technology,” says Liu Chang, the manager of the festival, who is also a drama director. Technology has improved design, performances and so on. Artists like Liu aren’t sure if the new technology can take drama to the future.\n\nA Chinese play directed by Meng Jinghui, inspired (被赋予灵感) by the two-part drama Faust by Johann Wolfgang von Goethe, will be on as the opening play of the festival. In the first half of the play, Meng introduces the story to 400 real audiences (观众) sitting in the Fengchao Theater in Beijing. The second half of the play will have more audiences, who use their cellphones, computers and headsets to be part of the play online.\n\nZhang Zhouxiang is a director full of imagination. His work, inspired by Hieronymus Bosch’s painting The Garden of Earthly Delights, will be shown from June 30 to July 2. Supported by AI, audiences can explore the fictitious scene, similar to the feeling in the real world, as the painting describes.\n\n“The stage design is done by AI, which is like a helper realizing the ideas of me and my team,” says Liu. “Now I try to use the latest technology, such as ChatGPT, to write the script (剧本), and I am still working on it because the language model is difficult to understand.”\n\nNow technology is playing a more and more important role. Many artists want to use it to improve drama. They are very interested in the relationship between people and the latest technology, especially when connected in drama — a scene to dream.",
+    "passageHtml": "<p><span class=\"ind\">The Drama Festival runs in and outside China from June 20 to July 7. Sixty-five works were put on both in theaters and online. “The festival is all about imagination connecting drama with the latest technology,” says Liu Chang, the manager of the festival, who is also a drama director. Technology has improved design, performances and so on. Artists like Liu aren’t sure if the new technology can take drama to the future.</span></p><p><span class=\"ind\">A Chinese play directed by Meng Jinghui, inspired (被赋予灵感) by the two-part drama Faust by Johann Wolfgang von Goethe, will be on as the opening play of the festival. In the first half of the play, Meng introduces the story to 400 real audiences (观众) sitting in the Fengchao Theater in Beijing. The second half of the play will have more audiences, who use their cellphones, computers and headsets to be part of the play online.</span></p><p><span class=\"ind\">Zhang Zhouxiang is a director full of imagination. His work, inspired by Hieronymus Bosch’s painting The Garden of Earthly Delights, will be shown from June 30 to July 2. Supported by AI, audiences can explore the fictitious scene, similar to the feeling in the real world, as the painting describes.</span></p><p><span class=\"ind\">“The stage design is done by AI, which is like a helper realizing the ideas of me and my team,” says Liu. “Now I try to use the latest technology, such as ChatGPT, to write the script (剧本), and I am still working on it because the language model is difficult to understand.”</span></p><p><span class=\"ind\">Now technology is playing a more and more important role. Many artists want to use it to improve drama. They are very interested in the relationship between people and the latest technology, especially when connected in drama — a scene to dream.</span></p>",
+    "intro": "本文介绍了戏剧节如何利用最新技术提升戏剧表演，包括AI在舞台设计和剧本创作中的应用。",
+    "qs": [
+      {
+        "q": "According to the passage, Liu Chang is _________.",
+        "opts": [
+          "a theater manager",
+          "a drama director",
+          "an audience",
+          "a helper"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“says Liu Chang, the manager of the festival, who is also a drama director”可知，刘畅是一名戏剧导演。故选B。"
+      },
+      {
+        "q": "Which of the following is TRUE according to this passage?",
+        "opts": [
+          "Liu dislikes the latest technology.",
+          "Liu doubts whether technology can greatly improve drama.",
+          "Audiences can only enjoy Meng’s play online.",
+          "The first half of Meng’s play will have more audiences."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Artists like Liu aren’t sure if the new technology can take drama to the future.”可知，刘怀疑技术是否能极大地改善戏剧。故选B。"
+      },
+      {
+        "q": "What does the underlined word “fictitious” mean in Paragraph 3?",
+        "opts": [
+          "Historical.",
+          "Scientific.",
+          "Imaginary.",
+          "Real."
+        ],
+        "ans": "C",
+        "exp": "词义猜测题。根据“similar to the feeling in the real world, as the painting describes”表示如同画作所描绘的，类似于现实世界的感觉，由此推知，“fictitious”意为“虚构的”。故选C。"
+      },
+      {
+        "q": "What is the structure of this passage? (①= Paragraph 1…)",
+        "opts": [
+          "<img src=\"assets/images/jr_read9a_32_opt_1.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_32_opt_2.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_32_opt_3.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_32_opt_4.png\" height=\"70\" style=\"vertical-align:middle\">"
+        ],
+        "ans": "A",
+        "exp": "篇章结构题。第一段引出文章话题戏剧节中AI的运用；第二、三、四段介绍AI在此次作品和戏剧节中的运用；第五段总结全文。因此结构是“总—分—总”。故选A。"
+      },
+      {
+        "q": "What is the best title of the passage?",
+        "opts": [
+          "The drama festival runs in and outside China",
+          "Human imagination has improved drama performances",
+          "The future of the dream will be bright",
+          "Technology helps artists to make drama better"
+        ],
+        "ans": "D",
+        "exp": "标题归纳题。本文主要介绍了技术如何帮助艺术家提升戏剧表演，因此最佳标题是“技术帮助艺术家使戏剧更好”。故选D。\nWelcome to Dazu Rock Carvings (石刻)"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_33",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "重庆大足石刻景点的基本信息"
+    ],
+    "title": "九上阅读 · 三十三 重庆大足石刻景点的基本信息",
+    "passage": "Welcome to Dazu Rock Carvings (石刻)\n\nDazu, in the west of Chongqing, is famous worldwide as the Home of Rock Carvings. Over 60,000 carved stone figures are spread around 76 places in Dazu. The art of Dazu appeared in the late Tang Dynasty and became popular and famous in the Song Dynasty. It’s an important part of Chinese culture and history.\n\n※ Opening Hours※\n\n9:00 a.m.—6:00 p.m. at Mount Baoding & Beishan\n\n7:30 p.m.—11:00 p.m. at Beishan (night tour)\n\n※ How to Get Here※\n\n▲From Jiangbei Airport  ¥58\n\nThere is a bus, which directly goes to Dazu District, only two shifts (班) every day at 12:30 and 17:30.\n\n▲From the bus station  ¥52\n\nIn the Caiyuanba and Chenjiang bus stations, there are buses going to Dazu District every half-hour.\n\n※ Notes※\n\nMost of the figures are Buddhist statues (佛像), but Taoist (道教) and Confucian stone figures can also be seen.\n\n▲English guides are available for 260 yuan.\n\n▲Don’t make noise or dress improperly.\n\n▲Call023-43722268 or visit http://www.dzshike. com for more information.\n\n▲Meet emergencies or have physical problems, please call 023-43785774 for Mount Baoding, 023-43721274 for Beishan and 023-43735811 for Beishan night tour.",
+    "passageHtml": "<p><span class=\"ind\">Welcome to Dazu Rock Carvings (石刻)</span></p><p><span class=\"ind\">Dazu, in the west of Chongqing, is famous worldwide as the Home of Rock Carvings. Over 60,000 carved stone figures are spread around 76 places in Dazu. The art of Dazu appeared in the late Tang Dynasty and became popular and famous in the Song Dynasty. It’s an important part of Chinese culture and history.</span></p><p><span class=\"ind\">※ Opening Hours※</span></p><p><span class=\"ind\">9:00 a.m.—6:00 p.m. at Mount Baoding & Beishan</span></p><p><span class=\"ind\">7:30 p.m.—11:00 p.m. at Beishan (night tour)</span></p><p><span class=\"ind\">※ How to Get Here※</span></p><p><span class=\"ind\">▲From Jiangbei Airport  ¥58</span></p><p><span class=\"ind\">There is a bus, which directly goes to Dazu District, only two shifts (班) every day at 12:30 and 17:30.</span></p><p><span class=\"ind\">▲From the bus station  ¥52</span></p><p><span class=\"ind\">In the Caiyuanba and Chenjiang bus stations, there are buses going to Dazu District every half-hour.</span></p><p><span class=\"ind\">※ Notes※</span></p><p><span class=\"ind\">Most of the figures are Buddhist statues (佛像), but Taoist (道教) and Confucian stone figures can also be seen.</span></p><p><span class=\"ind\">▲English guides are available for 260 yuan.</span></p><p><span class=\"ind\">▲Don’t make noise or dress improperly.</span></p><p><span class=\"ind\">▲Call023-43722268 or visit http://www.dzshike. com for more information.</span></p><p><span class=\"ind\">▲Meet emergencies or have physical problems, please call 023-43785774 for Mount Baoding, 023-43721274 for Beishan and 023-43735811 for Beishan night tour.</span></p>",
+    "intro": "本文主要介绍了重庆大足石刻景点的基本信息，也介绍了开放时间以及交通方式。",
+    "qs": [
+      {
+        "q": "When was the art of Dazu Rock Carvings created?",
+        "opts": [
+          "In the Qing Dynasty.",
+          "In the Ming Dynasty.",
+          "In the Song Dynasty.",
+          "In the Tang Dynasty."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“The art of Dazu appeared in the late Tang Dynasty and became popular and famous in the Song Dynasty.”可知，大足石刻艺术始于唐代晚期。故选D。"
+      },
+      {
+        "q": "Where can you stay until 11:00 p.m. to enjoy the carving art?",
+        "opts": [
+          "At Beishan.",
+          "At Mount Baoding.",
+          "At Chenjiang.",
+          "At Caiyuanba."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“7:30 p.m.—11:00 p.m. at Beishan (night tour)”可知，你可以在北山待到晚上11点欣赏雕刻艺术。故选A。"
+      },
+      {
+        "q": "How much should a couple pay if they take a bus to Dazu District from Jiangbei Airport?",
+        "opts": [
+          "52 yuan.",
+          "58 yuan.",
+          "116 yuan.",
+          "260 yuan."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。根据“From Jiangbei Airport ¥58”及“In the Caiyuanba and Chenjiang bus stations, there are buses going to Dazu District every half-hour.”可知，从江北机场出发的大巴单人票价58元；一对夫妇总费用为58×2=116元。故选C。"
+      },
+      {
+        "q": "We can learn that _________ from this passage.",
+        "opts": [
+          "the guides serve tourists without pay",
+          "we can see Taoist figures in Dazu District",
+          "we can dress ourselves as much as we like",
+          "there is only one way to get to Dazu District"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Most of the figures are Buddhist statues (佛像) , but Taoist (道教) and Confucian stone figures can also be seen.”可知，大足石刻中可看到道家石像。故选B。"
+      },
+      {
+        "q": "The passage is probably from _________.",
+        "opts": [
+          "a science book",
+          "a travel guide",
+          "a news website",
+          "a diary"
+        ],
+        "ans": "B",
+        "exp": "推理判断题。通读全文可知，本文包含了大足石刻的基本介绍、开放时间、交通方式、注意事项、联系方式等信息，均为游客出行所需的实用内容，符合“旅游指南”的特征。故选B。\n448．Who can join in the writing competition?\nA．Jenny, a 6-year-old girl.B．Mary, an 11-year-old student.\nC．Tom, a 24-year-old teacher.D．Mark, a 33-year-old man.\n449．What is a middle school competitor’s article about?\nA．School art festival.B．An interesting film.\nC．His parents’ love for him.D．Some famous actors.\n450．What can she get if Lily wins the second prize in the competition?\nA．Two certificates.B．A gel pen.\nC．Some money.D．A trip to Beijing.\n451．When can a competitor send his article?\nA．On September 26th, 2025.B．On September 29th, 2025.\nC．On October 15th, 2025.D．On October 28th, 2025.\n452．Where is the passage most probably from?\nA．A science book.B．A travel guide.\nC．A school website.D．A story book."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_34",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "2025年写作大赛面向不同年龄"
+    ],
+    "title": "九上阅读 · 三十四 2025年写作大赛面向不同年龄",
+    "passage": "2025 Writing Competition. Are you interested in writing? Would you like to share your articles with us? If you are students between 7 and 22 years old, you’re welcome to join in our competition!Groups:◇Primary School GroupStudents in this group need to write articles of about 100 words. All the articles must be about parents, teachers, friends or interesting films.◇Middle School GroupThis group needs articles of over 200 words by middle school students. All the articles must be about school life or exciting trips.◇University GroupArticles about people or nature by university students are welcome in this group. All the articles must be more than 300 words.Winners of Each Group:◆First prize: One student◆Second prize: Three students◆Third prize: Six studentsPrizes:◆Each winner will receive a certificate (证书) and a dictionary. The first prize winner will also receive a gel pen and a trip to Beijing for free. Each second prize winner will also receive 200 yuan.◆You must send your articles to us before September 28th, 2025 and you will know the result on October 15th, 2025. Please click here and send your article to us now.",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">2025 Writing Competition. Are you interested in writing? Would you like to share your articles with us? If you are students between 7 and 22 years old, you’re welcome to join in our competition!Groups:◇Primary School GroupStudents in this group need to write articles of about 100 words. All the articles must be about parents, teachers, friends or interesting films.◇Middle School GroupThis group needs articles of over 200 words by middle school students. All the articles must be about school life or exciting trips.◇University GroupArticles about people or nature by university students are welcome in this group. All the articles must be more than 300 words.Winners of Each Group:◆First prize: One student◆Second prize: Three students◆Third prize: Six studentsPrizes:◆Each winner will receive a certificate (证书) and a dictionary. The first prize winner will also receive a gel pen and a trip to Beijing for free. Each second prize winner will also receive 200 yuan.◆You must send your articles to us before September 28th, 2025 and you will know the result on October 15th, 2025. Please click here and send your article to us now.</td></tr></table></div>",
+    "intro": "本文主要讲述了2025年写作大赛面向不同年龄段学生分组征集文章，并介绍了各组要求、奖项设置及截止日期等信息。",
+    "qs": [
+      {
+        "q": "Who can join in the writing competition?",
+        "opts": [
+          "Jenny, a 6-year-old girl.",
+          "Mary, an 11-year-old student.",
+          "Tom, a 24-year-old teacher.",
+          "Mark, a 33-year-old man."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据第一段中“If you are students between 7 and 22 years old, you’re welcome to join in our competition!”可知，7到22岁的学生可以参加。故选B。"
+      },
+      {
+        "q": "What is a middle school competitor’s article about?",
+        "opts": [
+          "School art festival.",
+          "An interesting film.",
+          "His parents’ love for him.",
+          "Some famous actors."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据Middle School Group中“All the articles must be about school life or exciting trips.”可知，中学组所有的文章都必须是关于学校生活或令人兴奋的旅行。故选A。"
+      },
+      {
+        "q": "What can she get if Lily wins the second prize in the competition?",
+        "opts": [
+          "Two certificates.",
+          "A gel pen.",
+          "Some money.",
+          "A trip to Beijing."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据Prizes中“Each second prize winner will also receive 200 yuan.”可知，二等奖获得者可以获得200元。故选C。"
+      },
+      {
+        "q": "When can a competitor send his article?",
+        "opts": [
+          "On September 26th, 2025.",
+          "On September 29th, 2025.",
+          "On October 15th, 2025.",
+          "On October 28th, 2025."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据Prizes中“You must send your articles to us before September 28th, 2025 and you will know the result on October 15th, 2025.”可知，您必须在2025年9月28日之前将您的文章发送给“我”们，您将在2025年10月15日知道结果。故选A。"
+      },
+      {
+        "q": "Where is the passage most probably from?",
+        "opts": [
+          "A science book.",
+          "A travel guide.",
+          "A school website.",
+          "A story book."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。根据最后一句“Please click here and send your article to us now.”可知，请点击这里，现在发送你的文章给“我”们。由此可推测，该篇文章来自学校网站。故选C。\n453．What can we use BMI to do according to the article?\nA．To see if we are tall enough.B．To find out if we have a disease.\nC．To know how much we should eat.D．To check if we are at a healthy weight.\n454．What is the BMI of a woman who is 50kg and 1.5m tall?\nA．About 16.6.B．About 18.5.C．About 22.2.D．About 31.7.\n455．What should a person with BMI 17.5 do according to the article?\nA．Add healthy snacks.B．Drink before meals.\nC．Lose weight slowly.D．Eat smaller meals.\n456．What action should a person with obesity take first?\nA．Walk 30 minutes daily.B．Stop drinking cola.\nC．Ask doctors for advice.D．Drink more water.\n457．What kind of the website is this article from?\nA．Sports.B．Health.C．Cooking.D．Culture."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_35",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "BMI的定义、计算方法、分类以"
+    ],
+    "title": "九上阅读 · 三十五 BMI的定义、计算方法、分类以",
+    "passage": "Your Guide to BMI and Better HealthBody mass index (BMI) is a tool for adults to find out if you’re at a healthy weight. Now check your BMI to see whether you are healthy!How to Check BMI?Weight (kg)÷[height(m)×height(m)]Example: For a 1.7m adult weighing 60kgBMI=60÷(1.7×1.7)≈20.8 (Healthy! )Underweight    <18.5Healthy weight    18.5-23.9Overweight    24-27.9Obesity (too fat)    28-50Super obesity    >50▲This is for people under 19. For children from 2 to 18, click here to find out.Take Action Towards Better Health:Tips for overweight people (24≤BMI<28):✔Eat smaller meals.✔Pick products low in fat, sugar and salt.✔Stop drinking cola and eating chips.✔Lose weight slowly (0.5-1kg/ week).✔Walk, run, or ride a bike 30 minutes daily.Tips for underweight people (BMI<18.5):✔Eat more often. Add healthy snacks between meals.✔Add healthy food like beans, fish, eggs and beef.✔Avoid drinking during a meal or before.✔Build muscle (肌肉) with training and yoga.Attention: People with obesity or super obesity should ask for medical help before taking action! |  | Underweight    <18.5Healthy weight    18.5-23.9Overweight    24-27.9Obesity (too fat)    28-50Super obesity    >50 | ▲This is for people under 19. For children from 2 to 18, click here to find out. |  | Tips for overweight people (24≤BMI<28):✔Eat smaller meals.✔Pick products low in fat, sugar and salt.✔Stop drinking cola and eating chips.✔Lose weight slowly (0.5-1kg/ week).✔Walk, run, or ride a bike 30 minutes daily. |  | Tips for underweight people (BMI<18.5):✔Eat more often. Add healthy snacks between meals.✔Add healthy food like beans, fish, eggs and beef.✔Avoid drinking during a meal or before.✔Build muscle (肌肉) with training and yoga.\n | Underweight    <18.5Healthy weight    18.5-23.9Overweight    24-27.9Obesity (too fat)    28-50Super obesity    >50\n▲This is for people under 19. For children from 2 to 18, click here to find out.\n | Tips for overweight people (24≤BMI<28):✔Eat smaller meals.✔Pick products low in fat, sugar and salt.✔Stop drinking cola and eating chips.✔Lose weight slowly (0.5-1kg/ week).✔Walk, run, or ride a bike 30 minutes daily.\n | Tips for underweight people (BMI<18.5):✔Eat more often. Add healthy snacks between meals.✔Add healthy food like beans, fish, eggs and beef.✔Avoid drinking during a meal or before.✔Build muscle (肌肉) with training and yoga.",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Your Guide to BMI and Better HealthBody mass index (BMI) is a tool for adults to find out if you’re at a healthy weight. Now check your BMI to see whether you are healthy!How to Check BMI?Weight (kg)÷[height(m)×height(m)]Example: For a 1.7m adult weighing 60kgBMI=60÷(1.7×1.7)≈20.8 (Healthy! )Underweight    <18.5Healthy weight    18.5-23.9Overweight    24-27.9Obesity (too fat)    28-50Super obesity    >50▲This is for people under 19. For children from 2 to 18, click here to find out.Take Action Towards Better Health:Tips for overweight people (24≤BMI<28):✔Eat smaller meals.✔Pick products low in fat, sugar and salt.✔Stop drinking cola and eating chips.✔Lose weight slowly (0.5-1kg/ week).✔Walk, run, or ride a bike 30 minutes daily.Tips for underweight people (BMI<18.5):✔Eat more often. Add healthy snacks between meals.✔Add healthy food like beans, fish, eggs and beef.✔Avoid drinking during a meal or before.✔Build muscle (肌肉) with training and yoga.Attention: People with obesity or super obesity should ask for medical help before taking action!<br><img src=\"assets/images/jr_read9a_35_tbl_1.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_35_tbl_2.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_35_tbl_3.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_35_tbl_4.png\" style=\"max-width:80px;height:auto\"><br><img src=\"assets/images/jr_read9a_35_tbl_5.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_35_tbl_6.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Underweight    <18.5Healthy weight    18.5-23.9Overweight    24-27.9Obesity (too fat)    28-50Super obesity    >50</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">▲This is for people under 19. For children from 2 to 18, click here to find out.</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_35_tbl_7.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Tips for overweight people (24≤BMI<28):✔Eat smaller meals.✔Pick products low in fat, sugar and salt.✔Stop drinking cola and eating chips.✔Lose weight slowly (0.5-1kg/ week).✔Walk, run, or ride a bike 30 minutes daily.</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_35_tbl_8.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Tips for underweight people (BMI<18.5):✔Eat more often. Add healthy snacks between meals.✔Add healthy food like beans, fish, eggs and beef.✔Avoid drinking during a meal or before.✔Build muscle (肌肉) with training and yoga.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_35_tbl_9.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Underweight    <18.5Healthy weight    18.5-23.9Overweight    24-27.9Obesity (too fat)    28-50Super obesity    >50</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">▲This is for people under 19. For children from 2 to 18, click here to find out.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_35_tbl_10.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Tips for overweight people (24≤BMI<28):✔Eat smaller meals.✔Pick products low in fat, sugar and salt.✔Stop drinking cola and eating chips.✔Lose weight slowly (0.5-1kg/ week).✔Walk, run, or ride a bike 30 minutes daily.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_35_tbl_11.png\" style=\"max-width:80px;height:auto\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Tips for underweight people (BMI<18.5):✔Eat more often. Add healthy snacks between meals.✔Add healthy food like beans, fish, eggs and beef.✔Avoid drinking during a meal or before.✔Build muscle (肌肉) with training and yoga.</td></tr></table></div>",
+    "intro": "本文讲述了BMI的定义、计算方法、分类以及针对不同BMI范围人群的健康建议。",
+    "qs": [
+      {
+        "q": "What can we use BMI to do according to the article?",
+        "opts": [
+          "To see if we are tall enough.",
+          "To find out if we have a disease.",
+          "To know how much we should eat.",
+          "To check if we are at a healthy weight."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“Body mass index (BMI) is a tool for adults to find out if you’re at a healthy weight.”可知，BMI是用来检查体重是否健康的工具。故选D。"
+      },
+      {
+        "q": "What is the BMI of a woman who is 50kg and 1.5m tall?",
+        "opts": [
+          "About 16.6.",
+          "About 18.5.",
+          "About 22.2.",
+          "About 31.7."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据公式BMI=weight(kg)/height(m)2，计算50kg÷(1.5m×1.5m)≈22.2。故选C。"
+      },
+      {
+        "q": "What should a person with BMI 17.5 do according to the article?",
+        "opts": [
+          "Add healthy snacks.",
+          "Drink before meals.",
+          "Lose weight slowly.",
+          "Eat smaller meals."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“Tips for underweight people (BMI<18.5): ✔Eat more often. Add healthy snacks between meals.”可知，BMI为17.5的人应该增加健康零食。故选A。"
+      },
+      {
+        "q": "What action should a person with obesity take first?",
+        "opts": [
+          "Walk 30 minutes daily.",
+          "Stop drinking cola.",
+          "Ask doctors for advice.",
+          "Drink more water."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“Attention: People with obesity or super obesity should ask for medical help before taking action!”可知，肥胖或超肥胖的人应先寻求医生建议。故选C。"
+      },
+      {
+        "q": "What kind of the website is this article from?",
+        "opts": [
+          "Sports.",
+          "Health.",
+          "Cooking.",
+          "Culture."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据文章内容，主要讨论BMI及其与健康的关系，因此文章可能来自健康类网站。故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_36",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "一个帮助我们管理情绪的工具——"
+    ],
+    "title": "九上阅读 · 三十六 一个帮助我们管理情绪的工具——",
+    "passage": "Have you ever experienced endless work, great pressure, or carried high expectations? Just feel like screaming, don’t you? Don’t worry! HALT, which comes from the words—hungry, angry, lonely and tired, can be used as a tool to help you deal with your emotions. That is to say, when you feel bad, ask yourself if you have the following problems: hunger, anger, loneliness, or tiredness, and then do with them first.\n\n● Hungry? Eat!\n\nFeeling mad? It could be hunger influencing your mood. When you’re hungry, your blood sugar level drops. If it drops below the normal level, you may become absent-minded and it’s easy for you to lose temper, and you’ll have bad mood. At this time, the lower your blood sugar level falls, the worse your mood will become. To balance your blood sugar level and improve your mood, you can carry some healthy snacks or some fruit in your bag.\n\n● Angry? Pause!\n\nWhen you’re angry with someone or something, just stop thinking about the problems. Taking deep breaths and writing down your feelings in a notebook are both good choices. Such simple actions can help you cool down and avoid saying or doing something you might regret later.\n\n● Lonely? Connect!\n\nFeeling lonely can make you sad or anxious. You can reach out to a friend or family member to chat with. You can also join a sports team or an art club to meet new people. Then you’ll feel more connected. Sometimes, just knowing that you’re not alone can help youweatherthe storm.\n\n● Tired? Rest!\n\nIf you’re tired, your brain won’t work well. It’s time for you to change your work pace. Try taking a 5-minute break after a 25-minute study. You can dance to a song or simply close your eyes for a moment. Make sure to sleep early to refresh your brain for the next day.\n\nTo manage these feelings, you can also prepare a HALT first-aid kit. It is just as the saying goes, “________”. The things you put in your kit may include some snacks, a stress ball, a list of “happy songs” and even a comfortable sweater. After all, taking good care of our bodies helps our mind stay stronger. Let’s make good use of HALT. Through controlling our emotions well, we can make better decisions in our lives.",
+    "passageHtml": "<p><span class=\"ind\">Have you ever experienced endless work, great pressure, or carried high expectations? Just feel like screaming, don’t you? Don’t worry! HALT, which comes from the words—hungry, angry, lonely and tired, can be used as a tool to help you deal with your emotions. That is to say, when you feel bad, ask yourself if you have the following problems: hunger, anger, loneliness, or tiredness, and then do with them first.</span></p><p><span class=\"ind\">● Hungry? Eat!</span></p><p><span class=\"ind\">Feeling mad? It could be hunger influencing your mood. When you’re hungry, your blood sugar level drops. If it drops below the normal level, you may become absent-minded and it’s easy for you to lose temper, and you’ll have bad mood. At this time, the lower your blood sugar level falls, the worse your mood will become. To balance your blood sugar level and improve your mood, you can carry some healthy snacks or some fruit in your bag.</span></p><p><span class=\"ind\">● Angry? Pause!</span></p><p><span class=\"ind\">When you’re angry with someone or something, just stop thinking about the problems. Taking deep breaths and writing down your feelings in a notebook are both good choices. Such simple actions can help you cool down and avoid saying or doing something you might regret later.</span></p><p><span class=\"ind\">● Lonely? Connect!</span></p><p><span class=\"ind\">Feeling lonely can make you sad or anxious. You can reach out to a friend or family member to chat with. You can also join a sports team or an art club to meet new people. Then you’ll feel more connected. Sometimes, just knowing that you’re not alone can help youweatherthe storm.</span></p><p><span class=\"ind\">● Tired? Rest!</span></p><p><span class=\"ind\">If you’re tired, your brain won’t work well. It’s time for you to change your work pace. Try taking a 5-minute break after a 25-minute study. You can dance to a song or simply close your eyes for a moment. Make sure to sleep early to refresh your brain for the next day.</span></p><p><span class=\"ind\">To manage these feelings, you can also prepare a HALT first-aid kit. It is just as the saying goes, “________”. The things you put in your kit may include some snacks, a stress ball, a list of “happy songs” and even a comfortable sweater. After all, taking good care of our bodies helps our mind stay stronger. Let’s make good use of HALT. Through controlling our emotions well, we can make better decisions in our lives.</span></p>",
+    "intro": "本文主要介绍了一个帮助我们管理情绪的工具——HALT。",
+    "qs": [
+      {
+        "q": "According to the passage, what can you do if you feel angry?",
+        "opts": [
+          "Practice breathing exercises.",
+          "Keep focusing on the problem.",
+          "Eat some healthy snacks or fruits.",
+          "Go to bed early for refreshing."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“When you’re angry with someone or something, just stop thinking about the problems. Taking deep breaths and writing down your feelings in a notebook are both good choices.”可知，如果感到愤怒，可以深呼吸并在笔记本上写下你的感受。故选A。"
+      },
+      {
+        "q": "The underlined word “weather” means “________”.",
+        "opts": [
+          "meet",
+          "miss",
+          "cause",
+          "overcome"
+        ],
+        "ans": "D",
+        "exp": "词句猜测题。根据“Sometimes, just knowing that you’re not alone can help you weather the storm.”可知，有时候，仅仅知道你不是孤身一人就能帮助你渡过难关，因此划线单词weather意为“克服，度过”。故选D。"
+      },
+      {
+        "q": "Which picture shows the changes of our mood according to paragraph 2?",
+        "opts": [
+          "<img src=\"assets/images/jr_read9a_36_opt_1.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_36_opt_2.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_36_opt_3.png\" height=\"70\" style=\"vertical-align:middle\">",
+          "<img src=\"assets/images/jr_read9a_36_opt_4.png\" height=\"70\" style=\"vertical-align:middle\">"
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据“At this time, the lower your blood sugar level falls, the worse your mood will become.”可知，你的血糖水平越低，你的情绪就会变得越糟。故选B。"
+      },
+      {
+        "q": "Which sentence can be put in the “________” in the last paragraph?",
+        "opts": [
+          "It’s never late than never.",
+          "It’s easy to be wise after the event.",
+          "Mend the roof while the sun is shining.",
+          "Cross the bridge when you come to it."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。根据“To manage these feelings, you can also prepare a HALT first-aid kit.”可知，此处是说提前准备一个HALT急救包，选项C“趁天晴赶快把屋顶修一修。”符合语境。故选C。"
+      },
+      {
+        "q": "Which can be the best title of the passage?",
+        "opts": [
+          "How to Deal with Your Bad Mood Wisely",
+          "How to Manage Stress with Healthy Snacks",
+          "Mastering HALT: A Guide to Managing Emotions",
+          "The Importance of Rest and Relaxation in Daily Life"
+        ],
+        "ans": "C",
+        "exp": "最佳标题题。通读全文可知，文章主要介绍了HALT，掌握HALT可以帮助我们管理情绪，选项C“掌握HALT：管理情绪指南”符合文章最佳标题。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_37",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "William从一个不敢表达自"
+    ],
+    "title": "九上阅读 · 三十七 William从一个不敢表达自",
+    "passage": "William used to be a kid who never dared to express his true thoughts. He always agreed with everything his friends said.\n\nOne day, he and his friends were discussing whether middle school students should bring their phones to school. His friends all thought they should, but William didn’t agree. However, because he didn’t dare to speak out his mind, he chose to agree with them. But he knew that always going against his own will to agree with others made him feel very uncomfortable. So he took up the courage to tell his mom about this.\n\n“I just can’t tell people what I really think or want. It’s too difficult for me,” said William.\n\n“You can’t or you don’t want to?” Mom asked patiently.\n\n“You are right. I guess I don’t want to. I’m afraid to be different,” answered William.\n\nHis mom smiled and handed him a famous book, The Analects of Confucius (《论语》). William knew the book but he didn’t know what his mom meant. However, he started reading the book every night before bed. One day, he read the phrase, “Gentlemen have peace but disagree; flunkies (小人) agree but have no peace.” He didn’t understand it, so he asked his mom.\n\n“It means gentlemen achieve harmony (和谐), but they don’t just blindly agree with others. They have their own ideas, and they can tell the truth bravely. Flunkies agree easily, but they don’t really work together,” his mom explained.\n\nSuddenly, William was inspired and realized that having different ideas was not a bad thing at all. He was very thankful for the book. He decided to be brave enough to express his own thoughts. He did as he said. From then on, he was no longer afraid to speak out his mind. To his surprise, he found that the friendship had become even stronger!",
+    "passageHtml": "<p><span class=\"ind\">William used to be a kid who never dared to express his true thoughts. He always agreed with everything his friends said.</span></p><p><span class=\"ind\">One day, he and his friends were discussing whether middle school students should bring their phones to school. His friends all thought they should, but William didn’t agree. However, because he didn’t dare to speak out his mind, he chose to agree with them. But he knew that always going against his own will to agree with others made him feel very uncomfortable. So he took up the courage to tell his mom about this.</span></p><p><span class=\"ind\">“I just can’t tell people what I really think or want. It’s too difficult for me,” said William.</span></p><p><span class=\"ind\">“You can’t or you don’t want to?” Mom asked patiently.</span></p><p><span class=\"ind\">“You are right. I guess I don’t want to. I’m afraid to be different,” answered William.</span></p><p><span class=\"ind\">His mom smiled and handed him a famous book, The Analects of Confucius (《论语》). William knew the book but he didn’t know what his mom meant. However, he started reading the book every night before bed. One day, he read the phrase, “Gentlemen have peace but disagree; flunkies (小人) agree but have no peace.” He didn’t understand it, so he asked his mom.</span></p><p><span class=\"ind\">“It means gentlemen achieve harmony (和谐), but they don’t just blindly agree with others. They have their own ideas, and they can tell the truth bravely. Flunkies agree easily, but they don’t really work together,” his mom explained.</span></p><p><span class=\"ind\">Suddenly, William was inspired and realized that having different ideas was not a bad thing at all. He was very thankful for the book. He decided to be brave enough to express his own thoughts. He did as he said. From then on, he was no longer afraid to speak out his mind. To his surprise, he found that the friendship had become even stronger!</span></p>",
+    "intro": "本文主要讲述了William从一个不敢表达自己真实想法的孩子，到逐渐学会勇敢表达自己思想的故事。",
+    "qs": [
+      {
+        "q": "Why did William always choose to agree with others?",
+        "opts": [
+          "Because he was afraid of arguing with others.",
+          "Because he didn’t dare to speak out his mind.",
+          "Because he didn’t want to be judged by others.",
+          "Because he didn’t have confidence in his opinions."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“He always agreed with everything his friends said.”和“However, because he didn’t dare to speak out his mind, he chose to agree with them.”可知，William总是选择同意别人是因为他不敢说出自己的想法。故选B。"
+      },
+      {
+        "q": "Which of the following can best describe William’s mom?",
+        "opts": [
+          "Patient and wise.",
+          "Creative and honest.",
+          "Confident and brave.",
+          "Careful and humorous."
+        ],
+        "ans": "A",
+        "exp": "推理判断题。根据“Mom asked patiently.”和“his mom explained.”可推测，William的妈妈是一个耐心且智慧的人。故选A。"
+      },
+      {
+        "q": "Which of the following sentences can best match the saying in the book?",
+        "opts": [
+          "君子坦荡荡，小人长戚戚。",
+          "君子周而不比，小人比而不周。",
+          "君子和而不同，小人同而不和。",
+          "君子喻于义，小人喻于利。"
+        ],
+        "ans": "C",
+        "exp": "词句猜测题。根据“Gentlemen have peace but disagree; flunkies agree but have no peace.”可知，君子可以与他周围保持和谐，但他对待任何事情都持有自己的独立见解；小人则没有自己独立的见解，虽然常和他人保持一致，但实际并不讲求真正的和谐。这句话与选项C “君子和而不同，小人同而不和”最为匹配。故选C。"
+      },
+      {
+        "q": "How would William feel after he changed his opinion?",
+        "opts": [
+          "Surprised.",
+          "Nervous.",
+          "Doubtful.",
+          "Uncomfortable."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“To his surprise, he found that the friendship had become even stronger!”可知，William在改变自己的态度后感到惊讶。故选A。"
+      },
+      {
+        "q": "What can we learn from the story?",
+        "opts": [
+          "Silence is golden.",
+          "Following rules is important.",
+          "Being honest with friends builds trust.",
+          "Expressing true thoughts is necessary."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“He decided to be brave enough to express his own thoughts.”可知，我们能从故事中学到的是表达真实想法是必要的。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_38",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "第15届中国国际航空航天博览会"
+    ],
+    "title": "九上阅读 · 三十八 第15届中国国际航空航天博览会",
+    "passage": "The 15th China International Aviation and Aerospace Expo—Zhuhai Airshow\n\nZhuhai, a lively city located in Guangdong Province, is well-known for its biennial(两年一度的) airshow, which draws visitors from around the world. This year, the airshow will take place from November 12 to 17, 2024.\n\nViewing venues\n\nTo further enrich the display content and meet the different viewing needs of the audience, this year’s China Airshow has opened three viewing venues. They are the Zhuhai International Aerospace Center, the Jin Feng Tai viewing area, and the China Airshow Unmanned Aircraft and Unmanned Ship Demonstration Area (Doumen Lianzou).\n\nPrices of the tickets to the Zhuhai International Aerospace Center:\n\nIndividual Ticket: ¥500.\n\nDiscount Ticket: ¥350 (the people aged 60 and above (born before November 15, 1964) and under 18 years old (born after November 15, 2006).\n\nAirshow Package Tickets: from ¥650 to ¥1999\n\nOfficial Ticket Sales Channels of China Airshow:\n\nThere are four ways to get the tickets, including the Official Website www.airshow.com.cn, Official WeChat Public Account “China Airshow”, “Zhuhai Airshow” WeChat Mini Program or “Zhuhai Airshow” App.\n\nMore things should be paid attention:\n\nFor one thing, this year’s airshow tickets are real-name ID-type tickets and cannot be transferred to others for use. Otherwise, entry to the exhibition will be refused .Besides, tickets will not be sold at the airshow entrance. If you want to enjoy the show, remember to buy tickets in advance (提前).\n\nFor more information, you can call the Ticket Consultation Hotline, 400-8800-113.",
+    "passageHtml": "<p><span class=\"ind\">The 15th China International Aviation and Aerospace Expo—Zhuhai Airshow</span></p><p><span class=\"ind\">Zhuhai, a lively city located in Guangdong Province, is well-known for its biennial(两年一度的) airshow, which draws visitors from around the world. This year, the airshow will take place from November 12 to 17, 2024.</span></p><p><span class=\"ind\">Viewing venues</span></p><p><span class=\"ind\">To further enrich the display content and meet the different viewing needs of the audience, this year’s China Airshow has opened three viewing venues. They are the Zhuhai International Aerospace Center, the Jin Feng Tai viewing area, and the China Airshow Unmanned Aircraft and Unmanned Ship Demonstration Area (Doumen Lianzou).</span></p><p><span class=\"ind\">Prices of the tickets to the Zhuhai International Aerospace Center:</span></p><p><span class=\"ind\">Individual Ticket: ¥500.</span></p><p><span class=\"ind\">Discount Ticket: ¥350 (the people aged 60 and above (born before November 15, 1964) and under 18 years old (born after November 15, 2006).</span></p><p><span class=\"ind\">Airshow Package Tickets: from ¥650 to ¥1999</span></p><p><span class=\"ind\">Official Ticket Sales Channels of China Airshow:</span></p><p><span class=\"ind\">There are four ways to get the tickets, including the Official Website www.airshow.com.cn, Official WeChat Public Account “China Airshow”, “Zhuhai Airshow” WeChat Mini Program or “Zhuhai Airshow” App.</span></p><p><span class=\"ind\">More things should be paid attention:</span></p><p><span class=\"ind\">For one thing, this year’s airshow tickets are real-name ID-type tickets and cannot be transferred to others for use. Otherwise, entry to the exhibition will be refused .Besides, tickets will not be sold at the airshow entrance. If you want to enjoy the show, remember to buy tickets in advance (提前).</span></p><p><span class=\"ind\">For more information, you can call the Ticket Consultation Hotline, 400-8800-113.</span></p>",
+    "intro": "本文介绍了第15届中国国际航空航天博览会，也称珠海航展的信息，包括其举办时间、观赏场地、门票价格及购买渠道等注意事项。",
+    "qs": [
+      {
+        "q": "How often is the Zhuhai Airshow held?",
+        "opts": [
+          "Once a year.",
+          "Twice a year.",
+          "Once every two years.",
+          "We are not sure."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“Zhuhai, a lively city located in Guangdong Province, is well-known for its biennial(两年一度的) airshow, which draws visitors from around the world.”可知，珠海航展是每两年举办一次。故选C。"
+      },
+      {
+        "q": "How long will the 15th Zhuhai Airshow in 2024 last?",
+        "opts": [
+          "For 5 days.",
+          "For 6 days.",
+          "For 7 days.",
+          "For 8 days."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“This year, the airshow will take place from November 12 to 17, 2024.”可知，第15届珠海航展将从2024年11月12日至17日举行，为期6天。故选B。"
+      },
+      {
+        "q": "Which of the following is NOT one of the viewing venues for this year’s Zhuhai Airshow?",
+        "opts": [
+          "Zhuhai International Aerospace Center.",
+          "Jin Feng Tai viewing area.",
+          "China Airshow Unmanned Aircraft and Unmanned Ship Demonstration Area (Doumen Lianzou)",
+          "Zhuhai Space Center."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“They are the Zhuhai International Aerospace Center, the Jin Feng Tai viewing area, and the China Airshow Unmanned Aircraft and Unmanned Ship Demonstration Area (Doumen Lianzou).”可知，文中列举了三个观赏场所，珠海国际航天中心、金凤台观景区和中国航展无人机和无人船展示区（斗门莲洲）是观赏地点，没有提及“Zhuhai Space Center”。故选D。"
+      },
+      {
+        "q": "If 46-year-old Fixing together with his father and 16-year-old son, wants to buy individual tickets to Zhuhai International Aerospace Center to enjoy the show, how much does he have to pay?",
+        "opts": [
+          "¥1200.",
+          "¥1350.",
+          "¥1000.",
+          "¥1500."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。46岁的Fixing和他的父亲（60岁以上）以及16岁的儿子一起买个人票，分别是¥500，¥350和¥350。合计为¥500 + ¥350 + ¥350 = ¥1200。故选A。"
+      },
+      {
+        "q": "Which statement about the Zhuhai Airshow is true?",
+        "opts": [
+          "Tickets can be bought at the airshow entrance.",
+          "The official ticket sales channels include telephone booking.",
+          "Only individual tickets are available.",
+          "Tickets are non-transferable and must be used by the person whose name is on them."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“For one thing, this year’s airshow tickets are real-name ID-type tickets and cannot be transferred to others for use.”可知，票不能转让且需持本人身份证购票入场，因此D是正确的表述。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_39",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目三十九"
+    ],
+    "title": "九上阅读 · 三十九 篇目三十九",
+    "passage": "In the age of GenAI (生成式人工智能), educators everywhere are entering a new world of teaching. It’s exciting that high technology is helping students learn in powerful ways. However, teachers also have worries, such as how to guide students in using GenAI tools like ChatGPT to learn more deeply instead of just using them to cheat.\n\nAlthough their influence on education is still uncertain, the use of AI in education is not new. Machine learning, a part of AI, is very good at predicting what students are ready to learn next. For example, in an English class, it can help to make sure which vocabulary words students have mastered and which ones they have not. This helps students avoid spending too much time on what they already know well, which is a great way to make learning more personalized (个性化的).\n\nDuring the process, well-trained AI can realize patterns in students’ use of educational software (教学软件) and let educators know about students who may have difficulty in leaning. If necessary, teachers can then take proper action.\n\nGenAI will also open doors to creating intelligent tools. Take writing in English as an example. GenAI can understand students' writing skills as soon as they finish their writing tasks, and provide personalized advice based on different learning styles. It also helps teachers better understand their students.\n\nAlthough the future with AI is not yet clear, it’s important to focus on what matters most—GenAI is another tool to help students succeed.",
+    "passageHtml": "<p><span class=\"ind\">In the age of GenAI (生成式人工智能), educators everywhere are entering a new world of teaching. It’s exciting that high technology is helping students learn in powerful ways. However, teachers also have worries, such as how to guide students in using GenAI tools like ChatGPT to learn more deeply instead of just using them to cheat.</span></p><p><span class=\"ind\">Although their influence on education is still uncertain, the use of AI in education is not new. Machine learning, a part of AI, is very good at predicting what students are ready to learn next. For example, in an English class, it can help to make sure which vocabulary words students have mastered and which ones they have not. This helps students avoid spending too much time on what they already know well, which is a great way to make learning more personalized (个性化的).</span></p><p><span class=\"ind\">During the process, well-trained AI can realize patterns in students’ use of educational software (教学软件) and let educators know about students who may have difficulty in leaning. If necessary, teachers can then take proper action.</span></p><p><span class=\"ind\">GenAI will also open doors to creating intelligent tools. Take writing in English as an example. GenAI can understand students' writing skills as soon as they finish their writing tasks, and provide personalized advice based on different learning styles. It also helps teachers better understand their students.</span></p><p><span class=\"ind\">Although the future with AI is not yet clear, it’s important to focus on what matters most—GenAI is another tool to help students succeed.</span></p>",
+    "intro": "本文讨论了生成式人工智能 (GenAI) 在教育中的作用。",
+    "qs": [
+      {
+        "q": "How do teachers feel about GenAI?",
+        "opts": [
+          "Happy but worried.",
+          "Surprised and moved.",
+          "Sad and afraid.",
+          "Excited but tired."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“It’s exciting that high technology is helping students learn in powerful ways. However, teachers also have worries, such as how to guide students in using GenAI tools like ChatGPT to learn more deeply instead of just using them to cheat.”可知，教师对GenAI既感到兴奋又担心，故选A。"
+      },
+      {
+        "q": "What does the underlined word “their” in paragraph 2 refer to?",
+        "opts": [
+          "Students’.",
+          "Teachers’.",
+          "GenAI tools’.",
+          "Powerful ways’."
+        ],
+        "ans": "C",
+        "exp": "词句猜测题。根据“Although their influence on education is still uncertain, the use of AI in education is not new.”可知，生成式人工智能对教育的影响尚不确定，“their”指的是“GenAI tools’”，故选C。"
+      },
+      {
+        "q": "Why does the author mention students’ learning English words?",
+        "opts": [
+          "To point out some problems in AI.",
+          "To show AI’s role in personalized learning.",
+          "To introduce different kinds of AI tools.",
+          "To explain the importance of AI to students."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Machine learning, a part of AI, is very good at predicting what students are ready to learn next. For example, in an English class, it can help to make sure which vocabulary words students have mastered and which ones they have not.”可知，作者举这个例子是为了说明AI在个性化学习中的作用，故选B。"
+      },
+      {
+        "q": "Which advantage of GenAI to teachers is mentioned in the passage?",
+        "opts": [
+          "It helps them work together.",
+          "It saves their time in preparing lessons.",
+          "It improves their communication with parents.",
+          "It gives them a better understanding of students’ learning."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“During the process, well-trained AI can realize patterns in students’ use of educational software (教学软件) and let educators know about students who may have difficulty in leaning.”可知，GenAI帮助教师更好地理解学生的学习，故选D。"
+      },
+      {
+        "q": "Which can be the best title of this passage?",
+        "opts": [
+          "The Age of GenAI is Coming",
+          "GenAI: A Tool for Personalized Learning and Teacher Support",
+          "How GenAI is Changing Students’ Writing Skills",
+          "The Pros and Cons of Using GenAI in the Classroom"
+        ],
+        "ans": "B",
+        "exp": "最佳标题题。本文主要讨论了GenAI如何帮助个性化学习以及对教师的辅助作用，B选项“GenAI：个性化学习和教师支持的工具”最符合文章内容，故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_40",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目四十"
+    ],
+    "title": "九上阅读 · 四十 篇目四十",
+    "passage": "The Feynman Technique (费曼学习法) was developed by Nobel Prize-winning physicist Richard Feynman. It’s a study method that helps students learn by teaching others.\n\nThe Feynman Technique has been one of the most effective (有效的) study methods for many years. For one thing, it helps students really understand something instead of just memorizing information. What’s more, unlike traditional study methods like rereading textbooks or reviewing notes, it pushes students to be more actively involved in the learning process.\n\nIf you want to use the Feynman Technique to study better, follow these steps. To begin with, choose a topic you want to learn, including sub-topics (子主题). If not, you’ll end up jumping between topics without developing a deeper understanding of any of them.\n\nThe second step is the heart of the Feynman Technique: explaining the topic simply enough to be understood by a sixth-grade student. This requires you to help the child understand by using the simplest and clearest language possible. This step helps divide indigestible topics into their most basic parts.\n\nNext, review your explanation (解释) and try to find any area where you felt that you couldn’t explain the topic simply. When possible, it can be very helpful to get advice from someone whose understanding is similar to that of a sixth-grader, such as your best friend.\n\nThe fourth step is to improve your explanation by using the information collected from the third step. Finally, repeat the steps. The Feynman Technique works best with repetition, and that is why going through all the prior (先前的) steps just once is usually not enough to fully understand the topic.\n\nOnce you’re confident you’ve learned the topic, it’s time to give yourself a prize. Perhaps, like me, enjoy a nice cup of coffee.",
+    "passageHtml": "<p><span class=\"ind\">The Feynman Technique (费曼学习法) was developed by Nobel Prize-winning physicist Richard Feynman. It’s a study method that helps students learn by teaching others.</span></p><p><span class=\"ind\">The Feynman Technique has been one of the most effective (有效的) study methods for many years. For one thing, it helps students really understand something instead of just memorizing information. What’s more, unlike traditional study methods like rereading textbooks or reviewing notes, it pushes students to be more actively involved in the learning process.</span></p><p><span class=\"ind\">If you want to use the Feynman Technique to study better, follow these steps. To begin with, choose a topic you want to learn, including sub-topics (子主题). If not, you’ll end up jumping between topics without developing a deeper understanding of any of them.</span></p><p><span class=\"ind\">The second step is the heart of the Feynman Technique: explaining the topic simply enough to be understood by a sixth-grade student. This requires you to help the child understand by using the simplest and clearest language possible. This step helps divide indigestible topics into their most basic parts.</span></p><p><span class=\"ind\">Next, review your explanation (解释) and try to find any area where you felt that you couldn’t explain the topic simply. When possible, it can be very helpful to get advice from someone whose understanding is similar to that of a sixth-grader, such as your best friend.</span></p><p><span class=\"ind\">The fourth step is to improve your explanation by using the information collected from the third step. Finally, repeat the steps. The Feynman Technique works best with repetition, and that is why going through all the prior (先前的) steps just once is usually not enough to fully understand the topic.</span></p><p><span class=\"ind\">Once you’re confident you’ve learned the topic, it’s time to give yourself a prize. Perhaps, like me, enjoy a nice cup of coffee.</span></p>",
+    "intro": "本文是一篇说明文，主要介绍费曼学习法。",
+    "qs": [
+      {
+        "q": "Why is the Feynman Technique better than traditional study methods?",
+        "opts": [
+          "It saves students’ study time.",
+          "It allows students to study in groups.",
+          "It encourages students to do active learning.",
+          "It helps students memorize more information."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“unlike traditional study methods like rereading textbooks or reviewing notes, it pushes students to be more actively involved in the learning process.”可知与重读教科书或复习笔记等传统学习方法不同，它促使学生更积极地参与学习过程。故选C。"
+      },
+      {
+        "q": "What does the underlined word “indigestible” mean?",
+        "opts": [
+          "Big.",
+          "Small.",
+          "Simple.",
+          "Difficult."
+        ],
+        "ans": "D",
+        "exp": "词义猜测题。根据“This step helps divide indigestible topics into their most basic parts.”可知把分离的困难的话题组成简单的部分，故此处划线部分意为“困难的”。故选D。"
+      },
+      {
+        "q": "Who can you get suggestions from according to the third step?",
+        "opts": [
+          "Your parents.",
+          "Your teachers.",
+          "A 12-year-old girl.",
+          "Your classmates."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。根据“When possible, it can be very helpful to get advice from someone whose understanding is similar to that of a sixth-grader, such as your best friend.”可知如果可能的话，从理解能力与六年级学生相似的人那里得到建议会非常有帮助，所以可从六年级学生那得到建议，可以推测出是12岁女孩。故选C。"
+      },
+      {
+        "q": "Which of the following is the correct order for the Feynman Technique?",
+        "opts": [
+          "①→③→⑤→②→④",
+          "①→⑤→②→③→④",
+          "⑤→②→①→③→④",
+          "③→⑤→②→④→①"
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“To begin with, choose a topic you want to learn, including sub-topics”“The second step is the heart of the Feynman Technique: explaining the topic simply enough to be understood by a sixth-grade student”“Next, review your explanation (解释) and try to find any area where you felt that you couldn’t explain the topic simply”以及“The fourth step is to improve your explanation by using the information collected from the third step. Finally, repeat the steps.”可知首先是选择一个你想学习的主题，包括子主题，第二步是简单地解释这个主题，第三步是复习你的解释，试着找到你觉得不能简单地解释该主题的任何领域，第四步是使用从第三步收集的信息来改进你的解释，第五步是重复这些步骤。故正确顺序是①→③→⑤→②→④。故选A。"
+      },
+      {
+        "q": "In which part of a magazine can we most probably find this passage?",
+        "opts": [
+          "Technology.",
+          "Education.",
+          "Culture.",
+          "Life."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。本文主要介绍费曼学习法，故可能出现在杂志的教育部分。故选B。\n483．The Chinese Tai Chi masters started the tour to USA to ________.\nA．put on performanceB．promote Chinese Tai Chi culture\nC．give lessons on Tai ChiD．travel around America\n484．The team will return to China on ________.\nA．Aug. 4thB．Sept. 4thC．Oct. 4th D．Nov. 4th\n485．If you practice Tai Chi, you will be healthy in ________.\nA．bodyB．mindC．brainD．body and mind\n486．Among the activities, you can take part in EXCEPT ________.\nA．a show about Tai ChiB．a lecture on Tai Chi\nC．training courses of Tai ChiD．skills about how to practice Tai Chi\n487．According to passage, which of the following is TRUE?\nA．Everybody, members or not, has to pay the same money for the tickets.\nB．Around 1500 Tai Chi lovers will attend the training.\nC．All the money from the tickets is used to help homeless people.\nD．These activities are held by Tipping Point."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_41",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目四十一"
+    ],
+    "title": "九上阅读 · 四十一 篇目四十一",
+    "passage": "China Tai Chi Culture World TourOn Saturday, August 20, a team of Chinese Tai Chi masters started their tour to the United States. They are going there to promote (提升) Chinese Tai Chi culture to overseas Chinese and American Kung Fu fans. They will stay there for two weeks. Led by Chen Zhenglei, a famous Chinese Tai Chi master, other five masters, are included in the group. Some of them are the champions of Tai Chi competition both at home and abroad.“Tai Chi is a national treasure of China that has a deep and long history, and practicing it is good for both body and mind,” Chen said at the opening ceremony (开幕式) of the China Tai Chi Culture World Tour.Activities for the tour：★A lecture on Tai Chi on Sunday at Stanford University.★Training courses for Tai Chi fans and lovers in the United States.★Guiding personal skills about how to best practice Tai Chi.Notes：★Around 150 Tai Chi lovers, both overseas Chinese and Americans, will attend the training.★These activities are held by Hong Kong Chinese Media Limited. More tickets are available.Book your place by e-mailing Taichi@163.com.★$15 for members of Taichi Assosiation and $20 for non-members. Half price for a child.All the money will go to Tipping Point, a charity for homeless people in San Francisco.",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">China Tai Chi Culture World TourOn Saturday, August 20, a team of Chinese Tai Chi masters started their tour to the United States. They are going there to promote (提升) Chinese Tai Chi culture to overseas Chinese and American Kung Fu fans. They will stay there for two weeks. Led by Chen Zhenglei, a famous Chinese Tai Chi master, other five masters, are included in the group. Some of them are the champions of Tai Chi competition both at home and abroad.“Tai Chi is a national treasure of China that has a deep and long history, and practicing it is good for both body and mind,” Chen said at the opening ceremony (开幕式) of the China Tai Chi Culture World Tour.Activities for the tour：★A lecture on Tai Chi on Sunday at Stanford University.★Training courses for Tai Chi fans and lovers in the United States.★Guiding personal skills about how to best practice Tai Chi.Notes：★Around 150 Tai Chi lovers, both overseas Chinese and Americans, will attend the training.★These activities are held by Hong Kong Chinese Media Limited. More tickets are available.Book your place by e-mailing Taichi@163.com.★$15 for members of Taichi Assosiation and $20 for non-members. Half price for a child.All the money will go to Tipping Point, a charity for homeless people in San Francisco.<br><img src=\"assets/images/jr_read9a_41_tbl_1.png\" style=\"max-width:80px;height:auto\"></td></tr></table></div>",
+    "intro": "本文是一篇说明文，主要介绍了一场中国太极文化世界巡演及其活动安排。",
+    "qs": [
+      {
+        "q": "The Chinese Tai Chi masters started the tour to USA to ________.",
+        "opts": [
+          "put on performance",
+          "promote Chinese Tai Chi culture",
+          "give lessons on Tai Chi",
+          "travel around America"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“On Saturday, August 20, a team of Chinese Tai Chi masters started their tour to the United States. They are going there to promote (提升) Chinese Tai Chi culture to overseas Chinese and American Kung Fu fans.”可知，他们去美国是为了向海外华人和美国功夫爱好者推广中国太极文化。故选B。"
+      },
+      {
+        "q": "The team will return to China on ________.",
+        "opts": [
+          "Aug. 4th",
+          "Sept. 4th",
+          "Oct. 4th",
+          "Nov. 4th"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“On Saturday, August 20,…They will stay there for two weeks.”可知，他们将在美国待两个星期，9月4号返回中国。故选B。"
+      },
+      {
+        "q": "If you practice Tai Chi, you will be healthy in ________.",
+        "opts": [
+          "body",
+          "mind",
+          "brain",
+          "body and mind"
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“Tai Chi is a national treasure of China that has a deep and long history, and practicing it is good for both body and mind,”可知，练习太极拳对身心都有好处。故选D。"
+      },
+      {
+        "q": "Among the activities, you can take part in EXCEPT ________.",
+        "opts": [
+          "a show about Tai Chi",
+          "a lecture on Tai Chi",
+          "training courses of Tai Chi",
+          "skills about how to practice Tai Chi"
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“Activities for the tour：★A lecture on Tai Chi on Sunday at Stanford University. ★Training courses for Tai Chi fans and lovers in the United States. ★Guiding personal skills about how to best practice Tai Chi.”可知，活动没有关于太极的节目。故选A。"
+      },
+      {
+        "q": "According to passage, which of the following is TRUE?",
+        "opts": [
+          "Everybody, members or not, has to pay the same money for the tickets.",
+          "Around 1500 Tai Chi lovers will attend the training.",
+          "All the money from the tickets is used to help homeless people.",
+          "These activities are held by Tipping Point."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“All the money will go to Tipping Point, a charity for homeless people in San Francisco.”可知，所有的钱都将捐给一家旧金山无家可归者慈善机构。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_42",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目四十二"
+    ],
+    "title": "九上阅读 · 四十二 篇目四十二",
+    "passage": "Whether you are a foreigner or an English speaker, English skills can always be improved. There are some tips that can not only help you learn English, but also improve your English skills.\n\nRead a book, a newspaper or a magazine in English, which is just above your level, with a dictionary. This will help you lean new vocabulary in a fun way. This is also a great tip on improving some useful English knowledge. Even by spending just 15 minutes a day, you can improve your English skills quickly.\n\nLearning grammar is necessary for learning a language. Knowing English grammar well is one of the top tips on learning English.\n\nKeeping a diary allows you to use all of your English skills that you’ve been practicing with reading and grammar. This is one of the greatest tips on improving English at any time when learning this language.\n\nWhen you feel you are ready, go for total immersion (投入) in English. This means making friends with English speakers around you and communicating with them. Of all English learning tips, this one will test all of your skills.\n\nDon’t forget to stimulate yourself after your hard work. You can buy yourself a small gift, such as an English record by your favorite singer. You can not only enjoy music, but also learn English by listening to English songs.\n\nLearning English is hard, but with these tips on learning English, you will get better.",
+    "passageHtml": "<p><span class=\"ind\">Whether you are a foreigner or an English speaker, English skills can always be improved. There are some tips that can not only help you learn English, but also improve your English skills.</span></p><p><span class=\"ind\">Read a book, a newspaper or a magazine in English, which is just above your level, with a dictionary. This will help you lean new vocabulary in a fun way. This is also a great tip on improving some useful English knowledge. Even by spending just 15 minutes a day, you can improve your English skills quickly.</span></p><p><span class=\"ind\">Learning grammar is necessary for learning a language. Knowing English grammar well is one of the top tips on learning English.</span></p><p><span class=\"ind\">Keeping a diary allows you to use all of your English skills that you’ve been practicing with reading and grammar. This is one of the greatest tips on improving English at any time when learning this language.</span></p><p><span class=\"ind\">When you feel you are ready, go for total immersion (投入) in English. This means making friends with English speakers around you and communicating with them. Of all English learning tips, this one will test all of your skills.</span></p><p><span class=\"ind\">Don’t forget to stimulate yourself after your hard work. You can buy yourself a small gift, such as an English record by your favorite singer. You can not only enjoy music, but also learn English by listening to English songs.</span></p><p><span class=\"ind\">Learning English is hard, but with these tips on learning English, you will get better.</span></p>",
+    "intro": "本文章主要介绍学习和提高英语的一些建议。",
+    "qs": [
+      {
+        "q": "How many tips are talked about in the passage?",
+        "opts": [
+          "Four.",
+          "Five.",
+          "Six.",
+          "Seven."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据文章内容提到的策略：“Read a book…”、“Learning grammar…”、“Keeping a diary…”、“When you feel you are ready, go for total immersion…”、“Don’t forget to stimulate yourself…”，共涉及五个学习技巧，故选B。"
+      },
+      {
+        "q": "We can learn from Paragraph 2 that ________.",
+        "opts": [
+          "learning vocabulary is boring",
+          "you need a lot of time to improve English",
+          "there are some tools about reading to learn vocabulary",
+          "you can learn English well without a dictionary"
+        ],
+        "ans": "C",
+        "exp": "推理判断题。根据“Read a book…with a dictionary”可知，用字典来帮助阅读学习生词，说明有一些工具可以辅助学习，故选C。"
+      },
+      {
+        "q": "Which is the best way to test your English skills?",
+        "opts": [
+          "Reading an English magazine.",
+          "Listening to English songs.",
+          "Communicating with English speakers.",
+          "Buying yourself a small gift."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。从“This means making friends with English speakers around you and communicating with them. Of all English learning tips, this one will test all of your skills.”可知，与英语使用者沟通是测试你的英语技能的最佳方法，故选C。"
+      },
+      {
+        "q": "What does the underlined word “stimulate” in Paragraph 6 mean?",
+        "opts": [
+          "Encourage.",
+          "Introduce.",
+          "Improve.",
+          "Trust."
+        ],
+        "ans": "A",
+        "exp": "词义猜测题。从句子语境“Don’t forget to stimulate yourself after your hard work. You can buy yourself a small gift, such as an English record by your favorite singer.”中可以理解为自我激励或鼓励，故选A。"
+      },
+      {
+        "q": "Which can be the best title for this passage?",
+        "opts": [
+          "Ways to Improve English Listening Skills",
+          "Tips on Learning English and Improving English",
+          "Suggestions on English Reading",
+          "Advice on Learning English Grammar"
+        ],
+        "ans": "B",
+        "exp": "最佳标题题。通读全文，文章主要介绍学习和提高英语的一些建议，故选B。\n493．What’s the problem of Li Hua?\nA．She can’t get good grades in exams.\nB．She can’t decide which club to join.\nC．She can’t get on well with her classmates.\nD．She feels stressed because of the heavy schoolwork.\n494．How does Dr. Brown show a correct daily plan?\nA．By listing numbers.B．By asking a question.\nC．By comparing facts.D．By giving an example.\n495．Which of the following sentences can be put in the ________\nA．Set clear weekly goals.B．Find a quiet study place.\nC．Pay attention to one task at a time.D．Give yourself a prize for progress.\n496．What can you learn from the passage?\nA．Task lists must be changed every day.\nB．It’s a better way to keep our goals in mind.\nC．Knowing what we have achieved can make us relax.\nD．The fewer tasks our list has, the more efficient we are.\n497．What’s the theme of the passage?\nA．Time management.B．Study problems.C．Life skills.D．School activities."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_43",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目四十三"
+    ],
+    "title": "九上阅读 · 四十三 篇目四十三",
+    "passage": "Dear Dr. Brown,I feel stressed recently because I am always busy with my study. I think there isn’t enough time to do so many things. But most of my classmates can finish their homework early and spare some time to play with friends. I don’t know why.Li Hua\nDear Li Hua, Thank you for your question. Of course, I would be glad to help you. From your letter, I learn that you may not know how to plan your time wisely. Don’t be nervous! Here is my advice. Get a daily planner. Use a piece of paper for scheduling (行程安排). Map out exactly how you will use your time each day, including how much time you would like to spend on each task. For example, start your schedule with something like “8:00 a.m.-8:30 a.m.: Review English notes”. ________ It’s hard to get things done when you’re doing too many things at once. As you cross things off your to-do list, let your mind focus on the task at hand. It’s much more efficient to deal with one responsibility at a time. Review your task list at the end of each day. Cross off the tasks you’ve finished and make a new to-do list for the next day. This can help you celebrate what you’ve achieved while keeping your goals for the next day in mind. In this way, you can make full preparations for them. Well, I hope the above has answered your question, and I sincerely hope my advice can help you. Dr. Brown",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Dear Dr. Brown,I feel stressed recently because I am always busy with my study. I think there isn’t enough time to do so many things. But most of my classmates can finish their homework early and spare some time to play with friends. I don’t know why.Li Hua</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Dear Li Hua, Thank you for your question. Of course, I would be glad to help you. From your letter, I learn that you may not know how to plan your time wisely. Don’t be nervous! Here is my advice. Get a daily planner. Use a piece of paper for scheduling (行程安排). Map out exactly how you will use your time each day, including how much time you would like to spend on each task. For example, start your schedule with something like “8:00 a.m.-8:30 a.m.: Review English notes”. ________ It’s hard to get things done when you’re doing too many things at once. As you cross things off your to-do list, let your mind focus on the task at hand. It’s much more efficient to deal with one responsibility at a time. Review your task list at the end of each day. Cross off the tasks you’ve finished and make a new to-do list for the next day. This can help you celebrate what you’ve achieved while keeping your goals for the next day in mind. In this way, you can make full preparations for them. Well, I hope the above has answered your question, and I sincerely hope my advice can help you. Dr. Brown</td></tr></table></div>",
+    "intro": "本文是李华写给布朗博士的信，信中介绍自己的问题，布朗博士给出建议。",
+    "qs": [
+      {
+        "q": "What’s the problem of Li Hua?",
+        "opts": [
+          "She can’t get good grades in exams.",
+          "She can’t decide which club to join.",
+          "She can’t get on well with her classmates.",
+          "She feels stressed because of the heavy schoolwork."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“I feel stressed recently because I am always busy with my study.”可知，李华最近感到压力很大，因为总是忙于学习，故选D。"
+      },
+      {
+        "q": "How does Dr. Brown show a correct daily plan?",
+        "opts": [
+          "By listing numbers.",
+          "By asking a question.",
+          "By comparing facts.",
+          "By giving an example."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“For example...”可知，布朗博士是通过举例制定正确的每日计划的，故选D。"
+      },
+      {
+        "q": "Which of the following sentences can be put in the ________",
+        "opts": [
+          "Set clear weekly goals.",
+          "Find a quiet study place.",
+          "Pay attention to one task at a time.",
+          "Give yourself a prize for progress."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。根据“It’s much more efficient to deal with one responsibility at a time.”可知，一次只处理一项责任会更有效率。选项C“一次只关注一项任务”符合语境，故选C。"
+      },
+      {
+        "q": "What can you learn from the passage?",
+        "opts": [
+          "Task lists must be changed every day.",
+          "It’s a better way to keep our goals in mind.",
+          "Knowing what we have achieved can make us relax.",
+          "The fewer tasks our list has, the more efficient we are."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。根据“Review your task list at the end of each day. Cross off the tasks you’ve finished and make a new to-do list for the next day. This can help you celebrate what you’ve achieved while keeping your goals for the next day in mind.”可知，知道我们所取得的成就可以使我们放松。故选C。"
+      },
+      {
+        "q": "What’s the theme of the passage?",
+        "opts": [
+          "Time management.",
+          "Study problems.",
+          "Life skills.",
+          "School activities."
+        ],
+        "ans": "A",
+        "exp": "主旨大意题。根据布朗博士的建议及文章内容，整篇文章围绕时间管理展开，故选A。\n498．________ festivals are mentioned in the passage.\nA．TwoB．ThreeC．FourD．Five\n499．You probably go to enjoy one of the festivals above in May in ________.\nA．SpainB．EnglandC．the United StatesD．Thailand\n500．________ is held in Black Rock Desert.\nA．Throwing tomatoesB．Rolling cheeseC．Burning manD．Pouring water\n501．Which of the following is TRUE according to the passageh?\nA．The tomatoes are thrown into the crowd to eat.\nB．Not all the festivals above fall on the single day.\nC．Burning a large real man is the best part of the Burning Man Festival.\nD．Songkran is the only reason for attracting lots of tourists.\n502．The passage is most probably taken from ________.\nA．a tour guideB．a science reportC．a storybookD．a fashion magazine"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_44",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目四十四"
+    ],
+    "title": "九上阅读 · 四十四 篇目四十四",
+    "passage": "Interesting Activities of Festivals in the World\nThrowing Tomatoes—SpainSpain takes “tomatoes fights” to a whole new level. But the tomatoes are being thrown,not eaten. The festival takes place during the last Wednesday in August. Trucks carry tomatoes into the square. People rush to the tomatoes and throw them into the crowd.\nRolling Cheese—EnglandThis festival is celebrated in May. It takes place on Cooper's Hill. A large wheel of cheese is rolled down Cooper's Hill. The festival is actually a race that people run down the hill after the rolling cheese. The first person to catch the cheese wins the cheese.\nBurning Man—The United StatesThe Burning Man Festival lasts 8 days. It falls on the first Monday in September in America. The festival takes place in the Black Rock Desert. The best part of the festival is the burning of a large sculpture(雕像) of a man.\nPouring Water—ThailandThe Songkran Festival is the celebration of New Year in Thailand. Rather than a single day,Thailand celebrates New Year from April 13th to April 15th. Thai people run after each other,pouring water. Songkran is one of the most important reasons why foreigners travel to the beautiful land.",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Interesting Activities of Festivals in the World</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Throwing Tomatoes—SpainSpain takes “tomatoes fights” to a whole new level. But the tomatoes are being thrown,not eaten. The festival takes place during the last Wednesday in August. Trucks carry tomatoes into the square. People rush to the tomatoes and throw them into the crowd.<br><img src=\"assets/images/jr_read9a_44_tbl_1.png\" style=\"max-width:80px;height:auto\"></td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Rolling Cheese—EnglandThis festival is celebrated in May. It takes place on Cooper's Hill. A large wheel of cheese is rolled down Cooper's Hill. The festival is actually a race that people run down the hill after the rolling cheese. The first person to catch the cheese wins the cheese.<br><img src=\"assets/images/jr_read9a_44_tbl_2.png\" style=\"max-width:80px;height:auto\"></td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Burning Man—The United StatesThe Burning Man Festival lasts 8 days. It falls on the first Monday in September in America. The festival takes place in the Black Rock Desert. The best part of the festival is the burning of a large sculpture(雕像) of a man.<br><img src=\"assets/images/jr_read9a_44_tbl_3.png\" style=\"max-width:80px;height:auto\"></td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Pouring Water—ThailandThe Songkran Festival is the celebration of New Year in Thailand. Rather than a single day,Thailand celebrates New Year from April 13th to April 15th. Thai people run after each other,pouring water. Songkran is one of the most important reasons why foreigners travel to the beautiful land.<br><img src=\"assets/images/jr_read9a_44_tbl_4.png\" style=\"max-width:80px;height:auto\"></td></tr></table></div>",
+    "intro": "文章主要介绍了几个国家有趣的节日：西班牙的西红柿节、英国的奶酪节、美国的火人节、泰国的泼水节。",
+    "qs": [
+      {
+        "q": "________ festivals are mentioned in the passage.",
+        "opts": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据Throwing tomatoes—Spain“西班牙的番茄节”，Rolling cheese—England“英国滚奶酪比赛”，Burning man—The United States“美国火人节”以及Pouring water—Thailand“泰国的泼水节”可知，总共是4个节日。故选C。"
+      },
+      {
+        "q": "You probably go to enjoy one of the festivals above in May in ________.",
+        "opts": [
+          "Spain",
+          "England",
+          "the United States",
+          "Thailand"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据Rolling cheese—England“英国滚奶酪比赛”中的“This festival is celebrated in May.”可知，五月可以去英国参加这个节日。故选B。"
+      },
+      {
+        "q": "________ is held in Black Rock Desert.",
+        "opts": [
+          "Throwing tomatoes",
+          "Rolling cheese",
+          "Burning man",
+          "Pouring water"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据Burning man—The United States“美国火人节”中的“The festival takes place in the Black Rock Desert.”可知，美国火人节在黑石沙漠举行。故选C。"
+      },
+      {
+        "q": "Which of the following is TRUE according to the passageh?",
+        "opts": [
+          "The tomatoes are thrown into the crowd to eat.",
+          "Not all the festivals above fall on the single day.",
+          "Burning a large real man is the best part of the Burning Man Festival.",
+          "Songkran is the only reason for attracting lots of tourists."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据“Rather than a single day, Thailand celebrates the New Year from April 13th to April 15th.”可知，以上的节日不都是一天的庆祝时间，故选B。"
+      },
+      {
+        "q": "The passage is most probably taken from ________.",
+        "opts": [
+          "a tour guide",
+          "a science report",
+          "a storybook",
+          "a fashion magazine"
+        ],
+        "ans": "A",
+        "exp": "推理判断题。通过阅读全文可知，文章主要介绍了几个国家有趣的节日。可知，是一个旅游指南。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_45",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "16岁的北京少女甄欣在五天内完"
+    ],
+    "title": "九上阅读 · 四十五 16岁的北京少女甄欣在五天内完",
+    "passage": "At just age 16, Zhen Xin, from Beijing, finished the “Five Great Mountains Challenge” in August in only five days. She became the youngest person to do it.\n\nThe Five Great Mountains Challenge is about climbing China’s five greatest mountains—Taishan Mountain in Shandong, Huashan Mountain in Shaanxi, Songshan Mountain in Henan, Hengshan Mountain in Shanxi, and Hengshan Mountain in Hunan in 100 days. Because of the hot August weather, Zhen did most of her hiking at night. “When you can’t see what’s coming next, many of your fears and worries go away. You’ re less likely to back down,” Zhen explained.\n\nZhen said the key to hiking is one’s mentality (心态). Whenever she came across a vendor booth (货摊) along the hiking road, she would remind herself to carry on until the next one. And whenever she felt she was about to give up, she would reward (奖励) herself with a drink or some snacks.\n\nOf all the mountains she climbed, Huashan Mountain stood out as her favorite due to (由于) its steeper trails. “They’re more dangerous than those of the other four mountains,” she said. But instead of making her afraid, the challenge improved her concentration (专注力).\n\nHowever, Zhen said the most daunting hike was climbing Taishan Mountain. It was due to the largest tourist rush she had ever seen. “We could only move up one step every five minutes or so,” she recalled.\n\nZhen decided to climb the five great mountains when she finished middle school. “I wanted something that would allow me to truly see my growth and changes over time. As I grow older, I want something to share with others,” she said.",
+    "passageHtml": "<p><span class=\"ind\">At just age 16, Zhen Xin, from Beijing, finished the “Five Great Mountains Challenge” in August in only five days. She became the youngest person to do it.</span></p><p><span class=\"ind\">The Five Great Mountains Challenge is about climbing China’s five greatest mountains—Taishan Mountain in Shandong, Huashan Mountain in Shaanxi, Songshan Mountain in Henan, Hengshan Mountain in Shanxi, and Hengshan Mountain in Hunan in 100 days. Because of the hot August weather, Zhen did most of her hiking at night. “When you can’t see what’s coming next, many of your fears and worries go away. You’ re less likely to back down,” Zhen explained.</span></p><p><span class=\"ind\">Zhen said the key to hiking is one’s mentality (心态). Whenever she came across a vendor booth (货摊) along the hiking road, she would remind herself to carry on until the next one. And whenever she felt she was about to give up, she would reward (奖励) herself with a drink or some snacks.</span></p><p><span class=\"ind\">Of all the mountains she climbed, Huashan Mountain stood out as her favorite due to (由于) its steeper trails. “They’re more dangerous than those of the other four mountains,” she said. But instead of making her afraid, the challenge improved her concentration (专注力).</span></p><p><span class=\"ind\">However, Zhen said the most daunting hike was climbing Taishan Mountain. It was due to the largest tourist rush she had ever seen. “We could only move up one step every five minutes or so,” she recalled.</span></p><p><span class=\"ind\">Zhen decided to climb the five great mountains when she finished middle school. “I wanted something that would allow me to truly see my growth and changes over time. As I grow older, I want something to share with others,” she said.</span></p>",
+    "intro": "本文主要讲述了16岁的北京少女甄欣在五天内完成了“五岳挑战”，成为最年轻的挑战者。",
+    "qs": [
+      {
+        "q": "Zhen Xin is the youngest person to ________.",
+        "opts": [
+          "climb all of China’s five great mountains",
+          "climb the five great mountains alone",
+          "climb the five great mountains in five days",
+          "finish the climbing challenge in 100 days"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据第一段“At just age 16, Zhen Xin, from Beijing, finished the ‘Five Great Mountains Challenge’ in August in only five days. She became the youngest person to do it.”可知甄欣在五天内完成了“五岳挑战”，成为最年轻的挑战者。故选C。"
+      },
+      {
+        "q": "How did Zhen overcome fear while hiking?",
+        "opts": [
+          "By having drinks or snacks.",
+          "By thinking little of the way ahead.",
+          "By never looking back.",
+          "By hiking in the daytime."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据第二段“When you can’t see what’s coming next, many of your fears and worries go away.”可知，当你看不到接下来会发生什么时，你的许多恐惧和担忧就会消失，即不要想前面的路。故选B。"
+      },
+      {
+        "q": "The underlined word “daunting” in paragraph 5 means ________.",
+        "opts": [
+          "difficult",
+          "special",
+          "unforgettable",
+          "popular"
+        ],
+        "ans": "A",
+        "exp": "词句猜测题。根据第五段“We could only move up one step every five minutes or so”可知，我们大约每五分钟只能向上走一步，由此推知爬泰山是很困难的，所以划线部分的含义是“困难的”。故选A。"
+      },
+      {
+        "q": "According to the passage, we can infer (推断) that ________.",
+        "opts": [
+          "Zhen did most of her climbing at night because it was safe",
+          "Steeper trails are challenging",
+          "Zhen treats herself with a drink or some snacks when she is bored",
+          "People normally like to climb Huashan Mountain instead of Taishan Mountain"
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据第四段“Of all the mountains she climbed, Huashan Mountain stood out as her favorite due to (由于) its steeper trails. ‘They’re more dangerous than those of the other four mountains’”可知，在她攀登的所有山峰中，华山因其陡峭的小径而成为她最喜欢的山峰，她认为它们比其他四座山更危险。由此推知，陡峭的小径颇具挑战性。故选B。"
+      },
+      {
+        "q": "The purpose of the passage is to ________.",
+        "opts": [
+          "show Zhen finish the challenge in order to build a strong body",
+          "remember Zhen’s middle school life",
+          "show off Zhen’s experience with others",
+          "see Zhen’s growth and progress"
+        ],
+        "ans": "D",
+        "exp": "主旨大意题。根据文章，特别是最后一段“I wanted something that would allow me to truly see my growth and changes over time.”可知，本文主要讲述了甄欣在五天内完成了“五岳挑战”的故事，目的是见证甄欣的成长和进步。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_46",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "阅读理解",
+      "应用文",
+      "九年级上册",
+      "篇目四十六"
+    ],
+    "title": "九上阅读 · 四十六 篇目四十六",
+    "passage": "Welcome to West Lake Hotel as you are watching the opening ceremony of the 19th Asian Games in Hangzhou. We will do all we can to make your stay an enjoyable one.\n\nStar Rating: ☆☆☆☆\n\nHotel Facilities\nGeneral | √Dining room√Coffee shop√Gym centre √Outdoor swimming pool√Nightclub | Room | √Safe box√Air-conditioner√Private bathroom√Television√Telephone\n |  | Internet | Free Wi-Fi in the whole hotel\nHotel Services\nServicesCharges | 24-hour front desk, morning call, ticket service, taxi service, message and fax service, etc.●A single room:¥328 yuan per night.●A double room:¥388 yuan per night.●A luxury room: ¥488 yuan per night.●¥40 yuan per meal, children under 12 years old are half off.\nHotel Rules\n●Pets are not allowed.●Guests are responsible for their own property and safety.●Smoke only in the smoking area.\nThings to remember\n※Check-in time: 2:00 p.m. (present your ID card, passport).※Check-out time: noon.※Meal time: Breakfast (7:30 — 9:30) Lunch (11:30 — 13:30) Dinner (18:00 — 20:00)※Your reservation is absolutely safe.",
+    "passageHtml": "<p><span class=\"ind\">Welcome to West Lake Hotel as you are watching the opening ceremony of the 19th Asian Games in Hangzhou. We will do all we can to make your stay an enjoyable one.</span></p><p><span class=\"ind\">Star Rating: ☆☆☆☆</span></p><div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Hotel Facilities</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">General</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">√Dining room√Coffee shop√Gym centre √Outdoor swimming pool√Nightclub</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Room</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">√Safe box√Air-conditioner√Private bathroom√Television√Telephone</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"></td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Internet</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Free Wi-Fi in the whole hotel</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Hotel Services</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">ServicesCharges</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">24-hour front desk, morning call, ticket service, taxi service, message and fax service, etc.●A single room:¥328 yuan per night.●A double room:¥388 yuan per night.●A luxury room: ¥488 yuan per night.●¥40 yuan per meal, children under 12 years old are half off.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Hotel Rules</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">●Pets are not allowed.●Guests are responsible for their own property and safety.●Smoke only in the smoking area.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Things to remember</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">※Check-in time: 2:00 p.m. (present your ID card, passport).※Check-out time: noon.※Meal time: Breakfast (7:30 — 9:30) Lunch (11:30 — 13:30) Dinner (18:00 — 20:00)※Your reservation is absolutely safe.</td></tr></table></div>",
+    "intro": "本文是一篇应用文。文章主要介绍了西湖宾馆内的设施、规定以及用餐的时间等。",
+    "qs": [
+      {
+        "q": "What time can you enjoy your lunch in West Lake Hotel?",
+        "opts": [
+          "At 12:00.",
+          "At 13:40.",
+          "At 14:00.",
+          "At 15:00."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“Lunch (11:30 — 13:30)”可知，在12:00可以吃午饭。故选A。"
+      },
+      {
+        "q": "What can’t you do when staying in the hotel?",
+        "opts": [
+          "Buy tickets.",
+          "Bring pets.",
+          "Play sports.",
+          "Dance."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Hotel Rules”下面的“Pets are not allowed.”可知，不能带宠物。故选B。"
+      },
+      {
+        "q": "Which of the following is NOT true?",
+        "opts": [
+          "There is a telephone in the room.",
+          "Smoking is allowed everywhere.",
+          "You can check out at 12 o’clock.",
+          "Guests are responsible for their own safety."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Hotel Rules”下面的“Smoke only in the smoking area.”可知，仅在吸烟区吸烟，所以B项错误。故选B。"
+      },
+      {
+        "q": "If Mr. Smith and his 10-year-old daughter have a meal in the hotel, how much should they pay?",
+        "opts": [
+          "¥40.",
+          "¥60.",
+          "¥80.",
+          "¥100."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“●¥40 yuan per meal, children under 12 years old are half”可知，不满12岁的孩子半价，所以他们一共需要支付60元。故选B。"
+      },
+      {
+        "q": "Where can you read the information?",
+        "opts": [
+          "On a movie poster.",
+          "In a storybook.",
+          "In a travel guide.",
+          "In a magazine."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。文章主要介绍了西湖宾馆内的设施、规定以及用餐的时间等，本文可能来自旅行指南。故选C。\n513．What service does Top FM provide?\nA．Music courses.B．News programs.C．Outdoor activities.D．Driving classes.\n514．What will be the drivers’ work time?\nA．Any time any day.B．At night most days.\nC．Five days a week. D． From Monday to Friday.\n515．Anyone who gets the job must ________.\nA．get up quite earlyB．drive reporters for outdoor news\nC．be no more than 30 years oldD．work for Top FM for at least 5 years\n516．What does Top FM offer to the driver?\nA．TrainingB．Health insurance.C．Paid time off.D．Free living places.\n517．What can people do if they are interested in the job?\nA．Send emails to topfm@intnet.mu.B．Call 2432516 during the daytime.\nC．Call 2132121 after office hours.D．Go to the 7th Floor, The Peninsula Caudan."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_47",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "招聘司机的启事"
+    ],
+    "title": "九上阅读 · 四十七 招聘司机的启事",
+    "passage": "TOP FM IS LOOKING FOR: DRIVERTop FM, set up on 31 December 2002, is a private radio station. It is the best music and news radio station in Mauritius (毛里求斯). DetailsJob type: full-timeThe number of the drivers wanted: 2Need to do: pick up and drop the workers of our radio station at specific (指定的) stops and drive them to make outdoor news reportRequirements: Education: at least high school graduateExperience: At least 5 years’ experience as a driverLicence: driving licenceAge: 30—45 years oldWork in the afternoon or at nightOffers: Competitive weekly pay starting at $720 (without paid time off and health insurance) Free food and living places5 days on/2 days offPlease send your CV (简历) by email to: topfm@intnet.muOr by post to: 7th Floor, The Peninsula Caudan, Port Louis, Mauritius. Or call during office hours (9:00 am—5:00 pm) 2132121 or after office hours 2432516.",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">TOP FM IS LOOKING FOR: DRIVERTop FM, set up on 31 December 2002, is a private radio station. It is the best music and news radio station in Mauritius (毛里求斯). DetailsJob type: full-timeThe number of the drivers wanted: 2Need to do: pick up and drop the workers of our radio station at specific (指定的) stops and drive them to make outdoor news reportRequirements: Education: at least high school graduateExperience: At least 5 years’ experience as a driverLicence: driving licenceAge: 30—45 years oldWork in the afternoon or at nightOffers: Competitive weekly pay starting at $720 (without paid time off and health insurance) Free food and living places5 days on/2 days offPlease send your CV (简历) by email to: topfm@intnet.muOr by post to: 7th Floor, The Peninsula Caudan, Port Louis, Mauritius. Or call during office hours (9:00 am—5:00 pm) 2132121 or after office hours 2432516.</td></tr></table></div>",
+    "intro": "本文主要介绍了招聘司机的启事。",
+    "qs": [
+      {
+        "q": "What service does Top FM provide?",
+        "opts": [
+          "Music courses.",
+          "News programs.",
+          "Outdoor activities.",
+          "Driving classes."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Top FM, set up on 31 December 2002, is a private radio station. It is the best music and news radio station in Mauritius”可知Top FM提供音乐和新闻广播。故选B。"
+      },
+      {
+        "q": "What will be the drivers’ work time?",
+        "opts": [
+          "Any time any day.",
+          "At night most days.",
+          "Five days a week.",
+          "From Monday to Friday."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“5 days on/2 days off”可知一周要工作五天。故选C。"
+      },
+      {
+        "q": "Anyone who gets the job must ________.",
+        "opts": [
+          "get up quite early",
+          "drive reporters for outdoor news",
+          "be no more than 30 years old",
+          "work for Top FM for at least 5 years"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“pick up and drop the workers of our radio station at specific (指定的) stops and drive them to make outdoor news report”可知司机要在指定的站点接送广播电台的工作人员，并开车送他们进行户外新闻报道。故选B。"
+      },
+      {
+        "q": "What does Top FM offer to the driver?",
+        "opts": [
+          "Training",
+          "Health insurance.",
+          "Paid time off.",
+          "Free living places."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“Free food and living places”可知是提供免费住宿。故选D。"
+      },
+      {
+        "q": "What can people do if they are interested in the job?",
+        "opts": [
+          "Send emails to topfm@intnet.mu.",
+          "Call 2432516 during the daytime.",
+          "Call 2132121 after office hours.",
+          "Go to the 7th Floor, The Peninsula Caudan."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“Please send your CV (简历) by email to: topfm@intnet.mu”可知如果对工作感兴趣，可以发送简历到邮箱topfm@intnet.mu。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_48",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "美团推出的无人机送餐服务"
+    ],
+    "title": "九上阅读 · 四十八 美团推出的无人机送餐服务",
+    "passage": "Meituan has started drone (无人机) delivery (运送) service, Shenzhen Evening News reported.\n\nAt Galaxy World in Longgang District, a reporter from the newspaper watched how a drone delivered a meal on Thursday. The drone slowly landed and a door above the Meituan Intelligent Dining Cabinet (智能餐柜) opened slowly. Finally, the drone put the meal box inside the cabinet.\n\n“It takes about 15 minutes to place the order and receive the meal. A lot of people have tried the drone delivery service here,” said a woman who just took her meal box out from the cabinet. During 2022, food and drinks such as noodles, fruits, coffee and milk tea and even flowers have been delivered through Meituan’s drone delivery system, the report said.\n\nThe company said that it completed over 100, 000 drone deliveries last year. Meituan started to explore drone delivery service in 2017 and started the try in early 2021. The service has a delivery time of about 12 minutes, which is less than traditional delivery methods, according to the company.\n\nThere are only a few cities in the world with the advantages of drone delivery service, and Shenzhen is taking the lead in China, according to the report. However, there are still some problems with this kind of service.",
+    "passageHtml": "<p><span class=\"ind\">Meituan has started drone (无人机) delivery (运送) service, Shenzhen Evening News reported.</span></p><p><span class=\"ind\">At Galaxy World in Longgang District, a reporter from the newspaper watched how a drone delivered a meal on Thursday. The drone slowly landed and a door above the Meituan Intelligent Dining Cabinet (智能餐柜) opened slowly. Finally, the drone put the meal box inside the cabinet.</span></p><p><span class=\"ind\">“It takes about 15 minutes to place the order and receive the meal. A lot of people have tried the drone delivery service here,” said a woman who just took her meal box out from the cabinet. During 2022, food and drinks such as noodles, fruits, coffee and milk tea and even flowers have been delivered through Meituan’s drone delivery system, the report said.</span></p><p><span class=\"ind\">The company said that it completed over 100, 000 drone deliveries last year. Meituan started to explore drone delivery service in 2017 and started the try in early 2021. The service has a delivery time of about 12 minutes, which is less than traditional delivery methods, according to the company.</span></p><p><span class=\"ind\">There are only a few cities in the world with the advantages of drone delivery service, and Shenzhen is taking the lead in China, according to the report. However, there are still some problems with this kind of service.</span></p>",
+    "intro": "本文介绍了美团推出的无人机送餐服务，包括其操作流程、研发过程及发展前景。",
+    "qs": [
+      {
+        "q": "Where the drone put the meal box?",
+        "opts": [
+          "In Longgang District.",
+          "Inside the cabinet.",
+          "By the drone.",
+          "At Galaxy World."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“the drone put the meal box inside the cabinet.”可知无人机把餐盒放在橱柜里。故选B。"
+      },
+      {
+        "q": "What is the meaning of “receive” in the third paragraph?",
+        "opts": [
+          "Eat.",
+          "Cook.",
+          "Get.",
+          "Send."
+        ],
+        "ans": "C",
+        "exp": "词义猜测题。根据“It takes about 15 minutes to place the order and receive the meal. A lot of people have tried the drone delivery service here”可知点餐和得到餐大约需要15分钟，故此处划线部分和get“得到”意义相近。故选C。"
+      },
+      {
+        "q": "How long has Meituan spent exploring drone delivery service?",
+        "opts": [
+          "Four years.",
+          "Five years.",
+          "Six years.",
+          "Seven years."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“Meituan started to explore drone delivery service in 2017 and started the try in early 2021”可知美团于2017年开始探索无人机送货服务，并于2021年初开始尝试，因此经历了四年的时间探索。故选A。"
+      },
+      {
+        "q": "What can we learn from the last paragraph?",
+        "opts": [
+          "Many cities around the world have the drone delivery service.",
+          "The drone delivery service has many advantages in our daily life.",
+          "Shenzhen is the first city starting drone delivery service in China.",
+          "The drone delivery service is very popular all over the world."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“There are only a few cities in the world with the advantages of drone delivery service, and Shenzhen is taking the lead in China, according to the report”可知世界上只有少数几个城市拥有无人机送货服务的优势，深圳在中国处于领先地位。故选C。"
+      },
+      {
+        "q": "What is the passage going to talk about next?",
+        "opts": [
+          "How to make good use of the drone delivery service.",
+          "What problems the drone delivery service faces.",
+          "How to solve the problems of the drone delivery service.",
+          "What advantages the drone delivery service has."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据“However, there are still some problems with this kind of service.”可知这种服务仍然存在一些问题，因此接下来很有可能会谈论存在的问题。故选B。\n523．How many floors are there in the Hong Kong Palace Museum?\nA．Four.B．Five.C．Six.D．Seven.\n524．What can you probably see in the “Ceramic Treasures from the Palace Museum” exhibition?\nA．A bronze tiger.B．A ceramic dish.C．A wooden horse.D．A golden mask.\n525．Mr Brown is going to “New Discoveries at Sanxingdui of Sichuan” exhibition with his 8-year-old son. He should pay ________.\nA．HK$60B．HK$75C．HK$150D．HK$225\n526．Which of the following things is rude in the Museum?\nA．Taking photos for personal use.B．Smoking.\nC．Bringing a trained guide dog.D．Bringing a small bag.\n527．What’s the purpose of this passage?\nA．To introduce the Palace Museum in Hong Kong.B．To encourage people to visit Hong Kong.\nC．To tell people some rules for visiting a museum.D．To show the Museum has a large collection of ceramics."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_49",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "香港故宫博物院的相关信息"
+    ],
+    "title": "九上阅读 · 四十九 香港故宫博物院的相关信息",
+    "passage": "Open to the public on July 2, 2022, the Hong Kong Palace Museum has nine galleries on six floors, with two underground and four above ground.GENERAL EXHIBITION:Ceramic (陶瓷) Treasures from the Palace MuseumThis exhibition shows more than 150 exhibits, mostly from the Ming and Qing dynasties. The exhibits include everyday household goods like bowls and cups.Place: Gallery 3SPECIAL EXHIBITION:New Discoveries at Sanxingdui of SichuanThe exhibition shows 120 bronze, gold, and ceramic exhibits which have changed people’s understanding of the ancient culture in the Chengdu Plain and the upper Yangtze River valley.  Place: Gallery 8 RULES:1. You can only smoke in a special area outside the Museum.2. You are welcome to take photos or videos for personal use.3. You mustn’t bring pets into the Museum, except trained guide dogs.4. Don’t enter with bags that are larger than 55cm × 35cm × 20cm. MORE INFORMATION:Kind       Gallery Ticket      Special Ticket (includes General Ticket)Entry       Gallery 1 to 7       Gallery 1 to 9Price        HK$60             HK$150Half price for children aged 7 to 11, full-time students, seniors, disabled persons | Kind       Gallery Ticket      Special Ticket (includes General Ticket) | Entry       Gallery 1 to 7       Gallery 1 to 9 | Price        HK$60             HK$150 | Half price for children aged 7 to 11, full-time students, seniors, disabled persons\nKind       Gallery Ticket      Special Ticket (includes General Ticket)\nEntry       Gallery 1 to 7       Gallery 1 to 9\nPrice        HK$60             HK$150\nHalf price for children aged 7 to 11, full-time students, seniors, disabled persons",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Open to the public on July 2, 2022, the Hong Kong Palace Museum has nine galleries on six floors, with two underground and four above ground.GENERAL EXHIBITION:Ceramic (陶瓷) Treasures from the Palace MuseumThis exhibition shows more than 150 exhibits, mostly from the Ming and Qing dynasties. The exhibits include everyday household goods like bowls and cups.Place: Gallery 3SPECIAL EXHIBITION:New Discoveries at Sanxingdui of SichuanThe exhibition shows 120 bronze, gold, and ceramic exhibits which have changed people’s understanding of the ancient culture in the Chengdu Plain and the upper Yangtze River valley.  Place: Gallery 8 RULES:1. You can only smoke in a special area outside the Museum.2. You are welcome to take photos or videos for personal use.3. You mustn’t bring pets into the Museum, except trained guide dogs.4. Don’t enter with bags that are larger than 55cm × 35cm × 20cm. MORE INFORMATION:Kind       Gallery Ticket      Special Ticket (includes General Ticket)Entry       Gallery 1 to 7       Gallery 1 to 9Price        HK$60             HK$150Half price for children aged 7 to 11, full-time students, seniors, disabled persons</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Kind       Gallery Ticket      Special Ticket (includes General Ticket)</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Entry       Gallery 1 to 7       Gallery 1 to 9</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Price        HK$60             HK$150</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Half price for children aged 7 to 11, full-time students, seniors, disabled persons</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Kind       Gallery Ticket      Special Ticket (includes General Ticket)</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Entry       Gallery 1 to 7       Gallery 1 to 9</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Price        HK$60             HK$150</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Half price for children aged 7 to 11, full-time students, seniors, disabled persons</td></tr></table></div>",
+    "intro": "本文主要介绍了香港故宫博物院的相关信息，包括规则、票价等信息。",
+    "qs": [
+      {
+        "q": "How many floors are there in the Hong Kong Palace Museum?",
+        "opts": [
+          "Four.",
+          "Five.",
+          "Six.",
+          "Seven."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“Open to the public on July 2, 2022, the Hong Kong Palace Museum has nine galleries on six floors,”可知，香港故宫博物院有6层。故选C。"
+      },
+      {
+        "q": "What can you probably see in the “Ceramic Treasures from the Palace Museum” exhibition?",
+        "opts": [
+          "A bronze tiger.",
+          "A ceramic dish.",
+          "A wooden horse.",
+          "A golden mask."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据“The exhibits include everyday household goods like bowls and cups.”可知，我们可能会在故宫博物院的陶瓷珍品中看到陶瓷盘子。故选B。"
+      },
+      {
+        "q": "Mr Brown is going to “New Discoveries at Sanxingdui of Sichuan” exhibition with his 8-year-old son. He should pay ________.",
+        "opts": [
+          "HK$60",
+          "HK$75",
+          "HK$150",
+          "HK$225"
+        ],
+        "ans": "D",
+        "exp": "推理判断题。根据“New Discoveries at Sanxingdui of Sichuan...Place: Gallery 8”；以及表格中的信息“Gallery 1 to 9...HK$150”；“Half price for children aged 7 to 11, full-time students, seniors, disabled persons”可知，布朗先生的票价为150港元，孩子的票价为75港元，总共225港元。故选D。"
+      },
+      {
+        "q": "Which of the following things is rude in the Museum?",
+        "opts": [
+          "Taking photos for personal use.",
+          "Smoking.",
+          "Bringing a trained guide dog.",
+          "Bringing a small bag."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“You can only smoke in a special area outside the Museum.”可知，在博物馆内抽烟是粗鲁的。故选B。"
+      },
+      {
+        "q": "What’s the purpose of this passage?",
+        "opts": [
+          "To introduce the Palace Museum in Hong Kong.",
+          "To encourage people to visit Hong Kong.",
+          "To tell people some rules for visiting a museum.",
+          "To show the Museum has a large collection of ceramics."
+        ],
+        "ans": "A",
+        "exp": "主旨大意题。通读全文，尤其根据“Open to the public on July 2, 2022, the Hong Kong Palace Museum has nine galleries on six floors, with two underground and four above ground.”可知，本文主要介绍了香港故宫博物院。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_50",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "“多巴胺穿搭”这一时尚潮流的相"
+    ],
+    "title": "九上阅读 · 五十 “多巴胺穿搭”这一时尚潮流的相",
+    "passage": "What color of wearing do you like? Do you know “dopamine dressing (多巴胺穿搭)”? It’s one of the most talked about fashion trends (趋势) for 2023. However, is there any science behind this?\n\n“Dopamine dressing” came out from the book Dress Your Best Life. American fashion psychologist (心理学家), Dawnn Karen wrote this book in 2020. In the book, dopamine dressing is about wearing colorful clothing to get more dopamine.\n\nDopamine is a chemical in our brain. This kind of chemical makes people feel good. Our brain gives it out when we eat delicious food, play with our pets, listen to our favorite songs, after we exercise or when we win a game.\n\nAccording to Science Focus Magazine, there are studies that show a relationship between the colors of the clothes we wear and how we act and feel. One study found that wearing red can bring better physical performance. It also showed bright colors can make people feel active. One more study showed that wearing green can help people relax because it is the color of nature. Yellow, the color of summer and warmth, can bring people happiness. But there are some problems with these studies, as people from different cultures have different ideas about dressing and colors.\n\nIn a word, “dopamine dressing” shows that we can wear colorful clothes to get more dopamine and feel good. Dressing is more than just a trend. It’s also a way of showing ourselves. So, next time you’re getting dressed, think about which colors will bring out yourself best.",
+    "passageHtml": "<p><span class=\"ind\">What color of wearing do you like? Do you know “dopamine dressing (多巴胺穿搭)”? It’s one of the most talked about fashion trends (趋势) for 2023. However, is there any science behind this?</span></p><p><span class=\"ind\">“Dopamine dressing” came out from the book Dress Your Best Life. American fashion psychologist (心理学家), Dawnn Karen wrote this book in 2020. In the book, dopamine dressing is about wearing colorful clothing to get more dopamine.</span></p><p><span class=\"ind\">Dopamine is a chemical in our brain. This kind of chemical makes people feel good. Our brain gives it out when we eat delicious food, play with our pets, listen to our favorite songs, after we exercise or when we win a game.</span></p><p><span class=\"ind\">According to Science Focus Magazine, there are studies that show a relationship between the colors of the clothes we wear and how we act and feel. One study found that wearing red can bring better physical performance. It also showed bright colors can make people feel active. One more study showed that wearing green can help people relax because it is the color of nature. Yellow, the color of summer and warmth, can bring people happiness. But there are some problems with these studies, as people from different cultures have different ideas about dressing and colors.</span></p><p><span class=\"ind\">In a word, “dopamine dressing” shows that we can wear colorful clothes to get more dopamine and feel good. Dressing is more than just a trend. It’s also a way of showing ourselves. So, next time you’re getting dressed, think about which colors will bring out yourself best.</span></p>",
+    "intro": "本文主要介绍了“多巴胺穿搭”这一时尚潮流的相关内容。",
+    "qs": [
+      {
+        "q": "What is dopamine dressing according to the text?",
+        "opts": [
+          "A way of dressing.",
+          "A kind of chemical.",
+          "A book about dressing,",
+          "A fashion trend for 2020."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“In the book, dopamine dressing is about wearing colorful clothing to get more dopamine.”可知，多巴胺着装指的是一种穿衣风格。故选A。"
+      },
+      {
+        "q": "Our brain may give out dopamine when we ________.",
+        "opts": [
+          "eat terrible food",
+          "hear the bad news",
+          "lose a football game",
+          "read our favorite books"
+        ],
+        "ans": "D",
+        "exp": "推理判断题。根据“This kind of chemical makes people feel good. Our brain gives it out when we eat delicious food, play with our pets, listen to our favorite songs, after we exercise or when we win a game.”可推知，这种物质会在心情愉悦的时候释放出来，选项D符合题意。故选D。"
+      },
+      {
+        "q": "Which of the following is TRUE according to the text?",
+        "opts": [
+          "Dressing is just a trend.",
+          "Dopamine can’t make people feel good.",
+          "Wearing green can help people relax.",
+          "Bright colors can make people feel upset."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“One more study showed that wearing green can help people relax because it is the color of nature.”可知，穿绿色衣服让人放松。故选C。"
+      },
+      {
+        "q": "Where may we read the passage?",
+        "opts": [
+          "In a storybook.",
+          "In a newspaper.",
+          "In a guidebook.",
+          "In an advisement."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据通读全文可知，本文介绍了多巴胺与人的行为的关系，因此在报纸上可以读到本文。故选B。"
+      },
+      {
+        "q": "What does the passage mainly talk about?",
+        "opts": [
+          "Delicious food and feelings.",
+          "The importance of dopamine.",
+          "Dopamine dressing and feelings.",
+          "The way of choosing colourful clothes."
+        ],
+        "ans": "C",
+        "exp": "主旨大意题。根据通读全文可知，文章主要介绍了“多巴胺穿搭”这一时尚潮流的相关内容。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_51",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 3,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "欧几里德空间望远镜及其发布的首"
+    ],
+    "title": "九上阅读 · 五十一 欧几里德空间望远镜及其发布的首",
+    "passage": "On November 7th, 2023, ESA’s Euclid space telescope (望远镜) sent back its first full-colour pictures of the universe.\n\nLast July, people sent Euclid into space. Its job is to find out how dark matter and dark energy (能量) have made our universe look the way it does today. 95% of our universe appears to be made of these “dark” things. But we still don’t understand what they are. However, Euclid is able to take a clear picture across a huge part of the sky.\n\nThis time, Euclid sent back 5 pictures. One of them shows us the spiral galaxy IC 342. It is a look-alike of our Milky Way. Thanks to its infrared view (红外线视图), Euclid has already uncovered very important information about the stars in this galaxy. Euclid’s first full-colour pictures of the universe are not only beautiful, but also very helpful for scientists. They show that Euclid is working quite well and that scientists can use it to study the matters in the universe. In the coming months, scientists will study the pictures taken by Euclid, extract (提取) information from them and write many scientific papers.\n\nWhat’s more, over the next six years, Euclid will take a close look at billions of galaxies 10 billion light years from us. By doing this, it will create the largest 3D map ever made. And the pictures by it will take us common people to a much farther universe.",
+    "passageHtml": "<p><span class=\"ind\">On November 7th, 2023, ESA’s Euclid space telescope (望远镜) sent back its first full-colour pictures of the universe.</span></p><p><span class=\"ind\">Last July, people sent Euclid into space. Its job is to find out how dark matter and dark energy (能量) have made our universe look the way it does today. 95% of our universe appears to be made of these “dark” things. But we still don’t understand what they are. However, Euclid is able to take a clear picture across a huge part of the sky.</span></p><p><span class=\"ind\">This time, Euclid sent back 5 pictures. One of them shows us the spiral galaxy IC 342. It is a look-alike of our Milky Way. Thanks to its infrared view (红外线视图), Euclid has already uncovered very important information about the stars in this galaxy. Euclid’s first full-colour pictures of the universe are not only beautiful, but also very helpful for scientists. They show that Euclid is working quite well and that scientists can use it to study the matters in the universe. In the coming months, scientists will study the pictures taken by Euclid, extract (提取) information from them and write many scientific papers.</span></p><p><span class=\"ind\">What’s more, over the next six years, Euclid will take a close look at billions of galaxies 10 billion light years from us. By doing this, it will create the largest 3D map ever made. And the pictures by it will take us common people to a much farther universe.</span></p>",
+    "intro": "本文主要介绍了欧几里德空间望远镜及其发布的首批5张科学图像，科学家将利用其揭示暗能量与暗物质的秘密。",
+    "qs": [
+      {
+        "q": "Why did people send Euclid into space?",
+        "opts": [
+          "To make a 3D map of the universe.",
+          "To study dark matter and dark energy.",
+          "To take full-colour pictures of astronauts.",
+          "To find more galaxies like our Milky Way."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据“Its job is to find out how dark matter and dark energy (能量) have made our universe look the way it does today.”可推知，人们将“欧几里德”送入太空是为了研究暗物质和暗能量。故选B。"
+      },
+      {
+        "q": "What do we know about the dark things?",
+        "opts": [
+          "People know them very well.",
+          "They are useless for us humans.",
+          "They are unusual in the universe.",
+          "Scientists are still studying them."
+        ],
+        "ans": "D",
+        "exp": "推理判断题。根据“95% of our universe appears to be made of these “dark” things. But we still don’t understand what they are.”可知，我们宇宙的95%似乎是由这些“黑暗”物质组成的，但是我们仍然不明白它们是什么。由此推测，科学家们仍在研究这些“黑暗”物质。故选D。"
+      },
+      {
+        "q": "The underlined word “uncovered” probably means “______”.",
+        "opts": [
+          "changed",
+          "discovered",
+          "missed",
+          "used"
+        ],
+        "ans": "B",
+        "exp": "词义猜测题。根据“Thanks to its infrared view (红外线视图), Euclid has already uncovered very important information about the stars in this galaxy.”可知，由于它的红外观测，“欧几里德”已经揭示了这个星系中恒星非常重要的信息。由此猜测，uncovered意为discovered“发现”。故选B。"
+      },
+      {
+        "q": "What is NOT mentioned about Euclid in the passage?",
+        "opts": [
+          "How people created it.",
+          "What it will do in space.",
+          "When people sent it into space.",
+          "What its first full-colour pictures."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“Last July, people sent Euclid into space.”可知，此处提到了“欧几里德”被送上太空的时间；根据“This time, Euclid sent back 5 pictures. One of them shows us the spiral galaxy IC 342. It is a look-alike of our Milky Way.”可知，此处提到了“欧几里德”传送回来的首批图像是什么样的；根据“What’s more, over the next six years, Euclid will take a close look at billions of galaxies 10 billion light years from us.”可知，此处提到了“欧几里德”将在太空做什么。因此，选项A“他们是如何创造出它的”没有被提及。故选A。"
+      },
+      {
+        "q": "What can be the best title of the passage?",
+        "opts": [
+          "Euclid and its first full-colour pictures",
+          "The largest 3D map by Euclid",
+          "Dark things in the universe",
+          "Scientific papers on Euclid"
+        ],
+        "ans": "A",
+        "exp": "标题归纳题。通读全文可知，本文主要介绍了欧几里德空间望远镜及其发布的首批5张科学图像，科学家将利用其揭示暗能量与暗物质的秘密。因此，选项A“‘欧几里德’和它的首批彩色图像”是最佳标题。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_52",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目五十二"
+    ],
+    "title": "九上阅读 · 五十二 篇目五十二",
+    "passage": "Have you met someone who kept talking and talking, and you couldn’t get them to stop? You don’t want to be impolite by telling them to shut up, but you really want to get out of the conversation. Here are some ways to help you.\n\nUse body language. While it may feel impolite, you could turn away, leave your headphones on, and avoid looking at his or her eyes, which will show that you don’t want to talk. This may save you from directly telling someone to stop talking later on.\n\nKeep working on whatever activity you are doing. Get up and move around, be active and find little things to do instead of listening.\n\nInterrupt them as soon as you can. Saying things like “I’d like to add something” or “If I could interrupt you for just a minute” will often let someone know that they are talking too much.\n\nLead the conversation. This is especially helpful when dealing with someone you often talk to. Let them know that you heard what they said and guide the conversation in a different direction.\n\nMention that you don’t have a lot of time to talk. Expressions like “I would love to chat(聊天) but I have to go for a movie right now” and “Today’s not a great day to talk. I have a lot of tasks” will make you easily end the conversation.\n\nRemember it is a skill to back out of a conversation without saying “You are boring. Shut up.”",
+    "passageHtml": "<p><span class=\"ind\">Have you met someone who kept talking and talking, and you couldn’t get them to stop? You don’t want to be impolite by telling them to shut up, but you really want to get out of the conversation. Here are some ways to help you.</span></p><p><span class=\"ind\">Use body language. While it may feel impolite, you could turn away, leave your headphones on, and avoid looking at his or her eyes, which will show that you don’t want to talk. This may save you from directly telling someone to stop talking later on.</span></p><p><span class=\"ind\">Keep working on whatever activity you are doing. Get up and move around, be active and find little things to do instead of listening.</span></p><p><span class=\"ind\">Interrupt them as soon as you can. Saying things like “I’d like to add something” or “If I could interrupt you for just a minute” will often let someone know that they are talking too much.</span></p><p><span class=\"ind\">Lead the conversation. This is especially helpful when dealing with someone you often talk to. Let them know that you heard what they said and guide the conversation in a different direction.</span></p><p><span class=\"ind\">Mention that you don’t have a lot of time to talk. Expressions like “I would love to chat(聊天) but I have to go for a movie right now” and “Today’s not a great day to talk. I have a lot of tasks” will make you easily end the conversation.</span></p><p><span class=\"ind\">Remember it is a skill to back out of a conversation without saying “You are boring. Shut up.”</span></p>",
+    "intro": "本文是一篇说明文，文章中主要提供了几条如何礼貌地结束谈话的建议。",
+    "qs": [
+      {
+        "q": "How many suggestions does the writer mention in the text?",
+        "opts": [
+          "Three.",
+          "Four.",
+          "Five.",
+          "Six."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“Use body language.”，“Keep working on whatever activity you are doing.”，“Interrupt them as soon as you can”，“Lead the conversation.”，“Mention that you don’t have a lot of time to talk.”可知，作者一共提出了5条建议。故选C。"
+      },
+      {
+        "q": "Which of the following is the best way to make someone stop talking?",
+        "opts": [
+          "Saying someone is boring.",
+          "Getting up and finding something else to do.",
+          "Looking at him or her and listening carefully.",
+          "Leaving your headphones off and keep smiling."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Get up and move around, be active and find little things to do instead of listening.”可知，站起来四处走动，找点别的事情做可以礼貌地使别人停止讲话。故选B。"
+      },
+      {
+        "q": "What does the underlined word “Interrupt” mean in Chinese?",
+        "opts": [
+          "离开",
+          "打断",
+          "倾听",
+          "接受"
+        ],
+        "ans": "B",
+        "exp": "词句猜测题。根据“Saying things like ‘I’d like to add something’ or ‘If I could interrupt you for just a minute’ will often let someone know that they are talking too much.”可知，说一些像“我想补充一些东西”或者“如果我能……你一分钟”的话通常会让别人知道他们说得太多了，因此可推知interrupt意为“打断”，Interrupt them as soon as you can“尽快打断他们”。故选B。"
+      },
+      {
+        "q": "What can we know according to the text?",
+        "opts": [
+          "We can end a conversation easily.",
+          "Don’t stop talking until someone ends it.",
+          "To end a conversation politely, we need to get skills.",
+          "It’s impolite to guide a conversation in a different direction."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“Remember it is a skill to back out of a conversation without saying ‘You are boring. Shut up.’”可知，为了礼貌地结束一次对话，我们需要掌握一些技巧，故选C。"
+      },
+      {
+        "q": "What’s the best title for the text?",
+        "opts": [
+          "How to End a Conversation Politely",
+          "Polite Ways to Start a Conversation",
+          "How to Lead and Guide a Conversation",
+          "Body Language Helps Express Well"
+        ],
+        "ans": "A",
+        "exp": "最佳标题题。根据全文可知，文章中主要提供了几条如何礼貌地结束谈话的建议。选项A“怎样礼貌地结束谈话”可作为文章最佳标题。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_53",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "随着时间的推移"
+    ],
+    "title": "九上阅读 · 五十三 随着时间的推移",
+    "passage": "Tea has a long history of more than two thousand years. Its hometown is certainly China.\n\nAt first tea was considered as a kind of good thing that could make people awake so that they could study comfortably. Many knowledgeable people thought it was helpful for their study, because their minds could keep awake after drinking some tea. During Tang Dynasty, tea was sent to European countries first through the Silk Road. It was tea that made Chinese culture spread over in the Western countries. The first book about tea was The Classic of Tea by Lu Yu in Tang Dynasty. In the book, he described the tea culture.\n\nHowever, the tea culture changed into a kind of new form. Many people could find something bad in it in Song Dynasty. Many people spent much time on it instead of thinking about the safety of their country. Between the end of Yuan Dynasty and the beginning of Qing Dynasty, many people paid more attention to tea. People thought of it as the symbol of the spirit.\n\nNowadays, tea has become the gentlest and the most comfortable drink in France. It has also become a helpful drink that is good for people’s skin and health in England. Lots of Chinese look on tea as one of the most popular presents that they give to others during important festivals.",
+    "passageHtml": "<p><span class=\"ind\">Tea has a long history of more than two thousand years. Its hometown is certainly China.</span></p><p><span class=\"ind\">At first tea was considered as a kind of good thing that could make people awake so that they could study comfortably. Many knowledgeable people thought it was helpful for their study, because their minds could keep awake after drinking some tea. During Tang Dynasty, tea was sent to European countries first through the Silk Road. It was tea that made Chinese culture spread over in the Western countries. The first book about tea was The Classic of Tea by Lu Yu in Tang Dynasty. In the book, he described the tea culture.</span></p><p><span class=\"ind\">However, the tea culture changed into a kind of new form. Many people could find something bad in it in Song Dynasty. Many people spent much time on it instead of thinking about the safety of their country. Between the end of Yuan Dynasty and the beginning of Qing Dynasty, many people paid more attention to tea. People thought of it as the symbol of the spirit.</span></p><p><span class=\"ind\">Nowadays, tea has become the gentlest and the most comfortable drink in France. It has also become a helpful drink that is good for people’s skin and health in England. Lots of Chinese look on tea as one of the most popular presents that they give to others during important festivals.</span></p>",
+    "intro": "本文主要介绍随着时间的推移，人们对茶的不同看法。",
+    "qs": [
+      {
+        "q": "What did many knowledgeable people think of tea when it was invented at first?",
+        "opts": [
+          "Useless.",
+          "Difficult.",
+          "Meaningless.",
+          "Helpful."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“Many knowledgeable people thought it was helpful for their study, because their minds could keep awake after drinking some tea.”可知，有知识的人认为茶帮他们保持清醒，因此是有帮助的。故选D。"
+      },
+      {
+        "q": "When was tea sent to European countries for the first time?",
+        "opts": [
+          "In Tang Dynasty.",
+          "In Yuan Dynasty.",
+          "In Song Dynasty.",
+          "In Qing Dynasty."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“During Tang Dynasty, tea was sent to European countries first through the Silk Road.”可知，唐朝时期，茶叶首先通过丝绸之路运往欧洲国家。故选A。"
+      },
+      {
+        "q": "Between the end of Yuan Dynasty and the beginning of Qing Dynasty, tea was regarded(认为) as ________.",
+        "opts": [
+          "a kind of drink",
+          "the symbol of the spirit",
+          "a kind of culture",
+          "a kind of gift"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Between the end of Yuan Dynasty and the beginning of Qing Dynasty, many people paid more attention to tea. People thought of it as the symbol of the spirit.”可知，在元末清初之间，茶被视为精神的象征。故选B。"
+      },
+      {
+        "q": "What’s the meaning of the underlined word “gentlest” in Chinese?",
+        "opts": [
+          "hottest",
+          "coolest",
+          "worst",
+          "softest"
+        ],
+        "ans": "D",
+        "exp": "词义猜测题。根据“Nowadays, tea has become the gentlest and the most comfortable drink in France.”可知，gentlest和most comfortable“最舒服的”并列，结合选项可知，应是softest“最柔软的”。故选D。"
+      },
+      {
+        "q": "Which of the following about tea is TRUE according to the passage?",
+        "opts": [
+          "Lu Yu was born in Song Dynasty.",
+          "Tea was invented in England.",
+          "English regard tea as a kind of healthy drink.",
+          "French like to give tea to others as presents."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“ It has also become a helpful drink that is good for people’s skin and health in England”可知，英国人认为茶是一种健康的饮料。故选C。\nInternational Day of Families"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_54",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "应用文",
+      "九年级上册",
+      "为庆祝国际家庭日"
+    ],
+    "title": "九上阅读 · 五十四 为庆祝国际家庭日",
+    "passage": "International Day of Families\n\nThe International Day of Families is celebrated on May 15th every year. It is to raise people’s attention to the happiness and progress of the family. To celebrate the 30th International Family Day this year (2023), Family Center will hold some family activities.\n\nActivities for the family：\n\n★Family sports.\n\n★Reading a letter to your family.\n\n★A cooking competition among families.\n\nTime：9：00 a.m.—5：00 p.m., on May 15th\n\nPlace：on the South International Square\n\nPrize：\n\nfirst prize—a five-day foreign tour\n\nsecond prize—a seven-day domestic （国内的） tour\n\nthird prize— a four-day domestic tour\n\nRules:\n\nEach family can choose two or three kinds of activities. When you sign up, you should make a decision. All the letters must be written by families themselves. They will not be returned, so please keep a copy. Don’t be late, or you’ll not be allowed to take part in these activities. Families who want to take part in the activities must hand in their application forms before May 5th or you can call 2877﹣2197 to sign up before May 10th. And we will provide breakfast and lunch.\n\nFor further information, visit https: //FamilyCenter.so.com/doc.",
+    "passageHtml": "<p><span class=\"ind\">International Day of Families</span></p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/jr_read9a_54_1.png\" alt=\"插图\" style=\"max-width:100%;height:auto;border-radius:4px\"></div><p><span class=\"ind\">The International Day of Families is celebrated on May 15th every year. It is to raise people’s attention to the happiness and progress of the family. To celebrate the 30th International Family Day this year (2023), Family Center will hold some family activities.</span></p><p><span class=\"ind\">Activities for the family：</span></p><p><span class=\"ind\">★Family sports.</span></p><p><span class=\"ind\">★Reading a letter to your family.</span></p><p><span class=\"ind\">★A cooking competition among families.</span></p><p><span class=\"ind\">Time：9：00 a.m.—5：00 p.m., on May 15th</span></p><p><span class=\"ind\">Place：on the South International Square</span></p><p><span class=\"ind\">Prize：</span></p><p><span class=\"ind\">first prize—a five-day foreign tour</span></p><p><span class=\"ind\">second prize—a seven-day domestic （国内的） tour</span></p><p><span class=\"ind\">third prize— a four-day domestic tour</span></p><p><span class=\"ind\">Rules:</span></p><p><span class=\"ind\">Each family can choose two or three kinds of activities. When you sign up, you should make a decision. All the letters must be written by families themselves. They will not be returned, so please keep a copy. Don’t be late, or you’ll not be allowed to take part in these activities. Families who want to take part in the activities must hand in their application forms before May 5th or you can call 2877﹣2197 to sign up before May 10th. And we will provide breakfast and lunch.</span></p><p><span class=\"ind\">For further information, visit https: //FamilyCenter.so.com/doc.</span></p>",
+    "intro": "本文是一篇应用文。本文主要介绍了为庆祝国际家庭日，家庭中心将举办一些家庭活动概况。",
+    "qs": [
+      {
+        "q": "When was the 1st International Day of Families?",
+        "opts": [
+          "In 1990.",
+          "In 1992.",
+          "In 1993.",
+          "In 1994."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。根据第一段中“To celebrate the 30th International Family Day this year, Family Center will hold some family activities.”可知，今年是第30个国际家庭日，所以第一届是在1993年举办的。故选C。"
+      },
+      {
+        "q": "You can take part in the following activities EXCEPT ________.",
+        "opts": [
+          "doing sports with family",
+          "giving a talk about family",
+          "joining in a cooking competition",
+          "reading a letter to your family"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Activities for the family: ★Family sports. ★Reading a letter to your family. ★A cooking competition among families.”可知，做一个关于家庭的演讲没有提及。故选B。"
+      },
+      {
+        "q": "What can you do if your family win the second prize?",
+        "opts": [
+          "Take a trip to a country that you haven’t been to for five days.",
+          "Take a trip to a country that you haven’t been to for a week.",
+          "Take a trip in your country for five days.",
+          "Take a trip in your country for a week."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“Prize: second prize—a seven-day domestic tour”可知， 如果你的家人得了二等奖，你能在你的国家旅行一周。故选D。"
+      },
+      {
+        "q": "Which of the following is TRUE?",
+        "opts": [
+          "The activities will last for seven hours.",
+          "You could hand in the application forms on May 9th.",
+          "You can enjoy free lunch and dinner if you take part in the activities.",
+          "You should be on the South International Square before 9 a.m., or you can’t join in the activities."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“Time: 9：00 a.m.—5：00 p.m., on May 15th. Place: on the South International Square. Rules：Don’t be late, or you’ll not be allowed to take part in these activities.”可知，你应该在上午9点之前到达南国际广场, 否则你不能参加活动。故选D。"
+      },
+      {
+        "q": "Where can you find this passage?",
+        "opts": [
+          "On a noticeboard.",
+          "On a newspaper.",
+          "In a storybook.",
+          "On a website."
+        ],
+        "ans": "D",
+        "exp": "推理判断题。根据最后一段“For further information, visit https：//FamilyCenter.so.com/doc.”可知，本文来自网站。故选D。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_55",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "作者从英国来中国工作"
+    ],
+    "title": "九上阅读 · 五十五 作者从英国来中国工作",
+    "passage": "I left my hometown in London last year and now I have enjoyed working in this small city in China. Learning a foreign language opens your eyes to the culture and history of a country. So in order to know more about China, I started to learn Chinese.\n\nBut at times, I found myself in funny situations. When I greeted strangers in China, they began to talk a lot and very fast. They asked me questions about everything. But all I could do was to look at them with a blank face. I had no idea what they were talking about. Were they just being kind, funny or impolite? Many people want to make friends with me. But I am a bit upset when I find out the reason why they need a foreign friend. They say they want to practice their English. I don’t need friends like this. I like friends to share my feelings and ideas with.\n\nHowever, the more Chinese I learn, the more similarities I find it has with English. In English, “thick-skinned” is to describe a person who doesn’t care about criticism (批评). I was surprised to find that “houlianpi” in Chinese means the same. And both languages share some common idioms (习语). For example, “look on with folded arms” means “xiushoupangguan”, and “burn the boats” is similar to “pofuchenzhou”.\n\nI’m still on my journey to Chinese learning. I believe that sometimes you have the most fun on a journey.",
+    "passageHtml": "<p><span class=\"ind\">I left my hometown in London last year and now I have enjoyed working in this small city in China. Learning a foreign language opens your eyes to the culture and history of a country. So in order to know more about China, I started to learn Chinese.</span></p><p><span class=\"ind\">But at times, I found myself in funny situations. When I greeted strangers in China, they began to talk a lot and very fast. They asked me questions about everything. But all I could do was to look at them with a blank face. I had no idea what they were talking about. Were they just being kind, funny or impolite? Many people want to make friends with me. But I am a bit upset when I find out the reason why they need a foreign friend. They say they want to practice their English. I don’t need friends like this. I like friends to share my feelings and ideas with.</span></p><p><span class=\"ind\">However, the more Chinese I learn, the more similarities I find it has with English. In English, “thick-skinned” is to describe a person who doesn’t care about criticism (批评). I was surprised to find that “houlianpi” in Chinese means the same. And both languages share some common idioms (习语). For example, “look on with folded arms” means “xiushoupangguan”, and “burn the boats” is similar to “pofuchenzhou”.</span></p><p><span class=\"ind\">I’m still on my journey to Chinese learning. I believe that sometimes you have the most fun on a journey.</span></p>",
+    "intro": "本文讲述作者从英国来中国工作，在中国学中文的经历。很多中国人想和他交朋友的原因只是为了练习英语，这让他有点沮丧。他在学习中文过程中发现了语言的很多相似之处。",
+    "qs": [
+      {
+        "q": "The writer comes from ________ .",
+        "opts": [
+          "the UK",
+          "the USA",
+          "Australia",
+          "Canada"
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“I left my hometown in London last year”可知，作者来自英国。故选A。"
+      },
+      {
+        "q": "Many Chinese want to make friends with the writer because ________ .",
+        "opts": [
+          "they are interested in Western culture",
+          "they want a partner to practice English with",
+          "they are willing to share feelings and ideas with him",
+          "they want to help the foreigner with his Chinese"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Many people want to make friends with me. But I am a bit upset when I find out the reason why they need a foreign friend. They say they want to practice their English.”可知，很多中国人想和作者交朋友的原因是想练习英语。故选B。"
+      },
+      {
+        "q": "The underlined word “similarities” means “________” in Chinese.",
+        "opts": [
+          "相似点",
+          "不同点",
+          "规律性",
+          "重要性"
+        ],
+        "ans": "A",
+        "exp": "词义猜测题。根据第三段“...means the same”，“both languages share some common idioms”以及“is similar to”可知，英语与中文有相似之处。所以单词“similarities”指的是“相似点”，故选A。"
+      },
+      {
+        "q": "A thick-skinned person may ________ .",
+        "opts": [
+          "be very strong and seldom fall ill",
+          "like to criticize others for their mistakes",
+          "talk a lot and speak fast",
+          "feel OK when he’s criticized"
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“In English, ‘thick-skinned’ is to describe a person who doesn’t care about criticism.”可知，thick-skinned用来描述不在意批评的人。故选D。"
+      },
+      {
+        "q": "If there would be a paragraph before the last paragraph of the text, it most probably would be about ________ .",
+        "opts": [
+          "the reasons why he wants to learn Chinese",
+          "the similarities Chinese and English share",
+          "the differences between Chinese and English",
+          "the importance of learning Chinese and English"
+        ],
+        "ans": "C",
+        "exp": "推理判断题。根据第三段“the more Chinese I learn, the more similarities I find it has with English.”讲述了英语与中文的相似之处，下一段可推断讲述英语与中文的不同之处。故选C。\nThe Museum of London"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_56",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "英国伦敦博物馆的广告信息"
+    ],
+    "title": "九上阅读 · 五十六 英国伦敦博物馆的广告信息",
+    "passage": "The Museum of London\n\nThe museum opened in 1976. It shows all about the history and culture of London. If you want to discover how the city has changed, come here. And if you want to find what special things the city has, come here too. You can spend the whole afternoon here enjoying the collection.\n\nOpening Times:\n\nOpen:10:00 am to 6:00 pm\n\nlast admission（入馆）: 5:30 pm   Closed: 24th~26th December\n\nTicket Price: Free\n\nAddress: 150 London Wall, London EC2Y 5HN\n\nTelephone: +44 (0)20 7001 9844\n\nEmail: info@museumoflondon.org.uk\n\nWebsite: http: //www.museumoflondon.org.uk\n\nPublic transport: By underground: The nearest stations are Barbican, St. Paul’s.\n\nBy bus: 4,8,25,56,100,172,242,521\n\nMuseum of London shop:\n\nThe shop at the Museum of London provides gifts and books about London. We also sell postcards and posters about London. You can buy some of them for yourselves or your relatives（亲戚）.",
+    "passageHtml": "<p><span class=\"ind\">The Museum of London</span></p><p><span class=\"ind\">The museum opened in 1976. It shows all about the history and culture of London. If you want to discover how the city has changed, come here. And if you want to find what special things the city has, come here too. You can spend the whole afternoon here enjoying the collection.</span></p><p><span class=\"ind\">Opening Times:</span></p><p><span class=\"ind\">Open:10:00 am to 6:00 pm</span></p><p><span class=\"ind\">last admission（入馆）: 5:30 pm   Closed: 24th~26th December</span></p><p><span class=\"ind\">Ticket Price: Free</span></p><p><span class=\"ind\">Address: 150 London Wall, London EC2Y 5HN</span></p><p><span class=\"ind\">Telephone: +44 (0)20 7001 9844</span></p><p><span class=\"ind\">Email: info@museumoflondon.org.uk</span></p><p><span class=\"ind\">Website: http: //www.museumoflondon.org.uk</span></p><p><span class=\"ind\">Public transport: By underground: The nearest stations are Barbican, St. Paul’s.</span></p><p><span class=\"ind\">By bus: 4,8,25,56,100,172,242,521</span></p><p><span class=\"ind\">Museum of London shop:</span></p><p><span class=\"ind\">The shop at the Museum of London provides gifts and books about London. We also sell postcards and posters about London. You can buy some of them for yourselves or your relatives（亲戚）.</span></p>",
+    "intro": "本文主要介绍了英国伦敦博物馆的广告信息。",
+    "qs": [
+      {
+        "q": "The Museum of London opened to the public________ years ago.",
+        "opts": [
+          "47",
+          "76",
+          "100",
+          "150"
+        ],
+        "ans": "A",
+        "exp": "推理判断题。根据“The museum opened in 1976.”可知，伦敦博物馆1976年开放，2023-1976=47，所以是47年前开放。故选A。"
+      },
+      {
+        "q": "Tom can enter the Museum of London at________ if he wants to visit it.",
+        "opts": [
+          "9:30 am",
+          "11:00 am",
+          "5:45 pm",
+          "6:00 pm"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Open:10:00 am to 6:00 pm，last admission（入馆）: 5:30 pm ”可知，伦敦博物馆上午十点到下午六点开放，但是最后可以入馆的时间为五点半，选项中只有11:00 am符合。故选B。"
+      },
+      {
+        "q": "Which information about the Museum of London is NOT provided in the material?",
+        "opts": [
+          "Its address.",
+          "Its collection.",
+          "Its rules.",
+          "Its telephone number."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。根据“If you want to discover...enjoying the collection.”，“Address: 150 London Wall, London EC2Y 5HN”和“Telephone: +44 (0)20 7001 9844”及结合文章内容可知，文章没有提到博物馆的规则。故选C。"
+      },
+      {
+        "q": "Visitors can buy________ in the Museum of London shop.",
+        "opts": [
+          "①②④",
+          "①③④",
+          "①②⑤⑥",
+          "①②③⑤"
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“The shop at the Museum of London provides gifts and books about London. We also sell postcards and posters about London.”可知，参观者可以在伦敦博物馆商店买礼物、书、明信片和海报。故选D。"
+      },
+      {
+        "q": "We can learn from the material that________.",
+        "opts": [
+          "Visitors have to enter the Museum of London before 5:30 pm.",
+          "The museum of London shows visitors all about its history.",
+          "The museum of London is open every day of the year.",
+          "The ticket price of the Museum of London is very high."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据“ Open:10:00 am to 6:00 pm last admission（入馆）: 5:30 pm”可知游客必须在五点半以前进入博物馆。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_57",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 3,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "篇目五十七"
+    ],
+    "title": "九上阅读 · 五十七 篇目五十七",
+    "passage": "By drawing beautiful patterns on the surface of a cup of tea, Chabaixi, an ancient Chinese tea trick shown in the recent TV drama, has gone viral for its similarity with modern latte art（咖啡拉花艺术）. Zhang Zhifeng, an artist of Chabaixi, was glad to see the TV drama brought the technique to people’s attention.\n\nChabaixi can create endless patterns such as bamboos and mountains or even Chinese characters. How can it be made? There are over a dozen steps, from grinding（磨碎）tea for fine powder to pouring boiled water, stirring the mixture for thick froth（泡沫）, and finally drawing the patterns. It is different from making latte because people use clear water as the object to put into the cup instead of milk. When the water touches the surface, it turns into white color and disappears in 20 minutes. The process before the drawing is known as the tea-making technique, diancha. The quality of diancha is extremely important to whether patterns can be successfully produced later.\n\n“Chabaixi is one of the countless forms of tea-making techniques in China. This technique is not only unique in the world, but also it gives us a window into people’s lifestyle in the Song Dynasty, a period of time when free-time activities in some ways were like what we have now.” Zhang said.\n\nBefore Chabaixi was discovered by TV audiences, the technique was on the List of Intangible Culture Heritage（非物质文化遗产名录）of Fujian Province in 2017, after it was recovered by Zhang Zhifeng. He started researching Chabaixi in the 1980s and brought the technique back in 2009 after decades of practice.\n\nNow with Zhang’s better skills in tea making, he is also performing and teaching Chabaixi in vocational school across China. About ten years ago, this special technique was close to disappearing completely. However, it is important to the tea culture and it would be a shame to let it fade. It is my duty to pass it on to the next generation.",
+    "passageHtml": "<p><span class=\"ind\">By drawing beautiful patterns on the surface of a cup of tea, Chabaixi, an ancient Chinese tea trick shown in the recent TV drama, has gone viral for its similarity with modern latte art（咖啡拉花艺术）. Zhang Zhifeng, an artist of Chabaixi, was glad to see the TV drama brought the technique to people’s attention.</span></p><p><span class=\"ind\">Chabaixi can create endless patterns such as bamboos and mountains or even Chinese characters. How can it be made? There are over a dozen steps, from grinding（磨碎）tea for fine powder to pouring boiled water, stirring the mixture for thick froth（泡沫）, and finally drawing the patterns. It is different from making latte because people use clear water as the object to put into the cup instead of milk. When the water touches the surface, it turns into white color and disappears in 20 minutes. The process before the drawing is known as the tea-making technique, diancha. The quality of diancha is extremely important to whether patterns can be successfully produced later.</span></p><p><span class=\"ind\">“Chabaixi is one of the countless forms of tea-making techniques in China. This technique is not only unique in the world, but also it gives us a window into people’s lifestyle in the Song Dynasty, a period of time when free-time activities in some ways were like what we have now.” Zhang said.</span></p><p><span class=\"ind\">Before Chabaixi was discovered by TV audiences, the technique was on the List of Intangible Culture Heritage（非物质文化遗产名录）of Fujian Province in 2017, after it was recovered by Zhang Zhifeng. He started researching Chabaixi in the 1980s and brought the technique back in 2009 after decades of practice.</span></p><p><span class=\"ind\">Now with Zhang’s better skills in tea making, he is also performing and teaching Chabaixi in vocational school across China. About ten years ago, this special technique was close to disappearing completely. However, it is important to the tea culture and it would be a shame to let it fade. It is my duty to pass it on to the next generation.</span></p>",
+    "intro": "本文是一篇说明文。文章主要介绍了茶百戏这种中国古代的茶艺，旨在培养学生了解中国优秀传统文化，坚定文化自信。",
+    "qs": [
+      {
+        "q": "What do the underline words “gone viral” in Paragraph 1 probably mean?",
+        "opts": [
+          "Disappeared suddenly.",
+          "Became popular quickly.",
+          "Received good protection.",
+          "Remained highly competitive."
+        ],
+        "ans": "B",
+        "exp": "词义猜测题。根据第一段“...was glad to see the TV drama brought the technique to people’s attention.”可知，这部电视剧让人们注意到这种技术，所以此处gone viral表示“在网上疯传”，因此得到了人们的关注。故选B。"
+      },
+      {
+        "q": "What do we know about Chabaixi?",
+        "opts": [
+          "It is painted with whipped milk.",
+          "It develops based on latte art.",
+          "It mainly describes beautiful scenery.",
+          "It includes complicated tea-making skills."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据第二段“There are over a dozen steps, from grinding tea for fine powder to pouring boiled water...”可知，制作茶百戏需要十多个步骤，由此可知，它包括复杂的泡茶技巧。故选D。"
+      },
+      {
+        "q": "When was the most popular time for Chabaixi?",
+        "opts": [
+          "The Song Dynasty.",
+          "The Tang Dynasty.",
+          "In the year 2017.",
+          "Nearly 30 years ago."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据第三段“...but also it gives us a window into people’s lifestyle in the Song Dynasty, a period of time when free-time activities in some ways were like what we have now.” 可知，我们可以通过它了解宋朝人的生活方式，由此可知，宋朝是其发展的鼎盛时期。故选A。"
+      },
+      {
+        "q": "What is the third paragraph mainly about?",
+        "opts": [
+          "The beginning of Chabaixi.",
+          "The special quality of Chabaixi.",
+          "The importance of Chabaixi.",
+          "The development of Chabaixi."
+        ],
+        "ans": "C",
+        "exp": "主旨大意题。根据第三段“This technique is not only unique in the world...”可知，这种技术在世界上是独一无二的，由此可知，这里主要讲述了茶百戏的重要性。故选C。"
+      },
+      {
+        "q": "What is true about Zhang Zhifeng?",
+        "opts": [
+          "He teaches people the tea culture of the Song Dynasty.",
+          "He makes the best Chabaixi in the whole nation.",
+          "He encourages people to pass on the technique of Chabaixi.",
+          "He wants to develop Chabaixi through media."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据最后一段“It is my duty to pass it on to the next generation.”可知，传承茶百戏技术是他的责任，所以他鼓励人们传承茶百戏。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_58",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "说明文",
+      "九年级上册",
+      "家里多了一个孩子你可以怎样帮忙"
+    ],
+    "title": "九上阅读 · 五十八 家里多了一个孩子你可以怎样帮忙",
+    "passage": "Are you the only child in your family? How will you feel if you have a little brother or sister? Having a new baby in your family is really great but not easy for your parents.\n\nIt’s interesting for you to watch TV or play with the baby in your free time. If you are old enough, you can help your mum or dad look after (照顾) the baby, such as changing the dirty clothes or feeding the baby. But you should always ask mum or dad before (之前) you do these things for the baby. They will show you how to help look after your little brother or sister. Your mum will be very tired if the new baby cries at night. You may be able to help your mum by doing something nice for her, like getting ready for the warm water before she is going the bath the baby.\n\nYou may feel a bit jealous (妒忌) of the baby at times. Don’t think that you are a bad kid if you feel like that. It is normal for any kids to have such feelings. But remember that you should love the baby. Because you are a family.",
+    "passageHtml": "<p><span class=\"ind\">Are you the only child in your family? How will you feel if you have a little brother or sister? Having a new baby in your family is really great but not easy for your parents.</span></p><p><span class=\"ind\">It’s interesting for you to watch TV or play with the baby in your free time. If you are old enough, you can help your mum or dad look after (照顾) the baby, such as changing the dirty clothes or feeding the baby. But you should always ask mum or dad before (之前) you do these things for the baby. They will show you how to help look after your little brother or sister. Your mum will be very tired if the new baby cries at night. You may be able to help your mum by doing something nice for her, like getting ready for the warm water before she is going the bath the baby.</span></p><p><span class=\"ind\">You may feel a bit jealous (妒忌) of the baby at times. Don’t think that you are a bad kid if you feel like that. It is normal for any kids to have such feelings. But remember that you should love the baby. Because you are a family.</span></p>",
+    "intro": "本文是一篇说明文。本文主要介绍了家里多了一个孩子你可以怎样帮忙照顾以及你的嫉妒情绪都是正常的。",
+    "qs": [
+      {
+        "q": "Having a new baby in your family is really ________ according to (根据) the passage.",
+        "opts": [
+          "easy",
+          "great",
+          "bad",
+          "relaxing"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Having a new baby in your family is really great but not easy for your parents.”可知，家里新出生个孩子很好但对父母来说也不易。故选B。"
+      },
+      {
+        "q": "Before you ask your mum and dad, you CANNOT ________.",
+        "opts": [
+          "play with the baby",
+          "watch TV",
+          "look at the baby",
+          "feed the baby"
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“If you are old enough, you can help your mum or dad look after (照顾) the baby, such as changing the dirty clothes or feeding the baby. But you should always ask mum or dad before (之前) you do these things for the baby.”可知，在询问父母之前你不能给幼儿换衣服以及喂他们吃东西。故选D。"
+      },
+      {
+        "q": "The underlined word “normal” in the passage means (意思是) ________.",
+        "opts": [
+          "bad",
+          "boring",
+          "happy",
+          "OK"
+        ],
+        "ans": "D",
+        "exp": "词义猜测题。根据“Don’t think that you are a bad kid if you feel like that.”可知，有时候嫉妒幼儿是正常的不要认为自己是个坏孩子。故选D。"
+      },
+      {
+        "q": "Which of the following is NOT true?",
+        "opts": [
+          "You should always ask Mum or Dad before you help look after the baby.",
+          "Your mum will be very tired if the baby cries at night.",
+          "It you feel jealous of the new baby, you are a bad kid.",
+          "You can help your mum by doing something good for her."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“You may feel a bit jealous (妒忌) of the baby at times. Don’t think that you are a bad kid if you feel like that.”可知，有时候嫉妒幼儿是正常的不要认为自己是个坏孩子。故选C。"
+      },
+      {
+        "q": "The best title (标题) of the passage is “________”.",
+        "opts": [
+          "The only child in the family",
+          "Having a baby in the family",
+          "Play with a baby in the family",
+          "How to look after your family"
+        ],
+        "ans": "B",
+        "exp": "最佳标题题。根据“Having a new baby in your family is really great but not easy for your parents.”以及全文如何照顾孩子可知，本文是关于家里有了一个孩子的相关内容。故选B。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_59",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "作者介绍了失物招领处的一些东西"
+    ],
+    "title": "九上阅读 · 五十九 作者介绍了失物招领处的一些东西",
+    "passage": "Some students often leave (遗留) their own things here and there in the school and forget to take them away. Here is the Lost and Found notice of No. 9 Middle School.\n\nFoundI found a bus card in the hallway (走廊) of Grade Seven on the first floor. There is no name or photo on it. It’s green and new. I will give it to Mr. Ning. You can ask him for it if you lose it.Yongze | \nFoundI found that I took someone else’s uniform jacket by mistake. Mine is in my desk. I take it from the sports hall (体育馆). The size is M for girl. I will make it clean before you get it. I’m so sorry and please call me at 13920031232.Ziying | \nLostI lost my new watch on the playground this morning. It’s my birthday gift from my grandma. It’s black and white. I love it so much so I must find it. If you find it please give it to Mrs. Wan in Class One, Grade Seven. Thanks a lot!Haoran | \nLostI am so sad because I lost my keys. The pink Peppa Pig is on the key. I use them every day so it’s important for me. I think I lost them in the computer room. Do you see them? Please give the keys to Ms. Chen when you find them. Thank you very much.Xiaoxuan | ",
+    "passageHtml": "<p><span class=\"ind\">Some students often leave (遗留) their own things here and there in the school and forget to take them away. Here is the Lost and Found notice of No. 9 Middle School.</span></p><div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">FoundI found a bus card in the hallway (走廊) of Grade Seven on the first floor. There is no name or photo on it. It’s green and new. I will give it to Mr. Ning. You can ask him for it if you lose it.Yongze</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_59_tbl_1.png\" style=\"max-width:80px;height:auto\"></td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">FoundI found that I took someone else’s uniform jacket by mistake. Mine is in my desk. I take it from the sports hall (体育馆). The size is M for girl. I will make it clean before you get it. I’m so sorry and please call me at 13920031232.Ziying</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_59_tbl_2.png\" style=\"max-width:80px;height:auto\"></td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">LostI lost my new watch on the playground this morning. It’s my birthday gift from my grandma. It’s black and white. I love it so much so I must find it. If you find it please give it to Mrs. Wan in Class One, Grade Seven. Thanks a lot!Haoran</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_59_tbl_3.png\" style=\"max-width:80px;height:auto\"></td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">LostI am so sad because I lost my keys. The pink Peppa Pig is on the key. I use them every day so it’s important for me. I think I lost them in the computer room. Do you see them? Please give the keys to Ms. Chen when you find them. Thank you very much.Xiaoxuan</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\"><br><img src=\"assets/images/jr_read9a_59_tbl_4.png\" style=\"max-width:80px;height:auto\"></td></tr></table></div>",
+    "intro": "本文主要介绍了作者介绍了失物招领处的一些东西特征及如何找到这些东西。",
+    "qs": [
+      {
+        "q": "A bus card was found ________.",
+        "opts": [
+          "from the sports hall",
+          "on the playground",
+          "in the hallway",
+          "in the computer room"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据表格内第一段“I found a bus card in the hallway (走廊) of Grade Seven on the first floor.”可知，我在走廊上找到的公交卡。故选C。"
+      },
+      {
+        "q": "What do you know about the uniform jacket?",
+        "opts": [
+          "Ziying lost her jacket.",
+          "The size is for boy.",
+          "The jacket is lost in Ziying’ home.",
+          "Ziying will wash the jacket."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据表格内第二段“I will make it clean before you get it.”可知，我会把它洗干净。故选D。"
+      },
+      {
+        "q": "Who gave Haoran the watch on his birthday?",
+        "opts": [
+          "His grandmother.",
+          "Mrs. Wan.",
+          "His friend.",
+          "His classmate."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据表格内第三段“It’s my birthday gift from my grandma.”可知，这是我奶奶给我的生日礼物。故选A。"
+      },
+      {
+        "q": "If you find Xiaoxuan’s keys, how can you give them back to her?",
+        "opts": [
+          "Call her at 13920031232.",
+          "Ask Mr. Ning for help.",
+          "Send them back to Class One, Grade Seven.",
+          "Send them back to Ms. Chen’s office."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据表格内第四段“Please give the keys to Ms. Chen when you find them.”可知，如果你找到了她的钥匙，请交给Ms. Chen。故选D。"
+      },
+      {
+        "q": "Which of the sentences is TRUE (正确的)?",
+        "opts": [
+          "The pink Peppa Pig is on the bus card.",
+          "Ziying’s uniform jacket is in her desk.",
+          "The watch is brown and white.",
+          "It’s relaxing for Xiaoxuan to lose the keys."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据表格内第二段“Mine is in my desk.”可知，Ziying的校服在我的抽屉里面。故选B。\n578．How long could a 9-year-old kid be left at home?\nA．For less than 0.5 hour.\nB．For less than 1.5 hours.\nC．For up to 3 hours.\nD．For up to 2 days and nights.\n579．It’s not necessary for children to remember their parents’ ________.\nA．first nameB．office address\nC．last nameD．telephone number\n580．What should children learn while they’re left at home?\nA．Where to find food and drinks.\nB．How to open windows and doors.\nC．How to turn on the home appliances.\nD．Who they can call in an emergency.\n581．Who is the passage mainly written for?\nA．Children. B．Teachers. C．Parents. D．Doctors.\n582．In which part of a magazine can you read the passage?\nA．Life and Safety. B．Sports and Health.\nC．History and Culture. D．Science and Technology."
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_60",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目六十"
+    ],
+    "title": "九上阅读 · 六十 篇目六十",
+    "passage": "Have you ever left your child alone at home? Being alone at home, especially if it’s a new experience, can be scary. Please pay attention to the following guidelines for leaving kids alone.\n7 & under | You shouldn’t leave them alone at any time.\n8-10 years old | You shouldn’t leave them alone for more than 1.5 hours during the daytime and early evening.\n11-12 years old | You may leave them alone for up to 3 hours but not late at night.\n13-15 years old | You may leave them alone but not for the night.\n16-17 years old | You may leave them alone for up to two days and nights.\n*Ask your child to remember your full name, home address and telephone number. *Let neighbors know that your child may be home alone. *Make a list of local numbers to call in an emergency. *Call the child several times while you are away. *Make sure your child knows how to lock windows and doors. *Tell your child not to go into others’ houses without permission. *Tell your child to choose a safe house to run to if he or she feels like in danger. *Teach your child to keep safe in the kitchen. *Ask your child not to turn on the home appliances(家电) alone.",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Have you ever left your child alone at home? Being alone at home, especially if it’s a new experience, can be scary. Please pay attention to the following guidelines for leaving kids alone.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">7 & under</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">You shouldn’t leave them alone at any time.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">8-10 years old</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">You shouldn’t leave them alone for more than 1.5 hours during the daytime and early evening.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">11-12 years old</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">You may leave them alone for up to 3 hours but not late at night.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">13-15 years old</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">You may leave them alone but not for the night.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">16-17 years old</td><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">You may leave them alone for up to two days and nights.</td></tr><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">*Ask your child to remember your full name, home address and telephone number. *Let neighbors know that your child may be home alone. *Make a list of local numbers to call in an emergency. *Call the child several times while you are away. *Make sure your child knows how to lock windows and doors. *Tell your child not to go into others’ houses without permission. *Tell your child to choose a safe house to run to if he or she feels like in danger. *Teach your child to keep safe in the kitchen. *Ask your child not to turn on the home appliances(家电) alone.</td></tr></table></div>",
+    "intro": "本文是关于如何在家中留下孩子的指南。",
+    "qs": [
+      {
+        "q": "How long could a 9-year-old kid be left at home?",
+        "opts": [
+          "For less than 0.5 hour.",
+          "For less than 1.5 hours.",
+          "For up to 3 hours.",
+          "For up to 2 days and nights."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“8-10 years old You shouldn’t leave them alone for more than 1.5 hours during the daytime and early evening.”可知，8到10岁的孩子，在白天和傍晚，你不应该让它们独处超过1.5小时。故选B。"
+      },
+      {
+        "q": "It’s not necessary for children to remember their parents’ ________.",
+        "opts": [
+          "first name",
+          "office address",
+          "last name",
+          "telephone number"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Ask your child to remember your full name, home address and telephone number.”可知，让孩子记住你的全名、家庭住址和电话号码，没提到办公地址。故选B。"
+      },
+      {
+        "q": "What should children learn while they’re left at home?",
+        "opts": [
+          "Where to find food and drinks.",
+          "How to open windows and doors.",
+          "How to turn on the home appliances.",
+          "Who they can call in an emergency."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“Make a list of local numbers to call in an emergency.”可知，列出紧急情况下可以拨打的本地电话号码。故选D。"
+      },
+      {
+        "q": "Who is the passage mainly written for?",
+        "opts": [
+          "Children.",
+          "Teachers.",
+          "Parents.",
+          "Doctors."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。根据“Please pay attention to the following guidelines for leaving kids alone.”可知，是写给父母的，故选C。"
+      },
+      {
+        "q": "In which part of a magazine can you read the passage?",
+        "opts": [
+          "Life and Safety.",
+          "Sports and Health.",
+          "History and Culture.",
+          "Science and Technology."
+        ],
+        "ans": "A",
+        "exp": "推理判断题。本文是关于如何在家中留下孩子的指南，所以可能会在杂志的“生命和安全”部分读到该文章。故选A。\nEscape（逃离）From the British Museum: A Cultural Journey"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_61",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "一部名为《逃离大英博物馆》的系"
+    ],
+    "title": "九上阅读 · 六十一 一部名为《逃离大英博物馆》的系",
+    "passage": "Escape（逃离）From the British Museum: A Cultural Journey\n\nA popular short video series titled Escape From the British Museum has millions of viewers. The three-part series tells the story of a jade teapot（玉茶壶）that comes to life and goes on a journey from the British Museum back to China. With over 340 million views and nearly 2 million comments（评论）on Douyin, a short-video platform, the series has become very hot.\n\nIn the story, the jade teapot changes into a young woman and escapes from the museum. She meets a Chinese journalist named Zhang Yongan in the United Kingdom and asks him to take her back to China. On the way home, she not only travels across the country but also carries letters written by other artifacts（古器物）in the museum to their families in China.\n\nThe series were created by two young Chinese vloggers Jianbing Guozai and Xiatian Meimei. Jianbing Guozai’s real name is Zhang Jiajun, graduated from Sichuan University of Media and Communications. The videos have deeply moved all Chinese people. The British Museum houses about 23, 000 Chinese artifacts. These include paintings, prints, jades, bronze ware, lacquer ware, and ceramics. Some artifacts were collected between the late 19th and early 20th centuries when British forces invaded（入侵）Beijing twice.\n\nThe creator of the series, Zhang Jiajun, expresses his thanks for being focused and hopes that more attention would be paid to the artifacts still located overseas.",
+    "passageHtml": "<p><span class=\"ind\">Escape（逃离）From the British Museum: A Cultural Journey</span></p><p><span class=\"ind\">A popular short video series titled Escape From the British Museum has millions of viewers. The three-part series tells the story of a jade teapot（玉茶壶）that comes to life and goes on a journey from the British Museum back to China. With over 340 million views and nearly 2 million comments（评论）on Douyin, a short-video platform, the series has become very hot.</span></p><p><span class=\"ind\">In the story, the jade teapot changes into a young woman and escapes from the museum. She meets a Chinese journalist named Zhang Yongan in the United Kingdom and asks him to take her back to China. On the way home, she not only travels across the country but also carries letters written by other artifacts（古器物）in the museum to their families in China.</span></p><p><span class=\"ind\">The series were created by two young Chinese vloggers Jianbing Guozai and Xiatian Meimei. Jianbing Guozai’s real name is Zhang Jiajun, graduated from Sichuan University of Media and Communications. The videos have deeply moved all Chinese people. The British Museum houses about 23, 000 Chinese artifacts. These include paintings, prints, jades, bronze ware, lacquer ware, and ceramics. Some artifacts were collected between the late 19th and early 20th centuries when British forces invaded（入侵）Beijing twice.</span></p><p><span class=\"ind\">The creator of the series, Zhang Jiajun, expresses his thanks for being focused and hopes that more attention would be paid to the artifacts still located overseas.</span></p>",
+    "intro": "本文主要介绍了一部名为《逃离大英博物馆》的系列短视频，讲述了一只玉茶壶在大英博物馆复活，然后回到中国的故事。",
+    "qs": [
+      {
+        "q": "What is the title of the hot short video?",
+        "opts": [
+          "Escape（逃离）From the British Museum: A Cultural Journey.",
+          "A jade teapot.",
+          "A Cultural Journey.",
+          "Escape From the British Museum."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据第一段“A popular short video series titled Escape From the British Museum has millions of viewers.”（一个名为《逃离大英博物馆》的热门短视频系列拥有数百万观众。）可知，热门短视频的标题是《逃离大英博物馆》。故选D。"
+      },
+      {
+        "q": "The jade teapot in the video is ________.",
+        "opts": [
+          "a man",
+          "a teapot from Beijing",
+          "a character created",
+          "a teapot from London"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据第二段“In the story, the jade teapot changes into a young woman and escapes from the museum.”（在故事中，玉茶壶变成了一个年轻的女人，逃离了博物馆。）及第三段“The series were created by two young Chinese vloggers Jianbing Guozai and Xiatian Meimei. ”（该系列视频由两位年轻的中国博主煎饼果仔和夏天美美创作。）可知，视频中的玉茶壶是一个被创造出来的角色。故选C。"
+      },
+      {
+        "q": "Who created the series of the video?",
+        "opts": [
+          "Zhang Jiajun.",
+          "Jianbing Guozai.",
+          "Zhang Jiajun and Xiatian Meimei.",
+          "Jianbing Guozai and Zhang Jiajun."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据第三段“The series were created by two young Chinese vloggers Jianbing Guozai and Xiatian Meimei. Jianbing Guozai’s real name is Zhang Jiajun, graduated from Sichuan University of Media and Communications.”（该系列视频由两位年轻的中国博主煎饼果仔和夏天美美创作。煎饼果仔原名张家军，毕业于四川传媒学院。）可知，这一系列视频是张家军和夏天美美创作的。故选C。"
+      },
+      {
+        "q": "What Chinese artifacts are mentioned in this passage EXCEPT ________?",
+        "opts": [
+          "paintings and lacquerware",
+          "jades and bronzeware",
+          "prints and ceramics",
+          "stone carvings and mummies"
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据第三段“The British Museum houses about 23, 000 Chinese artifacts. These include paintings, prints, jades, bronze ware, lacquer ware, and ceramics.”（大英博物馆收藏了大约23000件中国文物。其中包括绘画、版画、玉器、青铜器、漆器和陶瓷。）可知，这些中国文物中并没有提到石雕和木乃伊。故选D。"
+      },
+      {
+        "q": "What can we infer from this passage?",
+        "opts": [
+          "The series of video becomes hot because all people love China.",
+          "The creators wishes overseas Chinese artifacts could come back to China.",
+          "Zhang Yong’an has a wonderful journey to the United Kingdom.",
+          "The series of video has got over 340 million views on bilibili."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据第一段“The three-part series tells the story of a jade teapot（玉茶壶）that comes to life and goes on a journey from the British Museum back to China.”（这个由三部分组成的系列告诉了一个玉茶壶的故事，它复活了，并从大英博物馆回到了中国。）及最后一段“The creator of the series, Zhang Jiajun, expresses his thanks for being focused and hopes that more attention would be paid to the artifacts still located overseas.”（该系列的创作者张家军对大家的关注表示感谢，并希望大家能更多地关注仍在海外的文物。）可推知，创作者希望海外的中国文物能够回到中国。故选B。\n阅读下列广告，根据其内容，选择最佳选项。(每小题2分，满分10分)\n588．You can call ______ if you want your dog to be taken care of while you leave for a week.\nA．House for RentB．Fresh Flower Market\nC．Old Friend RestaurantD．Happy Pet House\n589．The fresh flowers are sold in Fresh Flower Market only ______.\nA．from 11:00 to 12:00 am.B．from 4:00 to 7:00 pm.\nC．in the morningD．in the afternoon\n590．The Old Friend Restaurant is a good place to _______.\nA．taste farm foodB．look after the pet\nC．live comfortablyD．go shopping\n591．You can call _______ if you want to rent a house.\nA．516-2289B．516-6672C．516-4345D．516-9876\n592．If you pay a year’s rent at a time, you can save _______ than paying once a month.\nA．$200B．$300C．$400D．$500"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_62",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目六十二"
+    ],
+    "title": "九上阅读 · 六十二 篇目六十二",
+    "passage": "Old Friend RestaurantCome and enjoy yourself at Old Friend Restaurant. We offer rooms of different sizes according to the number of guests. Here you can taste green and environmentally farm food from 11:00 am. to 12:00 pm.Tel: 516-2289       Add: No.367 Huanshan  RoadFresh Flower MarketWe have different kinds of flowers and the lowest prices in our city. They are all picked freshly on the farms in Yunnan Province and sent here by plane. We only sell them from 4:00 to 7:00 in the early morning every day.Tel: 516-6672       Add: No.67 Dengcheng RoadHappy Pet HouseThe best place for you pets. The pets can learn many things here. We can give your pets a bath once a week. It’s also a nice home for your pets when you are away for several days.Tel: 516-4345      Add: No. 9 North StreetHouse for Rent(出租)House with two bedrooms, a living room, a kitchen and bathroom. It’s next to a school. The environment is good and quiet. $ 300 a month or $ 3400 a year.Please call Lucy Green at 516-9876",
+    "passageHtml": "<div style=\"overflow-x:auto;margin:10px 0\"><table style=\"width:100%;border-collapse:collapse;border:1px solid var(--bd);font-size:13px\"><tr><td style=\"border:1px solid var(--bd);padding:6px 10px;text-align:center\">Old Friend RestaurantCome and enjoy yourself at Old Friend Restaurant. We offer rooms of different sizes according to the number of guests. Here you can taste green and environmentally farm food from 11:00 am. to 12:00 pm.Tel: 516-2289       Add: No.367 Huanshan  RoadFresh Flower MarketWe have different kinds of flowers and the lowest prices in our city. They are all picked freshly on the farms in Yunnan Province and sent here by plane. We only sell them from 4:00 to 7:00 in the early morning every day.Tel: 516-6672       Add: No.67 Dengcheng RoadHappy Pet HouseThe best place for you pets. The pets can learn many things here. We can give your pets a bath once a week. It’s also a nice home for your pets when you are away for several days.Tel: 516-4345      Add: No. 9 North StreetHouse for Rent(出租)House with two bedrooms, a living room, a kitchen and bathroom. It’s next to a school. The environment is good and quiet. $ 300 a month or $ 3400 a year.Please call Lucy Green at 516-9876</td></tr></table></div>",
+    "intro": "",
+    "qs": [
+      {
+        "q": "You can call ______ if you want your dog to be taken care of while you leave for a week.",
+        "opts": [
+          "House for Rent",
+          "Fresh Flower Market",
+          "Old Friend Restaurant",
+          "Happy Pet House"
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据文中“Happy Pet House: It's also a nice home for your pets when you are away for several days.”可知，如果你想要你的狗在你离开一周的时候被照顾，你可以打电话给快乐宠物屋。故选D。"
+      },
+      {
+        "q": "The fresh flowers are sold in Fresh Flower Market only ______.",
+        "opts": [
+          "from 11:00 to 12:00 am.",
+          "from 4:00 to 7:00 pm.",
+          "in the morning",
+          "in the afternoon"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据文中“Fresh Flower Market: We only sell them from 4:00 to 7:00 in the early morning every day.”可知，这些鲜花只在上午在鲜花市场出售。故选C。"
+      },
+      {
+        "q": "The Old Friend Restaurant is a good place to _______.",
+        "opts": [
+          "taste farm food",
+          "look after the pet",
+          "live comfortably",
+          "go shopping"
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据文中“Old Friend Restaurant: Here you can taste green and environmentally farm food from 11:00 am. to 12:00 pm.”可知，老朋友餐厅是品尝农家菜的好地方。故选A。"
+      },
+      {
+        "q": "You can call _______ if you want to rent a house.",
+        "opts": [
+          "516-2289",
+          "516-6672",
+          "516-4345",
+          "516-9876"
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据文中“House for Rent（出租）: Please call Lucy Green at 516-9876”可知，如果你想租房子，可以打电话516-9876。故选D。"
+      },
+      {
+        "q": "If you pay a year’s rent at a time, you can save _______ than paying once a month.",
+        "opts": [
+          "$200",
+          "$300",
+          "$400",
+          "$500"
+        ],
+        "ans": "A",
+        "exp": "\n推理判断题。根据文中“House for Rent（出租）: $ 300 a month or $ 3400 a year.”可推理出，如果你一次付一年的房租，你可以比每月付一次省300×12-3400=200美元。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read9a_63",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "阅读理解",
+      "记叙文",
+      "九年级上册",
+      "篇目六十三"
+    ],
+    "title": "九上阅读 · 六十三 篇目六十三",
+    "passage": "This is not a diet. It's a simple way to lose weight~ And you don' t even have to give up the food you love or join a gym. You just follow some habits that thin people have. Keep them, and you'll become thin.\n\n( 1 ) Wake - up\n\nWhen you wake up in the morning, sit up slowly without using your hands. With legs straight out, bend( 弯曲) forward until you feel sore in your back. It will burn about 10 calories (热量单位，卡路里).\n\n(2) Start with soup\n\nWhen you have a meal, order a clear soup, and have it before having the main food. In this way, you'll feel fuller, so you'll eat less when the main food comes.\n\n(3) An apple (or more) a day\n\nApples are full of fiber（纤维) and water, so your stomach will want less. The study shows that people who eat at least three, apples a day lose weight.\n\n(4) Stand up and walk around\n\nEvery time you use the mobile phone, stand up and walk around. Heavy people sit       (平均) two and a half hours more each day than thin people. This skill is very important as standing up and walking around will burn 50 or more calories.\n\nUse these skills, and you will have a big weight loss.",
+    "passageHtml": "<p><span class=\"ind\">This is not a diet. It's a simple way to lose weight~ And you don' t even have to give up the food you love or join a gym. You just follow some habits that thin people have. Keep them, and you'll become thin.</span></p><p><span class=\"ind\">( 1 ) Wake - up</span></p><p><span class=\"ind\">When you wake up in the morning, sit up slowly without using your hands. With legs straight out, bend( 弯曲) forward until you feel sore in your back. It will burn about 10 calories (热量单位，卡路里).</span></p><p><span class=\"ind\">(2) Start with soup</span></p><p><span class=\"ind\">When you have a meal, order a clear soup, and have it before having the main food. In this way, you'll feel fuller, so you'll eat less when the main food comes.</span></p><p><span class=\"ind\">(3) An apple (or more) a day</span></p><p><span class=\"ind\">Apples are full of fiber（纤维) and water, so your stomach will want less. The study shows that people who eat at least three, apples a day lose weight.</span></p><p><span class=\"ind\">(4) Stand up and walk around</span></p><p><span class=\"ind\">Every time you use the mobile phone, stand up and walk around. Heavy people sit       (平均) two and a half hours more each day than thin people. This skill is very important as standing up and walking around will burn 50 or more calories.</span></p><p><span class=\"ind\">Use these skills, and you will have a big weight loss.</span></p>",
+    "intro": "",
+    "qs": [
+      {
+        "q": "What should we have first if we want to eat less main food?",
+        "opts": [
+          "Soup.",
+          "Ice cream.",
+          "Salad.",
+          "Cheese."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据建议的第2条可知，先喝汤，就会有饱胀感，主食吃得就会少一些。故选A。"
+      },
+      {
+        "q": "Why does eating apples make one's stomach want less food?",
+        "opts": [
+          "Because apples are delicious.",
+          "Because apples are full of fiber and water.",
+          "Because apples are sour.",
+          "Because only apples are filled with calories."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据建议的第3条可知，苹果富含纤维和水，所以一天吃一个以上的苹果会使你的胃不太想吃食物。故选B。"
+      },
+      {
+        "q": "Which of the following may the authordisagree?",
+        "opts": [
+          "Sitting up slowly without using your hands helps burn calories.",
+          "Eating apples every day is good for people's health.",
+          "You have to join a gym if you want to lose weight.",
+          "It' s good to walk around while talking on the mobile phone."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。问我们四个选项哪个作者不同意。A．Sitting up slowly without using your hands helps burn calories. 不用手慢慢地向上坐起来会帮助你燃烧脂肪； 符合第1条建议；B．Eating apples every day is good for people's health. 每天吃一个苹果对人的健康有好处。符合第3条建议；C．You have to join a gym if you want to lose weight. 如果你想要减肥就得去健身房。根据And you don' t even have to give up the food you love or join a gym.可知，作者认为注意一些生活细节和习惯，不用去健身房或节食也能让身体瘦下来。与作者的观点矛盾。D．It' s good to walk around while talking on the mobile phone.打电话时四处走动很好。符合第4条建议；故选C。"
+      },
+      {
+        "q": "What's the purpose of the passage?",
+        "opts": [
+          "To give some advice on how to lose weight.",
+          "To advise people to eat apples every day.",
+          "To tell people how to enjoy a better life.",
+          "To advise people to give up bad habits."
+        ],
+        "ans": "A",
+        "exp": "推理判断题。A．To give some advice on how to lose weight.就如何减肥提一些好的建议；B．To advise people to eat apples every day.建议人们每天吃苹果，这只是其中之一；C．To tell people how to enjoy a better life.告诉人们如何享受更好是生活；D．To advise people to give up bad habits.建议人们放弃不良的习惯。根据第一段的内容可知，全文是在给我们介绍一些瘦身的好习惯。故选A。"
+      },
+      {
+        "q": "In which part of a newspaper would you most probably read the passage?",
+        "opts": [
+          "Shopping.",
+          "Teaching.",
+          "Family.",
+          "Health."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。A．Shopping.购物；B．Teaching.教学；C．Family.家庭；D．Health.健康。根据文章的内容可知是关于健康的。故选D。"
+      }
+    ]
   }
 ];

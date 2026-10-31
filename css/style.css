@@ -1,32 +1,40 @@
 /* ==========================================================================
-   初中英语题库与组卷系统 - 主样式表
+   初中英语题库与组卷系统 - 主样式表 (蓝色主题 + 数学网页目录排版)
    ========================================================================== */
 
 /* 主题颜色变量定义 */
 :root {
-  --bg: #f3f4f6;
+  --bg: #f8fafc;
   --card: #ffffff;
-  --tx: #1f2937;
-  --mu: #6b7280;
-  --bd: #e5e7eb;
+  --tx: #1e293b;
+  --mu: #64748b;
+  --bd: #e2e8f0;
   --pr: #2f6fed;
+  --pr-dark: #1d4ed8;
+  --pr-light: #eff6ff;
+  --pr-border: #bfdbfe;
   --prt: #ffffff;
   --ok: #16a34a;
   --tag: #eef3ff;
+  --hover-bg: #f8fafc;
 }
 
 /* 深色模式适配 */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #111318;
-    --card: #1b1e26;
-    --tx: #e5e7eb;
-    --mu: #9ca3af;
-    --bd: #2d323d;
+    --bg: #0f172a;
+    --card: #1e293b;
+    --tx: #e2e8f0;
+    --mu: #94a3b8;
+    --bd: #334155;
     --pr: #5b8cff;
+    --pr-dark: #93c5fd;
+    --pr-light: rgba(59, 130, 246, 0.15);
+    --pr-border: rgba(96, 165, 250, 0.35);
     --prt: #0b1020;
     --ok: #4ade80;
-    --tag: #1f2a44;
+    --tag: #1e293b;
+    --hover-bg: #263349;
   }
 }
 
@@ -48,85 +56,383 @@ header {
   border-bottom: 1px solid var(--bd);
   position: sticky;
   top: 0;
-  z-index: 5;
+  z-index: 20;
   display: flex;
   flex-wrap: wrap;
-  gap: 8px 20px;
+  gap: 8px 24px;
   align-items: center;
-  padding: 10px 20px;
+  padding: 12px 24px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
 }
 
 h1 {
   font-size: 18px;
+  font-weight: 700;
   margin: 0;
   color: var(--pr);
 }
 
 nav {
   display: flex;
-  gap: 4px;
+  gap: 6px;
   flex-wrap: wrap;
 }
 
 nav button {
   border: 0;
   background: none;
-  padding: 6px 12px;
-  border-radius: 6px;
+  padding: 6px 14px;
+  border-radius: 8px;
   color: var(--tx);
   cursor: pointer;
   font-size: 14px;
+  font-weight: 500;
+  transition: all 0.15s ease;
+}
+
+nav button:hover {
+  background: var(--hover-bg);
+  color: var(--pr);
 }
 
 nav button.on {
   background: var(--pr);
   color: var(--prt);
-}
-
-/* 年级切换区 */
-.stage {
-  margin-left: auto;
-  display: flex;
-  gap: 6px;
-  align-items: center;
-  font-size: 13px;
-}
-
-.stage .grade-btn {
-  border: 1px solid var(--bd);
-  background: var(--card);
-  color: var(--tx);
-  font-size: 13px;
-  padding: 4px 10px;
-  border-radius: 6px;
-  cursor: pointer;
-  transition: all 0.15s;
-}
-
-.stage .grade-btn:hover {
-  border-color: var(--pr);
-  color: var(--pr);
-}
-
-.stage .grade-btn.on {
-  background: var(--pr);
-  color: var(--prt);
-  border-color: var(--pr);
+  font-weight: 600;
 }
 
 /* 主内容容器 */
 main {
-  max-width: 1000px;
-  margin: 16px auto;
-  padding: 0 14px;
+  max-width: 1220px;
+  margin: 20px auto;
+  padding: 0 16px;
 }
 
-/* 筛选与操作工具栏 */
+/* ==========================================================================
+   数学网页同款目录排版 (左侧 Sticky 树状目录 + 右侧题库列表)
+   ========================================================================== */
+.bank-layout {
+  display: grid;
+  grid-template-columns: 270px minmax(0, 1fr);
+  gap: 20px;
+  align-items: start;
+}
+
+.catalog-sidebar {
+  position: sticky;
+  top: 72px;
+  max-height: calc(100vh - 92px);
+  overflow-y: auto;
+}
+
+/* 自定义滚动条 */
+.catalog-sidebar::-webkit-scrollbar {
+  width: 5px;
+}
+.catalog-sidebar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.catalog-sidebar::-webkit-scrollbar-thumb {
+  background: var(--bd);
+  border-radius: 3px;
+}
+
+.catalog-box {
+  background: var(--card);
+  border: 1px solid var(--bd);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+}
+
+.catalog-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--bd);
+  user-select: none;
+}
+
+.catalog-title {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--tx);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.catalog-title svg {
+  width: 16px;
+  height: 16px;
+  color: var(--pr);
+  flex-shrink: 0;
+}
+
+.catalog-mobile-meta {
+  display: none;
+  align-items: center;
+  gap: 6px;
+}
+
+.mobile-active-badge {
+  font-size: 12px;
+  color: var(--pr);
+  background: var(--pr-light);
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 500;
+  max-width: 130px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.mobile-toggle-hint {
+  font-size: 12px;
+  color: var(--mu);
+}
+
+.mobile-chevron {
+  width: 16px;
+  height: 16px;
+  color: var(--mu);
+  transition: transform 0.2s ease;
+  transform: rotate(-90deg);
+}
+
+.catalog-body {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* 顶部“全部题库”总览按钮 */
+.chapter-tree-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.chapter-tree-all {
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--bd);
+  background: var(--card);
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--tx);
+}
+
+.chapter-tree-btn:hover {
+  background-color: var(--hover-bg);
+  color: var(--pr);
+}
+
+.chapter-tree-btn.is-active {
+  background-color: var(--pr-light) !important;
+  border-color: var(--pr-border) !important;
+  color: var(--pr-dark) !important;
+  font-weight: 700 !important;
+}
+
+.all-count-badge {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+/* 年级折叠卡片 (details / summary) */
+.chapter-tree-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.nav-grade-card {
+  border: 1px solid var(--bd);
+  border-radius: 11px;
+  overflow: hidden;
+  background: var(--card);
+}
+
+.nav-grade-card > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 10px 12px;
+  background: var(--hover-bg);
+  font-size: 13.5px;
+  font-weight: 700;
+  color: var(--tx);
+  user-select: none;
+}
+
+.nav-grade-card > summary::-webkit-details-marker {
+  display: none;
+}
+
+.nav-grade-card > summary .grade-summary-right {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.nav-grade-card > summary .grade-total {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--mu);
+}
+
+.nav-grade-card > summary::after {
+  content: '⌄';
+  color: var(--mu);
+  font-size: 15px;
+  line-height: 1;
+  transition: transform 0.15s ease;
+}
+
+.nav-grade-card:not([open]) > summary::after {
+  transform: rotate(-90deg);
+}
+
+.nav-grade-content {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* 学期分组小标题 */
+.nav-semester-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.nav-semester-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2px 4px 6px;
+  margin-bottom: 2px;
+  border-bottom: 1px solid var(--bd);
+  font-size: 11.5px;
+  font-weight: 700;
+  color: var(--mu);
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: color 0.15s ease;
+}
+
+.nav-semester-label:hover {
+  color: var(--pr);
+}
+
+.nav-semester-label.is-active {
+  color: var(--pr-dark);
+}
+
+/* 专题/题型子项按钮 */
+.nav-topic-list {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.nav-topic-button {
+  padding: 7px 9px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--tx);
+  font-size: 12.5px;
+  line-height: 1.35;
+}
+
+.nav-topic-button .nav-topic-label {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.nav-topic-button .nav-topic-count {
+  flex-shrink: 0;
+  min-width: 26px;
+  text-align: center;
+  padding: 1.5px 6px;
+  border-radius: 6px;
+  background: var(--hover-bg);
+  color: var(--mu);
+  font-size: 11px;
+  font-weight: 700;
+  border: 1px solid var(--bd);
+}
+
+.nav-topic-button.is-active .nav-topic-count {
+  background: #dbeafe;
+  color: var(--pr-dark);
+  border-color: var(--pr-border);
+}
+
+/* 响应式：移动端折叠目录 (< 1024px) */
+@media (max-width: 1023px) {
+  .bank-layout {
+    grid-template-columns: 1fr;
+  }
+  .catalog-sidebar {
+    position: static;
+    max-height: none;
+  }
+  .catalog-header {
+    cursor: pointer;
+    padding-bottom: 0;
+    border-bottom: 0;
+  }
+  .catalog-box.is-open .catalog-header {
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--bd);
+  }
+  .catalog-mobile-meta {
+    display: flex;
+  }
+  .catalog-body {
+    display: none;
+  }
+  .catalog-box.is-open .catalog-body {
+    display: flex;
+  }
+  .catalog-box.is-open .mobile-chevron {
+    transform: rotate(0deg);
+  }
+}
+
+/* ==========================================================================
+   右侧筛选工具栏与题目卡片
+   ========================================================================== */
 .bar {
+  background: var(--card);
+  border: 1px solid var(--bd);
+  border-radius: 12px;
+  padding: 12px 14px;
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin-bottom: 12px;
+  margin-bottom: 14px;
+  align-items: center;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.02);
 }
 
 input,
@@ -137,8 +443,16 @@ button {
   color: var(--tx);
   background: var(--card);
   border: 1px solid var(--bd);
-  border-radius: 6px;
-  padding: 5px 9px;
+  border-radius: 7px;
+  padding: 6px 10px;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: var(--pr);
+  box-shadow: 0 0 0 2px rgba(47, 111, 237, 0.15);
 }
 
 button {
@@ -149,6 +463,11 @@ button.p {
   background: var(--pr);
   color: var(--prt);
   border-color: var(--pr);
+  font-weight: 500;
+}
+
+button.p:hover {
+  background: var(--pr-dark);
 }
 
 button.d {
@@ -159,24 +478,75 @@ button.d {
 .card {
   background: var(--card);
   border: 1px solid var(--bd);
-  border-radius: 8px;
-  padding: 14px;
-  margin-bottom: 12px;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 14px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.02);
+  transition: box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
 .meta {
   display: flex;
-  gap: 6px;
+  gap: 8px;
   flex-wrap: wrap;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--bd);
   align-items: center;
 }
 
+/* 题目卡片底栏与按钮组合 */
 .card-foot {
   display: flex;
-  justify-content: flex-end;
-  gap: 6px;
-  margin-top: 10px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid var(--bd);
+}
+
+.card-foot-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.card-foot-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.text-btn {
+  background: transparent;
+  border: 1px solid var(--bd);
+  color: var(--mu);
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  user-select: none;
+}
+
+.text-btn:hover {
+  color: var(--pr);
+  border-color: var(--pr);
+  background: var(--pr-light);
+}
+
+.text-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
 }
 
 .card-foot .cart {
@@ -194,19 +564,21 @@ button.d {
 }
 
 .tag {
-  background: var(--tag);
+  background: var(--pr-light);
   color: var(--pr);
-  border-radius: 4px;
-  padding: 0 7px;
+  border: 1px solid var(--pr-border);
+  border-radius: 5px;
+  padding: 1px 8px;
   font-size: 12px;
+  font-weight: 500;
 }
 
 /* 文章材料展示 */
 .pass {
   white-space: pre-wrap;
   border: 1px solid var(--bd);
-  border-radius: 6px;
-  padding: 10px;
+  border-radius: 8px;
+  padding: 12px;
   margin: 8px 0;
   font-family: "Times New Roman", serif;
 }
@@ -311,15 +683,16 @@ button.d {
 
 /* 答案解析 */
 .exp {
-  background: var(--tag);
-  border-radius: 6px;
-  padding: 8px 10px;
-  margin-top: 8px;
+  background: var(--pr-light);
+  border: 1px solid var(--pr-border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-top: 10px;
   font-size: 13px;
 }
 
 .exp b {
-  color: var(--pr);
+  color: var(--pr-dark);
 }
 
 /* 智能组卷网格 */
@@ -334,11 +707,13 @@ button.d {
   background: #ffffff;
   color: #000000;
   border: 1px solid var(--bd);
+  border-radius: 8px;
   padding: 28px 34px;
   font-family: "Times New Roman", "SimSun", serif;
   font-size: 14px;
   max-width: 794px;
   margin: 12px auto;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
 }
 
 .sheet .opts {
@@ -376,9 +751,65 @@ button.d {
 pre {
   white-space: pre-wrap;
   font-size: 12px;
-  background: var(--tag);
+  background: var(--pr-light);
   padding: 8px;
   border-radius: 6px;
+}
+
+/* ==========================================================================
+   Toast 浮动提示组件
+   ========================================================================== */
+.toast-container {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  pointer-events: none;
+}
+
+.toast {
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #ffffff;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  pointer-events: auto;
+  animation: toastIn 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: opacity 0.3s, transform 0.3s;
+}
+
+.toast.success {
+  background: #059669;
+}
+
+.toast.info {
+  background: var(--pr);
+}
+
+.toast.warn {
+  background: #d97706;
+}
+
+.toast.error {
+  background: #dc2626;
+}
+
+@keyframes toastIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
 }
 
 /* 打印样式支持 */
@@ -386,7 +817,10 @@ pre {
   header,
   .bar,
   .noprint,
-  .ctl {
+  .ctl,
+  .catalog-sidebar,
+  .toast-container,
+  [data-html2canvas-ignore="true"] {
     display: none !important;
   }
   body {
@@ -396,5 +830,6 @@ pre {
     border: 0;
     padding: 0;
     margin: 0;
+    box-shadow: none;
   }
 }
