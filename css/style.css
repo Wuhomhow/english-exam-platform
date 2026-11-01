@@ -655,13 +655,18 @@ button.d {
 /* 题目与选项排版 */
 .q {
   margin: 6px 0;
+  color: var(--tx);
+  font-family: "Times New Roman", Georgia, serif;
+  font-size: 15px;
 }
 
 .opts {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 0 12px;
-  color: var(--mu);
+  color: var(--tx);
+  font-family: "Times New Roman", Georgia, serif;
+  font-size: 15px;
 }
 
 .cloze-ans-lines {
