@@ -16926,5 +16926,475 @@ const SAMPLE=[
         "exp": "细节理解题。A．Shopping.购物；B．Teaching.教学；C．Family.家庭；D．Health.健康。根据文章的内容可知是关于健康的。故选D。"
       }
     ]
+  },
+  {
+    "id": "jr_read7a_15",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "配对阅读",
+      "应用文",
+      "七年级上册"
+    ],
+    "title": "七上C篇 · 一 交友需求与朋友选择",
+    "passage": "阅读下面七个人的自我介绍。为五位同学选出他们最适合结交的朋友，将其标号填入题前括号内。\n\nA. I’m Monica. “Clean” is a key word for me. I tidy my room every day.\nB. I’m Jane. I’m independent (独立的). But I don’t know how to teach others.\nC. I’m Emily. I am a shy girl. Are you shy, too? If so, please email me. Let’s make some changes together.\nD. I’m Leo. When others meet problems, I can always find a way to help them out.\nE. I’m Joe. I know many funny stories. My friends think I’m interesting.\nF. I’m Susan. I am friendly. I can talk about anything. People love to talk with me.\nG. I’m Rachel. My parents are very busy every day. That makes me independent. I can help you to be independent too.",
+    "passageHtml": "<p><strong>配对阅读：</strong>阅读下面七个人的自我介绍。为五位同学选出他们最适合结交的朋友，将其标号填入题前括号内。</p><div class=\"bx\"><p><b>A.</b> I’m Monica. “Clean” is a key word for me. I tidy my room every day.</p><p><b>B.</b> I’m Jane. I’m independent (独立的). But I don’t know how to teach others.</p><p><b>C.</b> I’m Emily. I am a shy girl. Are you shy, too? If so, please email me. Let’s make some changes together.</p><p><b>D.</b> I’m Leo. When others meet problems, I can always find a way to help them out.</p><p><b>E.</b> I’m Joe. I know many funny stories. My friends think I’m interesting.</p><p><b>F.</b> I’m Susan. I am friendly. I can talk about anything. People love to talk with me.</p><p><b>G.</b> I’m Rachel. My parents are very busy every day. That makes me independent. I can help you to be independent too.</p></div>",
+    "intro": "本文列出了五个同学的交友需求和七个人的自我介绍，根据交友需求选择适合的朋友。",
+    "qs": [
+      {
+        "q": "(   ) Bill wants to make friends with an interesting person.",
+        "opts": [],
+        "ans": "E",
+        "exp": "根据“Bill wants to make friends with an interesting person.”可知 ，比尔想和一个有趣的人交朋友。E项“我叫乔。我知道很多有趣的故事。我的朋友们认为我很有趣。”符合题意。故选E。"
+      },
+      {
+        "q": "(   ) Ella wants a helpful friend. Her new friend can always help her when she meets problems.",
+        "opts": [],
+        "ans": "D",
+        "exp": "根据“Ella wants a helpful friend. Her new friend can always help her when she meets problems.”可知，埃拉想要一个乐于助人的朋友。D项“我叫利奥。当别人遇到问题时, 我总能找到办法帮助他们。”符合题意。故选D。"
+      },
+      {
+        "q": "(   ) Lisa likes to keep everything tidy. She wants a friend like her.",
+        "opts": [],
+        "ans": "A",
+        "exp": "根据“Lisa likes to keep everything tidy. She wants a friend like her.”可知莉萨想要一个像她一样爱整洁的朋友。A项“我叫莫妮卡。‘干净’是我的关键词。我每天都整理房间。”符合题意。故选A。"
+      },
+      {
+        "q": "(   ) Anna is shy. She wants a nice friend to talk to her.",
+        "opts": [],
+        "ans": "C",
+        "exp": "根据“Anna is shy. She wants a nice friend to talk to her.”可知，安娜很内向，她想找个好朋友和她谈谈。C项“我叫艾米莉。我是个害羞的女孩。你也害羞吗？如果是，请给我发电子邮件。让我们一起做一些改变吧。”符合题意。故选C。"
+      },
+      {
+        "q": "(   ) Charlie wants his new friend to teach him to be independent.",
+        "opts": [],
+        "ans": "G",
+        "exp": "根据“Charlie wants his new friend to teach him to be independent.”可知，查理想让他的新朋友教他独立。G项“我叫雷切尔。我父母每天都很忙。这使我变得独立。我也可以帮助你独立。”符合题意。故选G。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read7a_16",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "配对阅读",
+      "应用文",
+      "七年级上册"
+    ],
+    "title": "七上C篇 · 二 活动计划与地点匹配",
+    "passage": "配对阅读。左栏是五个学生的活动计划，右栏是七个活动地点，请将学生的活动和地点进行匹配，并将答题卡上对应题目所选的选项涂黑。\n\nA. Vanguard Supermarket You can find all kinds of food here to cook at home. The fruits are on sale today. We have a lot of fresh meat, fish and vegetables.\nB. Sports Center Do you like sports? You can watch sports games, like basketball, soccer and so on. Come and join us.\nC. Wen Hua Bookstore We have magazines, dictionaries, maps, newspapers and all kinds of books. Come and buy them at our great sale.\nD. Sports Shop There are caps, shoes, basketballs, soccer balls. baseballs and so on. You can buy them at very good prices.\nE. Clothes Store Different kinds of dresses are on sale here. You can get them at good prices. Come and have a look.\nF. Beijing Zoo We have many kinds of animals from different countries like pandas, lions and monkeys. It’s a good place for children.\nG. Guangzhou Natural Park There is a Spring Flower Show in the park. You can see many beautiful flowers and plants. Come and enjoy with your friends and family.",
+    "passageHtml": "<p><strong>配对阅读：</strong>配对阅读。左栏是五个学生的活动计划，右栏是七个活动地点，请将学生的活动和地点进行匹配，并将答题卡上对应题目所选的选项涂黑。</p><div class=\"bx\"><p><b>A.</b> Vanguard Supermarket You can find all kinds of food here to cook at home. The fruits are on sale today. We have a lot of fresh meat, fish and vegetables.</p><p><b>B.</b> Sports Center Do you like sports? You can watch sports games, like basketball, soccer and so on. Come and join us.</p><p><b>C.</b> Wen Hua Bookstore We have magazines, dictionaries, maps, newspapers and all kinds of books. Come and buy them at our great sale.</p><p><b>D.</b> Sports Shop There are caps, shoes, basketballs, soccer balls. baseballs and so on. You can buy them at very good prices.</p><p><b>E.</b> Clothes Store Different kinds of dresses are on sale here. You can get them at good prices. Come and have a look.</p><p><b>F.</b> Beijing Zoo We have many kinds of animals from different countries like pandas, lions and monkeys. It’s a good place for children.</p><p><b>G.</b> Guangzhou Natural Park There is a Spring Flower Show in the park. You can see many beautiful flowers and plants. Come and enjoy with your friends and family.</p></div>",
+    "intro": "本文左栏是五个学生的活动计划，右栏是七个活动地点，将它们进行匹配。",
+    "qs": [
+      {
+        "q": "(   ) Anna likes English. She wants to have a Chinese-English dictionary to look up new words.",
+        "opts": [],
+        "ans": "C",
+        "exp": "根据“Anna likes English. She wants to have a Chinese-English dictionary to look up new words.”可知，安娜喜欢英语。她想要一本汉英词典来查新词。选项C“我们有杂志、字典、地图、报纸和各种各样的书。在我们的大减价时来买吧。”与之对应，故选C。"
+      },
+      {
+        "q": "(   ) Grace wants to cook a big meal for her family. She needs to buy some vegetables and meat. She also wants to buy some fish.",
+        "opts": [],
+        "ans": "A",
+        "exp": "根据“Grace wants to cook a big meal for her family. She needs to buy some vegetables and meat. She also wants to buy some fish.”可知，格蕾丝想为她的家人做一顿大餐。她需要买些蔬菜和肉。她还想买一些鱼。选项A“你可以在这里找到各种各样的食物在家做饭。今天水果大减价。我们有很多新鲜的肉、鱼和蔬菜。”与之对应，故选A。"
+      },
+      {
+        "q": "(   ) Gina wants to go out and have a good time with her family on Saturday. They like plants.",
+        "opts": [],
+        "ans": "G",
+        "exp": "根据“Gina wants to go out and have a good time with her family on Saturday. They like plants.”可知，吉娜想周六出去和家人玩得开心。他们喜欢植物。选项G“公园里有一场春季花展。你可以看到许多美丽的花草。来和你的朋友和家人一起享受吧。”与之对应，故选G。"
+      },
+      {
+        "q": "(   ) Mike’s birthday is coming. Playing basketball is his favorite. So he wants to get a basketball as a present.",
+        "opts": [],
+        "ans": "D",
+        "exp": "根据“Mike’s birthday is coming. Playing basketball is his favorite. So he wants to get a basketball as a present.”可知，迈克的生日快到了。打篮球是他的最爱。所以他想买一个篮球作为礼物。选项D“有帽子，鞋子，篮球，足球。棒球等等。你可以以很好的价格买到它们。”与之对应，故选D。"
+      },
+      {
+        "q": "(   ) Kate wants to go to her friend’s party. She needs to buy a beautiful dress.",
+        "opts": [],
+        "ans": "E",
+        "exp": "根据“Kate wants to go to her friend’s party. She needs to buy a beautiful dress.”可知，凯特想去参加她朋友的聚会。她需要买一条漂亮的裙子。选项E“这里出售各种各样的衣服。你可以以很好的价格买到它们。过来看看。”与之对应，故选E。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read7a_17",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "配对阅读",
+      "应用文",
+      "七年级上册"
+    ],
+    "title": "七上C篇 · 三 杭州亚运会纪念品挑选",
+    "passage": "Mike到杭州观看亚运会，想为他的家人挑选纪念品做礼物。左栏是Mike的五位家人的基本情况，右栏是纪念品商店中的一些商品介绍。请你帮他做最佳的选择。\n\nA. A set of bookmarks The pictures on the bookmarks are about E-sports. They are from very famous computer games. If you like reading, use them.\nB. A silk fan It’s light and easy to carry. You can see Welcome to the West Lake in Chinese on it. Some ladies like it very much.\nC. A set of stamps You can use your phone to look at them. With the help of AR, the pictures on the stamps will be real in front of your eyes.\nD. A set of coins There are three coins in it. They all have beautiful colors and pictures One of them is about E-sports. They look good on your desk.\nE. A set of mascot (吉祥物) dells The name of this set of mascots is Memories of Jiangnan. They are Congeong, Lianlian and Chenchen. They are soft and cute.\nF. A silk (丝绸) scarf Hangzhou is famous for silk. The scarf is so beautiful and soft. Many ladies like it. It looks good on a dress in white.\nG. A china cup There is a picture of the Broken Bridge on the cup. People know the bridge well because of the famous love story of White Snake.",
+    "passageHtml": "<p><strong>配对阅读：</strong>Mike到杭州观看亚运会，想为他的家人挑选纪念品做礼物。左栏是Mike的五位家人的基本情况，右栏是纪念品商店中的一些商品介绍。请你帮他做最佳的选择。</p><div class=\"bx\"><p><b>A.</b> A set of bookmarks The pictures on the bookmarks are about E-sports. They are from very famous computer games. If you like reading, use them.</p><p><b>B.</b> A silk fan It’s light and easy to carry. You can see Welcome to the West Lake in Chinese on it. Some ladies like it very much.</p><p><b>C.</b> A set of stamps You can use your phone to look at them. With the help of AR, the pictures on the stamps will be real in front of your eyes.</p><p><b>D.</b> A set of coins There are three coins in it. They all have beautiful colors and pictures One of them is about E-sports. They look good on your desk.</p><p><b>E.</b> A set of mascot (吉祥物) dells The name of this set of mascots is Memories of Jiangnan. They are Congeong, Lianlian and Chenchen. They are soft and cute.</p><p><b>F.</b> A silk (丝绸) scarf Hangzhou is famous for silk. The scarf is so beautiful and soft. Many ladies like it. It looks good on a dress in white.</p><p><b>G.</b> A china cup There is a picture of the Broken Bridge on the cup. People know the bridge well because of the famous love story of White Snake.</p></div>",
+    "intro": "本文分别介绍Mike的五位家人的基本情况和纪念品商店中的一些商品。",
+    "qs": [
+      {
+        "q": "(   ) Peter, Mike’s father, is a businessman. He has a fan factory. He loves something with AR.",
+        "opts": [],
+        "ans": "C",
+        "exp": "根据“Peter, Mike’s father, is a businessman. He has a fan factory. He loves something with AR.”可知，彼得，迈克的父亲，是一个商人。他有一个风扇工厂。他喜欢AR。选项C“一套邮票——你可以用手机看。在增强现实技术的帮助下，邮票上的图片将在你眼前变得真实。”与之相符，故选C。"
+      },
+      {
+        "q": "(   ) Grace, Mike’s mother, is a beautiful woman. She needs something to go with her new white dress.",
+        "opts": [],
+        "ans": "F",
+        "exp": "根据“Grace, Mike’s mother, is a beautiful woman. She needs something to go with her new white dress.”可知，格蕾丝，迈克的妈妈，是一个美丽的女人。她需要一些东西来配她的新的白裙子。选项F“一条丝巾——杭州以丝绸闻名。这条围巾是如此美丽和柔软。很多女士都喜欢。它与白色的裙子搭配很好看。”与之相符，故选F。"
+      },
+      {
+        "q": "(   ) Jack, Mike’s grandfather, is very interested in Chinese stories. He drinks tea every day.",
+        "opts": [],
+        "ans": "G",
+        "exp": "根据“Jack, Mike’s grandfather, is very interested in Chinese stories. He drinks tea every day.”可知，杰克，迈克的爷爷，对中国故事很感兴趣。他每天都喝茶。选项G“一个瓷杯——杯子上有一张断桥的照片。人们对这座桥很熟悉，因为著名的白蛇爱情故事。”与之相符，故选G。"
+      },
+      {
+        "q": "(   ) Tom, Mike’s cousin, is an E-sports lover. He wants something beautiful to put on his desk.",
+        "opts": [],
+        "ans": "D",
+        "exp": "根据“Tom, Mike’s cousin, is an E-sports lover. He wants something beautiful to put on his desk.”可知，汤姆，迈克的表弟，是一个电子竞技爱好者。他想要漂亮的东西放在他的桌子上。选项D“一套硬币——里面有三枚硬币。它们都有漂亮的颜色和图片，其中一个是关于电子竞技的。它们放在桌上很好看。”与之相符，故选D。"
+      },
+      {
+        "q": "(   ) Lucy, Mike’s younger sister, is only 4 years old. She likes playing with soft toys.",
+        "opts": [],
+        "ans": "E",
+        "exp": "根据“Lucy, Mike’s younger sister, is only 4 years old. She likes playing with soft toys.”可知，露西，迈克的妹妹，只有4岁。她喜欢玩柔软的玩具。选项E“一套吉祥物——这组吉祥物的名字是“江南忆”。它们是琮琮，莲莲和宸宸。它们又软又可爱。”与之相符，故选E。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read7a_18",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "配对阅读",
+      "应用文",
+      "七年级上册"
+    ],
+    "title": "七上C篇 · 四 个人兴趣需求与解决方案",
+    "passage": "配对阅读。左栏是五个人的需求，右栏是七则解决他们需求的方案。请为每个人选择一则合适的方案，并在答题卡上将该项涂黑。\n\nA. Welcome to Guangzhou Zoo! Here you can see many animals, such as tigers, pandas, monkeys and so on.\nB. There is a bookshop on Xinhua Street. There are many books in the bookshop. You can come and have a look.\nC. Boys and girls are welcomed to our basketball club. If you come, you will have a good time here.\nD. Would you like to go to the park with me? There are many flowers here and they are very beautiful.\nE. We have many good dancing teachers in our club. You can come to take dancing classes here.\nF. Come and join our football team. We will play football together and have fun together.\nG. Here is a book about cooking. You can learn to cook from it. It will help you cook delicious food.",
+    "passageHtml": "<p><strong>配对阅读：</strong>配对阅读。左栏是五个人的需求，右栏是七则解决他们需求的方案。请为每个人选择一则合适的方案，并在答题卡上将该项涂黑。</p><div class=\"bx\"><p><b>A.</b> Welcome to Guangzhou Zoo! Here you can see many animals, such as tigers, pandas, monkeys and so on.</p><p><b>B.</b> There is a bookshop on Xinhua Street. There are many books in the bookshop. You can come and have a look.</p><p><b>C.</b> Boys and girls are welcomed to our basketball club. If you come, you will have a good time here.</p><p><b>D.</b> Would you like to go to the park with me? There are many flowers here and they are very beautiful.</p><p><b>E.</b> We have many good dancing teachers in our club. You can come to take dancing classes here.</p><p><b>F.</b> Come and join our football team. We will play football together and have fun together.</p><p><b>G.</b> Here is a book about cooking. You can learn to cook from it. It will help you cook delicious food.</p></div>",
+    "intro": "本文要求为左栏五个人的需求匹配相应的方案。",
+    "qs": [
+      {
+        "q": "(   ) My classmate Lucy likes dancing very much. She wants to learn to dance.",
+        "opts": [],
+        "ans": "E",
+        "exp": "根据“She wants to learn to dance.”可知，她想学跳舞，E选项“我们俱乐部有很多优秀的舞蹈老师。你可以来这里上舞蹈课”符合，故选E。"
+      },
+      {
+        "q": "(   ) My mother likes cooking. She would like to learn to cook delicious food.",
+        "opts": [],
+        "ans": "G",
+        "exp": "根据“She would like to learn to cook delicious food.”可知，想要学习烹饪美食，G选项“这里有一本关于烹饪的书。你可以从中学习烹饪。它会帮助你烹饪美味的食物”符合，故选G。"
+      },
+      {
+        "q": "(   ) My father likes reading books. He wants to buy some books.",
+        "opts": [],
+        "ans": "B",
+        "exp": "根据“He wants to buy some books”可知，他想买一些书，B选项“新华街上有一家书店。书店里有很多书。你可以过来看看”符合，故选B。"
+      },
+      {
+        "q": "(   ) My brother likes animals, such as tigers and pandas. He wants to see the animals.",
+        "opts": [],
+        "ans": "A",
+        "exp": "根据“He wants to see the animals.”可知，他想去看动物，A选项“欢迎来到广州动物园！在这里你可以看到许多动物，如老虎、熊猫、猴子等”符合，故选A。"
+      },
+      {
+        "q": "(   ) My friend Ted likes playing football very much. He would like to join a football team.",
+        "opts": [],
+        "ans": "F",
+        "exp": "根据“He would like to join a football team”可知，他想要加入一个足球队，F选项“来加入我们的足球队吧。我们会一起踢足球，一起玩得开心”符合，故选F。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read7a_19",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "配对阅读",
+      "应用文",
+      "七年级上册"
+    ],
+    "title": "七上C篇 · 五 家人特征描述与人物介绍",
+    "passage": "配对阅读：请从右栏所给信息，选出最符合左栏描述的个人介绍。\n\nA. Sharon is a fashionable (时尚的) mother. She likes jackets, and she is often in jackets of all kinds of colors.\nB. John loves dogs. He has a cute dog named Sun. And he says Sun is his best friend.\nC. Michael is a phone lover. And he likes the color black, so he always has a black phone in his hand.\nD. Adam is an English teacher in a middle school. He can speak English well. His students like him and they often take photos of him.\nE. Tina is a good girl. She is nice to others, so they like to be her friends. And she often takes photos of her friends.\nF. Mr. West and Mrs. West are both 80. They are so nice, and they like dogs very much.\nG. Mary is a middle school student. Her English is very good, and she often helps her friends with their English.",
+    "passageHtml": "<p><strong>配对阅读：</strong>配对阅读：请从右栏所给信息，选出最符合左栏描述的个人介绍。</p><div class=\"bx\"><p><b>A.</b> Sharon is a fashionable (时尚的) mother. She likes jackets, and she is often in jackets of all kinds of colors.</p><p><b>B.</b> John loves dogs. He has a cute dog named Sun. And he says Sun is his best friend.</p><p><b>C.</b> Michael is a phone lover. And he likes the color black, so he always has a black phone in his hand.</p><p><b>D.</b> Adam is an English teacher in a middle school. He can speak English well. His students like him and they often take photos of him.</p><p><b>E.</b> Tina is a good girl. She is nice to others, so they like to be her friends. And she often takes photos of her friends.</p><p><b>F.</b> Mr. West and Mrs. West are both 80. They are so nice, and they like dogs very much.</p><p><b>G.</b> Mary is a middle school student. Her English is very good, and she often helps her friends with their English.</p></div>",
+    "intro": "本文是五位同学对自己家人的简单描述和七个不同人物的介绍，需根据描述对应具体的人物。",
+    "qs": [
+      {
+        "q": "(   ) My grandparents are kind. They have a dog named Coco.",
+        "opts": [],
+        "ans": "F",
+        "exp": "根据“My grandparents are kind. They have a dog named Coco.”可知，祖父母很善良，他们有一只叫可可的狗；选项F“韦斯特先生和韦斯特太太都80岁了。他们很好，他们非常喜欢狗。”与之匹配。故选F。"
+      },
+      {
+        "q": "(   ) My father’s English is very good. In this photo, he’s teaching (教)  English.",
+        "opts": [],
+        "ans": "D",
+        "exp": "根据“My father’s English is very good. In this photo, he’s teaching (教) English.”可知，爸爸的英语很好，照片中的他正在教英语；选项D“亚当是一所中学的英语老师。他英语说得很好。他的学生喜欢他，他们经常给他拍照。”与之匹配。故选D。"
+      },
+      {
+        "q": "(   ) My mother has many jackets of different (不同的) colors. She looks cool in them.",
+        "opts": [],
+        "ans": "A",
+        "exp": "根据“My mother has many jackets of different (不同的) colors. She looks cool in them.”可知，妈妈有许多不同颜色的夹克衫，穿起来很酷；选项A“莎伦是一位时髦的母亲。她喜欢夹克，她经常穿着各种颜色的夹克。”与之匹配。故选A。"
+      },
+      {
+        "q": "(   ) My sister has five good friends and she has some photos of them.",
+        "opts": [],
+        "ans": "E",
+        "exp": "根据“My sister has five good friends and she has some photos of them.”可知，妹妹有五个好朋友，她有一些他们的照片；选项E“蒂娜是个好女孩。她对别人很好，所以他们喜欢和她做朋友。她经常给她的朋友拍照。”与之匹配。故选E。"
+      },
+      {
+        "q": "(   ) My cousin has a black phone. It looks really good.",
+        "opts": [],
+        "ans": "C",
+        "exp": "根据“My cousin has a black phone. It looks really good.”可知，表弟有一部黑色的手机，看起来真的很不错；选项C“迈克尔是个手机爱好者。他喜欢黑色，所以他手里总是拿着一部黑色的手机。”与之匹配。故选C。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read7a_20",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "配对阅读",
+      "应用文",
+      "七年级上册"
+    ],
+    "title": "七上C篇 · 六 同学自我介绍与朋友描述",
+    "passage": "配对阅读。左栏是对五位学生的自我介绍，右栏是朋友对他们的情况描述。请选出与自我介绍一致的选项。\n\nA. Helen is my friend. This is Helen’s favorite pen. It’s blue and white.\nB. She is in No.3 Middle School. She has a small sports collection of volleyballs.\nC. It’s a green ruler. It’s Cindy’s. Green is her last name. She is my friend. She likes green. Her phone is green, too. Her phone number is 325-7012.\nD. Jim is my friend. Smith is his last name. He has a twin brother.\nE. My name is Li Wen. Henry is my friend. He is from England. He is visiting his friend in China now.\nF. My friend Dale’s family photo is on the table. Dale, his parents and his sister are in the photo. It’s a happy family.\nG. My pen pal is from the USA．He has blue eyes and blonde hair. He is in China now.",
+    "passageHtml": "<p><strong>配对阅读：</strong>配对阅读。左栏是对五位学生的自我介绍，右栏是朋友对他们的情况描述。请选出与自我介绍一致的选项。</p><div class=\"bx\"><p><b>A.</b> Helen is my friend. This is Helen’s favorite pen. It’s blue and white.</p><p><b>B.</b> She is in No.3 Middle School. She has a small sports collection of volleyballs.</p><p><b>C.</b> It’s a green ruler. It’s Cindy’s. Green is her last name. She is my friend. She likes green. Her phone is green, too. Her phone number is 325-7012.</p><p><b>D.</b> Jim is my friend. Smith is his last name. He has a twin brother.</p><p><b>E.</b> My name is Li Wen. Henry is my friend. He is from England. He is visiting his friend in China now.</p><p><b>F.</b> My friend Dale’s family photo is on the table. Dale, his parents and his sister are in the photo. It’s a happy family.</p><p><b>G.</b> My pen pal is from the USA．He has blue eyes and blonde hair. He is in China now.</p></div>",
+    "intro": "本文是一篇记叙文。文章主要内容为五位同学的自我介绍以及七则朋友对他们的描述情况。",
+    "qs": [
+      {
+        "q": "(   ) Hi! I’m Jenny. I like playing volleyball. So I like to collect volleyballs.",
+        "opts": [],
+        "ans": "B",
+        "exp": "根据“I like playing volleyball. So I like to collect volleyballs.”可知，我喜欢打排球，所以喜欢收集排球。选项B“她在第三中学，她收藏了一小部分排球。”与之对应。故选B。"
+      },
+      {
+        "q": "(   ) My name is Jim Smith. I have a brother. We are twins.",
+        "opts": [],
+        "ans": "D",
+        "exp": "根据“My name is Jim Smith. I have a brother. We are twins.”可知，我的名字是Jim Smith，我有一个双胞胎兄弟。选项D“Jim是我的朋友，Smith是他的姓，他有一个双胞胎兄弟。”与之对应。故选D。"
+      },
+      {
+        "q": "(   ) I’m Jack Miller. I am an American boy. I am visiting my Chinese friend now.",
+        "opts": [],
+        "ans": "G",
+        "exp": "根据“I am an American boy. I am visiting my Chinese friend now.”可知，我是一个美国男孩，我现在正在拜访我的中国朋友。选项G“我的笔友来自美国。他有一双蓝眼睛和一头金发，他现在在中国。”与之对应。故选G。"
+      },
+      {
+        "q": "(   ) There are 4 people in my family. Look! This is my family photo.",
+        "opts": [],
+        "ans": "F",
+        "exp": "根据“There are 4 people in my family. Look! This is my family photo.”可知，我们家有四口人，看，这是我们家庭的照片。选项F“我朋友Dale的全家福在桌子上，照片中有Dale、他的父母和妹妹。这是一个幸福的家庭。”与之对应。故选F。"
+      },
+      {
+        "q": "(   ) I like white and blue. Most of my school things are white and blue.",
+        "opts": [],
+        "ans": "A",
+        "exp": "根据“I like white and blue. Most of my school things are white and blue.”可知，我喜欢蓝色和白色，大部分我学校的东西都是蓝色和白色的。选项A“Helen是我的朋友，这是Helen最喜欢的钢笔，它是蓝色和白色的。”与之对应。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read7a_21",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "配对阅读",
+      "应用文",
+      "七年级上册"
+    ],
+    "title": "七上C篇 · 七 喜爱的颜色与代表物品",
+    "passage": "配对阅读  左栏是对五个人喜爱的颜色的描述，右栏是七个物品，请为每一个人选择最适合的物品。\n\nA. Look at this. It’s white. It’s a nice cup.\nB. This is a pen. The pen is nice. What color is it? Oh, it’s yellow.\nC. What’s this in English? Oh, it’s a pencil. And it’s red.\nD. Look, it is a bag. It’s a beautiful bag. The bag is green.\nE. It’s a map. What color is it? Oh, it’s brown.\nF. This is a jacket. What color is it? It’s orange. Orange is nice.\nG. Look at this ruler. It’s a purple ruler. I like it.",
+    "passageHtml": "<p><strong>配对阅读：</strong>配对阅读  左栏是对五个人喜爱的颜色的描述，右栏是七个物品，请为每一个人选择最适合的物品。</p><div class=\"bx\"><p><b>A.</b> Look at this. It’s white. It’s a nice cup.</p><p><b>B.</b> This is a pen. The pen is nice. What color is it? Oh, it’s yellow.</p><p><b>C.</b> What’s this in English? Oh, it’s a pencil. And it’s red.</p><p><b>D.</b> Look, it is a bag. It’s a beautiful bag. The bag is green.</p><p><b>E.</b> It’s a map. What color is it? Oh, it’s brown.</p><p><b>F.</b> This is a jacket. What color is it? It’s orange. Orange is nice.</p><p><b>G.</b> Look at this ruler. It’s a purple ruler. I like it.</p></div>",
+    "intro": "本文左栏是对五个人喜爱的颜色的描述，右栏是七个物品，请为每一个人选择最适合的物品。",
+    "qs": [
+      {
+        "q": "(   ) Hello! I am Grace. I like red and blue.",
+        "opts": [],
+        "ans": "C",
+        "exp": "根据“I like red and blue.”可知，喜欢红色和蓝色，C选项“这个用英语怎么说？哦，是一支铅笔。它是红色的”符合，故选C。"
+      },
+      {
+        "q": "(   ) I’m Alice. My favorite color is green.",
+        "opts": [],
+        "ans": "D",
+        "exp": "根据“My favorite color is green.”可知，最喜欢绿色，D选项“看，它是一个包。这是一个漂亮的包。这个包是绿色的。”符合，故选D。"
+      },
+      {
+        "q": "(   ) My name is Jack. I like yellow. It’s bright and it’s like the sun.",
+        "opts": [],
+        "ans": "B",
+        "exp": "根据“I like yellow”可知，喜欢黄色，B选项“这是一支钢笔。这支钢笔很好。它是什么颜色的？哦，它是黄色的”符合，故选B。"
+      },
+      {
+        "q": "(   ) I am Frank. What color are my things? Haha, they are all white. I like white very much.",
+        "opts": [],
+        "ans": "A",
+        "exp": "根据“I like white very much.”可知，非常喜欢白色，A选项“看看这个。它是白色的。这是一个很好的杯子”符合，故选A。"
+      },
+      {
+        "q": "(   ) Hi, my name is Eric. I like orange. But I don’t like black.",
+        "opts": [],
+        "ans": "F",
+        "exp": "根据“I like orange. But I don’t like black.”可知，喜欢橙色，但是不喜欢黑色，F选项“这是一件夹克。它是什么颜色的？它是橙色的。橙色很好看”符合，故选F。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read7a_22",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "配对阅读",
+      "应用文",
+      "七年级上册"
+    ],
+    "title": "七上C篇 · 八 体育运动爱好与俱乐部招募",
+    "passage": "左栏是5个人的体育爱好，右栏是7则体育俱乐部club招募会员的广告，请为每个人选择最合适的一项。\n\nA. We have a skating center this winter holiday. Welcome to join us.\nB. Come and join the Chess Club. Everyone can learn from each other.\nC. Do you want to be Deng Yaping? Welcome to our Ping-pong Club!\nD. We invite you to join our Cool Tennis Club on weekends! You will have lots of fun here.\nE. Do you like to play soccer? You are lucky now. Our soccer team is open for you!\nF. Do you like Yao Ming? Are you a basketball fan? Come and join our Sunny Basketball Club. You will never forget the time with us.\nG. Are you a young girl? Do you want to be strong? Then welcome to join our Volleyball Team.",
+    "passageHtml": "<p><strong>配对阅读：</strong>左栏是5个人的体育爱好，右栏是7则体育俱乐部club招募会员的广告，请为每个人选择最合适的一项。</p><div class=\"bx\"><p><b>A.</b> We have a skating center this winter holiday. Welcome to join us.</p><p><b>B.</b> Come and join the Chess Club. Everyone can learn from each other.</p><p><b>C.</b> Do you want to be Deng Yaping? Welcome to our Ping-pong Club!</p><p><b>D.</b> We invite you to join our Cool Tennis Club on weekends! You will have lots of fun here.</p><p><b>E.</b> Do you like to play soccer? You are lucky now. Our soccer team is open for you!</p><p><b>F.</b> Do you like Yao Ming? Are you a basketball fan? Come and join our Sunny Basketball Club. You will never forget the time with us.</p><p><b>G.</b> Are you a young girl? Do you want to be strong? Then welcome to join our Volleyball Team.</p></div>",
+    "intro": "本文介绍了五位同学各自喜爱的运动及运动需求，同时给出七个俱乐部招募信息，需要为每位同学匹配最合适的俱乐部。",
+    "qs": [
+      {
+        "q": "(   ) Zhao Ming likes volleyball very much. She wants to play it with other girls and form a strong team.",
+        "opts": [],
+        "ans": "G",
+        "exp": "赵明非常喜欢排球，想要和其他女生一同打球，组建一支实力强劲的队伍。G选项“Are you a young girl? Do you want to be strong? Then welcome to join our Volleyball Team.”面向女生招募排球队队员，与赵明的需求匹配。"
+      },
+      {
+        "q": "(   ) Han Peng is good at tennis. He loves it very much. He wants to do more practice.",
+        "opts": [],
+        "ans": "D",
+        "exp": "韩鹏擅长网球，十分热爱这项运动，希望能多加练习。D选项“We invite you to join our Cool Tennis Club on weekends! You will have lots of fun here.”邀请大家加入网球俱乐部开展练习，与韩鹏的需求匹配。"
+      },
+      {
+        "q": "(   ) Tom’s Chinese friends are good at playing ping-pong. Tom wants to learn to play it, too.",
+        "opts": [],
+        "ans": "C",
+        "exp": "汤姆的中国朋友乒乓球打得很好，他也想要学习乒乓球。C选项“Do you want to be Deng Yaping? Welcome to our Ping-pong Club!”欢迎乒乓球爱好者加入乒乓球俱乐部，与汤姆的需求匹配。"
+      },
+      {
+        "q": "(   ) Basketball is Joe’s favorite sport. He is good at it.",
+        "opts": [],
+        "ans": "F",
+        "exp": "篮球是乔最喜爱的运动，而且他很擅长打篮球。F选项“Do you like Yao Ming? Are you a basketball fan? Come and join our Sunny Basketball Club. You will never forget the time with us.”招募篮球爱好者加入篮球俱乐部，与乔的需求匹配。"
+      },
+      {
+        "q": "(   ) Betty loves playing chess, and she hopes she can play it with different people and improve herself.",
+        "opts": [],
+        "ans": "B",
+        "exp": "贝蒂热爱下棋，希望能和不同的人对弈，提升自身棋艺。B选项“Come and join the Chess Club. Everyone can learn from each other.”国际象棋俱乐部内成员可以互相学习切磋，与贝蒂的需求匹配。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read7a_23",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "配对阅读",
+      "应用文",
+      "七年级上册"
+    ],
+    "title": "七上C篇 · 九 留学生饮食偏好与中国传统菜式",
+    "passage": "配对阅读  左栏是五位外国留学生的饮食喜好，右栏是相应的中国传统菜式。请为左栏的每位学生选择一道合适的菜式。\n\nA. Dongpo Pork (猪肉)  It’s named after the famous poet Su Dongpo. It is a traditional dish of braised pork. People who enjoy meat are sure to love this dish.\nB. Dan Dan Noodles  It is a famous traditional dish in Chengdu, Sichuan. It tastes delicious and people can eat it all around China.\nC. Doufunao  It’s a kind of snow-white food. People use beans to make it. It is soft, delicious and healthy. People usually enjoy it with sugar.\nD. Yancai  It is a popular sour dish in Guizhou. People make it with different vegetables. It tastes sour but nice and is also good for health.\nE. Hot pot  It is popular in Sichuan. People cook in and eat from a pot of soup. They can add and cook whatever they like in it.\nF. Yangzhou Fried Rice  It is a dish of fried rice often with eggs, vegetables, seafood, or meat.\nG. Xiaolongbao  They are traditionally cooked in a small bamboo basket, which gives them their name. There is usually pork inside.",
+    "passageHtml": "<p><strong>配对阅读：</strong>配对阅读  左栏是五位外国留学生的饮食喜好，右栏是相应的中国传统菜式。请为左栏的每位学生选择一道合适的菜式。</p><div class=\"bx\"><p><b>A.</b> Dongpo Pork (猪肉)  It’s named after the famous poet Su Dongpo. It is a traditional dish of braised pork. People who enjoy meat are sure to love this dish.</p><p><b>B.</b> Dan Dan Noodles  It is a famous traditional dish in Chengdu, Sichuan. It tastes delicious and people can eat it all around China.</p><p><b>C.</b> Doufunao  It’s a kind of snow-white food. People use beans to make it. It is soft, delicious and healthy. People usually enjoy it with sugar.</p><p><b>D.</b> Yancai  It is a popular sour dish in Guizhou. People make it with different vegetables. It tastes sour but nice and is also good for health.</p><p><b>E.</b> Hot pot  It is popular in Sichuan. People cook in and eat from a pot of soup. They can add and cook whatever they like in it.</p><p><b>F.</b> Yangzhou Fried Rice  It is a dish of fried rice often with eggs, vegetables, seafood, or meat.</p><p><b>G.</b> Xiaolongbao  They are traditionally cooked in a small bamboo basket, which gives them their name. There is usually pork inside.</p></div>",
+    "intro": "本文左栏描述了五位外国留学生的饮食偏好，右栏介绍了七种中国传统美食及其特色，要求为每位学生匹配合适的菜式。",
+    "qs": [
+      {
+        "q": "(   ) Tina has a sweet tooth. She also likes food made from beans.",
+        "opts": [],
+        "ans": "C",
+        "exp": "根据“Tina has a sweet tooth. She also likes food made from beans.”可知，她需要一道甜味的豆制品，选项C介绍Doufunao用豆子制作且通常加糖食用，符合特点。"
+      },
+      {
+        "q": "(   ) Ken studies in Sichuan and he is a big fan of noodles.",
+        "opts": [],
+        "ans": "B",
+        "exp": "根据”Ken studies in Sichuan and he is a big fan of noodles.”可知，他需要一道四川特色面条，选项B介绍Dan Dan Noodles是四川成都著名传统面条，符合地域和种类需求。"
+      },
+      {
+        "q": "(   ) Yolanda likes to find out the stories behind every dish. She loves eating meat.",
+        "opts": [],
+        "ans": "A",
+        "exp": "根据“Yolanda likes to find out the stories behind every dish. She loves eating meat.”可知，她需要一道有文化故事背景的肉类菜肴，选项A介绍Dongpo Pork以诗人苏东坡命名且是红烧肉，符合背景和肉食需求。"
+      },
+      {
+        "q": "(   ) Candy loves food with meat. Food in a special basket seems interesting to her.",
+        "opts": [],
+        "ans": "G",
+        "exp": "根据”Candy loves food with meat. Food in a special basket seems interesting to her.”可知，她需要一道用篮子盛放的肉馅菜式，选项G介绍Xiaolongbao用小竹篮蒸制且内有猪肉，符合容器和馅料需求。"
+      },
+      {
+        "q": "(   ) James likes a dish with rice, vegetables and seafood in Spain. He wants to find a similar one in China.",
+        "opts": [],
+        "ans": "F",
+        "exp": "根据“James likes a dish with rice, vegetables and seafood in Spain. He wants to find a similar one in China.”可知，他需要一道包含米饭、蔬菜和海鲜的中式菜肴，选项F介绍Yangzhou Fried Rice配有蔬菜、海鲜等，符合食材搭配。"
+      }
+    ]
+  },
+  {
+    "id": "jr_read7a_24",
+    "stage": "junior",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "配对阅读",
+      "应用文",
+      "七年级上册"
+    ],
+    "title": "七上C篇 · 十 物品遗失寻物与失物招领",
+    "passage": "左栏是五个学生的烦恼与问题的描述，右栏是七种解决办法。请将他们的问题与解决方法配对。\n\nA. I found a school ID card on my way(路) home. You can go to Class 4, Grade 7 and ask Eric for it.\nB. Do you lose a watch? I found a black one in the library. Please call Jack at 266 2788.\nC. There is a Chinese dictionary in the Lost and Found box. Why not go and see if it is yours?\nD. Hello, there are some lost cats and dogs in our center. Come and see if they are yours.\nE. An English dictionary is in the Lost and Found box. And there is a name Lily on it.\nF. I found a black bag in Class 5,Grade 7. There are two tennis rackets in it. Is it yours?\nG. Are they  your  blue  watches  on the teacher's desk? Frank found them in the computer room.",
+    "passageHtml": "<p><strong>配对阅读：</strong>左栏是五个学生的烦恼与问题的描述，右栏是七种解决办法。请将他们的问题与解决方法配对。</p><div class=\"bx\"><p><b>A.</b> I found a school ID card on my way(路) home. You can go to Class 4, Grade 7 and ask Eric for it.</p><p><b>B.</b> Do you lose a watch? I found a black one in the library. Please call Jack at 266 2788.</p><p><b>C.</b> There is a Chinese dictionary in the Lost and Found box. Why not go and see if it is yours?</p><p><b>D.</b> Hello, there are some lost cats and dogs in our center. Come and see if they are yours.</p><p><b>E.</b> An English dictionary is in the Lost and Found box. And there is a name Lily on it.</p><p><b>F.</b> I found a black bag in Class 5,Grade 7. There are two tennis rackets in it. Is it yours?</p><p><b>G.</b> Are they  your  blue  watches  on the teacher's desk? Frank found them in the computer room.</p></div>",
+    "intro": "这里分别是不同的丢失物品的寻物启事和招领启事的匹配。",
+    "qs": [
+      {
+        "q": "(   ) Lucy lost a  black watch in   the library this morning. Does anyone find it?",
+        "opts": [],
+        "ans": "B",
+        "exp": "根据1后的“Lucy lost a black watch in the library this morning. Does anyone find it?”与选项B中的“Do you lose a watch? I found a black one in the library.”相匹配，故选B。"
+      },
+      {
+        "q": "(   ) Lily's  English  dictionary  is   red.  Her name is on it. She lost it in the school.",
+        "opts": [],
+        "ans": "E",
+        "exp": "根据2后的“Lily's English dictionary is red. Her name is on it. She lost it in the school.”与选项E中的“An English dictionary is in the Lost and Found box. And there is a name Lily on it.”相匹配，故选E。"
+      },
+      {
+        "q": "(   ) Tony lost his white dog. If anyone findsit, please send it to the animal care center(动物看护中心).",
+        "opts": [],
+        "ans": "D",
+        "exp": "根据3后的“Tony lost his white dog.”与选项D中的“there are some lost cats and dogs in our center. Come and see if they are yours.”相匹配，故选D。"
+      },
+      {
+        "q": "(   ) Bob lost his tennis rackets(球拍) in the classroom. He is in Class 5, Grade 7.",
+        "opts": [],
+        "ans": "F",
+        "exp": "根据4后的“Bob lost his tennis rackets(球拍) in the classroom.He is in Class 5, Grade 7.”与选项F中的“I found a black bag in Class 5,Grade 7. There are two tennis rackets in it.”相匹配，故选F。"
+      },
+      {
+        "q": "(   ) Emma   lost   her   school   ID   card  this afternoon. If you find it, please call 758-1056.",
+        "opts": [],
+        "ans": "A",
+        "exp": "根据5后的“Emma lost her school ID card this afternoon.”与选项A中的“I found a school ID card on my way(路) home.”相匹配，故选A。"
+      }
+    ]
   }
 ];
