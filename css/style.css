@@ -828,6 +828,157 @@ pre {
   }
 }
 
+/* ==========================================================================
+   全库综合搜索组件样式 (无论在哪个年级页面都能全面搜索)
+   ========================================================================== */
+.search-input-box {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex: 1;
+  min-width: 220px;
+}
+
+.search-box-icon {
+  position: absolute;
+  left: 10px;
+  color: var(--mu);
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-input-box input#fq {
+  width: 100%;
+  padding-left: 32px;
+  padding-right: 30px;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.search-input-box input#fq:focus {
+  border-color: var(--pr);
+  box-shadow: 0 0 0 3px rgba(47, 111, 237, 0.12);
+}
+
+.search-clear-btn {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: none;
+  background: #cbd5e1;
+  color: #475569;
+  font-size: 11px;
+  line-height: 1;
+  padding: 0;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+  user-select: none;
+}
+
+.search-clear-btn:hover {
+  background: #94a3b8;
+  color: #ffffff;
+}
+
+.search-clear-btn.is-visible {
+  display: flex;
+}
+
+/* 搜索结果提示条与空状态 */
+.search-summary-banner {
+  background: var(--pr-light);
+  border: 1px solid var(--pr-border);
+  border-radius: 10px;
+  padding: 10px 14px;
+  margin-bottom: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 13.5px;
+  color: var(--pr-dark);
+  flex-wrap: wrap;
+}
+
+.search-banner-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+  min-width: 200px;
+}
+
+.search-banner-icon {
+  font-size: 16px;
+  line-height: 1;
+}
+
+.btn-clear-search {
+  padding: 5px 12px;
+  font-size: 12.5px;
+  border-radius: 6px;
+  background: var(--card);
+  color: var(--pr);
+  border: 1px solid var(--pr-border);
+  cursor: pointer;
+  white-space: nowrap;
+  font-weight: 500;
+  transition: all 0.15s ease;
+}
+
+.btn-clear-search:hover {
+  background: var(--pr);
+  color: var(--prt);
+  border-color: var(--pr);
+}
+
+.search-empty-state {
+  text-align: center;
+  padding: 36px 16px;
+}
+
+.search-empty-icon {
+  font-size: 40px;
+  margin-bottom: 12px;
+  opacity: 0.6;
+}
+
+.search-empty-state h3 {
+  margin: 0 0 8px 0;
+  font-size: 17px;
+  color: var(--tx);
+}
+
+.search-empty-state p {
+  margin: 0 0 18px 0;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.btn-clear-search-p {
+  padding: 8px 18px;
+  font-size: 14px;
+  border-radius: 7px;
+  background: var(--pr);
+  color: var(--prt);
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background 0.15s ease;
+}
+
+.btn-clear-search-p:hover {
+  background: var(--pr-dark);
+}
+
 /* 打印样式支持 */
 @media print {
   header,
