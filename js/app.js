@@ -299,8 +299,9 @@ if(clearBtn){
 }
 ["fq","ft","fs","fd"].forEach(i=>$("#"+i).addEventListener("input",up));drawList()}
 else if(v==="auto"){a.innerHTML=`<div class="card"><h3 style="margin-top:0">智能组卷（按题型数量随机抽题）</h3><div class="grid">${TYPES.map(t=>`<label>${t}（题组数）<br><input type="number" min="0" value="0" data-t="${t}" style="width:100%"></label>`).join("")}<label>年级<br><select id="ag" style="width:100%"><option value="">不限</option>${GRADES.map(g=>`<option value="${g}" ${S.f.grade===g?"selected":""}>${g}</option>`).join("")}</select></label><label>学期<br><select id="as" style="width:100%"><option value="">不限</option>${SEMS.map(k=>`<option value="${k}" ${S.f.sem===k?"selected":""}>${esc(k)}</option>`).join("")}</select></label><label>难度<br><select id="ad" style="width:100%"><option value="">不限</option>${[1,2,3].map(d=>`<option value="${d}">${DL[d]}</option>`).join("")}</select></label></div><p class="muted">一道阅读理解/语法选择/选词填空算 1 个题组（含多道小题）。生成后会替换当前试卷。</p><button class="p" data-a="gen">生成试卷</button> <span id="msg"></span></div>`}
-else if(v==="paper"){a.innerHTML=`<div class="bar noprint"><input id="pt" value="${esc(S.title)}" style="flex:1;min-width:200px"><label style="align-self:center;display:inline-flex;align-items:center;gap:6px;cursor:pointer;user-select:none;font-weight:500"><input type="checkbox" id="pa" ${S.ans?"checked":""}> 含答案解析（教师版）</label><span class="tag" style="align-self:center;font-size:12px;font-weight:600;${S.ans?'background:#fef3c7;color:#b45309;border-color:#fde68a':'background:#e0f2fe;color:#0369a1;border-color:#bae6fd'}">${S.ans?'当前：教师解析版':'当前：学生作答版'}</span></div><div class="bar noprint"><button class="p" data-a="docx">导出 Word</button><button data-a="print">打印</button><button class="d" data-a="clr">清空试卷</button></div><div id="sh">${sheetHTML(1)}</div>`;
-$("#pt").oninput=e=>S.title=e.target.value;$("#pa").onchange=e=>{S.ans=e.target.checked;view()}}
+else if(v==="paper"){a.innerHTML=`<div class="bar noprint"><input id="pt" value="${esc(S.title)}" style="flex:1;min-width:200px"><label style="align-self:center;display:inline-flex;align-items:center;gap:6px;cursor:pointer;user-select:none;font-weight:500"><input type="checkbox" id="pa" autocomplete="off" ${S.ans?"checked":""}> 含答案解析（教师版）</label><span class="tag" style="align-self:center;font-size:12px;font-weight:600;${S.ans?'background:#fef3c7;color:#b45309;border-color:#fde68a':'background:#e0f2fe;color:#0369a1;border-color:#bae6fd'}">${S.ans?'当前：教师解析版':'当前：学生作答版'}</span></div><div class="bar noprint"><button class="p" data-a="docx">导出 Word</button><button data-a="print">打印</button><button class="d" data-a="clr">清空试卷</button></div><div id="sh">${sheetHTML(1)}</div>`;
+const pa=$("#pa");if(pa){pa.checked=Boolean(S.ans);pa.onchange=e=>{S.ans=e.target.checked;view()}}
+const pt=$("#pt");if(pt)pt.oninput=e=>S.title=e.target.value;}
 else{a.innerHTML=`<div class="card"><h3 style="margin-top:0">题库管理</h3><p>把题目以 JSON 数组粘贴到下方并导入。字段说明：</p><pre>[{"type":"语法选择|完形填空|阅读理解|选词填空|书面表达","diff":1-3,"kp":["记叙文","七年级上册"],"title":"可空","passage":"材料，换行用\\n","intro":"导语，可空","qs":[{"q":"题干","opts":["A项","B项","C项"],"ans":"A","exp":"解析"}]}]</pre><textarea id="js" rows="9" style="width:100%" placeholder="在此粘贴 JSON"></textarea><div class="acts"><button class="p" data-a="imp">导入（追加）</button><button data-a="exp">导出自建题库</button><span id="msg"></span></div><p class="muted">自建题目保存在本浏览器中，建议定期导出备份。当前自建 ${S.custom.length} 个题组，内置题库 ${SAMPLE.length} 个（七年级 ${SAMPLE.filter(i=>gradeOf(i)==="七年级").length} 个，八年级 ${SAMPLE.filter(i=>gradeOf(i)==="八年级").length} 个，九年级 ${SAMPLE.filter(i=>gradeOf(i)==="九年级").length} 个）。</p></div>`}
 navUpdate()}
 function navUpdate(){$("#nav").innerHTML=[["pick","选题"],["auto","智能组卷"],["paper",`试卷（${S.basket.length}）`],["mgr","题库管理"]].map(([k,t])=>`<button data-v="${k}" class="${S.view===k?"on":""}">${t}</button>`).join("")}
@@ -330,7 +331,7 @@ download(await Packer.toBlob(doc),(S.title||"试卷")+".docx")}
 
 function gen(){const g=(t,l)=>l.sort(()=>Math.random()-.5);let ids=[];const gr=$("#ag").value,s=$("#as").value,d=$("#ad").value;
 TYPES.forEach(t=>{const n=+document.querySelector(`[data-t="${t}"]`).value||0;if(!n)return;ids.push(...g(0,cur().filter(i=>i.type===t&&(!gr||gradeOf(i)===gr)&&(!s||semesterOf(i)===s)&&(!d||i.diff==d))).slice(0,n).map(i=>i.id))});
-if(!ids.length){$("#msg").textContent="没有抽到题目，请调整数量或条件。";return}S.basket=ids;persist();S.view="paper";view()}
+if(!ids.length){$("#msg").textContent="没有抽到题目，请调整数量或条件。";return}S.basket=ids;persist();S.ans=false;S.view="paper";view()}
 function imp(){try{let a=JSON.parse($("#js").value);if(!Array.isArray(a))a=[a];if(a.some(x=>x.type==="单项选择"))throw new Error("单项选择题已从题库中移除");a.forEach((x,i)=>{if(!x.qs||!x.qs.length||!x.qs.every(q=>q.q&&(x.type==="选词填空"||Array.isArray(q.opts))&&q.ans))throw new Error("第"+(i+1)+"项缺少 qs 字段")});
 S.custom.push(...a.map((x,i)=>{const kp=x.kp||[];if(!kp.some(k=>/^[七八九]年级[上下]册$/.test(k)))kp.push(S.f.grade?(S.f.grade+"上册"):"七年级上册");return {id:x.id||"c"+Date.now()+"_"+i,stage:"junior",type:x.type||"阅读理解",diff:+x.diff||2,kp,title:x.title||"",passage:x.passage||"",passageHtml:x.passageHtml||"",intro:x.intro||"",qs:x.qs.map(q=>({q:q.q,opts:q.opts||[],ans:q.ans,exp:q.exp||""}))}}));
 persist();$("#msg").textContent="已导入 "+a.length+" 个题组";$("#js").value=""}catch(e){$("#msg").textContent="导入失败："+e.message}}
@@ -362,7 +363,7 @@ if(navItem){
   window.scrollTo({top:0,behavior:"smooth"});
   return;
 }
-const v=e.target.closest("[data-v]");if(v){S.view=v.dataset.v;view();return}
+const v=e.target.closest("[data-v]");if(v){S.view=v.dataset.v;if(S.view==="paper")S.ans=false;view();return}
 const b=e.target.closest("[data-a]");if(!b)return;const a=b.dataset.a,id=b.dataset.id;
 if(a==="clear-search"){
   S.f.q="";
