@@ -664,6 +664,22 @@ button.d {
   color: var(--mu);
 }
 
+.cloze-ans-lines {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px 14px;
+  margin: 12px 0 6px;
+  font-family: "Times New Roman", serif;
+  font-size: 14px;
+  color: var(--tx);
+}
+
+.sheet .source-art.no-box,
+.sheet .pass.no-box {
+  border: none;
+  padding: 4px 0;
+}
+
 .grammar-q {
   display: flex;
   align-items: baseline;
