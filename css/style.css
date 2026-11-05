@@ -680,18 +680,32 @@ button.d {
 }
 
 .rw-ans-line {
-  margin: 4px 0 10px 18px;
-  color: var(--mu);
-  font-family: "Times New Roman", serif;
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: clip;
-  opacity: 0.7;
+  margin: 6px 0 12px 0;
+  border-bottom: 1px solid #94a3b8;
+  height: 0;
+  width: 100%;
 }
 
+/* 书面表达作答横线排版 */
+.essay-lines {
+  margin: 16px 0 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.essay-line {
+  border-bottom: 1px solid #94a3b8;
+  height: 0;
+  width: 100%;
+}
+
+.source-art.no-box,
+.pass.no-box,
 .sheet .source-art.no-box,
 .sheet .pass.no-box {
   border: none;
+  background: transparent;
   padding: 4px 0;
 }
 
@@ -1013,5 +1027,9 @@ pre {
     padding: 0;
     margin: 0;
     box-shadow: none;
+  }
+  .essay-line,
+  .rw-ans-line {
+    border-bottom: 1px solid #000000;
   }
 }
