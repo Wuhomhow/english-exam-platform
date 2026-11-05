@@ -1008,6 +1008,220 @@ pre {
   background: var(--pr-dark);
 }
 
+/* ==========================================================================
+   【名校卷】专区样式 (按年级、试卷类型分类卡片与套卷详情)
+   ========================================================================== */
+.famous-filter-card {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px 18px;
+}
+
+.famous-filter-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.famous-filter-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--mu);
+  min-width: 72px;
+}
+
+.famous-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.pill-btn {
+  padding: 4px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  border: 1px solid var(--bd);
+  background: var(--card);
+  color: var(--tx);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.pill-btn:hover {
+  border-color: var(--pr);
+  color: var(--pr);
+  background: var(--hover-bg);
+}
+
+.pill-btn.is-active {
+  background: var(--pr);
+  color: var(--prt);
+  border-color: var(--pr);
+  font-weight: 600;
+}
+
+.famous-search-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding-top: 10px;
+  border-top: 1px solid var(--bd);
+}
+
+.famous-search-row input#pfq {
+  width: 100%;
+  padding-left: 32px;
+}
+
+.famous-paper-card {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  border-left: 4px solid var(--pr);
+}
+
+.famous-paper-badges {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+
+.tag-grade {
+  background: #eff6ff;
+  color: #1d4ed8;
+  border-color: #bfdbfe;
+  font-weight: 600;
+}
+
+.tag-ptype {
+  background: #fef3c7;
+  color: #b45309;
+  border-color: #fde68a;
+  font-weight: 600;
+}
+
+.famous-paper-title {
+  margin: 4px 0 8px;
+  font-size: 16.5px;
+  font-weight: 700;
+  color: var(--tx);
+  cursor: pointer;
+  transition: color 0.15s ease;
+}
+
+.famous-paper-title:hover {
+  color: var(--pr);
+}
+
+.famous-paper-sections {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.sec-pill {
+  font-size: 12px;
+  color: var(--mu);
+  background: var(--hover-bg);
+  border: 1px solid var(--bd);
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.famous-paper-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--bd);
+}
+
+.famous-paper-stat {
+  font-size: 13px;
+  color: var(--mu);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.famous-paper-stat b {
+  color: var(--pr);
+}
+
+.in-basket-pill {
+  font-size: 12px;
+  background: #dcfce7;
+  color: #15803d;
+  border: 1px solid #bbf7d0;
+  padding: 1px 8px;
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.famous-paper-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.famous-detail-banner {
+  border-top: 4px solid var(--pr);
+}
+
+.famous-detail-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.famous-detail-title {
+  margin: 4px 0 12px;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--tx);
+}
+
+.famous-detail-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--bd);
+}
+
+.paper-sec-divider {
+  margin: 18px 0 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--pr-dark);
+}
+
+.paper-sec-divider::before {
+  content: "";
+  width: 4px;
+  height: 16px;
+  background: var(--pr);
+  border-radius: 2px;
+}
+
 /* 打印样式支持 */
 @media print {
   header,

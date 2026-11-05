@@ -34383,5 +34383,2075 @@ const SAMPLE=[
         "exp": "1.题干解读：该题目属于记叙文写作，但写作时要按申请书的格式写。在写作时应承接短文开头；内容是你想应聘学校的农场小助手，请你根据材料给班主任写一封申请书，介绍自己的长处。\n2.写作指导：本文应该用第一人称来叙述申请书的内容；时态采用一般过去时为主；首先介绍自己的劳动技能；其次介绍你的一次劳动经历和感受；最后说说劳动的意义。"
       }
     ]
+  },
+  {
+    "id": "paper_zh_wy_8a_1",
+    "paperId": "paper_zh_wy_8a",
+    "paperTitle": "广东珠海市文园中学（集团）2026-2027年度第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "一、语法选择",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "语法选择",
+    "diff": 2,
+    "kp": [
+      "记叙文",
+      "哲理感悟",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海文园阶段自测 语法选择（木匠建房的启示）",
+    "passage": "There was once a carpenter (木匠). He was good at building houses. His boss was very nice, so he worked for him year after year. After 10 years of working for ___1___ same company, he finally got tired of it and planned to leave. He wanted to try something new.\nAfter ___2___ this, his boss asked him to help with one final job before he left the team. He asked him to build one final house. The carpenter agreed, ___3___ his heart wasn’t in it. He used cheap materials (材料) and rushed to finish the job ___4___. It ended up being the ___5___ house he ever built.\nWhen his boss saw the house, he said nothing. He paid the worker ___6___ building it. He then said, “I wanted to do something special for you to say ___7___ for your 10 years of hard work. You know, you have built so many beautiful houses for other people these years but not one for ___8___, so I’m giving you this house as a gift.”\n___9___ shameful it was! The carpenter was speechless. If he had known he was building his own house, he would have done it much ___10___. He regretted (后悔) building his final house so poorly.\nWe can learn from the story that we should take everything seriously because we are building our own lives.",
+    "passageHtml": "<p><span class=\"ind\">There was once a carpenter (木匠). He was good at building houses. His boss was very nice, so he worked for him year after year. After 10 years of working for <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> same company, he finally got tired of it and planned to leave. He wanted to try something new.</span></p><p><span class=\"ind\">After <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> this, his boss asked him to help with one final job before he left the team. He asked him to build one final house. The carpenter agreed, <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> his heart wasn’t in it. He used cheap materials (材料) and rushed to finish the job <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u>. It ended up being the <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> house he ever built.</span></p><p><span class=\"ind\">When his boss saw the house, he said nothing. He paid the worker <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> building it. He then said, “I wanted to do something special for you to say <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> for your 10 years of hard work. You know, you have built so many beautiful houses for other people these years but not one for <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u>, so I’m giving you this house as a gift.”</span></p><p><span class=\"ind\"><u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> shameful it was! The carpenter was speechless. If he had known he was building his own house, he would have done it much <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u>. He regretted (后悔) building his final house so poorly.</span></p><p><span class=\"ind\">We can learn from the story that we should take everything seriously because we are building our own lives.</span></p>",
+    "intro": "本文讲述木匠为老板建最后一座房子时敷衍了事，结果发现房子是老板送给他的礼物，启示我们要认真对待生活。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "a",
+          "the",
+          "an"
+        ],
+        "ans": "B",
+        "exp": "句意：在同一个公司工作了10年后，他终于厌倦了，打算离开。“same”前通常加定冠词“the”，“the same company”意为“同一个公司”，故选the。a“一个”，an“一个”(用于元音音素前)，均不符合。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "hearing",
+          "hear",
+          "heard"
+        ],
+        "ans": "A",
+        "exp": "句意：听到这个后，老板让他在离开团队前帮忙做最后一项工作。“after”是介词，后接动名词，故选hearing。hear“听到”（原形），heard“听到”（过去式），均不符合。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "but",
+          "so",
+          "or"
+        ],
+        "ans": "A",
+        "exp": "句意：木匠同意了，但他的心不在焉。根据“his heart wasn’t in it”和前文“The carpenter agreed”，前后是转折关系，用but“但是”。so“所以”，or“或者”，均不符合。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "quick",
+          "quickly",
+          "quicker"
+        ],
+        "ans": "B",
+        "exp": "句意：他用了便宜的材料，匆忙地赶工。修饰动词“rushed”用副词quickly“快速地/匆忙地”。quick“快的”（形容词），quicker“更快的”（形容词比较级），均不符合。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "bad",
+          "worse",
+          "worst"
+        ],
+        "ans": "C",
+        "exp": "句意：结果这是他建过的最差的房子。根据前文“He used cheap materials and rushed to finish the job”，可知这是他建过的最差的房子，且“the”后接形容词最高级，故选worst。bad“差的”，worse“更差的”，均不符合。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "for",
+          "to",
+          "with"
+        ],
+        "ans": "A",
+        "exp": "句意：他为建这栋房子付给工人报酬。“pay sb. for sth.”是固定搭配，意为“为某物付钱给某人”，符合句意，故选for。to“到”，with“和……一起”，均不符合。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "thanks",
+          "thank",
+          "thanks to"
+        ],
+        "ans": "A",
+        "exp": "句意：我想为你做点特别的事情，以感谢你10年的辛勤工作。“say thanks”是固定搭配，意为“道谢/表示感谢”，符合句意，故选thanks。thank“感谢”（动词），thanks to“多亏”，均不符合。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "you",
+          "your",
+          "yourself"
+        ],
+        "ans": "C",
+        "exp": "句意：这些年来你为别人建了那么多漂亮的房子，却没有一栋是为你自己的，所以我给你一栋房子作为礼物。“for oneself”是固定搭配，意为“为自己”，主语是you，反身代词用yourself。you“你”（主格或宾格），your“你的”（形容词性物主代词），均不符合。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "What",
+          "How",
+          "What a"
+        ],
+        "ans": "B",
+        "exp": "句意：这多么可耻啊！感叹句结构：“How + 形容词 + 主语 + 谓语！”或者“What + （a/an）+形容词 + 名词 + 主谓”。此处“shameful”是形容词，后面“it was”是主谓结构，用How。What“多么”（后接名词），What a“多么一个”（后接单数可数名词），均不符合。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "differently",
+          "different",
+          "difference"
+        ],
+        "ans": "A",
+        "exp": "句意：如果他知道他在建自己的房子，他会做得不同得多。修饰动词“done”用副词differently。different“不同的”（形容词），difference“不同”（名词），均不符合。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_wy_8a_2",
+    "paperId": "paper_zh_wy_8a",
+    "paperTitle": "广东珠海市文园中学（集团）2026-2027年度第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "二、完形填空",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "记叙文",
+      "个人经历",
+      "哲理感悟",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海文园阶段自测 完形填空（换位思考的一课）",
+    "passage": "In primary school, I once argued (争辩) with a boy in my class. I can’t remember what the argument was about, but the ___1___ stayed with me.\nI was sure that I was right and he was wrong. Similarly, he ___2___ that I was wrong and he was right. Our teacher ___3___ to teach us a very important lesson.\nShe brought us to the front of the class and ___4___ the boy on one side of her desk and me on the other. In the middle of her desk was a large, round object. I could see that it was ___5___. She asked the boy what ___6___ the object was. “White”, he answered.\nI was ___7___ that he said the object was white. It was clearly black! We began to argue again.\nThe teacher told us to ___8___ our places. Then she asked me the question which she had asked the boy. This time, I said ___9___, “White”.\nIt was an object with two colored sides. From his viewpoint, it was white; from mine, it was black.\nSometimes, to ___10___ others, we need to look at things from their viewpoints (视角). Therefore, we should also put ourselves in others’ shoes. Only in this way can we understand each other better.",
+    "passageHtml": "<p><span class=\"ind\">In primary school, I once argued (争辩) with a boy in my class. I can’t remember what the argument was about, but the <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> stayed with me.</span></p><p><span class=\"ind\">I was sure that I was right and he was wrong. Similarly, he <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> that I was wrong and he was right. Our teacher <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> to teach us a very important lesson.</span></p><p><span class=\"ind\">She brought us to the front of the class and <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> the boy on one side of her desk and me on the other. In the middle of her desk was a large, round object. I could see that it was <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u>. She asked the boy what <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> the object was. “White”, he answered.</span></p><p><span class=\"ind\">I was <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> that he said the object was white. It was clearly black! We began to argue again.</span></p><p><span class=\"ind\">The teacher told us to <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> our places. Then she asked me the question which she had asked the boy. This time, I said <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u>, “White”.</span></p><p><span class=\"ind\">It was an object with two colored sides. From his viewpoint, it was white; from mine, it was black.</span></p><p><span class=\"ind\">Sometimes, to <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> others, we need to look at things from their viewpoints (视角). Therefore, we should also put ourselves in others’ shoes. Only in this way can we understand each other better.</span></p>",
+    "intro": "本文讲述作者小学时与同学争吵，老师通过一个双色物体教会他们换位思考，从而更好地理解彼此的道理的故事。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "note",
+          "lesson",
+          "friend",
+          "mistake"
+        ],
+        "ans": "B",
+        "exp": "句意：我不记得争论的内容，但教训留在我心中。根据后文老师给我们上了一课可知，此事留下了深刻教训，lesson“教训”，符合文意。note“笔记”；friend“朋友”；mistake“错误”，均不符合语境。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "expected",
+          "realized",
+          "believed",
+          "agreed"
+        ],
+        "ans": "C",
+        "exp": "句意：同样，他相信我是错的，他是对的。根据前文“I was sure”可知，对方也坚信自己是对的，believed“相信”，体现双方固执，符合语境。expected“期待”；realized“意识到”；agreed“同意”，均语意不符。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "decided",
+          "promised",
+          "refused",
+          "forgot"
+        ],
+        "ans": "A",
+        "exp": "句意：我们的老师决定教我们非常重要的一课。根据后文老师采取行动可知，她决定这么做，decided“决定”，符合逻辑。promised“承诺”；refused“拒绝”；forgot“忘记”，均不符合语境。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "found",
+          "placed",
+          "fought",
+          "decorated"
+        ],
+        "ans": "B",
+        "exp": "句意：老师把我们都带到教室前，把男孩放在桌子的一边，我在另一边。根据“on one side of her desk”可知，老师摆放了位置，placed“放置”，符合动作。found“发现”；fought“打架”；decorated“装饰”，均语意不通。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "round",
+          "dark",
+          "white",
+          "black"
+        ],
+        "ans": "D",
+        "exp": "句意：我能看到它是黑色的。根据后文“It was clearly black!”可知，作者看到的是黑色，black“黑色”，符合事实。round“圆的”；dark“暗的”；white“白色”，均不符合题意。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "color",
+          "size",
+          "side",
+          "shape"
+        ],
+        "ans": "A",
+        "exp": "句意：她问男孩物体是什么颜色。根据男孩回答“White”可知，问的是颜色，color“颜色”，符合回答。size“尺寸”；side“边”；shape“形状”，均与回答不符。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "relaxed",
+          "nervous",
+          "surprised",
+          "happy"
+        ],
+        "ans": "C",
+        "exp": "句意：我很惊讶他说物体是白色的。根据前文作者看到是黑色，男孩却说白色，故感到惊讶，surprised“惊讶”，符合心理。relaxed“放松”；nervous“紧张”；happy“开心”，均不符合情境。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "imagine",
+          "expect",
+          "guide",
+          "exchange"
+        ],
+        "ans": "D",
+        "exp": "句意：老师告诉我们要交换位置。根据后文作者也看到了白色可知，双方换了位置，exchange“交换”，符合逻辑。imagine“想象”；expect“期待”；guide“引导”，均无法实现换位。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "hardly",
+          "quietly",
+          "angrily",
+          "probably"
+        ],
+        "ans": "B",
+        "exp": "句意：这次，我轻声说“白色”。根据作者意识到错误后，语气应变得平和，quietly“安静地”，可体现醒悟，符合语境。hardly“几乎不”；angrily“生气地”；probably“可能”，均不符合心境。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "remind of",
+          "fight against",
+          "get to know",
+          "look for"
+        ],
+        "ans": "C",
+        "exp": "句意：有时，为了了解他人，我们需要从他们的视角看事物。根据后文“understand each other better”可知，目的是为了了解，get to know“了解”，符合文意。remind of“提醒”；fight against“对抗”；look for“寻找”，均语意不符。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_wy_8a_3",
+    "paperId": "paper_zh_wy_8a",
+    "paperTitle": "广东珠海市文园中学（集团）2026-2027年度第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "应用文",
+      "旅行",
+      "细节理解",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海文园阶段自测 阅读理解A篇（长城徒步指南）",
+    "passage": "Home > China Tours >\nThere is no better way to visit China’s Great Wall than by hiking. Take your time and feel the history come to life. We will help you have an enjoyable hike.\nThe Great Wall Hike\nThere are about nine sections of the Great Wall around Beijing. Here are three sections for you to consider.\n1. Mutianyu (Repaired): *2 hours by car from Beijing ◇Hiking difficulty: With cable car (缆车) / Hiking up/down / Jiankou-Mutianyu hike: ★★★★. Ranked (排名) 1 of 1,615 things to do in Beijing on TripAdvisor.\n2. Jinshanling (Half-Repaired): *2.5 hours by car from Beijing ◇Hiking difficulty: With cable car: ★★ / Hiking the wall: ★★★. This section has beautiful scenery and is less crowded.\n3. Simatai (Wild): *2.5 hours by car from Beijing ◇Hiking difficulty: Night tour with cable car: ★ / Hiking the wall: ★★★. This is the only section open for day tours and night tours, with nice hotels.\nNo suitable tour? Need advice?\nWe are here to help you plan your own tour with one-to-one help from our travel advisors. Please click here to contact (联系) us.",
+    "passageHtml": "<table style=\"width:100%;border-collapse:collapse;margin:6px 0\"><tr><td colspan=\"3\" style=\"border:1px solid var(--mu);padding:6px 10px\">Home &gt; China Tours &gt;</td></tr><tr><td colspan=\"3\" style=\"border:1px solid var(--mu);padding:6px 10px\"><p><span class=\"ind\">There is no better way to visit China’s Great Wall than by hiking. Take your time and feel the history come to life. We will help you have an enjoyable hike.</span></p></td></tr><tr><td colspan=\"3\" style=\"border:1px solid var(--mu);padding:8px 10px\"><p><b>The Great Wall Hike</b></p><p><span class=\"ind\">There are about nine sections of the Great Wall around Beijing. Here are three sections for you to consider.</span></p><p class=\"ct\"><img src=\"assets/images/paper_zh_wy_8a_img1.png\" alt=\"长城地图\" style=\"max-width:460px;width:100%;height:auto\"></p></td></tr><tr><td style=\"border:1px solid var(--mu);padding:8px 10px;vertical-align:top\"><p class=\"ct\"><b>Mutianyu<br>Repaired (修缮的)</b></p><p>*2 hours by car from Beijing</p><p>◇Hiking difficulty:</p><p>With cable car (缆车)</p><p>Hiking up/down</p><p>Jiankou-Mutianyu hike: ★★★★</p><p>Ranked (排名) 1 of 1,615 things to do in Beijing on TripAdvisor.</p></td><td style=\"border:1px solid var(--mu);padding:8px 10px;vertical-align:top\"><p class=\"ct\"><b>Jinshanling<br>(Half-Repaired)</b></p><p>*2.5 hours by car from Beijing</p><p>◇Hiking difficulty:</p><p>With cable car: ★★</p><p>Hiking the wall: ★★★</p><p>This section has beautiful scenery and is less crowded.</p></td><td style=\"border:1px solid var(--mu);padding:8px 10px;vertical-align:top\"><p class=\"ct\"><b>Simatai<br>(Wild)</b></p><p>*2.5 hours by car from Beijing</p><p>◇Hiking difficulty:</p><p>Night tour with cable car: ★</p><p>Hiking the wall: ★★★</p><p>This is the only section open for day tours and night tours, with nice hotels.</p></td></tr><tr><td colspan=\"3\" style=\"border:1px solid var(--mu);padding:6px 10px\"><p>No suitable tour? Need advice?</p><p>We are here to help you plan your own tour with one-to-one help from our travel advisors. Please <u>click here</u> <img src=\"assets/images/paper_zh_wy_8a_img2.png\" alt=\"click\" style=\"max-width:22px;vertical-align:middle\"> to contact (联系) us.</p></td></tr></table>",
+    "intro": "本文介绍了北京周边三段适合徒步游览的长城，包含各段长城的修缮情况、交通时长、徒步难度以及特色，还提供旅游咨询渠道。",
+    "qs": [
+      {
+        "q": "Which is the best way to visit China’s Great Wall?",
+        "opts": [
+          "By running.",
+          "By hiking.",
+          "By car.",
+          "By bus."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。文章第1段“There is no better way to visit China’s Great Wall than by hiking.”表明游览长城最好的方式是徒步。"
+      },
+      {
+        "q": "How many sections of the Great Wall are there around Beijing according to the text?",
+        "opts": [
+          "Three.",
+          "Five.",
+          "Seven.",
+          "Nine."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。文章“The Great Wall Hike”部分“There are about nine sections of the Great Wall around Beijing.”表明北京周边大约有九段长城。"
+      },
+      {
+        "q": "If you want to have a night tour, you can go to ________.",
+        "opts": [
+          "Mutianyu",
+          "Jiankou",
+          "Simatai",
+          "Jinshanling"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。文章Simatai部分“This is the only section open for day tours and night tours, with nice hotels.”表明司马台段长城开放夜游，想要夜游长城可以前往此处。"
+      },
+      {
+        "q": "Which of the following is TRUE according to the text?",
+        "opts": [
+          "Badaling is to the west of Juyongguan.",
+          "Hiking from Jiankou to Mutianyu is the easiest.",
+          "It takes 2 hours to drive to Jinshanling from Beijing.",
+          "You can go to Gubeikou by cable car from Beijing."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。文章所附长城地图中的方向标识“W←→E”以及地点排布，表明Badaling位于Juyongguan的西侧。"
+      },
+      {
+        "q": "Where is the passage probably from?",
+        "opts": [
+          "A poster.",
+          "A website.",
+          "A school newspaper.",
+          "A history magazine."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。文章开头的导航路径“Home > China Tours >”以及结尾的“click here to contact (联系) us”表明这篇文章出自一个网站。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_wy_8a_4",
+    "paperId": "paper_zh_wy_8a",
+    "paperTitle": "广东珠海市文园中学（集团）2026-2027年度第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "科普知识",
+      "说明文",
+      "细节理解",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海文园阶段自测 阅读理解B篇（预防蚊虫叮咬）",
+    "passage": "Protect yourself from mosquito bites\nWatch out for mosquitoes! Their bites make your skin red and itchy (发痒的) for days. You might think mosquitoes only come in summer, but don’t be fooled—they are still very active in autumn! Worse still, mosquitoes may carry germs, so their bites can even make you feel sick. Here are four practical tips to keep you safe from them.\n1. Cover your body well when you go out.\nWear long-sleeved shirts, long trousers and fully covered shoes. If less skin is exposed, mosquitoes will have fewer chances to bite you.\n2. Use bug spray safely.\nNever spray the liquid straight on your face, food or pets. If you want to put spray on your face, you should pour some on your hands first and then apply it to your face.\n3. ________________________\nUse a bed net while sleeping. Remember to close doors and windows before dark. If your window screens are broken, get them fixed right away.\n4. Stop mosquitoes from producing more eggs.\nThey love laying eggs in still water. Each week, empty, turn over or cover water holders like buckets and flowerpots, both inside and outside your home.\nWant to learn more about self-care tips? Come to our free online lecture at 7:00 pm on Dec.15. Visit our school website to sign up before Sept 10!",
+    "passageHtml": "<p class=\"ct\"><b>Protect yourself from mosquito bites</b></p><p><span class=\"ind\">Watch out for mosquitoes! Their bites make your skin red and itchy (发痒的) for days. You might think mosquitoes only come in summer, but don’t be fooled—they are still very active in autumn! Worse still, mosquitoes may carry germs, so their bites can even make you feel sick. Here are four practical tips to keep you safe from them.</span></p><p><span class=\"ind\">1. Cover your body well when you go out.</span></p><p><span class=\"ind\">Wear long-sleeved shirts, long trousers and fully covered shoes. If less skin is <u>exposed</u>, mosquitoes will have fewer chances to bite you.</span></p><p><span class=\"ind\">2. Use bug spray safely.</span></p><p><span class=\"ind\">Never spray the liquid straight on your face, food or pets. If you want to put spray on your face, you should pour some on your hands first and then apply it to your face.</span></p><p><span class=\"ind\">3. ________________________</span></p><p><span class=\"ind\">Use a bed net while sleeping. Remember to close doors and windows before dark. If your window screens are broken, get them fixed right away.</span></p><p><span class=\"ind\">4. Stop mosquitoes from producing more eggs.</span></p><p><span class=\"ind\">They love laying eggs in still water. Each week, empty, turn over or cover water holders like buckets and flowerpots, both inside and outside your home.</span></p><p><span class=\"ind\">Want to learn more about self-care tips? Come to our free online lecture at 7:00 pm on Dec.15. Visit our school website to sign up before Sept 10!</span></p><p class=\"ct\"><img src=\"assets/images/paper_zh_wy_8a_img3.png\" alt=\"蚊子插图\" style=\"max-width:140px;height:auto\"></p>",
+    "intro": "本文主要介绍了蚊子叮咬的危害，给出了四条预防蚊虫叮咬的实用技巧，同时宣传了一场关于自我护理的免费线上讲座。",
+    "qs": [
+      {
+        "q": "Which of the following is TRUE according to Paragraph 1?",
+        "opts": [
+          "Mosquito bites only make your skin red.",
+          "Mosquitoes are still active in autumn.",
+          "Mosquitoes only come out in summer.",
+          "Mosquito bites are harmless because mosquitoes never carry germs."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。第一段中提到“You might think mosquitoes only come in summer, but don't be fooled — they are still very active in autumn!”，可知蚊子在秋天仍然很活跃，选项B正确。"
+      },
+      {
+        "q": "What does the underlined word “<u>exposed</u>” in Paragraph 2 mean in Chinese?",
+        "opts": [
+          "裸露的",
+          "白皙的",
+          "光滑的",
+          "干燥的"
+        ],
+        "ans": "A",
+        "exp": "词句猜测题。第二段中提到“If less skin is exposed, mosquitoes will have fewer chances to bite you.”，穿着长袖长裤和全包鞋时，皮肤“暴露”得越少，蚊子叮咬的机会就越少，所以“exposed”意为“裸露的”。"
+      },
+      {
+        "q": "Which sentence can be put in ____________?",
+        "opts": [
+          "It will start at 7 in the morning.",
+          "Protect your room from mosquitoes.",
+          "Learn how mosquitoes get into your house.",
+          "Shut your doors and windows during the day."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。空白处位于建议3的标题位置，其下方内容为“Use a bed net while sleeping. Remember to close doors and windows before dark...”，这些措施都是关于保护房间免受蚊子侵扰的，选项B“Protect your room from mosquitoes.”正确。"
+      },
+      {
+        "q": "What can we learn about the lecture on Dec.15?",
+        "opts": [
+          "It will start at 7 in the morning.",
+          "People can sign up for it on Sept 12.",
+          "People don’t need to pay for it.",
+          "It will take place in the school meeting room."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。最后一段中提到“Come to our free online lecture at 7:00 pm on Dec.15.”，可知这个讲座是免费的，人们不需要付费，选项C正确。"
+      },
+      {
+        "q": "What is the main purpose of this text?",
+        "opts": [
+          "To teach readers how to raise mosquitoes.",
+          "To show how dangerous mosquitoes are.",
+          "To give practical tips on how to stay safe from mosquitoes.",
+          "To tell readers about how mosquitoes grow and reproduce."
+        ],
+        "ans": "C",
+        "exp": "主旨大意题。全文围绕如何保护自己免受蚊虫叮咬给出了具体建议，选项C“To give practical tips on how to stay safe from mosquitoes.”正确。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_wy_8a_5",
+    "paperId": "paper_zh_wy_8a",
+    "paperTitle": "广东珠海市文园中学（集团）2026-2027年度第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "配对阅读",
+    "diff": 1,
+    "kp": [
+      "发明与创造",
+      "应用文",
+      "配对阅读",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海文园阶段自测 配对阅读（家庭需求与机器人匹配）",
+    "passage": "配对阅读：左栏是五个家庭的不同情况；右栏是对7个机器人的描述。请根据这些家庭的需求，为他们选出合适的机器人。\n\nA. A two-armed robot on wheels. It can clean up a room, take out the rubbish, and it can also help to take care of the old.\nB. CHiP, a clever robot dog. It makes dog-like sounds and responds to your voice — a good partner for a lonely child.\nC. A smart robot cooker. It prepares a dish in minutes and cleans itself.\nD. Robot Snow can read. Its touch-screen offers all kinds of information you want.\nE. A flying robot. It can fly up to 15 miles and carry up to 5 pounds to customers.\nF. A cute Pocket Robot. It can run and dance, so it’s a great partner for kids who like doing exercise in their free time.\nG. A robot that tells stories and sings in a soft voice to help children fall asleep.",
+    "passageHtml": "<p><strong>配对阅读：</strong>左栏是五个家庭的不同情况；右栏是对7个机器人的描述。请根据这些家庭的需求，为他们选出合适的机器人。</p><div class=\"bx\"><p><b>A.</b> A two-armed robot on wheels. It can clean up a room, take out the rubbish, and it can also help to take care of the old.</p><p><b>B.</b> CHiP, a clever robot dog. It makes dog-like sounds and responds to your voice — a good partner for a lonely child.</p><p><b>C.</b> A smart robot cooker. It prepares a dish in minutes and cleans itself.</p><p><b>D.</b> Robot Snow can read. Its touch-screen offers all kinds of information you want.</p><p><b>E.</b> A flying robot. It can fly up to 15 miles and carry up to 5 pounds to customers.</p><p><b>F.</b> A cute Pocket Robot. It can run and dance, so it’s a great partner for kids who like doing exercise in their free time.</p><p><b>G.</b> A robot that tells stories and sings in a soft voice to help children fall asleep.</p></div>",
+    "intro": "本文主要介绍了五个家庭的不同需求以及七款机器人的功能描述，要求为每个家庭匹配最合适的机器人。",
+    "qs": [
+      {
+        "q": "(   ) Kathy feels lonely because her parents are too busy to play with her.",
+        "opts": [],
+        "ans": "B",
+        "exp": "Kathy因为父母太忙没时间陪她而感到孤独。B选项描述“CHiP, a clever robot dog... a good partner for a lonely child.”（CHiP，一只聪明的机器狗……孤独孩子的好伙伴），与Kathy的需求匹配，所以选项B正确。"
+      },
+      {
+        "q": "(   ) Kevin’s parents are too busy to cook meals.",
+        "opts": [],
+        "ans": "C",
+        "exp": "Kevin的父母太忙没时间做饭。C选项描述“A smart robot cooker. It prepares a dish in minutes and cleans itself.”（一个智能机器人厨师。它能在几分钟内准备好一道菜并自我清洁），与Kevin的需求匹配，所以选项C正确。"
+      },
+      {
+        "q": "(   ) Michelle is curious (好奇的) and often asks why leaves fall and why light travels faster than sound.",
+        "opts": [],
+        "ans": "D",
+        "exp": "Michelle好奇心强，经常问为什么树叶会落下、为什么光比声音传播得快。D选项描述“Robot Snow can read. Its touch-screen offers all kinds of information you want.”（机器人Snow会阅读。它的触摸屏提供你想要的各种信息），与Michelle的需求匹配，所以选项D正确。"
+      },
+      {
+        "q": "(   ) Zac’s mother is tired from doing housework and caring for his grandparents.",
+        "opts": [],
+        "ans": "A",
+        "exp": "Zac的妈妈因做家务和照顾爷爷奶奶而疲惫。A选项描述“A two-armed robot on wheels. It can clean up a room, take out the rubbish, and it can also help to take care of the old.”（一个有轮子的双臂机器人。它能打扫房间、倒垃圾，还能帮助照顾老人），与Zac家的需求匹配，所以选项A正确。"
+      },
+      {
+        "q": "(   ) Tony wants a music-playing robot for his two-year-old sister who loves music.",
+        "opts": [],
+        "ans": "G",
+        "exp": "Tony想为一个热爱音乐的两岁妹妹找一个能播放音乐的机器人。G选项描述“A robot that tells stories and sings in a soft voice to help children fall asleep.”（一个用轻柔的声音讲故事和唱歌来帮助孩子入睡的机器人），所以选项G匹配。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_wy_8a_6",
+    "paperId": "paper_zh_wy_8a",
+    "paperTitle": "广东珠海市文园中学（集团）2026-2027年度第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "四、语音与意群单选",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "语音与意群",
+      "元音字母发音",
+      "节奏",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海文园阶段自测 四、语音与意群选择（5小题）",
+    "passage": "",
+    "passageHtml": "",
+    "intro": "本大题考查元音字母及字母组合发音、单词重音音标及英语句子朗读意群划分。",
+    "qs": [
+      {
+        "q": "下列单词划线部分与 p<u>ea</u>ce 含有相同音素 /i:/ 的是 _______。",
+        "opts": [
+          "livel<u>y</u>",
+          "m<u>e</u>ter",
+          "fr<u>e</u>sh",
+          "sl<u>i</u>m"
+        ],
+        "ans": "B",
+        "exp": "句意：下列单词划线部分与peace含有相同音素/i:/的是meter。peace中ea发/i:/；lively中y发/i/；meter中e发/i:/；fresh中e发/e/，slim中i发/ɪ/。根据语音知识，meter中e的发音为/i:/，与peace中ea的发音相同。"
+      },
+      {
+        "q": "以下单词的划线部分一共有多少种发音？ sh<u>oo</u>t &nbsp;&nbsp; r<u>o</u>se &nbsp;&nbsp; gl<u>ue</u> &nbsp;&nbsp; h<u>u</u>nt",
+        "opts": [
+          "一种",
+          "两种",
+          "三种",
+          "四种"
+        ],
+        "ans": "C",
+        "exp": "句意：以下单词的划线部分一共有多少种发音？shoot划线部分的发音是/u:/，rose划线部分的发音是/əʊ/，glue划线部分的发音是/u:/，hunt划线部分的发音是/ʌ/，共三种。"
+      },
+      {
+        "q": "找出下列划线部分发音不同的单词。",
+        "opts": [
+          "vac<u>a</u>tion",
+          "br<u>ea</u>th",
+          "tr<u>ea</u>sure",
+          "conn<u>e</u>ct"
+        ],
+        "ans": "A",
+        "exp": "vacation/veɪˈkeɪʃn/，划线部分的发音是/eɪ/，breath/breθ/，划线部分的发音是/e/，treasure/ˈtreʒə(r)/，划线部分的发音是/e/，connect/kəˈnekt/，划线部分的发音是/e/。BCD划线部分都发/e/，只有A划线部分发/eɪ/。"
+      },
+      {
+        "q": "选出 against 的正确发音。",
+        "opts": [
+          "/'eɪgənst/",
+          "/ə'genst/",
+          "/'ægənst/",
+          "/əg'eɪst/"
+        ],
+        "ans": "B",
+        "exp": "against标准音标是/ə'ɡenst/，表示“反对；靠着；违反”，故选B。"
+      },
+      {
+        "q": "Which sentence has the correct sense-group division? (选出划分正确的一项)",
+        "opts": [
+          "Would you like to mop/ the floor or clean/ the windows?",
+          "Would you like to mop the floor/ or clean the windows?",
+          "Would you / like to mop the floor or/ clean the windows?",
+          "Would you/ like to mop the floor / or clean the windows?"
+        ],
+        "ans": "B",
+        "exp": "句意：哪个句子的意群划分是正确的？意群按照语义单元划分。Would you like to mop the floor or clean the windows?这句话是选择疑问句，mop the floor和clean the windows是两个并列的动作单元，在两个并列选项之间切分，符合朗读停顿规则。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_wy_8a_7",
+    "paperId": "paper_zh_wy_8a",
+    "paperTitle": "广东珠海市文园中学（集团）2026-2027年度第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "五、音标短文填空与完成句子（五～八大题）",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "选词填空",
+    "diff": 1,
+    "kp": [
+      "音标填空",
+      "完成句子",
+      "句子结构",
+      "连词成句",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海文园阶段自测 音标填空与完成句子综合",
+    "passage": "【五、短文填空】根据句意及音标提示写出形式正确、意义相符的内容：\nIt is ___1___ /'kʌmftəbl/ to sit near the garden. We can see different kinds of flowers. ___2___ ___3___ /'θaʊzndz əv/ lovely ___4___ /'bʌtəflaɪz/ fly here and there. We show great ___5___ /'ɪntrəst/ in their beautiful wings. ___6___ /ðeɪ brɪŋ dʒɔɪ tu ʌs/.\n\n【六、完成句子 & 七、其他 & 八、连词成句】\n(___7___) 当我游览玉龙雪山时，它的美让我惊叹不已。\nWhen I visited Yulong Snow Mountain, its beauty ________ my breath ________.\n(___8___) Li Ming is taller than the other boys in our class. (改为同义句)\nLi Ming is taller than ________ ________ boy in our class.\n(___9___) Can you help me hang up the photos? 划线部分“hang up”应该 ________ (a.不完全爆破；b.连读)；该句应使用 ________ (a.升调；b.降调)。(填写对应字母)\n(___10___) We can invite our friends to visit our new house. (写出句子结构)\n(___11___) 连词成句：blue, whale, the, heaviest, is, animal, in, the, world, the.",
+    "passageHtml": "<p><b>【五、短文填空】</b>根据句意及音标提示写出形式正确、意义相符的内容：</p><p><span class=\"ind\">It is <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> /'kʌmftəbl/ to sit near the garden. We can see different kinds of flowers. <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> /'θaʊzndz əv/ lovely <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> /'bʌtəflaɪz/ fly here and there. We show great <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> /'ɪntrəst/ in their beautiful wings. <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> /ðeɪ brɪŋ dʒɔɪ tu ʌs/.</span></p><p style=\"margin-top:8px\"><b>【六、完成句子 &amp; 七、语音与句子结构 &amp; 八、连词成句】</b></p><p><b>(<u>&nbsp;&nbsp;7&nbsp;&nbsp;</u>)</b> 当我游览玉龙雪山时，它的美让我惊叹不已。<br>When I visited Yulong Snow Mountain, its beauty ________ my breath ________.</p><p><b>(<u>&nbsp;&nbsp;8&nbsp;&nbsp;</u>)</b> Li Ming is taller than the other boys in our class. (改为同义句)<br>Li Ming is taller than ________ ________ boy in our class.</p><p><b>(<u>&nbsp;&nbsp;9&nbsp;&nbsp;</u>)</b> Can you help me <u>hang up</u> the photos? 划线部分应该 ________ (a.不完全爆破；b.连读)；该句应使用 ________ (a.升调；b.降调)。(只需填写对应字母)</p><p><b>(<u>&nbsp;&nbsp;10&nbsp;&nbsp;</u>)</b> We can invite our friends to visit our new house. (写出句子结构)</p><p><b>(<u>&nbsp;&nbsp;11&nbsp;&nbsp;</u>)</b> 连词成句：blue, whale, the, heaviest, is, animal, in, the, world, the.</p>",
+    "intro": "本部分涵盖原卷第五大题音标短文填空、第六大题完成句子、第七大题语音语调与句子结构分析以及第八大题连词成句。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "comfortable",
+        "exp": "句意：坐在花园旁边很舒服。音标/'kʌmftəbl/对应单词comfortable。此处为固定句型：It is + 形容词 + to do sth.，故填comfortable。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "Thousands",
+        "exp": "句意：成千上万只可爱的蝴蝶四处飞舞。音标/'θaʊzndz əv/对应词组thousands of，放句首首字母大写，故填Thousands。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "of",
+        "exp": "thousands of为固定短语，意为“成千上万的”，后接可数名词复数，故填of。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "butterflies",
+        "exp": "音标/'bʌtəflaɪz/对应单词butterflies，句子为一般现在时，谓语fly为原形，主语用复数，故填butterflies。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "interest",
+        "exp": "音标/'ɪntrəst/对应单词interest，show interest in…为固定搭配，表示“对……感兴趣”，故填interest。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "They bring joy to us",
+        "exp": "音标/ðeɪ brɪŋ dʒɔɪ tu ʌs/对应句子They bring joy to us，bring sth. to sb.表示“把某物带给某人”。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "took away",
+        "exp": "表示“让某人惊叹不已”的短语为“take one’s breath away”，句子时态为一般过去时，take变为took。故填took；away。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "any other",
+        "exp": "句意：李明比我们班其他的男孩都高。“the other boys”和“any other boy”都表示“除自己外的其他所有男孩”。故填any；other。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "b; a",
+        "exp": "①hang up/hæŋ ʌp/，属于连读(ŋ和ʌ连读)，选b。②这是表示请求的一般疑问句，朗读用升调，选a。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "主语+谓语+宾语+宾语补足语",
+        "exp": "We作主语，can invite作谓语，our friends作宾语，to visit our new house作宾语补足语。"
+      },
+      {
+        "q": "(11)",
+        "opts": [],
+        "ans": "The blue whale is the heaviest animal in the world.",
+        "exp": "根据所给词语及标点符号可知，句子为陈述句：The blue whale is the heaviest animal in the world.“蓝鲸是世界上最重的动物”。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_wy_8a_8",
+    "paperId": "paper_zh_wy_8a",
+    "paperTitle": "广东珠海市文园中学（集团）2026-2027年度第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "九、选词填空",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "记叙文",
+      "个人经历",
+      "哲理感悟",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海文园阶段自测 选词填空（学习骑马的经历）",
+    "passage": "| care   happy   importance   try   kind   spend   friend   how   sport   different   what   something |\nThere was once a field for horse riding near my home. One day, my mom asked me if I wanted to ___1___ horse riding. I was nervous at first, but I decided to go for it. That’s ___2___ my story with horse riding began.\nIt soon became one of my favorite ___3___. It is a special sport, not just about riding but also about horses. I really like to ___4___ time with these animals. But it also means I need to ___5___ about them and be responsible (有责任心的).\nWhen I rode a horse for the first time, I used strong commands (命令), but the horse didn’t listen. Over time, I learned to be ___6___ to the horse. I spoke to it very gently (温和地) and praised it when it did ___7___ well. I also treated it like a ___8___ of mine. Riding makes me ___9___. After that, we rode around the field together.\nAs you can see, being patient is ___10___ when you want to make friends, even with animals.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">care &nbsp; happy &nbsp; importance &nbsp; try &nbsp; kind &nbsp; spend &nbsp; friend &nbsp; how &nbsp; sport &nbsp; different &nbsp; what &nbsp; something</div><p><span class=\"ind\">There was once a field for horse riding near my home. One day, my mom asked me if I wanted to <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> horse riding. I was nervous at first, but I decided to go for it. That’s <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> my story with horse riding began.</span></p><p><span class=\"ind\">It soon became one of my favorite <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u>. It is a special sport, not just about riding but also about horses. I really like to <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> time with these animals. But it also means I need to <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> about them and be responsible (有责任心的).</span></p><p><span class=\"ind\">When I rode a horse for the first time, I used strong commands (命令), but the horse didn’t listen. Over time, I learned to be <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> to the horse. I spoke to it very gently (温和地) and praised it when it did <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> well. I also treated it like a <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> of mine. Riding makes me <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u>. After that, we rode around the field together.</span></p><p><span class=\"ind\">As you can see, being patient is <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> when you want to make friends, even with animals.</span></p>",
+    "intro": "本文是一篇记叙文。主要讲述了作者学习骑马的经历，作者通过与马的相处学会了耐心，并强调了耐心在交友中的重要性。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "try",
+        "exp": "句意：有一天，我妈妈问我是否想尝试骑马。want to do sth.是固定短语，不定式符号to后接动词原形，结合“horse riding”和备选词语，try“尝试”符合语境。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "how",
+        "exp": "句意：那就是我与骑马的故事是如何开始的。根据语境，此处引导表语从句，表示方式，意为“如何”，how符合语境。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "sports",
+        "exp": "句意：它很快成了我最喜欢的运动之一。one of后接可数名词复数形式，sport的复数形式为sports。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "spend",
+        "exp": "句意：我真的很喜欢花时间和这些动物在一起。spend time意为“花费时间”，like to do sth.后接动词原形。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "care",
+        "exp": "句意：但这也意味着我需要关心它们并负责任。考查固定短语care about，意为“关心”，need to do sth.后接动词原形。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "kind",
+        "exp": "句意：随着时间的推移，我学会了对马友善。考查固定短语be kind to…，意为“对……友善”，应填kind。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "something",
+        "exp": "句意：我非常温和地和它说话，当它做好某事时我会表扬它。根据“did…well”和备选词语可知，something“某事”符合语境。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "friend",
+        "exp": "句意：我也把它当作我的一个朋友对待。a friend of mine意为“我的一个朋友”。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "happy",
+        "exp": "句意：骑马让我快乐。make sb.+adj.是固定表达，happy“高兴的；快乐的”符合语境。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "important",
+        "exp": "句意：正如你所见，当你想交朋友时，即使是动物，耐心是重要的。be动词后接形容词作表语，将名词importance改为形容词important。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_wy_8a_9",
+    "paperId": "paper_zh_wy_8a",
+    "paperTitle": "广东珠海市文园中学（集团）2026-2027年度第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "十、读写综合",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "读写综合",
+    "diff": 2,
+    "kp": [
+      "读写综合",
+      "个人经历",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海文园阶段自测 读写综合（万国邮联书信金奖与难忘瞬间）",
+    "passage": "请阅读下面短文，根据所提供的信息，回答5个问题。要求所写答案语法正确、语义完整切题，并把答案写在答题卡对应题目的答题位置上。\n\nSi Zhiyuan is a 13-year-old Chinese girl from Wuxi, Jiangsu. She won the only global gold award in the 55th UPU (万国邮政联盟) International Letter-Writing Competition. Her letter The Sweetest Honey beat 1.48 million letters from 65 countries all over the world.\nThe theme of this year’s competition was “A Letter to a Friend about Why Human Connection matters in a Digital (数字的) World”. In her letter, Si Zhiyuan shared her real-life story with her cousin Yuanbao. They live 2,000 kilometers apart. They often chat online in their free time, but she still believes real-life feelings cannot be fully felt just from short video screens— just like the warm fresh honey Yuanbao gave her during her visit in Ningxia, which tastes sweeter than anything she can buy in the city.\nThe judges thought her work was amazing. They said her letter was full of true feelings and poetic language. Although digital tools help them stay in touch far away, the girl thinks true friendship lives deep inside people’s hearts. Distance will never break their real connection.\nSi Zhiyuan is a Grade Seven student now. She enjoys reading and writing in her spare time. She usually keeps diaries three or four times a week to record small warm moments in daily life.",
+    "passageHtml": "<p style=\"margin-bottom:8px;color:var(--mu);font-size:13.5px\"><strong>A．回答问题：</strong>请阅读下面短文，根据所提供的信息，回答5个问题。要求所写答案语法正确、语义完整切题，并把答案写在答题卡对应题目的答题位置上。</p><p><span class=\"ind\">Si Zhiyuan is a 13-year-old Chinese girl from Wuxi, Jiangsu. She won the only global gold award in the 55th UPU (万国邮政联盟) International Letter-Writing Competition. Her letter <i>The Sweetest Honey</i> beat 1.48 million letters from 65 countries all over the world.</span></p><p><span class=\"ind\">The theme of this year’s competition was “A Letter to a Friend about Why Human Connection matters in a Digital (数字的) World”. In her letter, Si Zhiyuan shared her real-life story with her cousin Yuanbao. They live 2,000 kilometers apart. They often chat online in their free time, but she still believes real-life feelings cannot be fully felt just from short video screens— just like the warm fresh honey Yuanbao gave her during her visit in Ningxia, which tastes sweeter than anything she can buy in the city.</span></p><p><span class=\"ind\">The judges thought her work was amazing. They said her letter was full of true feelings and poetic language. Although digital tools help them stay in touch far away, the girl thinks true friendship lives deep inside people’s hearts. Distance will never break their real connection.</span></p><p><span class=\"ind\">Si Zhiyuan is a Grade Seven student now. She enjoys reading and writing in her spare time. She usually keeps diaries three or four times a week to record small warm moments in daily life.</span></p>",
+    "intro": "本文是一篇记叙文。文章主要讲述了来自江苏无锡的13岁女孩司芝元在第55届万国邮政联盟国际书信写作比赛中获得全球金奖的故事，介绍了她的信件内容、评委评价以及她的写作习惯。",
+    "qs": [
+      {
+        "q": "Where does Si Zhiyuan come from?",
+        "opts": [],
+        "ans": "She comes from Wuxi, Jiangsu.",
+        "exp": "根据文章第1段“Si Zhiyuan is a 13-year-old Chinese girl from Wuxi, Jiangsu.”可知她来自江苏无锡。"
+      },
+      {
+        "q": "What did Si Zhiyuan share in her letter?",
+        "opts": [],
+        "ans": "She shared her real-life story with her cousin Yuanbao.",
+        "exp": "根据文章第2段“In her letter, Si Zhiyuan shared her real-life story with her cousin Yuanbao.”可知她在信中分享了与表弟元宝的真实故事。"
+      },
+      {
+        "q": "Does Si Zhiyuan believe real-life feelings can be fully felt just from short video screens?",
+        "opts": [],
+        "ans": "No, she doesn’t.",
+        "exp": "根据文章第2段“but she still believes real-life feelings cannot be fully felt just from short video screens”可知她持否定观点。"
+      },
+      {
+        "q": "What did the judges think of Si Zhiyuan’s letter?",
+        "opts": [],
+        "ans": "They thought her work was amazing. (Or: They said her letter was full of true feelings and poetic language.)",
+        "exp": "根据文章第3段“The judges thought her work was amazing. They said her letter was full of true feelings and poetic language.”直接提取答案。"
+      },
+      {
+        "q": "Why does Si Zhiyuan usually keep diaries?",
+        "opts": [],
+        "ans": "To record small warm moments in daily life.",
+        "exp": "根据文章第4段“She usually keeps diaries three or four times a week to record small warm moments in daily life.”可知她写日记的目的。"
+      },
+      {
+        "q": "<div style=\"margin-top:10px;padding-top:10px;border-top:1px dashed var(--bd)\"><strong>B．书面表达</strong><p style=\"margin:4px 0\">请根据要求完成短文写作，并将写作内容写在答题卡对应题目的位置上。</p><p style=\"margin:4px 0\">读了司芝元的故事，相信你也想起了自己生活中难忘的瞬间。也许是在假期与亲友重逢的喜悦，也许是和家人一起分担家务的温馨，又或是走近自然时感受到的美好……请先把题目补充完整，再以“The ______ Moment in My Life”为题，根据要点提示，向校刊“英语美文”专栏投稿，分享你心中最特别的故事。</p><p style=\"margin:4px 0\">要点提示：<br>(1) 请先在题目横线处填写一个形容词的最高级，把题目补充完整后再写作。<br>(2) 请具体描述你的这次经历以及你的感受；<br>(3) 号召同学们珍惜我们生活中的每一天。</p><p style=\"margin:4px 0\">作文要求：<br>(1) 不能照抄原文；不得在作文中出现真实校名、地名和考生的真实姓名；<br>(2) 语句连贯，词数80左右。作文的开头已经给出，不计入总词数。</p><p class=\"ct\" style=\"margin:8px 0\"><b>The ____________ Moment in My Life</b></p><p style=\"margin:4px 0\">In our daily lives, we have all kinds of moments. For me, there is one that I will never forget because it is the ______________________________</p></div>",
+        "opts": [],
+        "ans": "【参考范文】\nThe Most Unforgettable Moment in My Life\nIn our daily lives, we have all kinds of moments. For me, there is one that I will never forget because it is the most unforgettable moment.\nLast summer, I volunteered at a community center. I helped clean the park and chatted with the elderly. I listened to their interesting stories carefully. Seeing their bright smiles made me feel warm and joyful. I realized helping others brings true happiness and small love can bring great warmth.\nThis experience taught me the value of kindness. Let's cherish every day and create more beautiful moments in our lives.",
+        "exp": "写作步骤\n[第一步：审题立意]\n确定文体：记叙文\n明确要点：补全题目（形容词最高级）、讲述难忘的经历、描述自身感受、号召同学们珍惜每一天\n[第二步：构思布局]\n三段式结构：开头段引出难忘的瞬间；主体段交代事件时间、地点、所做的事情及感受；结尾段总结经历的意义并号召大家珍惜每一天。"
+      }
+    ]
+  },
+  {
+    "id": "paper_st_lh_8a_1",
+    "paperId": "paper_st_lh_8a",
+    "paperTitle": "广东汕头市龙湖实验中学2026-2027学年上学期阶段质量检测卷初二英语",
+    "sectionTitle": "一、语法选择",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "语法选择",
+    "diff": 2,
+    "kp": [
+      "记叙文",
+      "个人经历",
+      "旅行",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 汕头龙湖阶段质检 语法选择（难忘的山村之旅）",
+    "passage": "My name is Lisa. Last summer vacation, I took a trip to a quiet mountain village with my family. It was one of ___1___ trips in my life. Before I went there, I only saw pictures of the village online. The sights in the village are much more wonderful than ___2___ in the photos. I could hardly imagine ___3___ in such a peaceful place without loud street noises.\nOn the first day, we met ___4___ honest local girl. The honest kid lived at the foot of the hill. She volunteered to show us around. She told us travellers should be against ___5___ rubbish everywhere when enjoying nature. She walked ___6___ and told us stories about the old village. Something special surprised me: many wild flowers popular ___7___ local people grew beside the old stone houses.\nWe picked wild flowers and took lots of photos. We tried local food and talked with friendly villagers. Everyone had great fun. Nobody ___8___ bored during the trip. We learned that travelling is more meaningful than just visiting beautiful ___9___. It teaches us to love and protect nature. I hope to go back there for ___10___ visit someday.",
+    "passageHtml": "<p><span class=\"ind\">My name is Lisa. Last summer vacation, I took a trip to a quiet mountain village with my family. It was one of <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> trips in my life. Before I went there, I only saw pictures of the village online. The sights in the village are much more wonderful than <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> in the photos. I could hardly imagine <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> in such a peaceful place without loud street noises.</span></p><p><span class=\"ind\">On the first day, we met <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> honest local girl. The honest kid lived at the foot of the hill. She volunteered to show us around. She told us travellers should be against <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> rubbish everywhere when enjoying nature. She walked <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> and told us stories about the old village. Something special surprised me: many wild flowers popular <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> local people grew beside the old stone houses.</span></p><p><span class=\"ind\">We picked wild flowers and took lots of photos. We tried local food and talked with friendly villagers. Everyone had great fun. Nobody <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> bored during the trip. We learned that travelling is more meaningful than just visiting beautiful <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u>. It teaches us to love and protect nature. I hope to go back there for <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> visit someday.</span></p>",
+    "intro": "本文是一篇记叙文，主要讲述Lisa去年暑假与家人去山村旅行的经历。文中描写了当地优美的风光、遇到的小女孩以及保护自然的感悟，表达了一次难忘的旅行体验。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "more unforgettable",
+          "unforgettable",
+          "the most unforgettable"
+        ],
+        "ans": "C",
+        "exp": "句意：这是我人生中最难忘的旅行之一。根据“one of+the+最高级+复数名词”结构，可知此处需用最高级，the most unforgettable“最难忘的”符合逻辑。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "those",
+          "that",
+          "this"
+        ],
+        "ans": "A",
+        "exp": "句意：村里的景色比照片里的景色美妙得多。前文“sights”为复数名词，比较的是村里的景色和照片里的景色，those“那些”指代复数名词，符合语法。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "live",
+          "living",
+          "to live"
+        ],
+        "ans": "B",
+        "exp": "句意：我很难想象居住在这样一个没有街道喧嚣的地方。根据固定搭配“imagine doing sth.”，可知imagine后接动名词living。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "A",
+          "An",
+          "The"
+        ],
+        "ans": "B",
+        "exp": "句意：第一天，我们遇到了一位诚实的当地女孩。“honest”发音以元音音素开头，首次提及且表泛指，元音音素前用An。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "drop",
+          "dropping",
+          "to drop"
+        ],
+        "ans": "B",
+        "exp": "句意：她告诉我们游客在享受自然时应该反对随地乱扔垃圾。根据“against”是介词，后接动名词dropping。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "careful",
+          "carefully",
+          "careless"
+        ],
+        "ans": "B",
+        "exp": "句意：她小心翼翼地走着，给我们讲古老村庄的故事。修饰动词“walked”需用副词carefully。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "at",
+          "with",
+          "in"
+        ],
+        "ans": "B",
+        "exp": "句意：许多受当地人欢迎的野花生长在老石屋旁。根据固定搭配“popular with sb.”，表示受某人群欢迎，介词with符合习惯用法。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "feel",
+          "feels",
+          "felt"
+        ],
+        "ans": "C",
+        "exp": "句意：旅行期间，没有人感到无聊。根据全文叙述过去发生的旅行经历，可知动词需用一般过去时felt。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "place",
+          "places",
+          "places’"
+        ],
+        "ans": "B",
+        "exp": "句意：我们了解到旅行比仅仅参观美丽的地方更有意义。旅行通常涉及多个地点，places“地方（复数）”符合逻辑。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "other",
+          "another",
+          "others"
+        ],
+        "ans": "B",
+        "exp": "句意：我希望某天能再去那里进行一次访问。根据“another+单数名词”表示“再一次”，another visit表示“另一次访问”。"
+      }
+    ]
+  },
+  {
+    "id": "paper_st_lh_8a_2",
+    "paperId": "paper_st_lh_8a",
+    "paperTitle": "广东汕头市龙湖实验中学2026-2027学年上学期阶段质量检测卷初二英语",
+    "sectionTitle": "二、完形填空",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "记叙文",
+      "个人经历",
+      "劳动实践",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 汕头龙湖阶段质检 完形填空（家务劳动的收获）",
+    "passage": "At my school, a new housework ___1___ starts for students these days. It asks every student to do some housework at home every week and write down their feelings after finishing the tasks. At first, many students thought it was boring and a waste of time. ___2___, doing housework can bring us a lot of good changes and help us build a good ___3___.\nMy mom is busy with her work every weekday. She has to prepare reports and meet different people. There is little time for housework, ___4___ on weekends. I decide to help her lighten the housework. Every Saturday morning, I ___5___ our living room. I sweep the floor, tidy the desks and take out the rubbish. Sometimes I help cook simple meals in the kitchen. At first, I didn’t know ___6___ to do when cooking. Mum told me to watch carefully and learn step by step. I find that cooking needs lots of ___7___ and it takes much time. When I finish my housework well, my mom always feels ___8___. I also learn to ___9___ my housework experience with my classmates after school. We talk about our difficulties and happy moments at home.\n___10___ this activity, I find that housework is not tiring at all. It gives me a pleasant feeling when I see our tidy and warm home. I understand family members should help each other. Small housework can teach us responsibility and love for our family. It makes me know that everyone in the family should take part in housework, not only parents.",
+    "passageHtml": "<p><span class=\"ind\">At my school, a new housework <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> starts for students these days. It asks every student to do some housework at home every week and write down their feelings after finishing the tasks. At first, many students thought it was boring and a waste of time. <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u>, doing housework can bring us a lot of good changes and help us build a good <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u>.</span></p><p><span class=\"ind\">My mom is busy with her work every weekday. She has to prepare reports and meet different people. There is little time for housework, <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> on weekends. I decide to help her lighten the housework. Every Saturday morning, I <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> our living room. I sweep the floor, tidy the desks and take out the rubbish. Sometimes I help cook simple meals in the kitchen. At first, I didn’t know <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> to do when cooking. Mum told me to watch carefully and learn step by step. I find that cooking needs lots of <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> and it takes much time. When I finish my housework well, my mom always feels <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u>. I also learn to <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> my housework experience with my classmates after school. We talk about our difficulties and happy moments at home.</span></p><p><span class=\"ind\"><u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> this activity, I find that housework is not tiring at all. It gives me a pleasant feeling when I see our tidy and warm home. I understand family members should help each other. Small housework can teach us responsibility and love for our family. It makes me know that everyone in the family should take part in housework, not only parents.</span></p>",
+    "intro": "本文主要讲述了学校开展家务活动，作者通过帮妈妈做家务，体会到家务能培养责任感和爱心，家庭成员应共同参与。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "activity",
+          "community",
+          "treasure",
+          "similarity"
+        ],
+        "ans": "A",
+        "exp": "句意：在我学校，最近为学生开始了一项新的家务活动。后文提到这项安排要求学生每周在家做家务并写下感受，activity表示“活动”，契合语境。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "At least",
+          "In fact",
+          "For example",
+          "As a result"
+        ],
+        "ans": "B",
+        "exp": "句意：事实上，做家务能给我们带来很多积极改变。前文讲学生的负面看法，后文讲做家务的好处，存在转折逻辑，In fact表示“事实上”。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "character",
+          "hobby",
+          "dream",
+          "message"
+        ],
+        "ans": "A",
+        "exp": "句意：帮助我们塑造良好的品格。build a good character是常用搭配，意为“塑造良好品格”。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "besides",
+          "without",
+          "except",
+          "through"
+        ],
+        "ans": "C",
+        "exp": "句意：她几乎没有时间做家务，周末除外。except表示“除……之外”，指周末是例外情况。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "clean up",
+          "give up",
+          "wake up",
+          "grow up"
+        ],
+        "ans": "A",
+        "exp": "句意：每周六早上，我打扫客厅。后文扫地、整理书桌、倒垃圾都属于打扫的行为，clean up意为“打扫”。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "how",
+          "what",
+          "when",
+          "where"
+        ],
+        "ans": "B",
+        "exp": "句意：起初我不知道做饭时该做什么。疑问词加不定式结构，“do”后面缺少宾语，what to do表示“该做什么”。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "planet",
+          "practice",
+          "pollination",
+          "population"
+        ],
+        "ans": "B",
+        "exp": "句意：我发现做饭需要大量练习，而且很耗费时间。practice表示“练习”符合语境。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "pleased",
+          "forgetful",
+          "familiar",
+          "pleasant"
+        ],
+        "ans": "A",
+        "exp": "句意：当我出色完成家务，妈妈总是很高兴。主语是人，pleased表示“感到高兴的”，用来修饰人。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "show",
+          "sort",
+          "share",
+          "solve"
+        ],
+        "ans": "C",
+        "exp": "句意：放学后我也学会和同学们分享做家务的经历。share…with sb是固定搭配，意思是“和某人分享某物”。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "Nothing but",
+          "Thanks for",
+          "Instead of",
+          "Thanks to"
+        ],
+        "ans": "D",
+        "exp": "句意：多亏这项活动，我发现家务一点也不累。Thanks to意为“多亏、由于”，用来引出原因。"
+      }
+    ]
+  },
+  {
+    "id": "paper_st_lh_8a_3",
+    "paperId": "paper_st_lh_8a",
+    "paperTitle": "广东汕头市龙湖实验中学2026-2027学年上学期阶段质量检测卷初二英语",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "社团/俱乐部",
+      "应用文",
+      "细节理解",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 汕头龙湖阶段质检 阅读理解A篇（动植物社团招募海报）",
+    "passage": "Wild & Wonderful: Plants and Animals Club Poster\nWelcome to our school’s Plants and Animals Club! Come and explore the amazing living things around us. You will find that some animals and plants are much more surprising than we usually think.\nTime: 4:30 p.m.—5:40 p.m., every Wednesday\nPlace: School Science Room (No.203)\nFor: Students from Grade 7 and Grade 8. Students who love nature and have basic observation (观察) skills are more welcome.\nWhat we will do:\n·Watch short videos about some of the largest, fastest and most amazing animals on Earth. The blue whale is the heaviest animal in the world, while the cheetah runs fastest on land. We will also talk about which animal sleeps the least each day.\n·Learn about special plants. Some plants are the oldest living things on our planet. They can live for thousands of years. A few plants can even catch small insects for food.\n·Join small-group talks: Share your favourite animal or plant and talk about its living habits, dangers it faces and ways to protect it.\n·Take part in simple field observation tasks. We will study insects and green plants in our school garden, and record what we see in our notebooks.\nRules:\n1. Bring your notebook and pencil every time to write down your findings.\n2. Do not pick flowers, touch nests or hurt small animals in the garden.\n3. Listen carefully during discussions and respect different ideas from your teammates.\n4. Write a short report about your observation after each activity.\nIf you want to join, send an email to Ms Lee before October 30. Her email: sciencelee@school.com. If you have questions, you can also go to the science office in Building 3 in the morning.",
+    "passageHtml": "<div class=\"bx\"><p class=\"ct\"><b>Wild &amp; Wonderful: Plants and Animals Club Poster</b></p><p><span class=\"ind\">Welcome to our school’s Plants and Animals Club! Come and explore the amazing living things around us. You will find that some animals and plants are much more surprising than we usually think.</span></p><p><b>Time:</b> 4:30 p.m.—5:40 p.m., every Wednesday</p><p><b>Place:</b> School Science Room (No.203)</p><p><b>For:</b> Students from Grade 7 and Grade 8. Students who love nature and have basic observation (观察) skills are more welcome.</p><p><b>What we will do:</b></p><p>·Watch short videos about some of the largest, fastest and most amazing animals on Earth. The blue whale is the heaviest animal in the world, while the cheetah runs fastest on land. We will also talk about which animal sleeps the least each day.</p><p>·Learn about special plants. Some plants are the oldest living things on our planet. They can live for thousands of years. A few plants can even catch small insects for food.</p><p>·Join small-group talks: Share your favourite animal or plant and talk about its living habits, dangers it faces and ways to protect it.</p><p>·Take part in simple field observation tasks. We will study insects and green plants in our school garden, and record what we see in our notebooks.</p><p><b>Rules:</b></p><p>1. Bring your notebook and pencil every time to write down your findings.</p><p>2. Do not pick flowers, touch nests or hurt small animals in the garden.</p><p>3. Listen carefully during discussions and respect different ideas from your teammates.</p><p>4. Write a short report about your observation after each activity.</p><p>If you want to join, send an email to Ms Lee before October 30. Her email: sciencelee@school.com. If you have questions, you can also go to the science office in Building 3 in the morning.</p></div>",
+    "intro": "本文是应用文，为学校动植物俱乐部招募海报，介绍了俱乐部的活动时间、地点、对象、活动内容、规则及联系方式，号召感兴趣的学生加入。",
+    "qs": [
+      {
+        "q": "When does the club activity start each week?",
+        "opts": [
+          "At 4:30 p.m.",
+          "At 5:40 p.m.",
+          "At 4:30 a.m.",
+          "At 5:40 a.m."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据文章“Time:4:30 p.m.—5:40 p.m., every Wednesday”可推知俱乐部活动每周下午4:30开始。"
+      },
+      {
+        "q": "What do we know about the club?",
+        "opts": [
+          "It is open to students of all grades.",
+          "Members can watch videos about wild animals.",
+          "Members can catch insects freely in the garden.",
+          "We can call Ms Lee to ask for information."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据文章“What we will do”部分“Watch short videos about some of the largest, fastest and most amazing animals on Earth.”可推知成员可以观看关于野生动物的视频。"
+      },
+      {
+        "q": "Which of the following is NOT the club’s activity?",
+        "opts": [
+          "Watching short science videos.",
+          "Discussing how to protect living things.",
+          "Keeping blue whales in the school garden.",
+          "Doing observation and writing reports."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。蓝鲸只在视频中出现，学校花园里研究的是昆虫和绿色植物，所以在学校花园养蓝鲸不是俱乐部活动。"
+      },
+      {
+        "q": "What rule should club members follow?",
+        "opts": [
+          "Pick some flowers for study.",
+          "Arrive before 5:40 p.m. every Wednesday.",
+          "Take notebooks to record findings.",
+          "Give out different ideas to others."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据文章“Rules: 1. Bring your notebook and pencil every time to write down your findings.”可推知成员需要带笔记本记录发现。"
+      },
+      {
+        "q": "Where can we probably see this poster?",
+        "opts": [
+          "In a storybook.",
+          "On the school noticeboard.",
+          "In a zoo.",
+          "In a supermarket."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据文章“Welcome to our school’s Plants and Animals Club!”以及“For: Students from Grade 7 and Grade 8.”可推知这是面向本校学生的俱乐部招募海报，最可能出现在学校公告栏。"
+      }
+    ]
+  },
+  {
+    "id": "paper_st_lh_8a_4",
+    "paperId": "paper_st_lh_8a",
+    "paperTitle": "广东汕头市龙湖实验中学2026-2027学年上学期阶段质量检测卷初二英语",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "科普知识",
+      "说明文",
+      "常见动物",
+      "篇章结构",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 汕头龙湖阶段质检 阅读理解B篇（喜鹊的声音识别研究）",
+    "passage": "①Many people believe that only humans can use special calls to tell each other apart. But a new study on wild magpies shows something surprising. These clever black-and-white birds can recognise their family members with special sounds. The research was carried out by a team of animal scientists, and the amazing result has drawn wide attention around the world.\n② Magpies live in small family groups. They spend lots of time looking for food together and take good care of their young. ▲ . When a magpie finds danger nearby, such as a snake or a cat, it will send out a sharp sound to warn all its family members at once.\n③ To test their idea, scientists recorded many different calls from magpies living in different areas. Then they played these sounds to the magpies and carefully watched their responses.\n④ The results showed that magpies could tell whether the sound came from their own family or strangers. However, the scientists also found that magpies did not react to every single call. They paid attention mainly to calls from their close relatives.\n⑤ Scientists say this finding changes our old ideas about bird communication. It tells us that some birds have much more complex social skills than we once thought. More studies are still needed to fully understand how these smart birds communicate with one another in daily life.",
+    "passageHtml": "<p><span class=\"ind\">①Many people believe that only humans can use special calls to tell each other apart. But a new study on wild magpies shows something surprising. These clever black-and-white birds can <u>recognise</u> their family members with special sounds. The research was carried out by a team of animal scientists, and the amazing result has drawn wide attention around the world.</span></p><p><span class=\"ind\">② Magpies live in small family groups. They spend lots of time looking for food together and take good care of their young. <u>&nbsp;&nbsp;▲&nbsp;&nbsp;</u>. When a magpie finds danger nearby, such as a snake or a cat, it will send out a sharp sound to warn all its family members at once.</span></p><p><span class=\"ind\">③ To test their idea, scientists recorded many different calls from magpies living in different areas. Then they played these sounds to the magpies and carefully watched their responses.</span></p><p><span class=\"ind\">④ The results showed that magpies could tell whether the sound came from their own family or strangers. However, the scientists also found that magpies did not react to every single call. They paid attention mainly to calls from their close relatives.</span></p><p><span class=\"ind\">⑤ Scientists say this finding changes our old ideas about bird communication. It tells us that some birds have much more complex social skills than we once thought. More studies are still needed to fully understand how these smart birds communicate with one another in daily life.</span></p>",
+    "intro": "本文是一篇科普说明文，介绍了一项关于野生喜鹊能够通过特殊叫声识别家庭成员的科学研究及其意义。",
+    "qs": [
+      {
+        "q": "What is the main new discovery of the study?",
+        "opts": [
+          "Magpies never give warnings to others.",
+          "Magpies often fight with other bird groups.",
+          "Magpies can speak words just like humans.",
+          "Magpies can tell family members by special sounds."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据第一段“But a new study on wild magpies shows something surprising. These clever black-and-white birds can recognise their family members with special sounds.”可知，研究的新发现是喜鹊能够通过特殊的声音分辨家庭成员。"
+      },
+      {
+        "q": "What does the underlined word “<u>recognise</u>” in Paragraph 1 probably mean?",
+        "opts": [
+          "know",
+          "search",
+          "imagine",
+          "guide"
+        ],
+        "ans": "A",
+        "exp": "词句猜测题。根据第一段“recognise their family members with special sounds”可知，喜鹊能用特殊声音识别家人，此处recognise意为“识别、知道（know）”。"
+      },
+      {
+        "q": "What question does Paragraph 3 mainly answer?",
+        "opts": [
+          "How did the scientists carry out their test?",
+          "Where do magpies build their nests?",
+          "How many kinds of birds live in forests?",
+          "Why do magpies like living in groups?"
+        ],
+        "ans": "A",
+        "exp": "主旨大意题。根据第三段“To test their idea, scientists recorded many different calls from magpies...Then they played these sounds...and carefully watched their responses.”可知，本段主要回答了科学家如何进行测试的问题。"
+      },
+      {
+        "q": "What can we infer from the passage?",
+        "opts": [
+          "Magpies react to all kinds of bird calls.",
+          "Some birds have better communication abilities than we expected.",
+          "Magpies have the most complex social skills among all animals.",
+          "Scientists have already known everything about bird calls."
+        ],
+        "ans": "B",
+        "exp": "推理判断题。根据第五段“It tells us that some birds have much more complex social skills than we once thought.”可推知，有些鸟类的交流能力比我们预期的更好。"
+      },
+      {
+        "q": "Which of the following shows the structure of the passage?",
+        "opts": [
+          "①/②/③④/⑤",
+          "①/②③④⑤",
+          "①/②③/④⑤",
+          "①/②③④/⑤"
+        ],
+        "ans": "A",
+        "exp": "篇章结构题。第一段引入研究发现，第二段介绍喜鹊生活背景，第三、四段描述实验过程与结果，第五段总结研究意义，文章结构为①/②/③④/⑤。"
+      }
+    ]
+  },
+  {
+    "id": "paper_st_lh_8a_5",
+    "paperId": "paper_st_lh_8a",
+    "paperTitle": "广东汕头市龙湖实验中学2026-2027学年上学期阶段质量检测卷初二英语",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "配对阅读",
+    "diff": 1,
+    "kp": [
+      "应用文",
+      "志愿服务",
+      "配对阅读",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 汕头龙湖阶段质检 配对阅读（个人特长与志愿活动匹配）",
+    "passage": "配对阅读。左栏是五个人的信息，右栏是七则活动信息。请为每个人匹配对应的活动信息。选项中有两项为多余项。\n\nA. In our hospital, most people can’t look after themselves well. And sometimes they feel lonely. They hope someone outgoing can stay with them and bring them joy.\nB. We are volunteers (志愿者) in Zhuhai Xiangzhou Library. We usually help readers to borrow and return books. We need your help.\nC. More people visit Zhuhai Museum during the weekends, so we want some volunteers to be our guides. Volunteers should know a lot about history.\nD. Come and join us if you like pets. We will feed them, take care of them and help them find their owners.\nE. Some people don’t know how to put rubbish in the right place. So we decide to hold an activity to tell people about waste sorting.\nF. There are over 20 left-behind children here. Their parents are too busy to take care of them. They are interested in singing and learning English.\nG. We need 20 people to help plant trees in the park on Sunday morning. We want to make the park greener to protect the environment. Come and join us.",
+    "passageHtml": "<p><strong>配对阅读：</strong>左栏是五个人的信息，右栏是七则活动信息。请为每个人匹配对应的活动信息。选项中有两项为多余项。</p><div class=\"bx\"><p><b>A.</b> In our hospital, most people can’t look after themselves well. And sometimes they feel lonely. They hope someone outgoing can stay with them and bring them joy.</p><p><b>B.</b> We are volunteers (志愿者) in Zhuhai Xiangzhou Library. We usually help readers to borrow and return books. We need your help.</p><p><b>C.</b> More people visit Zhuhai Museum during the weekends, so we want some volunteers to be our guides. Volunteers should know a lot about history.</p><p><b>D.</b> Come and join us if you like pets. We will feed them, take care of them and help them find their owners.</p><p><b>E.</b> Some people don’t know how to put rubbish in the right place. So we decide to hold an activity to tell people about waste sorting.</p><p><b>F.</b> There are over 20 left-behind children here. Their parents are too busy to take care of them. They are interested in singing and learning English.</p><p><b>G.</b> We need 20 people to help plant trees in the park on Sunday morning. We want to make the park greener to protect the environment. Come and join us.</p></div>",
+    "intro": "本题是活动匹配阅读题，根据五位同学的兴趣与需求，匹配最合适的活动。",
+    "qs": [
+      {
+        "q": "(   ) Emma is an outgoing girl. She is interested in history and she knows Chinese history quite well.",
+        "opts": [],
+        "ans": "C",
+        "exp": "Emma精通中国历史，选项C招募懂历史的博物馆志愿讲解员，与之匹配。"
+      },
+      {
+        "q": "(   ) Frank wants to do something good to protect the environment. He is good at dealing with kitchen waste and unwanted things.",
+        "opts": [],
+        "ans": "E",
+        "exp": "Frank擅长处理厨余垃圾，选项E举办宣传垃圾分类的活动，与之匹配。"
+      },
+      {
+        "q": "(   ) Mary is a friendly girl. She loves being with children and teaching them to sing and learn English.",
+        "opts": [],
+        "ans": "F",
+        "exp": "Mary喜欢教孩子唱歌和学英语，选项F留守儿童对唱歌和学英语感兴趣，与之匹配。"
+      },
+      {
+        "q": "(   ) Jack is warm-hearted and kind. He loves animals and is glad to look after all kinds of pets.",
+        "opts": [],
+        "ans": "D",
+        "exp": "Jack喜欢动物并乐意照顾宠物，选项D照顾宠物并帮它们找主人，与之匹配。"
+      },
+      {
+        "q": "(   ) Steven loves reading and he used to work in the library. He hopes to help readers.",
+        "opts": [],
+        "ans": "B",
+        "exp": "Steven喜欢阅读且曾在图书馆工作，希望能帮助读者，选项B图书馆志愿者协助读者借还书，与之匹配。"
+      }
+    ]
+  },
+  {
+    "id": "paper_st_lh_8a_6",
+    "paperId": "paper_st_lh_8a",
+    "paperTitle": "广东汕头市龙湖实验中学2026-2027学年上学期阶段质量检测卷初二英语",
+    "sectionTitle": "四、选词填空",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "科普知识",
+      "说明文",
+      "植物",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 汕头龙湖阶段质检 选词填空（神奇的食虫植物）",
+    "passage": "| stay   imagine   see   tiny   actual   but   for   day   food   if   before   it |\nNature is full of many surprises! Can you ___1___ some plants can even eat insects in a few seconds? Do you know them? These plants can not get much food from the ground, so they need to eat something else in the natural world. These plants mainly catch ___2___ insects, such as flies (苍蝇) and ants.\nOne kind of plant smells very sweet and its leaves are red. Many insects like ___3___ bright colours like red, yellow, and purple. If insects see the red leaves of this plant, they will fly down for meals! ___4___, the leaves are covered with long hairs that are bad for the insects. The leaves seem usual, ___5___ they can catch insects. The two sides of the leaves close together instantly (立即) ___6___ an insect touches the hairs.\nIt takes less than half a second. The poor insect ___7___ inside the leaves and cannot get out. It becomes ___8___ for the plant. The plant eats ___9___ slowly. It needs about 12 to 15 ___10___ to finish its meal. How amazing nature is!\nNow, let’s find out these special plants in daily life.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">stay &nbsp; imagine &nbsp; see &nbsp; tiny &nbsp; actual &nbsp; but &nbsp; for &nbsp; day &nbsp; food &nbsp; if &nbsp; before &nbsp; it</div><p><span class=\"ind\">Nature is full of many surprises! Can you <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> some plants can even eat insects in a few seconds? Do you know them? These plants can not get much food from the ground, so they need to eat something else in the natural world. These plants mainly catch <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> insects, such as flies (苍蝇) and ants.</span></p><p><span class=\"ind\">One kind of plant smells very sweet and its leaves are red. Many insects like <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> bright colours like red, yellow, and purple. If insects see the red leaves of this plant, they will fly down for meals! <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u>, the leaves are covered with long hairs that are bad for the insects. The leaves seem usual, <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> they can catch insects. The two sides of the leaves close together instantly (立即) <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> an insect touches the hairs.</span></p><p><span class=\"ind\">It takes less than half a second. The poor insect <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> inside the leaves and cannot get out. It becomes <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> for the plant. The plant eats <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> slowly. It needs about 12 to 15 <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> to finish its meal. How amazing nature is!</span></p><p><span class=\"ind\">Now, let’s find out these special plants in daily life.</span></p>",
+    "intro": "本文是一篇说明文，主要介绍了自然界中食虫植物的特点、捕食昆虫的过程以及消化时间。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "imagine",
+        "exp": "句意：你能想象有些植物甚至能在几秒钟内吃掉昆虫吗？情态动词can后接动词原形imagine。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "tiny",
+        "exp": "句意：这些植物主要捕捉微小的昆虫，如苍蝇和蚂蚁。此处修饰名词insects，tiny“微小的”作定语。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "seeing",
+        "exp": "句意：许多昆虫喜欢看见像红色、黄色和紫色这样明亮的颜色。固定搭配like doing sth.，see变为seeing。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "Actually",
+        "exp": "句意：实际上，叶子上覆盖着对昆虫有害的长毛。此处修饰整个句子，actual变为副词Actually作状语。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "but",
+        "exp": "句意：叶子看起来普通，但它们能捕捉昆虫。前后句表转折，用转折连词but。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "if",
+        "exp": "句意：如果昆虫碰到毛，叶子的两侧会立即合拢。引导条件状语从句，用if。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "stays",
+        "exp": "句意：可怜的昆虫待在叶子里面，无法出来。主语the poor insect是单数，一般现在时谓语动词stay变为stays。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "food",
+        "exp": "句意：它变成了植物的食物。food“食物”符合语境。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "it",
+        "exp": "句意：植物慢慢地吃它。此处指代前文被捕获的昆虫，用代词it。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "days",
+        "exp": "句意：它需要大约12到15天来完成它的用餐。数词12 to 15后接可数名词复数days。"
+      }
+    ]
+  },
+  {
+    "id": "paper_st_lh_8a_7",
+    "paperId": "paper_st_lh_8a",
+    "paperTitle": "广东汕头市龙湖实验中学2026-2027学年上学期阶段质量检测卷初二英语",
+    "sectionTitle": "五、读写综合",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "读写综合",
+    "diff": 2,
+    "kp": [
+      "读写综合",
+      "环境保护",
+      "人与自然",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 汕头龙湖阶段质检 读写综合（迷雾森林神奇生物与保护树木倡议）",
+    "passage": "请阅读下面短文，根据所提供的信息，回答五个问题，并将答案写在答题卡对应题目的答题位置上。要求所写答案语法正确、信息完整切题。\n\nIn a secret place called Misty Forest, there are two magical creatures (生物)—the Glowfox and the Rainbow Flower. The forest provides lots of wood and fresh oxygen (氧气) for all living things here.\nThe Glowfox is a small animal, as big as a cat. Its fur shines like moonlight at night. It eats shiny insects it finds near rivers. During the day, it sleeps in tree branches or trunks. If you touch its back gently, it leaves a soft light on your hand for hours! How strange it is!\nThe Rainbow Flower is a tiny flower a little larger than a thumb (大拇指). It grows only on rocks after rain. It changes colours every hour, from pink to blue to gold. Surprisingly, it doesn’t need soil (土壤). Instead, it “drinks” sunlight and raindrops. Birds love to rest near it because its smell makes them sing sweeter songs.\nThese two creatures help each other. The Glowfox’s light helps the Rainbow Flower “wake up” at night, while the flower’s colours guide the fox to find food. Scientists tried taking them to labs (实验室) for study, but they always lost their magic outside the Misty Forest.\nNature’s wonders are full of secrets. Maybe one day, you’ll find your own magical creature!",
+    "passageHtml": "<p style=\"margin-bottom:8px;color:var(--mu);font-size:13.5px\"><strong>A．回答问题：</strong>请阅读下面短文，根据所提供的信息，回答五个问题，并将答案写在答题卡对应题目的答题位置上。要求所写答案语法正确、信息完整切题。</p><p><span class=\"ind\">In a secret place called Misty Forest, there are two magical creatures (生物)—the Glowfox and the Rainbow Flower. The forest provides lots of wood and fresh oxygen (氧气) for all living things here.</span></p><p><span class=\"ind\">The Glowfox is a small animal, as big as a cat. Its fur shines like moonlight at night. It eats shiny insects it finds near rivers. During the day, it sleeps in tree branches or trunks. If you touch its back gently, it leaves a soft light on your hand for hours! How strange it is!</span></p><p><span class=\"ind\">The Rainbow Flower is a tiny flower a little larger than a thumb (大拇指). It grows only on rocks after rain. It changes colours every hour, from pink to blue to gold. Surprisingly, it doesn’t need soil (土壤). Instead, it “drinks” sunlight and raindrops. Birds love to rest near it because its smell makes them sing sweeter songs.</span></p><p><span class=\"ind\">These two creatures help each other. The Glowfox’s light helps the Rainbow Flower “wake up” at night, while the flower’s colours guide the fox to find food. Scientists tried taking them to labs (实验室) for study, but they always lost their magic outside the Misty Forest.</span></p><p><span class=\"ind\">Nature’s wonders are full of secrets. Maybe one day, you’ll find your own magical creature!</span></p>",
+    "intro": "本文是一篇记叙文。文章主要讲述了迷雾森林里的两种神奇生物——发光狐（Glowfox）和彩虹花（Rainbow Flower）的特征、生活习性以及它们之间互助的关系。",
+    "qs": [
+      {
+        "q": "What are the two magical creatures?",
+        "opts": [],
+        "ans": "The Glowfox and the Rainbow Flower./They are the Glowfox and the Rainbow Flower.",
+        "exp": "根据文章第1段“In a secret place called Misty Forest, there are two magical creatures—the Glowfox and the Rainbow Flower.”可知答案。"
+      },
+      {
+        "q": "Where does the Glowfox sleep?",
+        "opts": [],
+        "ans": "In tree branches or trunks./It sleeps in tree branches or trunks.",
+        "exp": "根据文章第2段“During the day, it sleeps in tree branches or trunks.”可知，发光狐睡在树枝或树干里。"
+      },
+      {
+        "q": "When and where does the Rainbow Flower grow?",
+        "opts": [],
+        "ans": "It grows only on rocks after rain./On rocks after rain.",
+        "exp": "根据文章第3段“It grows only on rocks after rain.”可知，彩虹花在雨后的岩石上生长。"
+      },
+      {
+        "q": "Why do birds like to rest near the Rainbow Flower?",
+        "opts": [],
+        "ans": "Because its smell makes them sing sweeter songs.",
+        "exp": "根据文章第3段“Birds love to rest near it because its smell makes them sing sweeter songs.”可知原因。"
+      },
+      {
+        "q": "What did scientists do?",
+        "opts": [],
+        "ans": "They tried taking them to labs for study./Scientists tried taking them to labs for study.",
+        "exp": "根据文章第4段“Scientists tried taking them to labs for study, but they always lost their magic outside the Misty Forest.”可知答案。"
+      },
+      {
+        "q": "<div style=\"margin-top:10px;padding-top:10px;border-top:1px dashed var(--bd)\"><strong>B．书面表达</strong><p style=\"margin:4px 0\">树木是大地的守护者。假设你是学校环保社团的成员，请你根据思维导图，用英语写一篇短文，向你的同学们讲述树木的重要性和用途，并倡议大家要保护好树木。</p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/paper_st_lh_8a_img1.png\" alt=\"保护树木思维导图\" style=\"max-width:440px;width:100%;height:auto;border-radius:6px\"></div><p style=\"margin:4px 0\">注意：<br>1. 可在思维导图内容提示的基础上适当拓展信息；<br>2. 不能照抄原文；不得在作文中出现真实校名和考生的真实姓名；<br>3. 语句连贯，词数80左右。作文开头和结尾已经给出，不计入总词数。</p><p style=\"margin:4px 0\">Dear classmates,</p><p style=\"margin:4px 0\">It’s my great honor to give a speech here. ______________________________</p><p style=\"margin:4px 0\">Thank you!</p></div>",
+        "opts": [],
+        "ans": "【参考范文】\nDear classmates,\nIt’s my great honor to give a speech here. Today I want to talk about protecting trees.\nTrees, which are the guardians of the earth, play an important role in our lives. First, they can provide us with fresh oxygen and make the air cleaner. Second, trees offer homes and food to many animals. Third, they can help stop soil from washing away.\nSince trees are so helpful, it is necessary for us to protect them. We should plant more trees in our daily lives and we must stop cutting down trees. Let’s take action right now!\nThank you!",
+        "exp": "写作步骤\n[第一步：审题立意]\n确定文体：演讲稿（说明文类环保倡议短文），用一般现在时为主\n明确要点：① 阐述树木的重要性；② 介绍树木的具体用途和作用；③ 呼吁大家采取行动保护树木\n[第二步：构思布局]\n三段式结构：开头段点明树木是地球宝贵财富；主体段分点展开说明树木的核心作用；结尾段提出具体的护树倡议。"
+      }
+    ]
+  },
+  {
+    "id": "paper_jm_gk_9a_1",
+    "paperId": "paper_jm_gk_9a",
+    "paperTitle": "广东省江门市港口中学2026-2027学年九年级上学期第一次月考英语试题",
+    "sectionTitle": "一、语法选择",
+    "stage": "junior",
+    "grade": "九年级",
+    "semester": "九年级上册",
+    "type": "语法选择",
+    "diff": 2,
+    "kp": [
+      "中华文化",
+      "说明文",
+      "传统工艺",
+      "九年级上册"
+    ],
+    "title": "九上名校卷 · 江门港口第一次月考 语法选择（非遗软木画艺术）",
+    "passage": "Ruanmuhua (“softwood painting”) is a special Chinese art. It started in 1914 when a Chinese artist, Wu Qiqi, ___1___ a German postcard and created this beautiful art form. In 2008, it was listed as a national intangible cultural heritage (非物质文化遗产).\nChen Kongguo, a lover of ruanmuhua, began to learn this art at thirteen. ___2___ 74-year-old man comes from Fuzhou, Fujian Province. He has spent ___3___ whole life working on it.\n“We don’t use pens or brushes. Instead, we carve (雕) the wood ___4___ special tools very carefully,” Chen says. ___5___ difficult work it is! These works of art show many things, such as buildings, trees, animals and so on, ___6___ each artist usually focuses on one kind of them. That’s why many artists work together on one piece. “We carve small parts first, and then put them all together,” Chen explains.\nEvery time Chen begins carving, he has to visit the building in person, and then he uses a computer ___7___ a small model. “If ___8___ a small change, the whole work cannot be finished,” Chen says.\nAfter years of work, now he ___9___ understand Chinese buildings better. Though he’s getting ___10___, Chen still works hard. He wishes to teach more and more young people this art and keep it alive.",
+    "passageHtml": "<p><span class=\"ind\">Ruanmuhua (“softwood painting”) is a special Chinese art. It started in 1914 when a Chinese artist, Wu Qiqi, <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> a German postcard and created this beautiful art form. In 2008, it was listed as a national intangible cultural heritage (非物质文化遗产).</span></p><p><span class=\"ind\">Chen Kongguo, a lover of ruanmuhua, began to learn this art at thirteen. <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> 74-year-old man comes from Fuzhou, Fujian Province. He has spent <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> whole life working on it.</span></p><p><span class=\"ind\">“We don’t use pens or brushes. Instead, we carve (雕) the wood <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> special tools very carefully,” Chen says. <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> difficult work it is! These works of art show many things, such as buildings, trees, animals and so on, <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> each artist usually focuses on one kind of them. That’s why many artists work together on one piece. “We carve small parts first, and then put them all together,” Chen explains.</span></p><p><span class=\"ind\">Every time Chen begins carving, he has to visit the building in person, and then he uses a computer <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> a small model. “If <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> a small change, the whole work cannot be finished,” Chen says.</span></p><p><span class=\"ind\">After years of work, now he <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> understand Chinese buildings better. Though he’s getting <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u>, Chen still works hard. He wishes to teach more and more young people this art and keep it alive.</span></p>",
+    "intro": "本文主要介绍了中国特殊艺术软木画的起源与发展，重点讲述了艺术家陈孔国学习、创作及致力于传承这门艺术的感人故事。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "sees",
+          "saw",
+          "has seen"
+        ],
+        "ans": "B",
+        "exp": "句意：它始于1914年，当时中国艺术家吴启棋看到了一张德国明信片，并创造了这种美丽的艺术形式。根据“It started in 1914 when...”可知，时态应为一般过去时，选用过去式saw。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "A",
+          "An",
+          "The"
+        ],
+        "ans": "C",
+        "exp": "句意：这位74岁的老人来自福建省福州市。此处特指前文提到的陈孔国，应用定冠词The表特指。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "he",
+          "his",
+          "him"
+        ],
+        "ans": "B",
+        "exp": "句意：他花费了一生的时间来研究它。修饰名词“whole life”应用形容词性物主代词his。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "for",
+          "in",
+          "with"
+        ],
+        "ans": "C",
+        "exp": "句意：相反，我们用特殊的工具非常小心地雕刻木头。考查固定搭配“carve sth. with sth.”，with意为“用”。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "How",
+          "What",
+          "What a"
+        ],
+        "ans": "B",
+        "exp": "句意：这是多么困难的工作啊！中心词“work”是不可数名词，应用“What + 形容词+不可数名词+主谓！”的句型。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "but",
+          "and",
+          "or"
+        ],
+        "ans": "A",
+        "exp": "句意：这些作品展示了许多东西，比如建筑、树木、动物等等，但每位艺术家通常专注于其中一种。前后句是转折关系，用but。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "make",
+          "making",
+          "to make"
+        ],
+        "ans": "C",
+        "exp": "句意：然后他用电脑制作一个小模型。考查固定搭配“use sth. to do sth.”，动词不定式to make表目的。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "it is",
+          "there is",
+          "they are"
+        ],
+        "ans": "B",
+        "exp": "句意：“如果有一个小改动，整个作品就无法完成，”陈说。考查“If there is...”句型，表示“如果有……”。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "can",
+          "must",
+          "need"
+        ],
+        "ans": "A",
+        "exp": "句意：经过多年的工作，现在他能够更好地理解中国建筑了。表示能力用can。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "old",
+          "older",
+          "oldest"
+        ],
+        "ans": "B",
+        "exp": "句意：尽管他年纪越来越大，陈仍然努力工作。根据“Though he’s getting...”可知应用比较级older。"
+      }
+    ]
+  },
+  {
+    "id": "paper_jm_gk_9a_2",
+    "paperId": "paper_jm_gk_9a",
+    "paperTitle": "广东省江门市港口中学2026-2027学年九年级上学期第一次月考英语试题",
+    "sectionTitle": "二、完形填空",
+    "stage": "junior",
+    "grade": "九年级",
+    "semester": "九年级上册",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "记叙文",
+      "个人经历",
+      "哲理感悟",
+      "九年级上册"
+    ],
+    "title": "九上名校卷 · 江门港口第一次月考 完形填空（行动胜于空想）",
+    "passage": "Amy is a 15-year-old girl. When she was young, she was always wasting ___1___ getting prepared to do her tasks, instead of doing them at once.\nOne morning, Amy was playing in the village and met Mr Thornton. Mr Thornton had a ___2___ where he sold all kinds of fruits. He said to Amy, “Well, Amy, I ___3___ some fine ripe (成熟) strawberries on Mr Green’s farm today. He said that anybody was welcome to pick them. I will ___4___ 13 cents a kilogram for all you pick for me.” Amy was ___5___ about the thought of making some money to help her mom. So she ___6___ ran home to get a basket to hold the strawberries.\nWhen she got back home, she found out that she would get 65 cents if she picked five kilograms. Then she started to dream big, “If I pick twelve kilograms, how much should I make then?” “Dear me!” she ___7___ happily, after thinking for a while, “I can make a dollar and fifty-six cents!” It took her a ___8___ time to dream. And then it was so near lunchtime that she had to stay at home until the afternoon.\nAs soon as lunch was over, she took her basket and hurried to the farm. She could not find half a kilogram to ___9___ her basket because some boys had been there before lunch, and all the ripe strawberries were picked. Then she ___10___ what her teacher often told her: “Do your task at once; then think about it. One doer is worth 100 dreamers.”",
+    "passageHtml": "<p><span class=\"ind\">Amy is a 15-year-old girl. When she was young, she was always wasting <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> getting prepared to do her tasks, instead of doing them at once.</span></p><p><span class=\"ind\">One morning, Amy was playing in the village and met Mr Thornton. Mr Thornton had a <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> where he sold all kinds of fruits. He said to Amy, “Well, Amy, I <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> some fine ripe (成熟) strawberries on Mr Green’s farm today. He said that anybody was welcome to pick them. I will <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> 13 cents a kilogram for all you pick for me.” Amy was <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> about the thought of making some money to help her mom. So she <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> ran home to get a basket to hold the strawberries.</span></p><p><span class=\"ind\">When she got back home, she found out that she would get 65 cents if she picked five kilograms. Then she started to dream big, “If I pick twelve kilograms, how much should I make then?” “Dear me!” she <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> happily, after thinking for a while, “I can make a dollar and fifty-six cents!” It took her a <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> time to dream. And then it was so near lunchtime that she had to stay at home until the afternoon.</span></p><p><span class=\"ind\">As soon as lunch was over, she took her basket and hurried to the farm. She could not find half a kilogram to <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> her basket because some boys had been there before lunch, and all the ripe strawberries were picked. Then she <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> what her teacher often told her: “Do your task at once; then think about it. One doer is worth 100 dreamers.”</span></p>",
+    "intro": "本文讲述了女孩艾米因空想计算摘草莓的收益而浪费时间，最终错过机会的故事，告诉我们行动比空想更重要。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "money",
+          "time",
+          "food",
+          "paper"
+        ],
+        "ans": "B",
+        "exp": "句意：当她小的时候，她总是浪费时间做准备，而不是立刻去做。根据“instead of doing them at once”可知是在“浪费时间（time）”。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "kitchen",
+          "factory",
+          "store",
+          "theatre"
+        ],
+        "ans": "C",
+        "exp": "句意：桑顿先生有一家商店，在那里他卖各种水果。根据“where he sold all kinds of fruits”可知卖水果的地方是商店（store）。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "hid",
+          "broke",
+          "swept",
+          "saw"
+        ],
+        "ans": "D",
+        "exp": "句意：我今天在格林先生的农场看到了一些成熟的草莓。saw“看见”，符合语境。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "lend",
+          "pay",
+          "lay",
+          "waste"
+        ],
+        "ans": "B",
+        "exp": "句意：我按你采摘的重量付给你每公斤13美分。pay“支付”，符合语境。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "calm",
+          "excited",
+          "patient",
+          "polite"
+        ],
+        "ans": "B",
+        "exp": "句意：艾米一想到能赚些钱来帮助妈妈，就感到很兴奋。excited“兴奋的”，符合语境。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "carefully",
+          "heavily",
+          "quickly",
+          "slowly"
+        ],
+        "ans": "C",
+        "exp": "句意：所以她迅速跑回家去拿篮子装草莓。quickly“迅速地”，符合语境。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "jumped",
+          "passed",
+          "escaped",
+          "replied"
+        ],
+        "ans": "A",
+        "exp": "句意：“天哪！”她高兴地跳起来。jumped“跳”，符合语境。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "longer",
+          "harder",
+          "faster",
+          "bigger"
+        ],
+        "ans": "A",
+        "exp": "句意：她花了更长时间来做梦。longer“更长”，符合语境。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "fill",
+          "repair",
+          "drop",
+          "control"
+        ],
+        "ans": "A",
+        "exp": "句意：她找不到半公斤草莓来装满她的篮子。fill“装满”，符合语境。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "threw away",
+          "depended on",
+          "thought of",
+          "looked for"
+        ],
+        "ans": "C",
+        "exp": "句意：然后她想起了老师经常告诉她的话。thought of“想起”，符合语境。"
+      }
+    ]
+  },
+  {
+    "id": "paper_jm_gk_9a_3",
+    "paperId": "paper_jm_gk_9a",
+    "paperTitle": "广东省江门市港口中学2026-2027学年九年级上学期第一次月考英语试题",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "九年级",
+    "semester": "九年级上册",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "说明文",
+      "货币及理财",
+      "文化差异",
+      "九年级上册"
+    ],
+    "title": "九上名校卷 · 江门港口第一次月考 阅读理解A篇（各国不同的消费与储蓄习惯）",
+    "passage": "Different countries have different spending habits. In the United States, people usually spend more than they earn, so many of them have credit cards. They use credit cards to buy things they want and pay back the money over time. However, this can lead to debt if they don’t manage their money well.\nIn Japan, people are famous for saving money. They usually save a large part of their income. Many Japanese families have savings accounts and invest their money in safe places like banks. They believe that saving money can help them deal with unexpected problems in the future.\nIn Germany, people value planning. They often make a budget for every month and stick to it. They don’t like to borrow money unless it’s necessary. German people also prefer to buy high-quality products that last a long time, even if they are more expensive.\nIn China, with the development of digital payment, people now spend money more easily. Many people use mobile payment apps like Alipay or WeChat Pay. However, more and more young people are learning to manage their money well, saving part of their income every month.",
+    "passageHtml": "<p><span class=\"ind\">Different countries have different spending habits. In the United States, people usually spend more than they earn, so many of them have credit cards. They use credit cards to buy things they want and pay back the money over time. However, this can lead to debt if they don’t manage their money well.</span></p><p><span class=\"ind\">In Japan, people are famous for saving money. They usually save a large part of their income. Many Japanese families have savings accounts and invest their money in safe places like banks. They believe that saving money can help them deal with unexpected problems in the future.</span></p><p><span class=\"ind\">In Germany, people value planning. They often make a budget for every month and stick to it. They don’t like to borrow money unless it’s necessary. German people also prefer to buy high-quality products that last a long time, even if they are more expensive.</span></p><p><span class=\"ind\">In China, with the development of digital payment, people now spend money more easily. Many people use mobile payment apps like Alipay or WeChat Pay. However, more and more young people are learning to manage their money well, saving part of their income every month.</span></p>",
+    "intro": "本文主要讲述美国、日本、德国、中国四个不同国家民众各自不同的消费习惯，分别介绍各国人群花钱、储蓄、理财的典型做法。",
+    "qs": [
+      {
+        "q": "What do many Americans use to buy things they want?",
+        "opts": [
+          "Cash.",
+          "Credit cards.",
+          "Mobile payment.",
+          "Savings accounts."
+        ],
+        "ans": "B",
+        "exp": "第一段指出：“They use credit cards to buy things they want”，说明很多美国人使用信用卡购买心仪商品。"
+      },
+      {
+        "q": "What are Japanese people famous for?",
+        "opts": [
+          "Spending money freely.",
+          "Borrowing money often.",
+          "Saving money.",
+          "Buying cheap products."
+        ],
+        "ans": "C",
+        "exp": "第二段点明：“In Japan, people are famous for saving money”，说明日本人以储蓄闻名。"
+      },
+      {
+        "q": "What do German people usually do every month?",
+        "opts": [
+          "Make a budget.",
+          "Spend all their money.",
+          "Borrow money from banks.",
+          "Buy low-quality products."
+        ],
+        "ans": "A",
+        "exp": "第三段说明：“They often make a budget for every month and stick to it”，说明德国人每月通常会制定预算。"
+      },
+      {
+        "q": "Which of the following is true about Chinese people now?",
+        "opts": [
+          "They don’t use digital payment.",
+          "All young people waste money.",
+          "Many use mobile payment apps.",
+          "They never save their income."
+        ],
+        "ans": "C",
+        "exp": "第四段介绍：“Many people use mobile payment apps like Alipay or WeChat Pay”，说明如今很多中国人使用移动支付软件。"
+      },
+      {
+        "q": "What’s the main idea of the passage?",
+        "opts": [
+          "How to save money in different countries.",
+          "Different spending habits in different countries.",
+          "The importance of managing money.",
+          "How digital payment changes people’s lives."
+        ],
+        "ans": "B",
+        "exp": "全文首句总起主旨：“Different countries have different spending habits”，后文依次列举四国消费习惯展开说明。"
+      }
+    ]
+  },
+  {
+    "id": "paper_jm_gk_9a_4",
+    "paperId": "paper_jm_gk_9a",
+    "paperTitle": "广东省江门市港口中学2026-2027学年九年级上学期第一次月考英语试题",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "九年级",
+    "semester": "九年级上册",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "中华文化",
+      "说明文",
+      "最佳标题",
+      "九年级上册"
+    ],
+    "title": "九上名校卷 · 江门港口第一次月考 阅读理解B篇（青少年与传统文化）",
+    "passage": "Teenagers and Traditional Culture\nNowadays, more and more teenagers are showing great interest in traditional Chinese culture. A recent survey among 1,000 students in a middle school shows that about 80% of them have taken part in activities about traditional culture, such as making dumplings, learning calligraphy, or visiting museums.\nOne of the reasons is that the government and schools are paying more attention to cultural education. Many schools have set up clubs for students to experience traditional arts. For example, students can learn to play traditional musical instruments like the erhu and guzheng. They can also practice Chinese kung fu or paper cutting after class.\nBesides school activities, social media also plays an important role. Many teenagers watch short videos about traditional culture on the Internet. These videos, often made by young people, introduce ancient skills in a fun and modern way. As a result, more teenagers begin to understand and love their own culture.\nHowever, some experts point out that teenagers should not only watch but also practice. “True cultural confidence comes from deep understanding and personal experience,” said one expert. “We hope more teenagers can really get into the culture, not just for fun.”",
+    "passageHtml": "<p class=\"ct\"><b>Teenagers and Traditional Culture</b></p><p><span class=\"ind\">Nowadays, more and more teenagers are showing great interest in traditional Chinese culture. A recent survey among 1,000 students in a middle school shows that about 80% of them have taken part in activities about traditional culture, such as making dumplings, learning calligraphy, or visiting museums.</span></p><p><span class=\"ind\">One of the reasons is that the government and schools are paying more attention to cultural education. Many schools have set up clubs for students to experience traditional arts. For example, students can learn to play traditional musical instruments like the erhu and guzheng. They can also practice Chinese kung fu or paper cutting after class.</span></p><p><span class=\"ind\">Besides school activities, social media also plays an important role. Many teenagers watch short videos about traditional culture on the Internet. <u>These</u> videos, often made by young people, introduce ancient skills in a fun and modern way. As a result, more teenagers begin to understand and love their own culture.</span></p><p><span class=\"ind\">However, some experts point out that teenagers should not only watch but also practice. “True cultural confidence comes from deep understanding and personal experience,” said one expert. “We hope more teenagers can really get into the culture, not just for fun.”</span></p>",
+    "intro": "本文介绍如今越来越多青少年对中华传统文化产生兴趣，分析现象形成的两大原因，并引用专家观点提出相关建议。",
+    "qs": [
+      {
+        "q": "How many students in the survey have probably joined in traditional culture activities?",
+        "opts": [
+          "About 80.",
+          "About 200.",
+          "About 800.",
+          "About 1,000."
+        ],
+        "ans": "C",
+        "exp": "根据文章第一段“A recent survey among 1,000 students in a middle school shows that about 80% of them have taken part in activities about traditional culture”可知，1000人的80%约为800人。"
+      },
+      {
+        "q": "What can students do in the school clubs according to Paragraph 2?",
+        "opts": [
+          "They can learn to make short videos.",
+          "They can learn traditional musical instruments.",
+          "They can visit foreign countries.",
+          "They can learn modern dancing."
+        ],
+        "ans": "B",
+        "exp": "根据文章第二段“For example, students can learn to play traditional musical instruments like the erhu and guzheng.”可知选B。"
+      },
+      {
+        "q": "What does the underlined word “<u>These</u>” in Paragraph 3 refer to?",
+        "opts": [
+          "Schools.",
+          "Short videos about traditional culture.",
+          "Teenagers.",
+          "Ancient skills."
+        ],
+        "ans": "B",
+        "exp": "根据第三段前一句“Many teenagers watch short videos about traditional culture on the Internet.”可知，“These”指代关于传统文化的短视频。"
+      },
+      {
+        "q": "What is the expert’s suggestion for teenagers?",
+        "opts": [
+          "They should make more short videos.",
+          "They should only watch traditional culture programs.",
+          "They should practice and understand the culture deeply.",
+          "They should set up more clubs in schools."
+        ],
+        "ans": "C",
+        "exp": "根据第四段“teenagers should not only watch but also practice. ‘True cultural confidence comes from deep understanding and personal experience’”可知选C。"
+      },
+      {
+        "q": "What is the best title for the text?",
+        "opts": [
+          "Teenagers’ Hobbies in the Internet Age",
+          "The Importance of School Clubs",
+          "How to Make Short Videos",
+          "Teenagers’ Growing Interest in Traditional Culture"
+        ],
+        "ans": "D",
+        "exp": "全文围绕青少年对传统文化兴趣不断提升这一核心展开，D项最适合作标题。"
+      }
+    ]
+  },
+  {
+    "id": "paper_jm_gk_9a_5",
+    "paperId": "paper_jm_gk_9a",
+    "paperTitle": "广东省江门市港口中学2026-2027学年九年级上学期第一次月考英语试题",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "九年级",
+    "semester": "九年级上册",
+    "type": "配对阅读",
+    "diff": 1,
+    "kp": [
+      "说明文",
+      "环境保护",
+      "配对阅读",
+      "九年级上册"
+    ],
+    "title": "九上名校卷 · 江门港口第一次月考 配对阅读（动物生存威胁与保护措施）",
+    "passage": "配对阅读。左栏是五种动物遇到的生存威胁，右栏是七项人类采取的保护措施。请为每个动物问题匹配对应的解决方案。选项中有两项为多余项。\n\nA. Protect City Birds: In cities, we can put man-made homes on tall buildings for birds. Planting more trees also gives birds places to live.\nB. Build Animal-Friendly Roads: To protect animals, we can build tree bridges. They can help rabbits, foxes and other animals keep safe.\nC. Use Clean Energy: Factories should use sun power instead of coal. This reduces air pollution and slows down climate change.\nD. Create More Nature Parks: Try to build more nature parks to protect animals. For example, planting more bamboo trees to help pandas get enough food.\nE. Help Street Animals: Build small homes with food and water for homeless animals. People can also help care for sick animals at animal hospitals.\nF. Save Sea Animals: People in towns can clean beaches by picking up rubbish every month. Try to keep the sand and water clean.\nG. Stop Selling Wild Animal Products: Governments need to make laws against selling tiger bone in order to reduce hunting.",
+    "passageHtml": "<p><strong>配对阅读：</strong>左栏是五种动物遇到的生存威胁，右栏是七项人类采取的保护措施。请为每个动物问题匹配对应的解决方案。选项中有两项为多余项。</p><div class=\"bx\"><p><b>A. Protect City Birds:</b> In cities, we can put man-made homes on tall buildings for birds. Planting more trees also gives birds places to live.</p><p><b>B. Build Animal-Friendly Roads:</b> To protect animals, we can build tree bridges. They can help rabbits, foxes and other animals keep safe.</p><p><b>C. Use Clean Energy:</b> Factories should use sun power instead of coal. This reduces air pollution and slows down climate change.</p><p><b>D. Create More Nature Parks:</b> Try to build more nature parks to protect animals. For example, planting more bamboo trees to help pandas get enough food.</p><p><b>E. Help Street Animals:</b> Build small homes with food and water for homeless animals. People can also help care for sick animals at animal hospitals.</p><p><b>F. Save Sea Animals:</b> People in towns can clean beaches by picking up rubbish every month. Try to keep the sand and water clean.</p><p><b>G. Stop Selling Wild Animal Products:</b> Governments need to make laws against selling tiger bone in order to reduce hunting.</p></div>",
+    "intro": "本文是根据五个关于动物或环境面临的问题为它们匹配合适的解决措施。",
+    "qs": [
+      {
+        "q": "(   ) People use lots of bamboo trees to build houses. This puts pandas in danger.",
+        "opts": [],
+        "ans": "D",
+        "exp": "人们用大量竹子建房使熊猫处于危险中。选项D“建立更多自然公园，种植更多竹子帮助熊猫获得足够食物”与之匹配。"
+      },
+      {
+        "q": "(   ) Some people hunt tigers in the forest. They sell tiger bones to make medicine in some places.",
+        "opts": [],
+        "ans": "G",
+        "exp": "有人猎杀老虎出售虎骨制药。选项G“停止销售野生动物制品，政府立法禁止销售虎骨以减少狩猎”与之匹配。"
+      },
+      {
+        "q": "(   ) Ocean pollution hurts sea turtles (龟) terribly. Sea turtles often eat plastic bags. This makes them sick or even die.",
+        "opts": [],
+        "ans": "F",
+        "exp": "海洋污染伤害海龟。选项F“拯救海洋动物，每月清理海滩垃圾保持沙子和水清洁”与之匹配。"
+      },
+      {
+        "q": "(   ) People cut down many trees to make new houses and roads. Now, city birds have no homes.",
+        "opts": [],
+        "ans": "A",
+        "exp": "砍伐树木导致城市鸟儿无家可归。选项A“保护城市鸟类，在高楼上建造人造家园并多种树”与之匹配。"
+      },
+      {
+        "q": "(   ) With climate change, ice disappears faster. Some animals may become thin or even die.",
+        "opts": [],
+        "ans": "C",
+        "exp": "气候变化导致冰融化加快威胁动物生存。选项C“使用清洁能源，减少空气污染并减缓气候变化”与之匹配。"
+      }
+    ]
+  },
+  {
+    "id": "paper_jm_gk_9a_6",
+    "paperId": "paper_jm_gk_9a",
+    "paperTitle": "广东省江门市港口中学2026-2027学年九年级上学期第一次月考英语试题",
+    "sectionTitle": "四、选词填空",
+    "stage": "junior",
+    "grade": "九年级",
+    "semester": "九年级上册",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "记叙文",
+      "个人经历",
+      "体育名人",
+      "九年级上册"
+    ],
+    "title": "九上名校卷 · 江门港口第一次月考 选词填空（跳水冠军全红婵）",
+    "passage": "| play   want   of   impossible   Chinese   up   finally   she   hero   join   touch   keep |\nDo you know the athlete who keeps pushing her limits in diving? With continuous efforts, she has achieved great success and brought honour to our country. This is Quan Hongchan, a 17-year-old girl from Guangdong Province. The ___1___ girl is a talented diver. A diver is a special kind of water sports player. She catches people’s eye because of ___2___ perfect performance on March 25, 2024. She started diving at the age of 7 and ___3___ the national team at 11. Her coach describes her as a gifted and hard-working girl. She always ___4___ to improve her diving skills. The only thing that hasn't changed is that she keeps practicing hard. ___5___, she held a world record in 2021.\nQuan's success has made her a ___6___ in China, and encouraged many young people to do the sport. People were ___7___ by the persistence (坚持) of the little girl from a country family. She is also a good example for young ___8___ around the world. She shows that with hard work and effort, nothing is ___9___.\nHer spirit of never giving ___10___ will keep inspiring generations of young people.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">play &nbsp; want &nbsp; of &nbsp; impossible &nbsp; Chinese &nbsp; up &nbsp; finally &nbsp; she &nbsp; hero &nbsp; join &nbsp; touch &nbsp; keep</div><p><span class=\"ind\">Do you know the athlete who keeps pushing her limits in diving? With continuous efforts, she has achieved great success and brought honour to our country. This is Quan Hongchan, a 17-year-old girl from Guangdong Province. The <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> girl is a talented diver. A diver is a special kind of water sports player. She catches people’s eye because of <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> perfect performance on March 25, 2024. She started diving at the age of 7 and <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> the national team at 11. Her coach describes her as a gifted and hard-working girl. She always <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> to improve her diving skills. The only thing that hasn't changed is that she keeps practicing hard. <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u>, she held a world record in 2021.</span></p><p><span class=\"ind\">Quan's success has made her a <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> in China, and encouraged many young people to do the sport. People were <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> by the persistence (坚持) of the little girl from a country family. She is also a good example for young <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> around the world. She shows that with hard work and effort, nothing is <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u>.</span></p><p><span class=\"ind\">Her spirit of never giving <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> will keep inspiring generations of young people.</span></p>",
+    "intro": "本文是一篇记叙文，介绍跳水运动员全红婵，讲述她的跳水经历与拼搏精神。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "Chinese",
+        "exp": "句意：这个中国女孩是一名有天赋的跳水运动员。根据“from Guangdong Province”可知是中国的女孩，填Chinese。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "her",
+        "exp": "句意：她在2024年3月25日凭借她完美的表现吸引了人们的目光。修饰名词performance应用形容词性物主代词her。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "joined",
+        "exp": "句意：她7岁开始跳水，11岁加入国家队。and连接并列过去式谓语，join变为joined。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "wants",
+        "exp": "句意：她总是想要提升自己的跳水技术。主语She是第三人称单数，一般现在时want变为wants。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "Finally",
+        "exp": "句意：最后，她在2021年保持了一项世界纪录。句首副词作状语，填Finally。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "hero",
+        "exp": "句意：全红婵的成功让她成为中国的英雄。a后接可数名词单数hero。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "touched",
+        "exp": "句意：人们被这个来自农村家庭的小女孩的坚持所感动。被动语态“be+过去分词”，touch变为touched。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "players",
+        "exp": "句意：她对于全世界年轻运动员来说也是一个好榜样。play的名词是player“运动员”，复数形式为players。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "impossible",
+        "exp": "句意：她表明凭借努力，没有什么是不可能的。形容词作表语，填impossible。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "up",
+        "exp": "句意：她永不放弃的精神将会持续激励一代又一代年轻人。give up是固定短语，意为“放弃”。"
+      }
+    ]
+  },
+  {
+    "id": "paper_jm_gk_9a_7",
+    "paperId": "paper_jm_gk_9a",
+    "paperTitle": "广东省江门市港口中学2026-2027学年九年级上学期第一次月考英语试题",
+    "sectionTitle": "五、单词拼写",
+    "stage": "junior",
+    "grade": "九年级",
+    "semester": "九年级上册",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "单词拼写",
+      "首字母与汉语提示填空",
+      "九年级上册"
+    ],
+    "title": "九上名校卷 · 江门港口第一次月考 五、单词拼写（10小题）",
+    "passage": "根据句意、首字母或括号内中文提示，写出形式正确、意义相符的单词或短语：\n(___1___) He comes from a w________ family, but he never shows off.\n(___2___) This TV p________ tells us many stories about great heroes.\n(___3___) Many students are i________ in learning history because they can learn a lot from it.\n(___4___) You need to open a bank a________ to save money.\n(___5___) Young people are full of ________ (活力).\n(___6___) You can search for cheap goods on this useful shopping ________ (网站).\n(___7___) The young ________ (一对夫妇) bought treasures on sale together.\n(___8___) It ________ ________ (有道理) to me to save some money every month.\n(___9___) We should learn how to ________ ________ (处理) these problems.\n(___10___) The teacher often ________ ________ (号召) us to help the children in poor areas.",
+    "passageHtml": "<p><b>【五、单词拼写】</b>根据句意、首字母或括号内中文提示，写出形式正确、意义相符的单词或短语：</p><p><b>(<u>&nbsp;&nbsp;1&nbsp;&nbsp;</u>)</b> He comes from a w________ family, but he never shows off.</p><p><b>(<u>&nbsp;&nbsp;2&nbsp;&nbsp;</u>)</b> This TV p________ tells us many stories about great heroes.</p><p><b>(<u>&nbsp;&nbsp;3&nbsp;&nbsp;</u>)</b> Many students are i________ in learning history because they can learn a lot from it.</p><p><b>(<u>&nbsp;&nbsp;4&nbsp;&nbsp;</u>)</b> You need to open a bank a________ to save money.</p><p><b>(<u>&nbsp;&nbsp;5&nbsp;&nbsp;</u>)</b> Young people are full of ________ (活力).</p><p><b>(<u>&nbsp;&nbsp;6&nbsp;&nbsp;</u>)</b> You can search for cheap goods on this useful shopping ________ (网站).</p><p><b>(<u>&nbsp;&nbsp;7&nbsp;&nbsp;</u>)</b> The young ________ (一对夫妇) bought treasures on sale together.</p><p><b>(<u>&nbsp;&nbsp;8&nbsp;&nbsp;</u>)</b> It ________ ________ (有道理) to me to save some money every month.</p><p><b>(<u>&nbsp;&nbsp;9&nbsp;&nbsp;</u>)</b> We should learn how to ________ ________ (处理) these problems.</p><p><b>(<u>&nbsp;&nbsp;10&nbsp;&nbsp;</u>)</b> The teacher often ________ ________ (号召) us to help the children in poor areas.</p>",
+    "intro": "本大题考查九年级上册核心词汇拼写、首字母填空及常用动词短语搭配。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "wealthy",
+        "exp": "句意：他来自一个富裕的家庭，但他从不炫耀。根据句意和首字母可推断这里表示“富裕的”，wealthy形容词作定语修饰family。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "programme / program",
+        "exp": "句意：这个电视节目给我们讲述很多伟大英雄的故事。TV programme/program表示“电视节目”，谓语tells是单数形式，主语用单数。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "interested",
+        "exp": "句意：许多学生对学习历史感兴趣，因为他们可以从中获益匪浅。固定短语be interested in…意为“对……感兴趣”。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "account",
+        "exp": "句意：你需要开一个银行账户来存钱。bank account为固定搭配，表示“银行账户”。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "energy",
+        "exp": "句意：年轻人充满了活力。固定搭配be full of后接名词，“活力”对应的不可数名词为energy。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "website",
+        "exp": "句意：你可以在这个有用的购物网站上搜索便宜商品。shopping website表示“购物网站”。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "couple",
+        "exp": "句意：这对年轻夫妇一起买了打折的珍品。couple表示“一对夫妇”，名词。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "makes sense",
+        "exp": "句意：每个月存点钱，对我来说是有道理的。固定短语make sense意为“有道理”，主语It是第三人称单数，make变为makes。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "deal with",
+        "exp": "句意：我们应该学会如何处理这些问题。“处理”对应的英文是deal with，位于“疑问词+不定式”结构中，用动词原形。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "calls on",
+        "exp": "句意：老师经常号召我们帮助贫困地区的孩子们。由often可知用一般现在时，主语The teacher为第三人称单数，“号召某人做某事”用call on sb. to do sth.，故填calls on。"
+      }
+    ]
+  },
+  {
+    "id": "paper_jm_gk_9a_8",
+    "paperId": "paper_jm_gk_9a",
+    "paperTitle": "广东省江门市港口中学2026-2027学年九年级上学期第一次月考英语试题",
+    "sectionTitle": "六、任务型阅读与七、书面表达",
+    "stage": "junior",
+    "grade": "九年级",
+    "semester": "九年级上册",
+    "type": "读写综合",
+    "diff": 2,
+    "kp": [
+      "读写综合",
+      "健康与运动",
+      "中华文化",
+      "九年级上册"
+    ],
+    "title": "九上名校卷 · 江门港口第一次月考 读写综合（校园线上马拉松与传统文化志愿者自荐信）",
+    "passage": "请阅读下面短文，根据所提供的信息，回答5个问题。要求所写答案语法正确、语义完整切题。\n\nNowadays, online marathons are getting popular. To encourage students to keep exercising and build strong spirits, our school held an online marathon last month. Unlike traditional marathons, it did not ask runners to gather at the same playground. Students could finish their running task anywhere, like school tracks or community parks, within a week.\nAll participants (参加者) needed to use sports apps to record their distance and running time. Lots of students took part in this activity. Most of them said running helped them stay healthy and learn to keep trying when meeting difficulties. The school hoped more students would form a habit of daily exercise.\nStill, runners must follow some important rules. They need to warm up fully before running to stay away from injuries (伤). Besides, they should make proper running plans according to their own physical condition. No matter what sport we take part in, safety is always the most important thing.",
+    "passageHtml": "<p style=\"margin-bottom:8px;color:var(--mu);font-size:13.5px\"><strong>A．回答问题：</strong>请阅读下面短文，根据所提供的信息，回答5个问题。要求所写答案语法正确、语义完整切题。</p><p><span class=\"ind\">Nowadays, online marathons are getting popular. To encourage students to keep exercising and build strong spirits, our school held an online marathon last month. Unlike traditional marathons, it did not ask runners to gather at the same playground. Students could finish their running task anywhere, like school tracks or community parks, within a week.</span></p><p><span class=\"ind\">All participants (参加者) needed to use sports apps to record their distance and running time. Lots of students took part in this activity. Most of them said running helped them stay healthy and learn to keep trying when meeting difficulties. The school hoped more students would form a habit of daily exercise.</span></p><p><span class=\"ind\">Still, runners must follow some important rules. They need to warm up fully before running to stay away from injuries (伤). Besides, they should make proper running plans according to their own physical condition. No matter what sport we take part in, safety is always the most important thing.</span></p>",
+    "intro": "本文主要介绍了学校上个月举办线上马拉松活动的目的、参与方式以及参赛需要遵守的安全规则。",
+    "qs": [
+      {
+        "q": "Why did the school hold the online marathon last month?",
+        "opts": [],
+        "ans": "To encourage students to keep exercising and build strong spirits.",
+        "exp": "第一段原文明确写到“To encourage students to keep exercising and build strong spirits, our school held an online marathon last month.”，直接提取该目的作为答案。"
+      },
+      {
+        "q": "Where could students finish their running task?",
+        "opts": [],
+        "ans": "They could finish it anywhere, such as on school tracks or in community parks.",
+        "exp": "第一段末尾提到“Students could finish their running task anywhere, like school tracks or community parks, within a week.”，直接提取。"
+      },
+      {
+        "q": "How did students record their running distance and time?",
+        "opts": [],
+        "ans": "They used sports apps to record their distance and running time.",
+        "exp": "第二段开头“All participants needed to use sports apps to record their distance and running time.”说明了记录方式。"
+      },
+      {
+        "q": "What do runners need to do before running to avoid injuries?",
+        "opts": [],
+        "ans": "They need to warm up fully before running.",
+        "exp": "第三段第二句“They need to warm up fully before running to stay away from injuries.”给出了避免受伤的做法。"
+      },
+      {
+        "q": "What’s the most important thing when we take part in sports?",
+        "opts": [],
+        "ans": "Safety is the most important thing./Safety.",
+        "exp": "第三段最后一句“No matter what sport we take part in, safety is always the most important thing.”点明了运动时最重要的事情。"
+      },
+      {
+        "q": "<div style=\"margin-top:10px;padding-top:10px;border-top:1px dashed var(--bd)\"><strong>B．书面表达</strong><p style=\"margin:4px 0\">学校计划举办一次以弘扬中国传统文化为主题的校园活动，现面向全体同学招募志愿者。招募要求：品学兼优，有良好的财务管理能力。假如你是李华，请写一封自荐信，申请成为本次活动志愿者。词数：80词左右。要点如下：</p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/paper_jm_gk_9a_img1.png\" alt=\"应聘志愿者思维导图\" style=\"max-width:440px;width:100%;height:auto;border-radius:6px\"></div><p style=\"margin:4px 0\">Dear Sir or Madam,</p><p style=\"margin:4px 0\">I’m writing to you because ______________________________</p><p style=\"margin:4px 0\">Yours sincerely,</p><p style=\"margin:4px 0\">Li Hua</p></div>",
+        "opts": [],
+        "ans": "【参考范文】\nDear Sir or Madam,\nI’m writing to you because I want to be a volunteer for the traditional Chinese culture activity. I do well in my study and I am always kind and helpful.\nBesides, I have good ability to manage money. To save money, I often put my pocket money into the bank. When spending money, I always make a list and only buy what I really need.\nI am really looking forward to this wonderful activity to spread traditional culture. I hope I can get the chance to be a volunteer.\nYours sincerely,\nLi Hua",
+        "exp": "写作步骤\n[第一步：审题立意]\n确定文体：应用文（自荐信），一般现在时为主\n明确要点：① 表达想成为志愿者的意愿并简介自己的2点优点；② 介绍管理金钱的能力（平时如何存钱、如何花钱）；③ 表达对弘扬中国传统文化校园活动的期待。\n[第二步：构思布局]\n三段式结构：开头说明写信目的及自身品学兼优特点；主体段具体说明存钱和花钱习惯；结尾表达对活动的期待。"
+      }
+    ]
   }
 ];
