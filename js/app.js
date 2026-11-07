@@ -7,6 +7,49 @@ const PAPER_TYPES=["阶段检测","月考","期中考试","期末考试","模拟
 // 名校试卷索引库（按年级、试卷类型分类）
 const FAMOUS_PAPERS=[
   {
+    id:"paper_zs_yz_7a",
+    title:"广东中山市第一中学2026-2027学年第一学期中段抽查调研七年级英语试题",
+    shortTitle:"中山市第一中学 2026-2027 七上中段抽查调研",
+    school:"中山市第一中学",
+    city:"中山市",
+    year:"2026-2027学年",
+    grade:"七年级",
+    semester:"七年级上册",
+    paperType:"期中考试",
+    itemIds:[
+      "paper_zs_yz_7a_1",
+      "paper_zs_yz_7a_2",
+      "paper_zs_yz_7a_3",
+      "paper_zs_yz_7a_4",
+      "paper_zs_yz_7a_5",
+      "paper_zs_yz_7a_6",
+      "paper_zs_yz_7a_7",
+      "paper_zs_yz_7a_8",
+      "paper_zs_yz_7a_9"
+    ]
+  },
+  {
+    id:"paper_hy_gm_7a",
+    title:"广东河源市源城区光明学校2026-2027学年第一学期第一次学情调研七年级英语试题",
+    shortTitle:"河源光明学校 2026-2027 七上第一次学情调研",
+    school:"河源市源城区光明学校",
+    city:"河源市",
+    year:"2026-2027学年",
+    grade:"七年级",
+    semester:"七年级上册",
+    paperType:"月考",
+    itemIds:[
+      "paper_hy_gm_7a_1",
+      "paper_hy_gm_7a_2",
+      "paper_hy_gm_7a_3",
+      "paper_hy_gm_7a_4",
+      "paper_hy_gm_7a_5",
+      "paper_hy_gm_7a_6",
+      "paper_hy_gm_7a_7",
+      "paper_hy_gm_7a_8"
+    ]
+  },
+  {
     id:"paper_zh_wy_8a",
     title:"广东珠海市文园中学（集团）2026-2027年度第一学期阶段学情自测八年级英语试卷",
     shortTitle:"珠海文园中学 2026-2027 八上阶段学情自测",
@@ -46,6 +89,69 @@ const FAMOUS_PAPERS=[
       "paper_st_lh_8a_5",
       "paper_st_lh_8a_6",
       "paper_st_lh_8a_7"
+    ]
+  },
+  {
+    id:"paper_zh_jz_8a",
+    title:"广东珠海市九洲中学教育集团2026-2027学年第一学期阶段学情自测八年级英语试卷",
+    shortTitle:"珠海九洲中学 2026-2027 八上阶段学情自测",
+    school:"珠海市九洲中学教育集团",
+    city:"珠海市",
+    year:"2026-2027学年",
+    grade:"八年级",
+    semester:"八年级上册",
+    paperType:"阶段检测",
+    itemIds:[
+      "paper_zh_jz_8a_1",
+      "paper_zh_jz_8a_2",
+      "paper_zh_jz_8a_3",
+      "paper_zh_jz_8a_4",
+      "paper_zh_jz_8a_5",
+      "paper_zh_jz_8a_6",
+      "paper_zh_jz_8a_7",
+      "paper_zh_jz_8a_8"
+    ]
+  },
+  {
+    id:"paper_dg_hm_8a",
+    title:"广东东莞市虎门第三中学等校2026-2027学年第一学期阶段学情质量自查八年级英语科目",
+    shortTitle:"东莞虎门三中等校 2026-2027 八上阶段质量自查",
+    school:"东莞市虎门第三中学等校",
+    city:"东莞市",
+    year:"2026-2027学年",
+    grade:"八年级",
+    semester:"八年级上册",
+    paperType:"阶段检测",
+    itemIds:[
+      "paper_dg_hm_8a_1",
+      "paper_dg_hm_8a_2",
+      "paper_dg_hm_8a_3",
+      "paper_dg_hm_8a_4",
+      "paper_dg_hm_8a_5",
+      "paper_dg_hm_8a_6",
+      "paper_dg_hm_8a_7",
+      "paper_dg_hm_8a_8"
+    ]
+  },
+  {
+    id:"paper_dg_zx_8a",
+    title:"广东东莞市竹溪中学2026-2027学年第一学期八年级英语阶段学情自测",
+    shortTitle:"东莞竹溪中学 2026-2027 八上阶段学情自测",
+    school:"东莞市竹溪中学",
+    city:"东莞市",
+    year:"2026-2027学年",
+    grade:"八年级",
+    semester:"八年级上册",
+    paperType:"阶段检测",
+    itemIds:[
+      "paper_dg_zx_8a_1",
+      "paper_dg_zx_8a_2",
+      "paper_dg_zx_8a_3",
+      "paper_dg_zx_8a_4",
+      "paper_dg_zx_8a_5",
+      "paper_dg_zx_8a_6",
+      "paper_dg_zx_8a_7",
+      "paper_dg_zx_8a_8"
     ]
   },
   {

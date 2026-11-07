@@ -36453,5 +36453,3435 @@ const SAMPLE=[
         "exp": "写作步骤\n[第一步：审题立意]\n确定文体：应用文（自荐信），一般现在时为主\n明确要点：① 表达想成为志愿者的意愿并简介自己的2点优点；② 介绍管理金钱的能力（平时如何存钱、如何花钱）；③ 表达对弘扬中国传统文化校园活动的期待。\n[第二步：构思布局]\n三段式结构：开头说明写信目的及自身品学兼优特点；主体段具体说明存钱和花钱习惯；结尾表达对活动的期待。"
       }
     ]
+  },
+  {
+    "id": "paper_zs_yz_7a_1",
+    "paperId": "paper_zs_yz_7a",
+    "paperTitle": "广东中山市第一中学2026-2027学年第一学期中段抽查调研七年级英语试题",
+    "sectionTitle": "一、单项选择（语法与语音）",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "基础语法",
+      "代词",
+      "冠词",
+      "名词所有格",
+      "语音",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 中山一中期中调研 一、单项选择（7小题）",
+    "passage": "",
+    "passageHtml": "",
+    "intro": "本大题考查七年级上册特殊疑问词、be动词、英文姓名结构、冠词、名词所有格、物主代词及元音字母发音。",
+    "qs": [
+      {
+        "q": "— ________ is your name?<br>— My name is Lisa.",
+        "opts": [
+          "How",
+          "Who",
+          "What",
+          "Where"
+        ],
+        "ans": "C",
+        "exp": "句意：——你叫什么名字？——我叫丽莎。根据答语“My name is Lisa.”可知，问句是询问名字，应用What提问。"
+      },
+      {
+        "q": "— ________ you Peter?<br>— Yes, I am.",
+        "opts": [
+          "Am",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        "ans": "D",
+        "exp": "句意：——你是Peter吗？——是的，我是。主语是you，be动词应用Are。"
+      },
+      {
+        "q": "— I’m Peter Ella Brown. And my first name is ________.",
+        "opts": [
+          "Ella",
+          "Peter",
+          "Brown",
+          "Ella Brown"
+        ],
+        "ans": "B",
+        "exp": "句意：我是Peter Ella Brown。我的名字是Peter。在英文姓名中，最前面的Peter是first name（名），Brown是last name（姓），Ella是中间名。"
+      },
+      {
+        "q": "You can see ________ “e” in ________ word “ear”.",
+        "opts": [
+          "an, a",
+          "a, the",
+          "an, the",
+          "the, an"
+        ],
+        "ans": "C",
+        "exp": "句意：你可以在单词“ear”里看到一个字母“e”。第一空泛指字母“e”，其发音为/iː/，以元音音素开头，用an；第二空特指单词“ear”，用定冠词the。"
+      },
+      {
+        "q": "This is ______ classroom. They love their big and new classroom.",
+        "opts": [
+          "Emma and Peter",
+          "Emma’s and Peter",
+          "Emma and Peter’s",
+          "Emma’s and Peter’s"
+        ],
+        "ans": "C",
+        "exp": "句意：这是Emma和Peter的教室。表示两人共同拥有某物时，只在最后一个人名后加’s。此处“classroom”是单数，表示共同拥有，故选Emma and Peter’s。"
+      },
+      {
+        "q": "It is important to get people’s names right. If you get ______ wrong, they might feel sad!",
+        "opts": [
+          "they",
+          "themselves",
+          "their",
+          "theirs"
+        ],
+        "ans": "D",
+        "exp": "句意：叫对人的名字很重要。如果你把他们的名字弄错了，他们可能会感到难过！空格处位于动词get之后作宾语，且后面没有名词，指代上文的“people’s names”，应用名词性物主代词theirs。"
+      },
+      {
+        "q": "Which “a” has a different pronunciation (发音) from the others?",
+        "opts": [
+          "b<u>a</u>g",
+          "l<u>a</u>te",
+          "pl<u>a</u>ne",
+          "g<u>a</u>me"
+        ],
+        "ans": "A",
+        "exp": "bag中字母a发音为/æ/；late、plane、game中字母a发音均为/eɪ/。故选A。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zs_yz_7a_2",
+    "paperId": "paper_zs_yz_7a",
+    "paperTitle": "广东中山市第一中学2026-2027学年第一学期中段抽查调研七年级英语试题",
+    "sectionTitle": "二、语法选择",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "语法选择",
+    "diff": 1,
+    "kp": [
+      "记叙文",
+      "校园生活",
+      "朋友",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 中山一中期中调研 语法选择（Kate的学校与好友）",
+    "passage": "My name is Kate Smith. I ___1___ twelve years old. I study in No.2 Middle School. My school is ___2___ and modern. My favorite place is the library ___3___ there are lots of books there. I can always find the books I like. Many ___4___ go there every day after school to read or study quietly.\nBehind the library is the sports field. ___5___ many trees and flowers around the sports field. We ___6___ do many kinds of sports on it. I often play football with my classmates there after school. It makes me relaxed.\nNext to the library, there is ___7___ big and tall building. My classroom is on the second floor. There are forty yellow desks and chairs in it. They are ___8___ the students. The red schoolbag next to the window is my new friend Lucy’s. Red is her favorite color. Lucy ___9___ behind me. We often do homework together and help each other. ___10___ is good at English and I am good at math. We are happy to be classmates.",
+    "passageHtml": "<p><span class=\"ind\">My name is Kate Smith. I <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> twelve years old. I study in No.2 Middle School. My school is <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> and modern. My favorite place is the library <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> there are lots of books there. I can always find the books I like. Many <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> go there every day after school to read or study quietly.</span></p><p><span class=\"ind\">Behind the library is the sports field. <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> many trees and flowers around the sports field. We <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> do many kinds of sports on it. I often play football with my classmates there after school. It makes me relaxed.</span></p><p><span class=\"ind\">Next to the library, there is <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> big and tall building. My classroom is on the second floor. There are forty yellow desks and chairs in it. They are <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> the students. The red schoolbag next to the window is my new friend Lucy’s. Red is her favorite color. Lucy <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> behind me. We often do homework together and help each other. <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> is good at English and I am good at math. We are happy to be classmates.</span></p>",
+    "intro": "本文介绍了Kate的个人信息、学校设施（图书馆、操场、教学楼）以及她和好朋友Lucy的学习生活情况。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "am",
+          "is",
+          "are"
+        ],
+        "ans": "A",
+        "exp": "句意：我十二岁。主语I后接be动词am。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "beauty",
+          "beautiful",
+          "beautifully"
+        ],
+        "ans": "B",
+        "exp": "句意：我的学校既美丽又现代化。空格与modern并列作表语，应填形容词beautiful。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "and",
+          "but",
+          "because"
+        ],
+        "ans": "C",
+        "exp": "句意：我最喜欢的地方是图书馆，因为那里有很多书。后句说明喜欢图书馆的原因，用because引导原因状语从句。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "student",
+          "students",
+          "student’s"
+        ],
+        "ans": "B",
+        "exp": "句意：许多学生每天去那里。many修饰可数名词复数students。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "They are",
+          "These are",
+          "There are"
+        ],
+        "ans": "C",
+        "exp": "句意：操场周围有许多树和花。此处为there be句型，主语many trees and flowers是复数，用There are。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "can",
+          "need",
+          "must"
+        ],
+        "ans": "A",
+        "exp": "句意：我们可以在上面做多种运动。表示“能够”做某事，用can。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "the",
+          "an",
+          "a"
+        ],
+        "ans": "C",
+        "exp": "句意：那里有一座又大又高的建筑。building是单数可数名词，首次提及且big以辅音音素开头，用a。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "in",
+          "for",
+          "with"
+        ],
+        "ans": "B",
+        "exp": "句意：它们是给学生用的。表示“为……准备的、供……使用的”，用for。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "sits",
+          "sat",
+          "will sit"
+        ],
+        "ans": "A",
+        "exp": "句意：Lucy坐在我后面。全文用一般现在时描述现状，主语Lucy是第三人称单数，用sits。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "She",
+          "Her",
+          "Hers"
+        ],
+        "ans": "A",
+        "exp": "句意：她擅长英语。空格处在句中作主语，指代Lucy，用主格She。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zs_yz_7a_3",
+    "paperId": "paper_zs_yz_7a",
+    "paperTitle": "广东中山市第一中学2026-2027学年第一学期中段抽查调研七年级英语试题",
+    "sectionTitle": "二、完形填空",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "记叙文",
+      "家人和亲人",
+      "哲理感悟",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 中山一中期中调研 完形填空（家人温暖的故事）",
+    "passage": "I like stories very much. When I was little, I loved ___1___ my family tell their stories. Some stories were so ___2___ that I still (仍然) remember them.\nMy aunt Kathy heard that a disabled (残疾的) friend won a running game. She felt ___3___ and wanted to have a try. The next morning, she ran 8 km. It was not easy for the 54-year-old woman, but she kept on running.\nMy cousin Edward was in a show. He was important in it. He spent two months ___4___ hard for it. When he heard people’s applause (掌声), he felt happy. He found he could have more ___5___ by trying new things.\nOne day, my father ___6___ a little girl on a plane. She was only three years old. She ___7___ her chocolate to help a sick man. My father didn’t say a word and watched her ___8___. He was happy to see her nice act. He said we can show ___9___ in small ways.\nWherever I go, these stories always give me hope. I learn we should love ___10___, love ourselves and love people near us. These stories make my life beautiful and meaningful.",
+    "passageHtml": "<p><span class=\"ind\">I like stories very much. When I was little, I loved <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> my family tell their stories. Some stories were so <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> that I still (仍然) remember them.</span></p><p><span class=\"ind\">My aunt Kathy heard that a disabled (残疾的) friend won a running game. She felt <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> and wanted to have a try. The next morning, she ran 8 km. It was not easy for the 54-year-old woman, but she kept on running.</span></p><p><span class=\"ind\">My cousin Edward was in a show. He was important in it. He spent two months <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> hard for it. When he heard people’s applause (掌声), he felt happy. He found he could have more <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> by trying new things.</span></p><p><span class=\"ind\">One day, my father <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> a little girl on a plane. She was only three years old. She <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> her chocolate to help a sick man. My father didn’t say a word and watched her <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u>. He was happy to see her nice act. He said we can show <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> in small ways.</span></p><p><span class=\"ind\">Wherever I go, these stories always give me hope. I learn we should love <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u>, love ourselves and love people near us. These stories make my life beautiful and meaningful.</span></p>",
+    "intro": "本文通过作者讲述家人身上的三个小故事，说明我们可以用小小的方式传递爱，这些故事让作者明白要热爱生活、爱自己、爱身边的人。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "listening to",
+          "looking for",
+          "talking about",
+          "living with"
+        ],
+        "ans": "A",
+        "exp": "句意：当我还小的时候，我喜欢听家人讲他们的故事。根据下文“tell their stories”可知作者是“听（listening to）”故事。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "new",
+          "short",
+          "boring",
+          "special"
+        ],
+        "ans": "D",
+        "exp": "句意：有些故事如此特别，以至于我至今仍然记得它们。special“特别的”符合题意。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "worried",
+          "sorry",
+          "excited",
+          "relaxed"
+        ],
+        "ans": "C",
+        "exp": "句意：她感到很兴奋，想要试一试。excited“兴奋的”符合语境。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "crying",
+          "running",
+          "drawing",
+          "working"
+        ],
+        "ans": "D",
+        "exp": "句意：他花了两个月的时间为之努力排练。work hard意为“努力工作/排练”，working符合题意。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "fun",
+          "wish",
+          "money",
+          "information"
+        ],
+        "ans": "A",
+        "exp": "句意：他发现通过尝试新事物可以获得更多乐趣。fun“乐趣”符合题意。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "met",
+          "greeted",
+          "changed",
+          "helped"
+        ],
+        "ans": "A",
+        "exp": "句意：一天，我爸爸在飞机上遇到了一个小女孩。met“遇到”符合语境。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "ate",
+          "gave",
+          "made",
+          "circled"
+        ],
+        "ans": "B",
+        "exp": "句意：她把她的巧克力送给了一位生病的男士。gave“给、送出”符合题意。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "sadly",
+          "slowly",
+          "quietly",
+          "angrily"
+        ],
+        "ans": "C",
+        "exp": "句意：我爸爸一句话也没说，静静地注视着她。quietly“静静地”符合语境。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "happiness",
+          "interest",
+          "respect",
+          "love"
+        ],
+        "ans": "D",
+        "exp": "句意：他说我们可以用小小的方式表达爱。根据下文排比句中的love可知主题是“爱（love）”。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "life",
+          "time",
+          "music",
+          "health"
+        ],
+        "ans": "A",
+        "exp": "句意：我懂得我们应该热爱生活，爱自己，爱身边的人。life“生活”符合语境。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zs_yz_7a_4",
+    "paperId": "paper_zs_yz_7a",
+    "paperTitle": "广东中山市第一中学2026-2027学年第一学期中段抽查调研七年级英语试题",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "应用文",
+      "社团/俱乐部",
+      "细节理解",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 中山一中期中调研 阅读理解A篇（四大体育俱乐部招新）",
+    "passage": "Do you like sports? Do you want to make friends? Come to the clubs with your classmates!\n1. The Basketball Club: Opening time: Monday | We want: 17 boys | Telephone number: 850-7787\n2. The Football Club: Opening time: Tuesday, Wednesday | We want: 9 boys and 7 girls | Telephone number: 350-7877\n3. The Volleyball Club: Opening time: Wednesday, Friday | We want: 17 girls | Telephone number: 855-6887\n4. The Ping-Pong Club: Opening time: Thursday | We want: 10 boys and 10 girls | Telephone number: 256-5353\nPlease come to Classroom No.8 to know more information (信息). We are here from 8:00 a.m. to 6:00 p.m.",
+    "passageHtml": "<p>Do you like sports? Do you want to make friends? Come to the clubs with your classmates!</p><div class=\"g2\"><div><p class=\"ct\"><img src=\"assets/images/paper_zs_yz_7a_img1.png\" alt=\"Basketball\" style=\"max-width:72px;height:auto\"></p><p class=\"ct\"><b>The Basketball Club</b></p><p>Opening time: Monday<br>We want: 17 boys<br>Telephone number: 850-7787</p></div><div><p class=\"ct\"><img src=\"assets/images/paper_zs_yz_7a_img2.png\" alt=\"Football\" style=\"max-width:72px;height:auto\"></p><p class=\"ct\"><b>The Football Club</b></p><p>Opening time: Tuesday, Wednesday<br>We want: 9 boys and 7 girls<br>Telephone number: 350-7877</p></div><div><p class=\"ct\"><img src=\"assets/images/paper_zs_yz_7a_img3.png\" alt=\"Volleyball\" style=\"max-width:72px;height:auto\"></p><p class=\"ct\"><b>The Volleyball Club</b></p><p>Opening time: Wednesday, Friday<br>We want: 17 girls<br>Telephone number: 855-6887</p></div><div><p class=\"ct\"><img src=\"assets/images/paper_zs_yz_7a_img4.png\" alt=\"Ping-Pong\" style=\"max-width:72px;height:auto\"></p><p class=\"ct\"><b>The Ping-Pong Club</b></p><p>Opening time: Thursday<br>We want: 10 boys and 10 girls<br>Telephone number: 256-5353</p></div></div><p>Please come to Classroom No.8 to know more information (信息). We are here from 8:00 a.m. to 6:00 p.m.</p>",
+    "intro": "本文是一篇应用文，以海报形式介绍了篮球、足球、排球、乒乓球四个体育俱乐部的开放时间、招募人数、联系电话，同时说明了获取更多俱乐部信息的渠道。",
+    "qs": [
+      {
+        "q": "Which club wants 16 people?",
+        "opts": [
+          "The Basketball Club.",
+          "The Football Club.",
+          "The Volleyball Club.",
+          "The Ping-Pong Club."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据The Football Club部分的“We want: 9 boys and 7 girls”可计算出足球俱乐部招募的总人数为9+7=16人。"
+      },
+      {
+        "q": "When does the Volleyball Club open?",
+        "opts": [
+          "On Wednesday and Thursday.",
+          "On Wednesday and Friday.",
+          "On Thursday and Friday.",
+          "On Tuesday and Wednesday."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据The Volleyball Club部分的“Opening time: Wednesday, Friday”可知排球俱乐部开放时间是周三和周五。"
+      },
+      {
+        "q": "What is the telephone number of the Ping-Pong Club?",
+        "opts": [
+          "855-6887.",
+          "850-7787.",
+          "256-5353.",
+          "350-7877."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据The Ping-Pong Club部分的“Telephone number: 256-5353”可知答案。"
+      },
+      {
+        "q": "How can you get more information?",
+        "opts": [
+          "By asking the teacher.",
+          "By making a phone call.",
+          "By going to Classroom No.8.",
+          "By visiting the student centre."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据最后一段“Please come to Classroom No.8 to know more information.”可知可以去8号教室了解更多信息。"
+      },
+      {
+        "q": "Who is the poster (海报) for?",
+        "opts": [
+          "Parents.",
+          "Teachers.",
+          "Doctors.",
+          "Students."
+        ],
+        "ans": "D",
+        "exp": "推理判断题。根据开头“Come to the clubs with your classmates!”可知海报面向学生。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zs_yz_7a_5",
+    "paperId": "paper_zs_yz_7a",
+    "paperTitle": "广东中山市第一中学2026-2027学年第一学期中段抽查调研七年级英语试题",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "记叙文",
+      "常见动物",
+      "最佳标题",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 中山一中期中调研 阅读理解B篇（爷爷的农场之旅）",
+    "passage": "Tom is a boy from the city. He lives in a tall building. He is very excited because this Sunday he will go to his grandpa’s farm in the countryside.\nTom’s grandpa has a big farm. Many plants and animals live here. There are twelve apple trees. His grandpa grows eight pear trees, too. You can also see beautiful flowers. Some are red and some are yellow. They look very nice in the sun.\nTom’s grandpa rears many lovely animals. Tom can see five big cows and eight sheep. They eat green grass all day. Tom’s favorites are the baby chickens. They are yellow and very small. Tom loves to feed (喂养) them carefully. He thinks it is so much fun.\nOn the farm, there is also a small lake. Lots of white ducks swim happily on it. Tom likes to sit by the lake and watch them. The farm is wide and quiet. Soft wind comes from the lake. Tom turns to his grandpa and says, “Grandpa, I love your farm. It is so beautiful and peaceful.”\nHis grandpa smiles. “I’m glad you like it, Tom. I hope you can come here more often and enjoy the nice time on the farm.”",
+    "passageHtml": "<p><span class=\"ind\">Tom is a boy from the city. He lives in a tall building. He is very excited because this Sunday he will go to his grandpa’s farm in the countryside.</span></p><p><span class=\"ind\">Tom’s grandpa has a big farm. Many plants and animals live here. There are twelve apple trees. His grandpa grows eight pear trees, too. You can also see beautiful flowers. Some are red and some are yellow. They look very nice in the sun.</span></p><p><span class=\"ind\">Tom’s grandpa <u>rears</u> many lovely animals. Tom can see five big cows and eight sheep. They eat green grass all day. Tom’s favorites are the baby chickens. They are yellow and very small. Tom loves to feed (喂养) them carefully. He thinks it is so much fun.</span></p><p><span class=\"ind\">On the farm, there is also a small lake. Lots of white ducks swim happily on it. Tom likes to sit by the lake and watch them. The farm is wide and quiet. Soft wind comes from the lake. Tom turns to his grandpa and says, “Grandpa, I love your farm. It is so beautiful and peaceful.”</span></p><p><span class=\"ind\">His grandpa smiles. “I’m glad you like it, Tom. I hope you can come here more often and enjoy the nice time on the farm.”</span></p>",
+    "intro": "本文是一篇记叙文，主要讲述了城市男孩汤姆前往乡下爷爷的农场游玩的经历，介绍了农场里的植物、各类小动物与湖边的景致。",
+    "qs": [
+      {
+        "q": "How many apple trees does Tom’s grandpa grow?",
+        "opts": [
+          "8.",
+          "10.",
+          "12.",
+          "14."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。第二段提到“There are twelve apple trees.”，说明爷爷一共种植了12棵苹果树。"
+      },
+      {
+        "q": "What does the underlined word “<u>rears</u>” in paragraph 3 mean?",
+        "opts": [
+          "Sells.",
+          "Keeps.",
+          "Catches.",
+          "Watches."
+        ],
+        "ans": "B",
+        "exp": "词句猜测题。第三段“Tom’s grandpa rears many lovely animals.”结合农场场景可推断rears含义是饲养、照料（Keeps）。"
+      },
+      {
+        "q": "What kind of animals does Tom like best?",
+        "opts": [
+          "<img src=\"assets/images/paper_zs_yz_7a_img5.png\" alt=\"A\" style=\"max-width:80px;height:auto\">",
+          "<img src=\"assets/images/paper_zs_yz_7a_img6.png\" alt=\"B\" style=\"max-width:80px;height:auto\">",
+          "<img src=\"assets/images/paper_zs_yz_7a_img7.png\" alt=\"C\" style=\"max-width:80px;height:auto\">",
+          "<img src=\"assets/images/paper_zs_yz_7a_img8.png\" alt=\"D\" style=\"max-width:80px;height:auto\">"
+        ],
+        "ans": "D",
+        "exp": "细节理解题。第三段提到“Tom’s favorites are the baby chickens.”，说明汤姆最喜欢的动物是小鸡，对应选项D图片。"
+      },
+      {
+        "q": "What does Tom like to do by the lake?",
+        "opts": [
+          "Feed the ducks.",
+          "Watch the ducks.",
+          "Help his grandpa.",
+          "Talk with his grandpa."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。第四段提到“Lots of white ducks swim happily on it. Tom likes to sit by the lake and watch them.”可知汤姆喜欢坐在湖边看鸭子。"
+      },
+      {
+        "q": "What is the best title for the passage?",
+        "opts": [
+          "Animals in the City.",
+          "A Nice Lake in the City.",
+          "How to Grow Apple Trees.",
+          "Tom’s Trip to Grandpa’s Farm."
+        ],
+        "ans": "D",
+        "exp": "最佳标题题。全文围绕汤姆去爷爷农场的经历展开，“Tom’s Trip to Grandpa’s Farm.”最契合文章核心内容。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zs_yz_7a_6",
+    "paperId": "paper_zs_yz_7a",
+    "paperTitle": "广东中山市第一中学2026-2027学年第一学期中段抽查调研七年级英语试题",
+    "sectionTitle": "三、阅读理解（语篇补全）",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "配对阅读",
+    "diff": 1,
+    "kp": [
+      "记叙文",
+      "语篇补全",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 中山一中期中调研 阅读理解C篇（语篇补全：我的校园与卧室）",
+    "passage": "语篇补全：阅读以下短文，从短文后面所给的选项中选出可以填入空白处的最佳选项，使短文完整连贯。\n\nI am a middle school student from America. ___1___ My Chinese teacher is Mr Zhao and I think Chinese is really difficult, but he often helps me. I try hard to learn new words every day. I like playing soccer with my classmates. ___2___ I like basketball too and I am very good at it. We often play games after school. Now I live in my cousin David’s home. He is friendly to me. ___3___ In my bedroom, you can see a bed, a desk, a chair, a map, a cat and some flowers. The bed is white. The desk and the chair are brown. The cat is black. ___4___ And it’s always under the desk. The door and the window are yellow. There is a map of China. ___5___ Both of them are on the wall. I love this warm room. I keep my room tidy every day.\n\nA. Its name is Mimi.\nB. But I don’t play it well.\nC. I have a big and nice bedroom.\nD. I am in Class Five, Grade Seven.\nE. There is also a photo of my family.",
+    "passageHtml": "<p><strong>语篇补全：</strong>阅读以下短文，从短文后面所给的选项中选出可以填入空白处的最佳选项，使短文完整连贯。</p><p><span class=\"ind\">I am a middle school student from America. <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> My Chinese teacher is Mr Zhao and I think Chinese is really difficult, but he often helps me. I try hard to learn new words every day. I like playing soccer with my classmates. <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> I like basketball too and I am very good at it. We often play games after school. Now I live in my cousin David’s home. He is friendly to me. <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> In my bedroom, you can see a bed, a desk, a chair, a map, a cat and some flowers. The bed is white. The desk and the chair are brown. The cat is black. <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> And it’s always under the desk. The door and the window are yellow. There is a map of China. <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> Both of them are on the wall. I love this warm room. I keep my room tidy every day.</span></p><div class=\"bx\"><p><b>A.</b> Its name is Mimi.</p><p><b>B.</b> But I don’t play it well.</p><p><b>C.</b> I have a big and nice bedroom.</p><p><b>D.</b> I am in Class Five, Grade Seven.</p><p><b>E.</b> There is also a photo of my family.</p></div>",
+    "intro": "本文主要讲述了一名来自美国的七年级中学生介绍自己的学校班级、老师、课余爱好以及表哥家卧室布置等相关内容。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "D",
+        "exp": "根据前文“I am a middle school student from America.”和后文“My Chinese teacher is Mr Zhao...”可知此处应补充具体的班级年级信息，选项D“我在七年级五班。”符合语境。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "B",
+        "exp": "前文提到喜欢踢足球，后文说“I like basketball too and I am very good at it”，选项B“但我踢得不好。”与后文擅长篮球形成对比。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "C",
+        "exp": "后文详细描述卧室物品“In my bedroom...”，此处需引出卧室话题，选项C“我有一个又大又漂亮的卧室。”承上启下。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "A",
+        "exp": "前文提到“The cat is black.”，后文说“And it’s always under the desk.”，选项A“它的名字叫Mimi。”围绕猫展开介绍。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "E",
+        "exp": "前文提到墙上有一张中国地图，后文说“Both of them are on the wall.”，选项E“还有一张我家人的照片。”补全另一件挂在墙上的物品。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zs_yz_7a_7",
+    "paperId": "paper_zs_yz_7a",
+    "paperTitle": "广东中山市第一中学2026-2027学年第一学期中段抽查调研七年级英语试题",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "配对阅读",
+    "diff": 1,
+    "kp": [
+      "应用文",
+      "配对阅读",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 中山一中期中调研 配对阅读（个人需求与广告卡片匹配）",
+    "passage": "配对阅读。左栏是五个人的需要，右栏是七张广告卡片，请为每人匹配合适的广告卡片。选项中有两项为多余选项。\n\nA. If you want to keep healthy, come to our sports center! We have a big playground and a swimming pool. You can play sports here every day.\nB. Welcome to our store! We sell all kinds of fresh vegetables and fruit. They are good for your health.\nC. Do you like watching movies? We have all kinds of movies in our cinema. Come and watch a movie with your friends.\nD. Do you like music? Welcome to our music shop! We have many new and cheap CDs. You can find your favorite music here.\nE. Do you want to travel? We have many fun and cheap trips. We can help you have a great summer holiday.\nF. Do you like animals? We have many cute dogs and cats in our pet shop. You can buy one and take it home.\nG. We need you to help children with their English on weekends. If you are good at English and want to help, please call us at 8876-1234.",
+    "passageHtml": "<p><strong>配对阅读：</strong>左栏是五个人的需要，右栏是七张广告卡片，请为每人匹配合适的广告卡片。选项中有两项为多余选项。</p><div class=\"bx\"><p><b>A.</b> If you want to keep healthy, come to our sports center! We have a big playground and a swimming pool. You can play sports here every day.</p><p><b>B.</b> Welcome to our store! We sell all kinds of fresh vegetables and fruit. They are good for your health.</p><p><b>C.</b> Do you like watching movies? We have all kinds of movies in our cinema. Come and watch a movie with your friends.</p><p><b>D.</b> Do you like music? Welcome to our music shop! We have many new and cheap CDs. You can find your favorite music here.</p><p><b>E.</b> Do you want to travel? We have many fun and cheap trips. We can help you have a great summer holiday.</p><p><b>F.</b> Do you like animals? We have many cute dogs and cats in our pet shop. You can buy one and take it home.</p><p><b>G.</b> We need you to help children with their English on weekends. If you are good at English and want to help, please call us at 8876-1234.</p></div>",
+    "intro": "本文是一篇配对阅读，主要介绍了五个人的需求以及七张广告卡片的内容，要求为每个人匹配合适的广告。",
+    "qs": [
+      {
+        "q": "(   ) Lily loves listening to music. She wants to buy some cheap CDs in the city.",
+        "opts": [],
+        "ans": "D",
+        "exp": "Lily想买便宜的CD，选项D“Welcome to our music shop! We have many new and cheap CDs.”符合需求。"
+      },
+      {
+        "q": "(   ) Tom is a student. He plans to travel to Beijing with his parents during the summer holiday.",
+        "opts": [],
+        "ans": "E",
+        "exp": "Tom计划暑假去旅行，选项E“We have many fun and cheap trips. We can help you have a great summer holiday.”符合需求。"
+      },
+      {
+        "q": "(   ) Mr. Green wants to keep healthy. He needs to find a place to exercise on weekends.",
+        "opts": [],
+        "ans": "A",
+        "exp": "Mr. Green想找地方锻炼保持健康，选项A“If you want to keep healthy, come to our sports center!”符合需求。"
+      },
+      {
+        "q": "(   ) Lucy is good at English. She is free on weekends and wants to help others.",
+        "opts": [],
+        "ans": "G",
+        "exp": "Lucy擅长英语且周末想帮助他人，选项G“We need you to help children with their English on weekends.”符合需求。"
+      },
+      {
+        "q": "(   ) Mrs. White wants to buy some fresh vegetables and fruit for her family.",
+        "opts": [],
+        "ans": "B",
+        "exp": "Mrs. White想买新鲜蔬菜和水果，选项B“We sell all kinds of fresh vegetables and fruit.”符合需求。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zs_yz_7a_8",
+    "paperId": "paper_zs_yz_7a",
+    "paperTitle": "广东中山市第一中学2026-2027学年第一学期中段抽查调研七年级英语试题",
+    "sectionTitle": "四、选词填空",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "记叙文",
+      "家人和亲人",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 中山一中期中调研 选词填空（表妹Mia一家来做客）",
+    "passage": "| and   back   buy   carrot   funny   home   I   in   show   so   ride   with |\nMy name is Leo. My cousin Mia and her parents come to stay ___1___ us this summer. Mia is the child of ___2___ aunt, Sarah.\nMia lives in another country, ___3___ we do not meet very often. It is her first time to come to our ___4___. When they arrive, I feel so excited. My mum ___5___ lots of fruit. She also makes some delicious cookies for them. I ___6___ Mia around our yard. We have many kinds of vegetables there. Mia is excited to see the ___7___.\nDuring their stay, Mia and I often ___8___ bikes and play basketball in the park. My grandparents also come for dinner every Sunday. Grandpa loves making us laugh. He often tells us ___9___ stories about Dad and Aunt Sarah when they were young.\nTime flies. Soon, Mia and her family have to go ___10___ home. We promise (承诺) to write emails to each other. I hope we can meet again next summer.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">and &nbsp; back &nbsp; buy &nbsp; carrot &nbsp; funny &nbsp; home &nbsp; I &nbsp; in &nbsp; show &nbsp; so &nbsp; ride &nbsp; with</div><p><span class=\"ind\">My name is Leo. My cousin Mia and her parents come to stay <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> us this summer. Mia is the child of <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> aunt, Sarah.</span></p><p><span class=\"ind\">Mia lives in another country, <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> we do not meet very often. It is her first time to come to our <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u>. When they arrive, I feel so excited. My mum <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> lots of fruit. She also makes some delicious cookies for them. I <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> Mia around our yard. We have many kinds of vegetables there. Mia is excited to see the <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u>.</span></p><p><span class=\"ind\">During their stay, Mia and I often <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> bikes and play basketball in the park. My grandparents also come for dinner every Sunday. Grandpa loves making us laugh. He often tells us <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> stories about Dad and Aunt Sarah when they were young.</span></p><p><span class=\"ind\">Time flies. Soon, Mia and her family have to go <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> home. We promise (承诺) to write emails to each other. I hope we can meet again next summer.</span></p>",
+    "intro": "本文是一篇记叙文，主要讲述了Leo的表妹Mia一家夏天来他家做客的经历，包括接待、参观院子、一起玩耍以及离别等内容。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "with",
+        "exp": "句意：我的表妹Mia和她的父母今年夏天来和我们一起住。stay with sb.意为“和某人一起住”，故填with。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "my",
+        "exp": "句意：Mia是我阿姨Sarah的孩子。修饰名词aunt用I的形容词性物主代词my。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "so",
+        "exp": "句意：Mia住在另一个国家，所以我们不经常见面。前后句为因果关系，填连词so。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "home",
+        "exp": "句意：这是她第一次来我们家。come to our home表示“来到我们家”。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "buys",
+        "exp": "句意：我妈妈买了很多水果。主语My mum是第三人称单数，一般现在时buy变为buys。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "show",
+        "exp": "句意：我带Mia参观我们的院子。show sb. around意为“带某人参观”，主语是I，用原形show。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "carrots",
+        "exp": "句意：Mia很兴奋看到这些胡萝卜。前文提到many kinds of vegetables，carrot用复数形式carrots。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "ride",
+        "exp": "句意：Mia和我经常骑自行车并在公园打篮球。ride bikes意为“骑自行车”。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "funny",
+        "exp": "句意：他经常给我们讲关于爸爸和Sarah阿姨小时候的有趣故事。修饰名词stories用形容词funny。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "back",
+        "exp": "句意：很快，Mia和她的家人不得不回家。go back home意为“回家”，故填back。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zs_yz_7a_9",
+    "paperId": "paper_zs_yz_7a",
+    "paperTitle": "广东中山市第一中学2026-2027学年第一学期中段抽查调研七年级英语试题",
+    "sectionTitle": "五、读写综合",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "读写综合",
+    "diff": 2,
+    "kp": [
+      "读写综合",
+      "友谊",
+      "朋友介绍",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 中山一中期中调研 读写综合（国际友谊日与介绍好朋友）",
+    "passage": "请阅读下面这篇文章，根据所提供的信息，回答5个问题。要求所写答案语法正确、语义完整。\n\nGood friends are very important to us. They bring us happiness and share happy times with us. When we are in trouble, good friends stay with us. They listen to us and give us a hand. We feel warm when we have good friends around. A good friend is kind and honest. He or she will always be there for us.\nTo help people understand (理解) and respect friends better, the United Nations set up a special day for friends in 2011. It is the International Day of Friendship. It is on July 30 every year. On this day, people from different countries and cultures (文化) think about what true friendship means. They think friendship can help people live together peacefully (和平地).\nMany countries also have their own friendship days. In Argentina, Brazil and Spain, Friend’s Day is on July 20. In India and the US, it is on the first Sunday of August. In Finland and Estonia, Friendship Day is on February 14.\nOn the International Day of Friendship, people often make cards or bake cakes for their friends. The best thing is to enjoy happy time together with your friends!",
+    "passageHtml": "<p style=\"margin-bottom:8px;color:var(--mu);font-size:13.5px\"><strong>A．回答问题：</strong>请阅读下面这篇文章，根据所提供的信息，回答5个问题。要求所写答案语法正确、语义完整。</p><p><span class=\"ind\">Good friends are very important to us. They bring us happiness and share happy times with us. When we are in trouble, good friends stay with us. They listen to us and give us a hand. We feel warm when we have good friends around. A good friend is kind and honest. He or she will always be there for us.</span></p><p><span class=\"ind\">To help people understand (理解) and respect friends better, the United Nations set up a special day for friends in 2011. It is the International Day of Friendship. It is on July 30 every year. On this day, people from different countries and cultures (文化) think about what true friendship means. They think friendship can help people live together peacefully (和平地).</span></p><p><span class=\"ind\">Many countries also have their own friendship days. In Argentina, Brazil and Spain, Friend’s Day is on July 20. In India and the US, it is on the first Sunday of August. In Finland and Estonia, Friendship Day is on February 14.</span></p><p><span class=\"ind\">On the International Day of Friendship, people often make cards or bake cakes for their friends. The best thing is to enjoy happy time together with your friends!</span></p>",
+    "intro": "本文主要介绍了好朋友的重要性、国际友谊日的设立目的及时间、部分国家的友谊日以及人们在友谊日的庆祝活动。",
+    "qs": [
+      {
+        "q": "How do people feel when they stay with good friends?",
+        "opts": [],
+        "ans": "They feel warm.",
+        "exp": "第一段“We feel warm when we have good friends around.”直接说明和好朋友待在一起时人们会感到温暖。"
+      },
+      {
+        "q": "Why did the UN make the International Day of Friendship?",
+        "opts": [],
+        "ans": "To help people understand and respect friends better.",
+        "exp": "第二段“To help people understand and respect friends better, the United Nations set up a special day for friends in 2011.”说明了设立原因。"
+      },
+      {
+        "q": "When is the International Day of Friendship?",
+        "opts": [],
+        "ans": "It is on July 30 every year.",
+        "exp": "第二段“It is on July 30 every year.”直接说明国际友谊日在每年的7月30日。"
+      },
+      {
+        "q": "How many countries have their own friendship days according to this passage?",
+        "opts": [],
+        "ans": "Seven.",
+        "exp": "第三段依次提到“Argentina, Brazil, Spain, India, the US, Finland, Estonia”共7个国家。"
+      },
+      {
+        "q": "What do people usually do on the International Day of Friendship?",
+        "opts": [],
+        "ans": "They often make cards or bake cakes.",
+        "exp": "第四段“On the International Day of Friendship, people often make cards or bake cakes for their friends.”表明人们通常制作卡片或烤蛋糕。"
+      },
+      {
+        "q": "<div style=\"margin-top:10px;padding-top:10px;border-top:1px dashed var(--bd)\"><strong>B．书面表达</strong><p style=\"margin:4px 0\">请根据要求完成短文写作，并将短文写在答题卡对应题目的答题位置上。</p><p style=\"margin:4px 0\">假如你是Li Ming，英语老师请你写一篇文章，在英语课上介绍你的一位好朋友。内容包括：<br>（1）你好朋友的基本信息（包括姓名、年龄、爱好）；<br>（2）你和他/她共同参与的活动，至少列举两项；<br>（3）你对你们之间友谊的期待。</p><p style=\"margin:4px 0\">注意：<br>（1）不能照抄原文；不得在作文中出现学校的真实名称和学生的真实姓名。<br>（2）语句连贯，词数60左右。作文开头已经给出，不计入总词数。</p><p class=\"ct\" style=\"margin:8px 0\"><b>My good friend</b></p><p style=\"margin:4px 0\">Hello everyone, I’m Li Ming. I have a good friend. ______________________________</p></div>",
+        "opts": [],
+        "ans": "【参考范文】\nMy good friend\nHello everyone, I’m Li Ming. I have a good friend. His name is Tom. He is a 13-year-old boy. He loves playing basketball and reading books very much. We often play basketball on the playground after school together. We also read interesting books in the library on weekends. We always help each other with our study. I hope we can be friends forever and make progress together.",
+        "exp": "写作步骤\n[第一步：审题立意]\n确定文体：介绍类记叙文，用一般现在时为主\n明确要点：好朋友基本信息（姓名、年龄、爱好）；两项及以上共同参与的活动；对友谊的期待\n[第二步：构思布局]\n开头引入好朋友；主体介绍好友的姓名、年龄、爱好及一起参与的两项活动；结尾表达对友谊的美好期待。"
+      }
+    ]
+  },
+  {
+    "id": "paper_hy_gm_7a_1",
+    "paperId": "paper_hy_gm_7a",
+    "paperTitle": "广东河源市源城区光明学校2026-2027学年第一学期第一次学情调研七年级英语试题",
+    "sectionTitle": "三、补全对话",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "配对阅读",
+    "diff": 1,
+    "kp": [
+      "补全对话",
+      "日常交际",
+      "个人信息",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 河源光明第一次月考 三、补全对话（校园乐队初识）",
+    "passage": "请通读下面对话，从方框内所给的选项中选出能填入空白处的最佳选项（有一项为多余选项）：\n\nFrank: Hi, Liu Qiang! Nice to see you in the school band!\nLiu Lei: Oh, hi! I’m Liu Lei, Liu Qiang’s twin brother.\nFrank: Oh, sorry! ___1___ You two look the same.\nLiu Lei: It’s OK. ___2___\nFrank: I’m Frank Smith.\nLiu Lei: Nice to meet you, Frank. ___3___\nFrank: Yes, we are classmates. We are both in Class 2, Grade 7. And you? ___4___\nLiu Lei: I’m in Class 6, Grade 7.\nFrank: I see. What instrument (乐器) do you play in the band?\nLiu Lei: ___5___\nFrank: That’s great! I play the guitar too and we can play it together.\n\nA. My mistake.\nB. I play the guitar.\nC. Where are you from?\nD. What class are you in?\nE. May I have your name?\nF. Are you my brother’s classmate?",
+    "passageHtml": "<p><strong>补全对话：</strong>请通读下面对话，从方框内所给的选项中选出能填入空白处的最佳选项（有一项为多余选项）。</p><p><b>Frank:</b> Hi, Liu Qiang! Nice to see you in the school band!<br><b>Liu Lei:</b> Oh, hi! I’m Liu Lei, Liu Qiang’s twin brother.<br><b>Frank:</b> Oh, sorry! <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> You two look the same.<br><b>Liu Lei:</b> It’s OK. <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u><br><b>Frank:</b> I’m Frank Smith.<br><b>Liu Lei:</b> Nice to meet you, Frank. <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u><br><b>Frank:</b> Yes, we are classmates. We are both in Class 2, Grade 7. And you? <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u><br><b>Liu Lei:</b> I’m in Class 6, Grade 7.<br><b>Frank:</b> I see. What instrument (乐器) do you play in the band?<br><b>Liu Lei:</b> <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u><br><b>Frank:</b> That’s great! I play the guitar too and we can play it together.</p><div class=\"bx\"><p><b>A.</b> My mistake. &nbsp;&nbsp;&nbsp;&nbsp; <b>B.</b> I play the guitar. &nbsp;&nbsp;&nbsp;&nbsp; <b>C.</b> Where are you from?</p><p><b>D.</b> What class are you in? &nbsp;&nbsp;&nbsp;&nbsp; <b>E.</b> May I have your name? &nbsp;&nbsp;&nbsp;&nbsp; <b>F.</b> Are you my brother’s classmate?</p></div>",
+    "intro": "本对话是Frank与Liu Lei在乐队初次见面的交流。Frank误将Liu Lei认作自己的同学Liu Qiang，经对方说明后化解误会，两人接着互相询问姓名、班级和演奏的乐器。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "A",
+        "exp": "上文Frank将Liu Lei误认为Liu Qiang，在对方纠正后，Frank应承认错误，A项“My mistake”符合逻辑。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "E",
+        "exp": "下文Frank回答“I’m Frank Smith.”，说明Liu Lei在询问Frank的名字，E项“May I have your name?”符合逻辑。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "F",
+        "exp": "下文Frank回答“Yes, we are classmates.”，说明Liu Lei询问Frank是否是Liu Qiang的同班同学，F项符合逻辑。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "D",
+        "exp": "下文Liu Lei回答“I’m in Class 6, Grade 7.”，说明Frank询问Liu Lei所在的班级，D项“What class are you in?”符合逻辑。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "B",
+        "exp": "上文问“What instrument do you play in the band?”，下文回答自己演奏的乐器，B项“I play the guitar”符合逻辑。"
+      }
+    ]
+  },
+  {
+    "id": "paper_hy_gm_7a_2",
+    "paperId": "paper_hy_gm_7a",
+    "paperTitle": "广东河源市源城区光明学校2026-2027学年第一学期第一次学情调研七年级英语试题",
+    "sectionTitle": "四、语法选择",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "语法选择",
+    "diff": 1,
+    "kp": [
+      "记叙文",
+      "朋友",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 河源光明第一次月考 语法选择（Peter的学校与朋友）",
+    "passage": "My name is Sandra. I am 12 years old. I come from New York. I have ___1___ friend. He is Peter Smith. ___2___ first name is Peter. His last name is Smith. We are not in the same school. This ___3___ his school. It is new and big. There are many trees and flowers in it. And it has three playgrounds. His school’s phone number is 200-4841.\nPeter ___4___ a good teacher. The teacher has a beautiful name—Lily. ___5___ is Peter’s maths teacher. She likes ___6___ sports at weekends with her family.\nLi Ming is a Chinese boy. He ___7___ at school on school days. He is Peter’s good friend ___8___ school. He has different hobbies.\nHe doesn’t like doing sports, ___9___ he likes reading books and playing chess with his classmates. Look! ___10___ is that? It is a pencil box. Is it Li Ming’s? I don’t know. Let’s call him. His number is 495-6811.",
+    "passageHtml": "<p><span class=\"ind\">My name is Sandra. I am 12 years old. I come from New York. I have <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> friend. He is Peter Smith. <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> first name is Peter. His last name is Smith. We are not in the same school. This <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> his school. It is new and big. There are many trees and flowers in it. And it has three playgrounds. His school’s phone number is 200-4841.</span></p><p><span class=\"ind\">Peter <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> a good teacher. The teacher has a beautiful name—Lily. <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> is Peter’s maths teacher. She likes <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> sports at weekends with her family.</span></p><p><span class=\"ind\">Li Ming is a Chinese boy. He <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> at school on school days. He is Peter’s good friend <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> school. He has different hobbies.</span></p><p><span class=\"ind\">He doesn’t like doing sports, <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> he likes reading books and playing chess with his classmates. Look! <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> is that? It is a pencil box. Is it Li Ming’s? I don’t know. Let’s call him. His number is 495-6811.</span></p>",
+    "intro": "本文主要介绍了桑德拉的朋友彼得·史密斯的学校、数学老师莉莉，以及彼得在学校的好朋友李明的爱好等情况。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "an",
+          "a",
+          "the"
+        ],
+        "ans": "B",
+        "exp": "句意：我有一个朋友。此处表泛指，friend以辅音音素开头，用a。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "He’s",
+          "Him",
+          "His"
+        ],
+        "ans": "C",
+        "exp": "句意：他的名字是彼得。first name是名词，用形容词性物主代词His修饰。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "are",
+          "is",
+          "be"
+        ],
+        "ans": "B",
+        "exp": "句意：这是他的学校。主语This是单数，be动词用is。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "had",
+          "has",
+          "have"
+        ],
+        "ans": "B",
+        "exp": "句意：彼得有一位好老师。主语Peter是第三人称单数，一般现在时用has。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "Hers",
+          "Her",
+          "She"
+        ],
+        "ans": "C",
+        "exp": "句意：她是彼得的数学老师。空格处作主语，用主格She。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "playing",
+          "play",
+          "plays"
+        ],
+        "ans": "A",
+        "exp": "句意：她喜欢在周末和家人做运动。like doing sth.表示“喜欢做某事”，用playing。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "stay",
+          "stays",
+          "staying"
+        ],
+        "ans": "B",
+        "exp": "句意：上学日他待在学校。主语He是第三人称单数，一般现在时用stays。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "to",
+          "of",
+          "at"
+        ],
+        "ans": "C",
+        "exp": "句意：在学校他是彼得的好朋友。at school是固定搭配，表示“在学校”。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "and",
+          "but",
+          "or"
+        ],
+        "ans": "B",
+        "exp": "句意：他不喜欢做运动，但他喜欢看书和与同学下棋。前后句是转折关系，用but。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "When",
+          "How",
+          "What"
+        ],
+        "ans": "C",
+        "exp": "句意：看！那是什么？根据“It is a pencil box.”可知询问物品用What。"
+      }
+    ]
+  },
+  {
+    "id": "paper_hy_gm_7a_3",
+    "paperId": "paper_hy_gm_7a",
+    "paperTitle": "广东河源市源城区光明学校2026-2027学年第一学期第一次学情调研七年级英语试题",
+    "sectionTitle": "五、完形填空",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "完形填空",
+    "diff": 2,
+    "kp": [
+      "记叙文",
+      "家人和亲人",
+      "颜色",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 河源光明第一次月考 完形填空（英语课上谈论喜欢的颜色）",
+    "passage": "Welcome to our English class! The students are talking about ___1___.\n“I think purple is my lucky (幸运的) colour,” Jenny says. “My mother is an English teacher. She works very hard. And she gets home from her ___2___ very late every day. I want to buy a purple ___3___ for her. I hope she can go home early on the purple bike.”\n“I like ___4___,” says Jim. “Do you know why? Yes, my family name is White! You can ___5___ me Mr White. There are ___6___ ‘Mr White’ in my family. I am the youngest (最小的) one. My grandpa is 87 years old. He has three sons. I have a brother and four cousin brothers. I really have a ___7___ family.”\nJohn likes blue and he likes ___8___ very much. In summer, he and his friends often go swimming. They have a good time. Look, his blue notebooks, blue pens, blue erasers and blue ___9___ are all in his blue schoolbag. Blue makes him feel ___10___.",
+    "passageHtml": "<p><span class=\"ind\">Welcome to our English class! The students are talking about <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u>.</span></p><p><span class=\"ind\">“I think purple is my lucky (幸运的) colour,” Jenny says. “My mother is an English teacher. She works very hard. And she gets home from her <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> very late every day. I want to buy a purple <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> for her. I hope she can go home early on the purple bike.”</span></p><p><span class=\"ind\">“I like <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u>,” says Jim. “Do you know why? Yes, my family name is White! You can <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> me Mr White. There are <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> ‘Mr White’ in my family. I am the youngest (最小的) one. My grandpa is 87 years old. He has three sons. I have a brother and four cousin brothers. I really have a <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> family.”</span></p><p><span class=\"ind\">John likes blue and he likes <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> very much. In summer, he and his friends often go swimming. They have a good time. Look, his blue notebooks, blue pens, blue erasers and blue <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> are all in his blue schoolbag. Blue makes him feel <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u>.</span></p>",
+    "intro": "本文主要讲述了英语课上学生们谈论各自喜欢的颜色及其背后的原因，涉及家庭成员、爱好及颜色带来的感受等话题。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "names",
+          "friends",
+          "colors",
+          "family"
+        ],
+        "ans": "C",
+        "exp": "句意：学生们正在谈论颜色。根据下文“I think purple is my lucky colour”可知大家在讨论颜色（colors）。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "library",
+          "school",
+          "park",
+          "shop"
+        ],
+        "ans": "B",
+        "exp": "句意：她每天很晚才从学校回家。根据“My mother is an English teacher”可知工作地点是school。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "flower",
+          "hat",
+          "car",
+          "bike"
+        ],
+        "ans": "D",
+        "exp": "句意：我想给她买一辆紫色的自行车。根据下文“on the purple bike”可知是bike。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "red",
+          "blue",
+          "white",
+          "black"
+        ],
+        "ans": "C",
+        "exp": "句意：我喜欢白色。根据下文“my family name is White”可知是white。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "see",
+          "call",
+          "greet",
+          "spell"
+        ],
+        "ans": "B",
+        "exp": "句意：你可以叫我怀特先生。固定搭配“call sb. + 名称”表示“称呼某人为……”。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "eight",
+          "nine",
+          "ten",
+          "eleven"
+        ],
+        "ans": "C",
+        "exp": "句意：我家有十位“怀特先生”。根据“Grandpa(1)+three sons(3)+I(1)+brother(1)+four cousin brothers(4)=10”可知共10人（ten）。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "big",
+          "small",
+          "long",
+          "tall"
+        ],
+        "ans": "A",
+        "exp": "句意：我真的有一个大家庭。家庭成员众多，所以是big family。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "running",
+          "swimming",
+          "dancing",
+          "singing"
+        ],
+        "ans": "B",
+        "exp": "句意：John喜欢蓝色，并且他非常喜欢游泳。根据后文“go swimming”可知选swimming。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "pencils",
+          "tables",
+          "desks",
+          "chairs"
+        ],
+        "ans": "A",
+        "exp": "句意：他的蓝色笔记本、蓝色钢笔、蓝色橡皮擦和蓝色铅笔都在他的蓝色书包里。书包里装的是文具pencils。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "sad",
+          "cold",
+          "bad",
+          "happy"
+        ],
+        "ans": "D",
+        "exp": "句意：蓝色让他感到快乐。happy“快乐的”符合积极语境。"
+      }
+    ]
+  },
+  {
+    "id": "paper_hy_gm_7a_4",
+    "paperId": "paper_hy_gm_7a",
+    "paperTitle": "广东河源市源城区光明学校2026-2027学年第一学期第一次学情调研七年级英语试题",
+    "sectionTitle": "六、阅读理解",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "新媒体语篇",
+      "常见动物",
+      "寓言童话",
+      "细节理解",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 河源光明第一次月考 阅读理解A篇（森林动物论坛迎新帖）",
+    "passage": "http://www.animalsforum.com/\n1. Fluffy Sheep (New to the forest, 10:32 in the morning): Hi, everyone! It’s Fluffy Sheep here. I’m new to the forest. It’s nice to meet all of you! I like playing games in the forest. Let’s have a great time!\n2. Jumping Rabbit (Re: New to the forest, 10:44 in the morning): Welcome, Fluffy Sheep! Everyone in the forest is very nice. Do you want to have some carrots (胡萝卜)? Come to my home and get some.\n3. Big Nice Wolf (Re: New to the forest, 10:50 in the morning): Hi, Fluffy Sheep! I like making new friends. My house is very beautiful. It’s red and white. Welcome to my house!\n4. Wise Owl (Re: New to the forest, 11:10 in the morning): Hello, Fluffy Sheep! I’m Wise Owl. My house is brown and yellow and it’s in a big tree. Many beautiful flowers are behind the tree. You can come and have a look at them.",
+    "passageHtml": "<table style=\"width:100%;border-collapse:collapse;margin:6px 0\"><tr><td colspan=\"2\" style=\"border:1px solid var(--mu);padding:6px 10px\"><b>http://www.animalsforum.com/</b></td></tr><tr><td style=\"border:1px solid var(--mu);padding:8px 10px;width:90px;text-align:center\"><img src=\"assets/images/paper_hy_gm_7a_img1.png\" alt=\"Fluffy Sheep\" style=\"max-width:70px;height:auto\"></td><td style=\"border:1px solid var(--mu);padding:8px 10px\"><p><b>New to the forest (森林) &nbsp;&nbsp; 10:32 in the morning</b></p><p>Hi, everyone! It’s Fluffy Sheep here. I’m new to the forest. It’s nice to meet all of you! I like playing games in the forest. Let’s have a great time!</p></td></tr><tr><td style=\"border:1px solid var(--mu);padding:8px 10px;width:90px;text-align:center\"><img src=\"assets/images/paper_hy_gm_7a_img2.png\" alt=\"Jumping Rabbit\" style=\"max-width:70px;height:auto\"></td><td style=\"border:1px solid var(--mu);padding:8px 10px\"><p><b>Re: New to the forest &nbsp;&nbsp; 10:44 in the morning</b></p><p>Welcome, Fluffy Sheep! Everyone in the forest is very nice. Do you want to have some carrots (胡萝卜)? Come to my home and get some.</p></td></tr><tr><td style=\"border:1px solid var(--mu);padding:8px 10px;width:90px;text-align:center\"><img src=\"assets/images/paper_hy_gm_7a_img3.png\" alt=\"Big Nice Wolf\" style=\"max-width:70px;height:auto\"></td><td style=\"border:1px solid var(--mu);padding:8px 10px\"><p><b>Re: New to the forest &nbsp;&nbsp; 10:50 in the morning</b></p><p>Hi, Fluffy Sheep! I like making new friends. My house is very beautiful. It’s red and white. Welcome to my house!</p></td></tr><tr><td style=\"border:1px solid var(--mu);padding:8px 10px;width:90px;text-align:center\"><img src=\"assets/images/paper_hy_gm_7a_img4.png\" alt=\"Wise Owl\" style=\"max-width:70px;height:auto\"></td><td style=\"border:1px solid var(--mu);padding:8px 10px\"><p><b>Re: New to the forest &nbsp;&nbsp; 11:10 in the morning</b></p><p>Hello, Fluffy Sheep! I’m Wise Owl. My house is brown and yellow and it’s in a big tree. Many beautiful flowers are behind the tree. You can come and have a look at them.</p></td></tr></table>",
+    "intro": "本文讲述了刚到森林的Fluffy Sheep在动物论坛发帖自我介绍，森林里的Jumping Rabbit、Big Nice Wolf、Wise Owl先后回帖欢迎并发出邀请的故事。",
+    "qs": [
+      {
+        "q": "Who is new to the forest?",
+        "opts": [
+          "<img src=\"assets/images/paper_hy_gm_7a_img5.png\" alt=\"A\" style=\"max-width:75px;height:auto\">",
+          "<img src=\"assets/images/paper_hy_gm_7a_img6.png\" alt=\"B\" style=\"max-width:75px;height:auto\">",
+          "<img src=\"assets/images/paper_hy_gm_7a_img7.png\" alt=\"C\" style=\"max-width:75px;height:auto\">",
+          "<img src=\"assets/images/paper_hy_gm_7a_img8.png\" alt=\"D\" style=\"max-width:75px;height:auto\">"
+        ],
+        "ans": "B",
+        "exp": "“It’s Fluffy Sheep here. I'm new to the forest.”表明Fluffy Sheep是新来森林的，对应选项B的绵羊形象。"
+      },
+      {
+        "q": "What does Jumping Rabbit say about the forest?",
+        "opts": [
+          "It’s very big.",
+          "It’s beautiful.",
+          "Everyone in it is nice.",
+          "Many animals live in it."
+        ],
+        "ans": "C",
+        "exp": "根据“Everyone in the forest is very nice.”可知，Jumping Rabbit提到森林里的每个成员都很友善。"
+      },
+      {
+        "q": "What colour is Big Nice Wolf’s house?",
+        "opts": [
+          "Brown and yellow.",
+          "White and brown.",
+          "Red and yellow.",
+          "Red and white."
+        ],
+        "ans": "D",
+        "exp": "根据“It’s red and white.”可知，Big Nice Wolf的房子是红白相间的。"
+      },
+      {
+        "q": "When does Wise Owl write his post (帖子)?",
+        "opts": [
+          "At 10:32 in the morning.",
+          "At 10:44 in the morning.",
+          "At 10:50 in the morning.",
+          "At 11:10 in the morning."
+        ],
+        "ans": "D",
+        "exp": "根据帖子标题处“11:10 in the morning”可知Wise Owl的发帖时间是上午11点10分。"
+      },
+      {
+        "q": "What does Wise Owl want Fluffy Sheep to do?",
+        "opts": [
+          "Go to the forest.",
+          "Look at flowers.",
+          "Get some carrots.",
+          "Play games with him."
+        ],
+        "ans": "B",
+        "exp": "根据“Many beautiful flowers are behind the tree. You can come and have a look at them.”可知Wise Owl想让Fluffy Sheep来看花。"
+      }
+    ]
+  },
+  {
+    "id": "paper_hy_gm_7a_5",
+    "paperId": "paper_hy_gm_7a",
+    "paperTitle": "广东河源市源城区光明学校2026-2027学年第一学期第一次学情调研七年级英语试题",
+    "sectionTitle": "六、阅读理解",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "说明文",
+      "友谊",
+      "意见/建议",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 河源光明第一次月考 阅读理解B篇（在学校结交新朋友的建议）",
+    "passage": "Making New Friends at School\nHello, boys and girls! Do you like to make new friends at school? Yes? Here’s some of my advice (建议).\nFirst, don’t be shy! Try to talk to all of your classmates. Smile and say, “Hello! What’s your name?” If you didn’t hear the name clearly, try, “Sorry, can you repeat (重复) that for me, please?” Then give your name and say, “Nice to meet you!” It’s really as simple (简单) as that! It’s important to get people’s names right. If you get them wrong, they might feel sad!\nSecond, ask questions! Ask about school, sport, music, and more! As you listen, think of more questions to ask. So when your classmate stops talking, you can jump in and ask another question! But remember, you have to be a good listener before you can ask good questions.\nLast, don’t forget to share! Tell your classmates something interesting about yourself. Then your new friends can get to know you too! Soon enough, you’ll be the best of friends!\nI hope you find my advice helpful! Now go make some new friends!",
+    "passageHtml": "<p class=\"ct\"><b>Making New Friends at School</b></p><p><span class=\"ind\">Hello, boys and girls! Do you like to make new friends at school? Yes? Here’s some of my advice (建议).</span></p><p><span class=\"ind\">First, don’t be shy! Try to talk to all of your classmates. Smile and say, “Hello! What’s your name?” If you didn’t hear the name clearly, try, “Sorry, can you repeat (重复) that for me, please?” Then give your name and say, “Nice to meet you!” It’s really as simple (简单) as that! It’s important to get people’s names right. If you get them wrong, they might feel sad!</span></p><p><span class=\"ind\">Second, ask questions! Ask about school, sport, music, and more! As you listen, think of more questions to ask. So when your classmate stops talking, you can jump in and ask another question! But remember, you have to be a good listener before you can ask good questions.</span></p><p><span class=\"ind\">Last, don’t forget to share! Tell your classmates something interesting about yourself. Then your new friends can get to know you too! Soon enough, you’ll be the best of friends!</span></p><p><span class=\"ind\">I hope you find my advice helpful! Now go make some new friends!</span></p>",
+    "intro": "本文是一篇说明文。主要介绍了在学校结交新朋友的三条建议，包括主动打招呼、提问交流以及分享自我。",
+    "qs": [
+      {
+        "q": "Why does the writer write the passage?",
+        "opts": [
+          "To tell the rules of the school.",
+          "To teach how to make friends.",
+          "To tell how many friends we should make.",
+          "To introduce some new students."
+        ],
+        "ans": "B",
+        "exp": "第一段“Do you like to make new friends at school? Yes? Here’s some of my advice.”表明作者写作目的是教大家如何交朋友。"
+      },
+      {
+        "q": "How many pieces of advice are there in the passage?",
+        "opts": [
+          "2.",
+          "3.",
+          "4.",
+          "5."
+        ],
+        "ans": "B",
+        "exp": "第二段“First”、第三段“Second”和第四段“Last”表明文中一共提出了3条建议。"
+      },
+      {
+        "q": "If you don’t hear your classmate’s name clearly, what should you do?",
+        "opts": [
+          "Say sorry and ask him or her to repeat.",
+          "Say hello to him or her.",
+          "Say goodbye to him or her.",
+          "Just get the name wrong."
+        ],
+        "ans": "A",
+        "exp": "第二段“If you didn’t hear the name clearly, try, ‘Sorry, can you repeat that for me, please?’”表明没听清名字时应道歉并请对方重复。"
+      },
+      {
+        "q": "What questions can you ask your classmates about?<br>① school &nbsp;&nbsp; ② sport &nbsp;&nbsp; ③ money &nbsp;&nbsp; ④ music &nbsp;&nbsp; ⑤ parents",
+        "opts": [
+          "①③⑤",
+          "②③⑤",
+          "①②④",
+          "①④⑤"
+        ],
+        "ans": "C",
+        "exp": "第三段“Ask about school, sport, music, and more!”表明可以询问①学校、②运动和④音乐。"
+      },
+      {
+        "q": "Who is this passage mainly written for? (这篇文章主要写给谁看的?)",
+        "opts": [
+          "Students who just moved to a new city.",
+          "Parents who would like their children to make new friends.",
+          "Parents who don’t know how to make friends with their children.",
+          "Students who want to make new friends at school."
+        ],
+        "ans": "D",
+        "exp": "第一段“Hello, boys and girls! Do you like to make new friends at school?”表明主要面向想在学校结交新朋友的学生。"
+      }
+    ]
+  },
+  {
+    "id": "paper_hy_gm_7a_6",
+    "paperId": "paper_hy_gm_7a",
+    "paperTitle": "广东河源市源城区光明学校2026-2027学年第一学期第一次学情调研七年级英语试题",
+    "sectionTitle": "六、阅读理解",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "配对阅读",
+    "diff": 1,
+    "kp": [
+      "应用文",
+      "个人信息",
+      "配对阅读",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 河源光明第一次月考 配对阅读（日常需求与信息通知匹配）",
+    "passage": "配对阅读：左栏是五个人的个人需求，右栏是七条信息通知，请为每个人匹配合适的信息。\n\nA. We have a talk for English teachers in the meeting room. It starts at 3:00 on Friday afternoon.\nB. Do you like animals? You can find all your animal friends in our zoo. You can watch the Tiger Show and the Bear Show this weekend.\nC. Would you like to have nice food? We have Hunan food, Sichuan food and Guangdong food. Welcome!\nD. I have an animal friend. It is a cute dog. It has two short ears and four short brown legs. I like it a lot.\nE. Bob speaks English well and he can help you with your English. His QQ number is 3187607265.\nF. Welcome to our food shop. Meat and vegetables are fresh (新鲜的). We also have many drinks like orange juice.\nG. Whose watch is this? I find it in the library. I’m in Class 2, Grade 7. My name is Lily.",
+    "passageHtml": "<p><strong>配对阅读：</strong>左栏是五个人的个人需求，右栏是七条信息通知，请为每个人匹配合适的信息。</p><div class=\"bx\"><p><b>A.</b> We have a talk for English teachers in the meeting room. It starts at 3:00 on Friday afternoon.</p><p><b>B.</b> Do you like animals? You can find all your animal friends in our zoo. You can watch the Tiger Show and the Bear Show this weekend.</p><p><b>C.</b> Would you like to have nice food? We have Hunan food, Sichuan food and Guangdong food. Welcome!</p><p><b>D.</b> I have an animal friend. It is a cute dog. It has two short ears and four short brown legs. I like it a lot.</p><p><b>E.</b> Bob speaks English well and he can help you with your English. His QQ number is 3187607265.</p><p><b>F.</b> Welcome to our food shop. Meat and vegetables are fresh (新鲜的). We also have many drinks like orange juice.</p><p><b>G.</b> Whose watch is this? I find it in the library. I’m in Class 2, Grade 7. My name is Lily.</p></div>",
+    "intro": "本文是一篇配对阅读，主要介绍了五个人的个人需求以及与之对应的七条信息通知。",
+    "qs": [
+      {
+        "q": "(   ) Lisa is not happy because she can’t find her favourite watch. It’s green and white.",
+        "opts": [],
+        "ans": "G",
+        "exp": "Lisa找不到手表，G选项在图书馆捡到手表寻找失主，符合情况。"
+      },
+      {
+        "q": "(   ) Jane is in Grade Seven. Her English is not very good. She wants to learn it well.",
+        "opts": [],
+        "ans": "E",
+        "exp": "Jane想学好英语，E选项Bob英语好可以提供帮助，符合情况。"
+      },
+      {
+        "q": "(   ) Jim is from America. He studies in Guangzhou now. He likes Guangdong food very much.",
+        "opts": [],
+        "ans": "C",
+        "exp": "Jim非常喜欢广东菜，C选项提供湖南菜、四川菜和广东菜，符合情况。"
+      },
+      {
+        "q": "(   ) John comes to have dinner with us this evening. I need to buy some food and drinks.",
+        "opts": [],
+        "ans": "F",
+        "exp": "需要购买食物和饮品，F选项食品店有新鲜肉菜和橙汁等饮品，符合情况。"
+      },
+      {
+        "q": "(   ) Lele likes animals very much. He wants to go to the zoo with his parents on weekends.",
+        "opts": [],
+        "ans": "B",
+        "exp": "Lele周末想和父母去动物园，B选项动物园本周末有老虎和熊表演，符合情况。"
+      }
+    ]
+  },
+  {
+    "id": "paper_hy_gm_7a_7",
+    "paperId": "paper_hy_gm_7a",
+    "paperTitle": "广东河源市源城区光明学校2026-2027学年第一学期第一次学情调研七年级英语试题",
+    "sectionTitle": "七、选词填空",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "说明文",
+      "语言与文化",
+      "文化差异",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 河源光明第一次月考 选词填空（中英文姓名的差异）",
+    "passage": "| be   you   usually   have   begin   even   full   and   name   of   different   but |\nHello, boys and girls. My name is Emma. I ___1___ from London, the UK. Today I would like to tell ___2___ something about English names. English people ___3___ three names. They are the first name, the middle name ___4___ the last name. They don’t use their middle names often. My ___5___ name is Emma Jones Brown. ___6___ people call me Emma Brown. You can call me Emma too.\nOur first names are in the ___7___ and our last names are in the end. It’s ___8___ from Chinese names. For Chinese, their last names are in front ___9___ their first names. How do you like our ___10___? Is it fun to know about English names?",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">be &nbsp; you &nbsp; usually &nbsp; have &nbsp; begin &nbsp; even &nbsp; full &nbsp; and &nbsp; name &nbsp; of &nbsp; different &nbsp; but</div><p><span class=\"ind\">Hello, boys and girls. My name is Emma. I <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> from London, the UK. Today I would like to tell <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> something about English names. English people <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> three names. They are the first name, the middle name <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> the last name. They don’t use their middle names often. My <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> name is Emma Jones Brown. <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> people call me Emma Brown. You can call me Emma too.</span></p><p><span class=\"ind\">Our first names are in the <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> and our last names are in the end. It’s <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> from Chinese names. For Chinese, their last names are in front <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> their first names. How do you like our <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u>? Is it fun to know about English names?</span></p>",
+    "intro": "本文是一篇说明文，Emma通过介绍自己的全名，向读者科普了英国人姓名的构成以及中英文姓名顺序的差异。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "am",
+        "exp": "句意：我来自英国伦敦。be from表示“来自”，主语I对应am。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "you",
+        "exp": "句意：今天我想告诉你们一些关于英文名字的事情。动词tell后接人称代词宾格you。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "have",
+        "exp": "句意：英国人有三个名字。主语English people是复数，用动词原形have。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "and",
+        "exp": "句意：它们是名、中间名和姓。并列结构最后两项用and连接。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "full",
+        "exp": "句意：我的全名是Emma Jones Brown。full name意为“全名”。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "Usually",
+        "exp": "句意：通常人们叫我Emma Brown。句首副词作状语，填Usually。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "beginning",
+        "exp": "句意：我们的名字在开头，姓氏在最后。in the beginning意为“在开头”，与in the end呼应。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "different",
+        "exp": "句意：这与中文名字不同。be different from意为“与……不同”。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "of",
+        "exp": "句意：对中国人来说，他们的姓氏在名字的前面。in front of意为“在……前面”。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "names",
+        "exp": "句意：你们觉得我们的名字怎么样？指代英国人的名字，用复数形式names。"
+      }
+    ]
+  },
+  {
+    "id": "paper_hy_gm_7a_8",
+    "paperId": "paper_hy_gm_7a",
+    "paperTitle": "广东河源市源城区光明学校2026-2027学年第一学期第一次学情调研七年级英语试题",
+    "sectionTitle": "八、读写综合",
+    "stage": "junior",
+    "grade": "七年级",
+    "semester": "七年级上册",
+    "type": "读写综合",
+    "diff": 2,
+    "kp": [
+      "读写综合",
+      "学校生活",
+      "朋友",
+      "七年级上册"
+    ],
+    "title": "七上名校卷 · 河源光明第一次月考 读写综合（七年级新学校调查与我的同桌）",
+    "passage": "请阅读下面短文，根据所提供的信息，回答5个问题。\n\nA new survey shows that most Grade 7 students like their new school in China. About 85% of the students say their new school is bigger and more beautiful than their old primary school. Most students say their favorite place in school is the playground. They can play ball games and have fun there after class. 12% of the students like the library best, because they can read their favorite books there in their free time.\nThe survey also finds that most students think their teachers are very friendly and helpful. Many students say they make new friends quickly at the new school. Only a few students say they have some small problems, like finding their classrooms or getting on well with new classmates.\nSchools usually help new students get used to school life quickly. They often have school tours to let students know more about the school.",
+    "passageHtml": "<p style=\"margin-bottom:8px;color:var(--mu);font-size:13.5px\"><strong>A．回答问题：</strong>请阅读下面短文，根据所提供的信息，回答5个问题。</p><p><span class=\"ind\">A new survey shows that most Grade 7 students like their new school in China. About 85% of the students say their new school is bigger and more beautiful than their old primary school. Most students say their favorite place in school is the playground. They can play ball games and have fun there after class. 12% of the students like the library best, because they can read their favorite books there in their free time.</span></p><p><span class=\"ind\">The survey also finds that most students think their teachers are very friendly and helpful. Many students say they make new friends quickly at the new school. Only a few students say they have some small problems, like finding their classrooms or getting on well with new classmates.</span></p><p><span class=\"ind\">Schools usually help new students get used to school life quickly. They often have school tours to let students know more about the school.</span></p>",
+    "intro": "本文主要讲述了一项关于七年级学生对新学校看法的调查结果，包括学生对学校环境、设施、老师及交友情况的反馈，以及学校为帮助新生适应所采取的措施。",
+    "qs": [
+      {
+        "q": "What percentage (百分比) of students think their new school is bigger and more beautiful?",
+        "opts": [],
+        "ans": "About 85% (of the students).",
+        "exp": "第一段第二句“About 85% of the students say their new school is bigger and more beautiful than their old primary school.”直接给出答案。"
+      },
+      {
+        "q": "What is most students’ favorite place in the new school?",
+        "opts": [],
+        "ans": "The playground.",
+        "exp": "第一段中“Most students say their favorite place in school is the playground.”说明大多数学生最喜欢操场。"
+      },
+      {
+        "q": "Why do 12% of the students like the library best?",
+        "opts": [],
+        "ans": "Because they can read their favorite books there in their free time.",
+        "exp": "第一段末尾“12% of the students like the library best, because they can read their favorite books there in their free time.”直接说明原因。"
+      },
+      {
+        "q": "Can many students make new friends quickly at the new school?",
+        "opts": [],
+        "ans": "Yes, they can.",
+        "exp": "第二段中“Many students say they make new friends quickly at the new school.”可知应作肯定回答。"
+      },
+      {
+        "q": "What do schools often do to help new students know the school better?",
+        "opts": [],
+        "ans": "They often have school tours to let students know more about the school.",
+        "exp": "最后一段“They often have school tours to let students know more about the school.”直接说明学校的做法。"
+      },
+      {
+        "q": "<div style=\"margin-top:10px;padding-top:10px;border-top:1px dashed var(--bd)\"><strong>B．书面表达</strong><p style=\"margin:4px 0\">请根据要求完成短文写作。假设你是李冰，你和Lisa既是同桌，也是好朋友。请以“My deskmate and I”为题，根据以下表格信息的提示，用英语写一篇短文，向学校校刊的英语专栏投稿。</p><table style=\"width:100%;border-collapse:collapse;margin:8px 0\"><tr><td colspan=\"3\" style=\"border:1px solid var(--mu);padding:6px 10px;text-align:center\"><b>我的同桌和我</b></td></tr><tr><td style=\"border:1px solid var(--mu);padding:6px 10px\">你们的基本信息 (姓名、年龄、班级)</td><td style=\"border:1px solid var(--mu);padding:6px 10px\">你们的喜好：<br>1. 喜欢的食物<br>2. 擅长的运动<br>3. ……</td><td style=\"border:1px solid var(--mu);padding:6px 10px\">说明你喜欢她的原因</td></tr></table><p style=\"margin:4px 0\">注意：<br>1. 可在表格内容提示的基础上适当拓展信息。<br>2. 不能照抄原文；不得在作文中出现真实的校名和学生的真实姓名。<br>3. 语句连贯，词数70词左右。作文的标题和开头已经给出，不计入总词数。</p><p class=\"ct\" style=\"margin:8px 0\"><b>My deskmate and I</b></p><p style=\"margin:4px 0\">I am Li Bing. I would like to tell you about my deskmate and I. ______________________________</p></div>",
+        "opts": [],
+        "ans": "【参考范文】\nMy deskmate and I\nI am Li Bing. I would like to tell you about my deskmate and me.\nI am twelve years old. I am in Class 2, Grade 7. I often play basketball in my free time. I like tomato and egg noodles best. I have a deskmate, Lisa. She is also twelve. She is tall with big eyes. She likes reading. She thinks books are our friends. Beef noodles are her favourite food.\nShe likes to help others. I like to be friends with her because she is kind and always helps me a lot.",
+        "exp": "写作步骤\n[第一步：审题立意]\n确定文体：记叙文，以一般现在时为主\n明确要点：两人基本信息（姓名、年龄、班级）、各自喜好（喜欢的食物、擅长的运动等）、喜欢同桌的原因\n[第二步：构思布局]\n三段式结构：开头引出话题；主体段分别介绍自己和同桌的基本信息与喜好；结尾段说明喜欢同桌的原因。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_jz_8a_1",
+    "paperId": "paper_zh_jz_8a",
+    "paperTitle": "广东珠海市九洲中学教育集团2026-2027学年第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "一、语法选择",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "语法选择",
+    "diff": 1,
+    "kp": [
+      "应用文",
+      "旅行",
+      "个人经历",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海九洲阶段自测 语法选择（三亚旅行来信）",
+    "passage": "Dear Peter,\nDid you go ___1___? Last month, I went to Sanya with my parents. It was ___2___ wonderful trip!\nWe went to Sanya and visited Yalong Bay first. It is one of ___3___ beaches in China so lots of visitors come here every year. The scenery there was so beautiful that I ___4___ many beautiful photos. When we walked along the beach, I saw quite ___5___ children playing beach volleyball. They looked so happy. The next day, we went to Wuzhizhou Island. We spent three days ___6___ there. ___7___ the trip, I also met some small troubles. One problem was that I couldn’t speak English ___8___. I wanted to talk with foreign tourists, ___9___ I was afraid to make mistakes. This tells me I need to practice English more.\nWe plan to go there again next summer. ___10___ I come to your home this Saturday? I’m eager to share my trip stories with you. Looking forward to your reply!\nYours,\nLi Hua",
+    "passageHtml": "<p>Dear Peter,</p><p><span class=\"ind\">Did you go <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u>? Last month, I went to Sanya with my parents. It was <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> wonderful trip!</span></p><p><span class=\"ind\">We went to Sanya and visited Yalong Bay first. It is one of <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> beaches in China so lots of visitors come here every year. The scenery there was so beautiful that I <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> many beautiful photos. When we walked along the beach, I saw quite <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> children playing beach volleyball. They looked so happy. The next day, we went to Wuzhizhou Island. We spent three days <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> there. <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> the trip, I also met some small troubles. One problem was that I couldn’t speak English <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u>. I wanted to talk with foreign tourists, <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> I was afraid to make mistakes. This tells me I need to practice English more.</span></p><p><span class=\"ind\">We plan to go there again next summer. <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> I come to your home this Saturday? I’m eager to share my trip stories with you. Looking forward to your reply!</span></p><p>Yours,<br>Li Hua</p>",
+    "intro": "本文是一篇应用文，主要是李华写给彼得的信，讲述了他去三亚旅行的经历、遇到的困难及学英语的决心，并提议周末见面分享故事。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "somewhere exciting",
+          "anywhere exciting",
+          "exciting anywhere"
+        ],
+        "ans": "B",
+        "exp": "句意：你去过什么令人兴奋的地方吗？疑问句中常用anywhere，且形容词修饰不定代词需后置，故选anywhere exciting。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "a",
+          "an",
+          "the"
+        ],
+        "ans": "A",
+        "exp": "句意：那是一次精彩的旅行！wonderful以辅音音素开头且表泛指，用a。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "the most famous",
+          "more famous",
+          "famous"
+        ],
+        "ans": "A",
+        "exp": "句意：它是中国最著名的海滩之一。根据“one of the + 最高级 + 复数名词”固定结构，填the most famous。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "take",
+          "took",
+          "will take"
+        ],
+        "ans": "B",
+        "exp": "句意：那里的景色太美了，我拍了很多美丽的照片。叙述过去发生的旅行经历，用过去式took。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "a little",
+          "few",
+          "a few"
+        ],
+        "ans": "C",
+        "exp": "句意：我看见相当多的孩子在玩沙滩排球。quite a few为固定搭配，意为“相当多”，修饰可数名词复数children。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "camping",
+          "to camp",
+          "camp"
+        ],
+        "ans": "A",
+        "exp": "句意：我们在那里花了三天时间露营。spend time (in) doing sth.，填camping。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "Until",
+          "During",
+          "For"
+        ],
+        "ans": "B",
+        "exp": "句意：在旅行期间，我也遇到了一些小麻烦。During“在……期间”符合逻辑。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "good",
+          "well",
+          "better"
+        ],
+        "ans": "B",
+        "exp": "句意：其中一个问题是我英语说得不好。修饰动词speak用副词well。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "but",
+          "and",
+          "or"
+        ],
+        "ans": "A",
+        "exp": "句意：我想和外国游客交谈，但我害怕犯错。前后句存在转折关系，用but。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "Must",
+          "Should",
+          "Could"
+        ],
+        "ans": "C",
+        "exp": "句意：这周六我能去你家吗？委婉提出请求用Could。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_jz_8a_2",
+    "paperId": "paper_zh_jz_8a",
+    "paperTitle": "广东珠海市九洲中学教育集团2026-2027学年第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "二、完形填空",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "记叙文",
+      "志愿服务",
+      "劳动实践",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海九洲阶段自测 完形填空（打扫社区花园）",
+    "passage": "On Sunday morning, Tina and her classmates met at the community centre. They wanted to clean the small garden near their homes.\nTheir teacher ___1___ them into groups and gave each group a task. Tina was asked to hand out some rubbish bags with her friend. After that, the teacher gave her a broom (扫帚) to ___2___ the fallen leaves. At first, some students thought the work would be boring. However, they soon found many things to do. One group ___3___ bottles and paper. Another group cleaned the benches. Tina and Mia also planted some flowers near the gate. When they needed water, Tina went to a nearby shop and ___4___ a bucket. By noon, the garden looked completely different. The paths were clean, and the flowers made the area ___5___. An old neighbour walked by and thanked the students. He said the garden was a place where many people relaxed after work, so keeping it clean was ___6___ to the whole community. The students felt ___7___ but no one wanted to leave early. Before going home, they took a group photo. Tina said doing chores at home had taught her useful skills for the activity. She also learned that people could make a place better by doing ___8___ things and working together.\nOn the way home, she told her mother about the day. Her mother smiled and asked, “Could you please ___9___ the rubbish when you get home?” Tina laughed and said, “No problem!” She understood that helping should not stop outside the home. A caring community begins with small things that ___10___ can do.",
+    "passageHtml": "<p><span class=\"ind\">On Sunday morning, Tina and her classmates met at the community centre. They wanted to clean the small garden near their homes.</span></p><p><span class=\"ind\">Their teacher <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> them into groups and gave each group a task. Tina was asked to hand out some rubbish bags with her friend. After that, the teacher gave her a broom (扫帚) to <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> the fallen leaves. At first, some students thought the work would be boring. However, they soon found many things to do. One group <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> bottles and paper. Another group cleaned the benches. Tina and Mia also planted some flowers near the gate. When they needed water, Tina went to a nearby shop and <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> a bucket. By noon, the garden looked completely different. The paths were clean, and the flowers made the area <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u>. An old neighbour walked by and thanked the students. He said the garden was a place where many people relaxed after work, so keeping it clean was <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> to the whole community. The students felt <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> but no one wanted to leave early. Before going home, they took a group photo. Tina said doing chores at home had taught her useful skills for the activity. She also learned that people could make a place better by doing <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> things and working together.</span></p><p><span class=\"ind\">On the way home, she told her mother about the day. Her mother smiled and asked, “Could you please <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> the rubbish when you get home?” Tina laughed and said, “No problem!” She understood that helping should not stop outside the home. A caring community begins with small things that <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> can do.</span></p>",
+    "intro": "本文讲述Tina和同学周末在社区打扫花园的经历。通过劳动，他们体会到合作的重要性，明白关爱社区应从身边小事做起。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "divided",
+          "put",
+          "changed",
+          "turned"
+        ],
+        "ans": "A",
+        "exp": "句意：他们的老师把他们分成小组。divide…into…意为“把……分成……”。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "fix",
+          "sweep",
+          "fold",
+          "pass"
+        ],
+        "ans": "B",
+        "exp": "句意：老师给她一把扫帚来扫落叶。sweep“扫”符合工具功能。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "fixed up",
+          "put up",
+          "gave up",
+          "picked up"
+        ],
+        "ans": "D",
+        "exp": "句意：一组捡起瓶子和纸。picked up意为“捡起”。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "borrowed",
+          "lent",
+          "sold",
+          "kept"
+        ],
+        "ans": "A",
+        "exp": "句意：当他们需要水的时候，蒂娜去附近一家商店借了一个水桶。borrowed“借入”符合语境。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "quieter",
+          "brighter",
+          "bigger",
+          "dirtier"
+        ],
+        "ans": "B",
+        "exp": "句意：小路干干净净，花朵让这片地方看起来更加明艳。brighter“更明亮”符合积极变化。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "simple",
+          "lucky",
+          "important",
+          "impossible"
+        ],
+        "ans": "C",
+        "exp": "句意：所以保持花园整洁对整个社区很重要。important“重要的”符合语境。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "tired",
+          "lucky",
+          "bored",
+          "disappointed"
+        ],
+        "ans": "A",
+        "exp": "句意：学生们感觉很累，但是没有人想提前离开。tired“累的”符合转折逻辑。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "important",
+          "interesting",
+          "small",
+          "dangerous"
+        ],
+        "ans": "C",
+        "exp": "句意：人们可以通过做小事、齐心协力，让一个地方变得更好。与后文“small things”呼应。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "put out",
+          "take out",
+          "hand out",
+          "give out"
+        ],
+        "ans": "B",
+        "exp": "句意：你回家之后可以把垃圾拿出去倒掉吗？take out the rubbish意为“倒垃圾”。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "nobody",
+          "anyone",
+          "someone",
+          "everyone"
+        ],
+        "ans": "D",
+        "exp": "句意：一个充满温情的社区，始于每个人都能做到的小事。everyone“每个人”符合主旨。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_jz_8a_3",
+    "paperId": "paper_zh_jz_8a",
+    "paperTitle": "广东珠海市九洲中学教育集团2026-2027学年第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "应用文",
+      "常见动物",
+      "细节理解",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海九洲阶段自测 阅读理解A篇（动物园展区与演出导览）",
+    "passage": "Come and see our lovely animals in our zoo! Scientists will give wonderful lessons about animals every Tuesday! Don’t miss them.\nArea A:\n*Koalas live in the trees and like eating grass and leaves. They can live up to about 14 years. Showtime: 1:30 p.m.-3:30 p.m. from Monday to Thursday, Saturday and Sunday\n*Kangaroos can jump about 15 miles per hour. They can live for at most 22 years. Showtime: 3:30 p.m.-5:30 p.m. from Monday to Thursday, Saturday and Sunday\nArea B:\n*Crocodiles (鳄鱼) have the strongest teeth of all animals in the world. They can live for 45-100 years. Showtime: 10:00 a.m.-11:00 a.m. from Monday to Friday\n*Tortoises (陆龟) can live for more than 100 years! Showtime: 9:00 a.m. from Monday to Friday\nArea C:\n*Tigers can weigh up to 300 kg! Watch our tigers swimming in the water. Showtime: 11:00 a.m.-11:30 a.m. from Monday to Thursday, Saturday and Sunday\n*Camels’ humps (驼峰) keep fat, not water! Showtime: 12:30 p.m.-1:20 p.m. from Monday to Thursday, Saturday and Sunday\nArea D:\n*Parrots can be good pets. Some parrots are able to copy what people say. Showtime: 9:00 a.m.-5:30 p.m. from Monday to Friday\nTicket Prices: Adult: $55 | Child: $45 | Family (2 adults+2 children): $172",
+    "passageHtml": "<p><span class=\"ind\">Come and see our lovely animals in our zoo! Scientists will give wonderful lessons about animals every Tuesday! Don’t miss them.</span></p><div class=\"bx\"><p><b>Area A</b><br>*Koalas live in the trees and like eating grass and leaves. They can live up to about 14 years. You can learn about their habits and why they sleep for about 18 hours a day. <b>Showtime:</b> 1:30 p.m.-3:30 p.m. from Monday to Thursday, Saturday and Sunday<br>*Kangaroos can jump about 15 miles per hour. They can live for at most 22 years. <b>Showtime:</b> 3:30 p.m.-5:30 p.m. from Monday to Thursday, Saturday and Sunday</p><p><b>Area B</b><br>*Crocodiles (鳄鱼) have the strongest teeth of all animals in the world. They can live for 45-100 years. The crocodiles here are 76 years old! <b>Showtime:</b> 10:00 a.m.-11:00 a.m. from Monday to Friday<br>*Tortoises (陆龟) can live for more than 100 years! They can grow to about one metre tall. <b>Showtime:</b> 9:00 a.m. from Monday to Friday</p><p><b>Area C</b><br>*Tigers can weigh up to 300 kg! Watch our tigers swimming in the water. <b>Showtime:</b> 11:00 a.m.-11:30 a.m. from Monday to Thursday, Saturday and Sunday<br>*Camels’ humps (驼峰) keep fat, not water! <b>Showtime:</b> 12:30 p.m.-1:20 p.m. from Monday to Thursday, Saturday and Sunday</p><p><b>Area D</b><br>*Parrots can be good pets. Some parrots are able to copy what people say. <b>Showtime:</b> 9:00 a.m.-5:30 p.m. from Monday to Friday</p><p class=\"bt\"><b>Ticket Prices:</b> &nbsp; <b>Adult:</b> $55 &nbsp;&nbsp; <b>Child:</b> $45 &nbsp;&nbsp; <b>Family (2 adults+2 children):</b> $172</p></div>",
+    "intro": "本文是一则动物园的宣传材料，介绍了动物园不同区域的动物种类、展出时间、门票价格，还提及每周二有科学家开展动物知识课程。",
+    "qs": [
+      {
+        "q": "Where can visitors see kangaroos?",
+        "opts": [
+          "In Area A",
+          "In Area B",
+          "In Area C",
+          "In Area D"
+        ],
+        "ans": "A",
+        "exp": "细节理解题。Area A部分明确提到袋鼠在A区域展出。"
+      },
+      {
+        "q": "Which of the following animals are NOT open for visitors on weekends?",
+        "opts": [
+          "Koalas.",
+          "Crocodiles.",
+          "Tigers.",
+          "Kangaroos."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。Area B部分明确提到鳄鱼（Crocodiles）的展出时间为周一至周五，周末不开放。"
+      },
+      {
+        "q": "On Sunday, which is the best order for visitors to see as many animals as possible?<br><img src=\"assets/images/paper_zh_jz_8a_img1.png\" alt=\"动物顺序\" style=\"max-width:420px;width:100%;height:auto;margin:6px 0\">",
+        "opts": [
+          "①→②→③→④",
+          "②→①→④→③",
+          "③→④→①→②",
+          "④→②→③→①"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。图片中①考拉（1:30-3:30 p.m.）、②袋鼠（3:30-5:30 p.m.）、③老虎（11:00-11:30 a.m.）、④骆驼（12:30-1:20 p.m.），按周日时间先后排序为③→④→①→②。"
+      },
+      {
+        "q": "If Millie, a 7-year-old girl, and her parents visit the zoo, how much should they pay?",
+        "opts": [
+          "$100.",
+          "$110.",
+          "$155.",
+          "$172."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。Adult: $55，Child: $45，2位成人+1名儿童费用为55×2+45=155美元。"
+      },
+      {
+        "q": "Where does the passage probably come from?",
+        "opts": [
+          "A storybook.",
+          "A history magazine.",
+          "A science report.",
+          "A travel guide."
+        ],
+        "ans": "D",
+        "exp": "推理判断题。全文为动物园游览宣传指南，最可能出自旅游指南（A travel guide）。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_jz_8a_4",
+    "paperId": "paper_zh_jz_8a",
+    "paperTitle": "广东珠海市九洲中学教育集团2026-2027学年第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "阅读理解",
+    "diff": 3,
+    "kp": [
+      "说明文",
+      "地理与工程",
+      "细节理解",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海九洲阶段自测 阅读理解B篇（广西平陆运河通航）",
+    "passage": "On September 16, 2026, the Pinglu Canal (平陆运河) in Guangxi was opened to ships. It is China’s first national river-to-sea canal built after 1949. According to some sources, it is also the first major canal built in China in over a thousand years. The canal starts at Pingtang River Mouth in Hengzhou, Nanning, runs through Luwu town in Lingshan County, Qinzhou, and follows the Qin River south into the Beibu Gulf.\nTo build this canal, the greatest challenge lay in the water-level gap. The water level at the start is about 65 metres above the sea. Thanks to the engineers, three hubs (水利枢纽), Madao, Qishi and Qinjiang, were built along the route, dividing the waterway into many steps. Therefore, ships can pass one stage at a time.\nThe canal shortens shipping routes by more than 560 kilometres. Because of that, logistics (物流) costs may drop by 18 to 30 percent per year. “This could save more than 5 billion yuan every year,” said Zhang Zhiwen from the Guangxi government. Fresh farm products can reach Southeast Asia much faster. For example, Oranges in Guangxi only take three days now instead of two weeks to the Southeast Asian market. More importantly, it gives Southwest China easier access (通道) to the sea. Yunnan, Guizhou, Sichuan and Chongqing can send goods out more easily. It will help local industries, create jobs and improve trade with ASEAN countries in the future.\nToday, Guangxi’s long-time problem of “having a coastline but no river route to the sea” has come to an end. With more goods transported through the Pinglu Canal, its influence is just starting to show.",
+    "passageHtml": "<p><span class=\"ind\">On September 16, 2026, the Pinglu Canal (平陆运河) in Guangxi was opened to ships. It is China’s first national river-to-sea canal built after 1949. According to some sources, it is also the first major canal built in China in over a thousand years. The canal starts at Pingtang River Mouth in Hengzhou, Nanning, runs through Luwu town in Lingshan County, Qinzhou, and follows the Qin River south into the Beibu Gulf.</span></p><p class=\"ct\"><img src=\"assets/images/paper_zh_jz_8a_img2.png\" alt=\"平陆运河地图\" style=\"max-width:260px;height:auto\"></p><p><span class=\"ind\">To build this canal, the greatest challenge lay in the water-level <u>gap</u>. The water level at the start is about 65 metres above the sea. Thanks to the engineers, three hubs (水利枢纽), Madao, Qishi and Qinjiang, were built along the route, dividing the waterway into many steps. Therefore, ships can pass one stage at a time.</span></p><p><span class=\"ind\">The canal shortens shipping routes by more than 560 kilometres. Because of that, logistics (物流) costs may drop by 18 to 30 percent per year. “This could save more than 5 billion yuan every year,” said Zhang Zhiwen from the Guangxi government. Fresh farm products can reach Southeast Asia much faster. For example, Oranges in Guangxi only take three days now instead of two weeks to the Southeast Asian market. More importantly, it gives Southwest China easier access (通道) to the sea. Yunnan, Guizhou, Sichuan and Chongqing can send goods out more easily. It will help local industries, create jobs and improve trade with ASEAN countries in the future.</span></p><p><span class=\"ind\">Today, Guangxi’s long-time problem of “having a coastline but no river route to the sea” has come to an end. With more goods transported through the Pinglu Canal, its influence is just starting to show.</span></p>",
+    "intro": "本文是说明文，介绍了广西平陆运河的基本概况、建设中攻克的水位差难题，以及该运河在航运、物流、经济发展等方面带来的诸多影响。",
+    "qs": [
+      {
+        "q": "Which statement about the Pinglu Canal is TRUE according to the passage?",
+        "opts": [
+          "It is the oldest major canal in Chinese history.",
+          "Its hubs help solve the water-level difference problem.",
+          "It makes shipping costs drop by 18 to 30 percent every month.",
+          "It improves fruit sales across the whole country greatly."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据第二段“Thanks to the engineers, three hubs... were built along the route, dividing the waterway into many steps.”可知平陆运河的水利枢纽解决了水位差的问题。"
+      },
+      {
+        "q": "According to the passage and the map, where is the Beibu Gulf?",
+        "opts": [
+          "Point A",
+          "Point B",
+          "Point C",
+          "Point D"
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据第一段“follows the Qin River south into the Beibu Gulf”可知北部湾位于平陆运河南端，对应地图最南端的Point D。"
+      },
+      {
+        "q": "What does the underlined word “<u>gap</u>” in Paragraph 2 refer to?",
+        "opts": [
+          "The height difference of water",
+          "The distance between two towns",
+          "The size of the ships",
+          "The number of the hubs"
+        ],
+        "ans": "A",
+        "exp": "词句猜测题。后文紧接着说明“The water level at the start is about 65 metres above the sea.”，故gap指代水位的高度差。"
+      },
+      {
+        "q": "What can we infer from Paragraph 3?",
+        "opts": [
+          "Southwest China all depended on river trade before.",
+          "Fruit transport is the main purpose of the canal.",
+          "The canal brings both economic and social benefits.",
+          "Local companies will spend more on transportation."
+        ],
+        "ans": "C",
+        "exp": "推理判断题。第三段提到运河可降低物流成本、带动地方产业、创造就业、促进与东盟贸易，既带来经济效益也带来社会效益。"
+      },
+      {
+        "q": "What is the passage mainly about?",
+        "opts": [
+          "The history of the Grand Canal in China.",
+          "Ways to send fruit from Guangxi to other places.",
+          "Problems of the inland areas in Southwest China.",
+          "The Pinglu Canal, a new river-to-sea waterway in Guangxi and its influences."
+        ],
+        "ans": "D",
+        "exp": "主旨大意题。全文围绕广西平陆运河及其影响展开，故选D。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_jz_8a_5",
+    "paperId": "paper_zh_jz_8a",
+    "paperTitle": "广东珠海市九洲中学教育集团2026-2027学年第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "配对阅读",
+    "diff": 2,
+    "kp": [
+      "友谊",
+      "意见/建议",
+      "配对阅读",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海九洲阶段自测 配对阅读（维持友谊的建议与实例匹配）",
+    "passage": "配对阅读：左栏是对于维持友谊的五个建议，右栏是针对不同建议举出的七个例子，请将建议和例子进行匹配。\n\nA. You could ask for advice about something fun, such as what kind of clothes to buy. You could say, “You know so much about fashion. Can you help me choose a dress?”\nB. You can sometimes express your thanks by saying something like, “I really couldn’t finish it without you. I am happy that you are here for me.”\nC. For example, you could say something like, “I heard you failed your exam. Is there anything I can do to help?”\nD. If your friends visit your house, try to make them comfortable. You can say something like, “Help yourselves. I am happy for your visit.”\nE. When you want to say something honestly, make sure not to hurt your friend’s feelings. You can say, “I know red is your favourite colour, but that yellow dress looks really good on you.”\nF. You can ask questions like “How’s school going?” When you call, plan to have a longer and deeper talk.\nG. To encourage your friend, you can say something like, “You are really good at dancing! Good job!”",
+    "passageHtml": "<p><strong>配对阅读：</strong>左栏是对于维持友谊的五个建议，右栏是针对不同建议举出的七个例子，请将建议和例子进行匹配。</p><div class=\"bx\"><p><b>A.</b> You could ask for advice about something fun, such as what kind of clothes to buy. You could say, “You know so much about fashion. Can you help me choose a dress?”</p><p><b>B.</b> You can sometimes express your thanks by saying something like, “I really couldn’t finish it without you. I am happy that you are here for me.”</p><p><b>C.</b> For example, you could say something like, “I heard you failed your exam. Is there anything I can do to help?”</p><p><b>D.</b> If your friends visit your house, try to make them comfortable. You can say something like, “Help yourselves. I am happy for your visit.”</p><p><b>E.</b> When you want to say something honestly, make sure not to hurt your friend’s feelings. You can say, “I know red is your favourite colour, but that yellow dress looks really good on you.”</p><p><b>F.</b> You can ask questions like “How’s school going?” When you call, plan to have a longer and deeper talk.</p><p><b>G.</b> To encourage your friend, you can say something like, “You are really good at dancing! Good job!”</p></div>",
+    "intro": "本文主要介绍了对于维持友谊的五个建议以及针对不同建议举出的七个例子。",
+    "qs": [
+      {
+        "q": "(   ) Tell them that you are thankful to them. Friends also need to say thanks to each other.",
+        "opts": [],
+        "ans": "B",
+        "exp": "建议朋友之间互相表达感谢，选项B“express your thanks by saying...”符合建议。"
+      },
+      {
+        "q": "(   ) Offer your help. If your friend is going through a hard time, tell him or her that you can offer help.",
+        "opts": [],
+        "ans": "C",
+        "exp": "建议在朋友困难时提供帮助，选项C“Is there anything I can do to help?”符合建议。"
+      },
+      {
+        "q": "(   ) Ask your friends for advice. It will show that you need their opinions.",
+        "opts": [],
+        "ans": "A",
+        "exp": "建议向朋友征求意见，选项A“You could ask for advice about something fun...”符合建议。"
+      },
+      {
+        "q": "(   ) Call them now and then. Choose a fixed time to talk, such as a weekly phone date.",
+        "opts": [],
+        "ans": "F",
+        "exp": "建议偶尔给朋友打电话深入交谈，选项F“When you call, plan to have a longer and deeper talk.”符合建议。"
+      },
+      {
+        "q": "(   ) Be honest with your friends. If your friends trust you, they will be more open and honest with you.",
+        "opts": [],
+        "ans": "E",
+        "exp": "建议对朋友诚实且不伤害感情，选项E“When you want to say something honestly...”符合建议。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_jz_8a_6",
+    "paperId": "paper_zh_jz_8a",
+    "paperTitle": "广东珠海市九洲中学教育集团2026-2027学年第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "四、单词拼写与完成句子（四～八大题）",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "选词填空",
+    "diff": 1,
+    "kp": [
+      "单词拼写",
+      "音标写句",
+      "完成句子",
+      "语音与句子结构",
+      "连词成句",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海九洲阶段自测 单词拼写、语音与完成句子（10小题）",
+    "passage": "【四、单词拼写】\n(___1___) David found true ________ (/ˈhæpi/) in simple moments with his family.\n(___2___) The interesting storybook is ________ (/ˈpɒpjələ(r)/) with young readers.\n(___3___) It is really a ________ (touch) film. It wins high praise from many people.\n(___4___) He ________ (/faɪt/) with his brother last week.\n\n【五、根据音标写句子 & 六、完成句子 & 七、语音与句子结构 & 八、连词成句】\n(___5___) /ɪts 'ɔːlsəʊ ðə 'heviɪst 'ænɪml ɒn ɜːθ/ ________________________________________.\n(___6___) Tom is the tallest student in his class. (保持句意不变)\nTom is ________ ________ any other student in his class.\n(___7___) The population of Guangzhou was 18.978 million in 2024. (根据划线部分提问)\n________ ________ the population of Guangzhou in 2024?\n(___8___) Mum, can we watch cartoons after dinner? 划线部分can we的单词can使用了 ________ (连读/弱读/停顿) 朗读技巧，并且本句需要使用 ________ (↗升调/↘降调)。\n(___9___) She bought the most beautiful flowers yesterday. (写出句子结构)\n(___10___) 连词成句：friends, can, by, understand, knowing, you, people, their.",
+    "passageHtml": "<p><b>【四、单词拼写】</b></p><p><b>(<u>&nbsp;&nbsp;1&nbsp;&nbsp;</u>)</b> David found true ________ (/ˈhæpi/) in simple moments with his family.</p><p><b>(<u>&nbsp;&nbsp;2&nbsp;&nbsp;</u>)</b> The interesting storybook is ________ (/ˈpɒpjələ(r)/) with young readers.</p><p><b>(<u>&nbsp;&nbsp;3&nbsp;&nbsp;</u>)</b> It is really a ________ (touch) film. It wins high praise from many people.</p><p><b>(<u>&nbsp;&nbsp;4&nbsp;&nbsp;</u>)</b> He ________ (/faɪt/) with his brother last week.</p><p style=\"margin-top:8px\"><b>【五、音标写句 &amp; 六、完成句子 &amp; 七、语音与句子结构 &amp; 八、连词成句】</b></p><p><b>(<u>&nbsp;&nbsp;5&nbsp;&nbsp;</u>)</b> /ɪts 'ɔːlsəʊ ðə 'heviɪst 'ænɪml ɒn ɜːθ/ ________________________________________.</p><p><b>(<u>&nbsp;&nbsp;6&nbsp;&nbsp;</u>)</b> Tom is the tallest student in his class. (保持句意不变)<br>Tom is ________ ________ any other student in his class.</p><p><b>(<u>&nbsp;&nbsp;7&nbsp;&nbsp;</u>)</b> The population of Guangzhou was <u>18.978 million</u> in 2024. (根据划线部分提问)<br>________ ________ the population of Guangzhou in 2024?</p><p><b>(<u>&nbsp;&nbsp;8&nbsp;&nbsp;</u>)</b> Mum, <u>can we</u> watch cartoons after dinner? 以上句子中划线部分can we的单词can使用了 ________ (连读/弱读/停顿) 朗读技巧，并且本句需要使用 ________ (↗升调/↘降调)。</p><p><b>(<u>&nbsp;&nbsp;9&nbsp;&nbsp;</u>)</b> She bought the most beautiful flowers yesterday. (写出句子结构)</p><p><b>(<u>&nbsp;&nbsp;10&nbsp;&nbsp;</u>)</b> 连词成句：friends, can, by, understand, knowing, you, people, their.</p>",
+    "intro": "本部分涵盖原卷第四大题单词拼写、第五大题音标写句、第六大题同义句与特殊疑问句转换、第七大题朗读技巧与句子结构分析以及第八大题连词成句。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "happiness",
+        "exp": "句意：大卫在和家人相处的简单时刻中找到了真正的快乐。空前true为形容词，后接名词happiness。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "popular",
+        "exp": "句意：这本有趣的故事书深受年轻读者的喜爱。be popular with意为“受……欢迎”。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "touching",
+        "exp": "句意：这真是一部感人的电影。修饰物（film）用形容词touching“令人感动的”。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "fought",
+        "exp": "句意：上周他和他哥哥打架了。时间状语last week表示过去，fight的过去式是fought。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "It’s also the heaviest animal on earth",
+        "exp": "句意：它也是地球上最重的动物。根据音标对应写出英文句子。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "taller than",
+        "exp": "最高级转换为“比较级 + than any other + 单数名词”，故填taller than。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "What was",
+        "exp": "对人口数量（population）提问用What，原句时态为一般过去时，故填What was。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "弱读; ↗升调",
+        "exp": "can在问句里不重读，使用弱读/kən/；一般疑问句朗读末尾用↗升调。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "主语+谓语+宾语+状语",
+        "exp": "She作主语，bought作谓语，the most beautiful flowers作宾语，yesterday作时间状语。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "You can understand people by knowing their friends.",
+        "exp": "句意：你可以通过了解人们的朋友来理解他们。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_jz_8a_7",
+    "paperId": "paper_zh_jz_8a",
+    "paperTitle": "广东珠海市九洲中学教育集团2026-2027学年第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "九、选词填空",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "记叙文",
+      "家人和亲人",
+      "父爱",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海九洲阶段自测 选词填空（深沉无言的父爱）",
+    "passage": "| more   little   why   I   however   although   strong   about   in   reach   touch   take |\nPeople always think that mother’s love is the greatest love in the world. ___1___ fact, father’s love is as ___2___ as mother’s. Father’s love is deep and silent. Most fathers hardly ever express their feelings. That’s ___3___ many people think their fathers love them ___4___ than their mothers.\nBefore I went to my high school, my father never said a word to express his love to ___5___, so I thought he didn’t love me very much and sometimes I was worried about it. ___6___, when I left home for my school, he called me every night and really cared ___7___ my life and study in the new school. I knew that he missed me ___8___ he would never say it out. One day, there was something wrong with the phone in my dormitory so nobody answered my father’s phone. He felt worried so he went to my school as quickly as possible. It ___9___ him two hours to get there by taxi. At that time, he really ___10___ my heart.\nThis is father’s love, deep and silent.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">more &nbsp; little &nbsp; why &nbsp; I &nbsp; however &nbsp; although &nbsp; strong &nbsp; about &nbsp; in &nbsp; reach &nbsp; touch &nbsp; take</div><p><span class=\"ind\">People always think that mother’s love is the greatest love in the world. <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> fact, father’s love is as <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> as mother’s. Father’s love is deep and silent. Most fathers hardly ever express their feelings. That’s <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> many people think their fathers love them <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> than their mothers.</span></p><p><span class=\"ind\">Before I went to my high school, my father never said a word to express his love to <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u>, so I thought he didn’t love me very much and sometimes I was worried about it. <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u>, when I left home for my school, he called me every night and really cared <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> my life and study in the new school. I knew that he missed me <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> he would never say it out. One day, there was something wrong with the phone in my dormitory so nobody answered my father’s phone. He felt worried so he went to my school as quickly as possible. It <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> him two hours to get there by taxi. At that time, he really <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> my heart.</span></p><p><span class=\"ind\">This is father’s love, deep and silent.</span></p>",
+    "intro": "本文是一篇记叙文，讲述父爱深沉且沉默，父亲不擅长直白表达爱意，却用实际行动默默关心牵挂作者。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "In",
+        "exp": "句意：事实上，父爱和母爱一样深厚。in fact表示“事实上”，句首首字母大写。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "strong",
+        "exp": "句意：父爱和母爱一样深厚。as+形容词原级+as，填strong。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "why",
+        "exp": "句意：这就是为什么很多人认为他们的父亲爱他们少于母亲。That’s why…表示“这就是为什么……”。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "less",
+        "exp": "句意：很多人认为他们的父亲爱他们少于母亲。空格后有than，little的比较级是less。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "me",
+        "exp": "句意：我的父亲从来没有说过一句话向我表达他的爱。介词to后接宾格me。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "However",
+        "exp": "句意：然而，当我离家去学校的时候，他每天晚上都给我打电话。句首表转折且有逗号隔开，填However。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "about",
+        "exp": "句意：他真的关心我在新学校的生活和学习。care about意为“关心”。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "although",
+        "exp": "句意：我知道他想念我，尽管他永远不会说出来。although引导让步状语从句。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "took",
+        "exp": "句意：他坐出租车到那里花了两个小时。It takes sb. + 时间 + to do sth.，过去式为took。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "touched",
+        "exp": "句意：那一刻，他真的触动了我的心。touch one’s heart，一般过去时填touched。"
+      }
+    ]
+  },
+  {
+    "id": "paper_zh_jz_8a_8",
+    "paperId": "paper_zh_jz_8a",
+    "paperTitle": "广东珠海市九洲中学教育集团2026-2027学年第一学期阶段学情自测八年级英语试卷",
+    "sectionTitle": "十、读写综合",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "读写综合",
+    "diff": 2,
+    "kp": [
+      "读写综合",
+      "劳动实践",
+      "家务调查",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 珠海九洲阶段自测 读写综合（八年级家务劳动调查与改变）",
+    "passage": "请阅读下面的短文，根据所提供的信息，回答五个问题。要求所写答案语法正确、信息完整切题。\n\nNo.1 Middle School carried out a survey among some of the Grade 8 students on their opinions of doing housework. The chart shows the basic results of the survey. After the survey, in order to learn more about their true feelings, the interviewer talked with three students from Grade 8.\n1. Li Mei (often does housework): She usually sweeps the floor and washes dishes after meals. “Doing chores helps me become more independent. Compared with many classmates, I am better at solving small problems in daily life. It is also one of the best ways to understand my parents’ hard work. I don’t see housework as a heavy task.”\n2. Zhang Tao (sometimes does housework): He only helps clean his bedroom on weekends. “I know sharing housework is good, but my schoolwork is much busier than before. Although the most important thing for me is to get good grades, I still help when I have free time.”\n3. Wang Yu (never does housework): His parents always finish all the chores at home. “My parents think I should put all my energy into studying. They say if I do housework, it will take up time for homework. I hardly have any chances to try housework.”",
+    "passageHtml": "<p style=\"margin-bottom:8px;color:var(--mu);font-size:13.5px\"><strong>A．回答问题：</strong>请阅读下面的短文，根据所提供的信息，回答五个问题。要求所写答案语法正确、信息完整切题。</p><p><span class=\"ind\">No.1 Middle School carried out a survey among some of the Grade 8 students on their opinions of doing housework. The chart shows the basic results of the survey. After the survey, in order to learn more about their true feelings, the interviewer talked with three students from Grade 8.</span></p><p class=\"ct\"><img src=\"assets/images/paper_zh_jz_8a_img3.png\" alt=\"家务调查统计图\" style=\"max-width:340px;width:100%;height:auto\"></p><table style=\"width:100%;border-collapse:collapse;margin:8px 0\"><tr><td style=\"border:1px solid var(--mu);padding:8px 10px\"><p><b>Li Mei (often does housework)</b></p><p><span class=\"ind\">She usually sweeps the floor and washes dishes after meals. “Doing chores helps me become more independent. Compared with many classmates, I am better at solving small problems in daily life. It is also one of the best ways to understand my parents’ hard work. I don’t see housework as a heavy task.”</span></p></td></tr><tr><td style=\"border:1px solid var(--mu);padding:8px 10px\"><p><b>Zhang Tao (sometimes does housework)</b></p><p><span class=\"ind\">He only helps clean his bedroom on weekends. “I know sharing housework is good, but my schoolwork is much busier than before. Although the most important thing for me is to get good grades, I still help when I have free time.”</span></p></td></tr><tr><td style=\"border:1px solid var(--mu);padding:8px 10px\"><p><b>Wang Yu (never does housework)</b></p><p><span class=\"ind\">His parents always finish all the chores at home. “My parents think I should put all my energy into studying. They say if I do housework, it will take up time for homework. I hardly have any chances to try housework.”</span></p></td></tr></table>",
+    "intro": "本文主要介绍了一所中学对八年级学生做家务情况的调查结果，并采访了三位不同情况的学生，了解他们对做家务的真实感受。",
+    "qs": [
+      {
+        "q": "Which group of students did the school survey?",
+        "opts": [],
+        "ans": "Some of the Grade 8 students.",
+        "exp": "第一段第一句“No.1 Middle School carried out a survey among some of the Grade 8 students on their opinions of doing housework.”直接给出答案。"
+      },
+      {
+        "q": "What percentage of students hardly ever do any housework?",
+        "opts": [],
+        "ans": "25%.",
+        "exp": "根据统计图表“Hardly ever 25%”可知几乎从不做家务的学生占25%。"
+      },
+      {
+        "q": "What housework does Li Mei usually do?",
+        "opts": [],
+        "ans": "She usually sweeps the floor and washes dishes after meals.",
+        "exp": "根据Li Mei部分“She usually sweeps the floor and washes dishes after meals.”直接提取答案。"
+      },
+      {
+        "q": "Why does Zhang Tao only help do housework on weekends?",
+        "opts": [],
+        "ans": "Because his schoolwork is much busier than before.",
+        "exp": "根据Zhang Tao部分“I know sharing housework is good, but my schoolwork is much busier than before.”可知原因。"
+      },
+      {
+        "q": "What do you think Wang Yu should do, take on simple housework or just spend all time on study?",
+        "opts": [],
+        "ans": "I think he should take on simple housework.",
+        "exp": "开放性问题，结合文章主旨，学生应该承担一些简单的家务以培养独立性和理解父母。"
+      },
+      {
+        "q": "<div style=\"margin-top:10px;padding-top:10px;border-top:1px dashed var(--bd)\"><strong>B．书面表达</strong><p style=\"margin:4px 0\">假如你是Wang Yu，在接受采访之后你意识到了分享家务的重要性并做出了一系列的改变。你的英国笔友Peter发来邮件，想了解做家务给你带来的改变及感受。请你给他回一封邮件，介绍你的经历与感受。要点提示：</p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/paper_zh_jz_8a_img4.png\" alt=\"做家务的改变思维导图\" style=\"max-width:440px;width:100%;height:auto;border-radius:6px\"></div><p style=\"margin:4px 0\">注意：<br>(1) 可在思维导图内容提示的基础上适当拓展信息。<br>(2) 不得在作文中出现真实校名和学生的真实姓名。<br>(3) 语句连贯，词数80左右。作文标题和开头已经给出，不计入总词数。</p><p style=\"margin:4px 0\">Dear Peter,</p><p style=\"margin:4px 0\">I’m so glad to hear from you. ______________________________</p><p style=\"margin:4px 0\">Yours,<br>Wang Yu</p></div>",
+        "opts": [],
+        "ans": "【参考范文】\nDear Peter,\nI’m so glad to hear from you. I want to share my changes and feelings about doing chores with you.\nIn the past, I never did housework because my parents wanted me to focus on studying. However, an interview made me realize the importance of sharing chores. Now, I often help my parents sweep the floor and wash dishes. Doing chores makes me more independent and helps me understand my parents better.\nIn my opinion, doing housework develops our life skills. I hope we can all help our parents when free.\nYours,\nWang Yu",
+        "exp": "写作步骤\n[第一步：审题立意]\n确定文体：应用文（回信），用一般现在时和一般过去时\n明确要点：过去对家务的态度及原因、现在参与的家务及带来的积极影响、对家务的看法并发出呼吁\n[第二步：构思布局]\n三段式结构：开头表明写信目的；主体段对比过去不做家务的原因与现在的具体家务及积极改变；结尾段总结看法并呼吁大家分担家务。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_hm_8a_1",
+    "paperId": "paper_dg_hm_8a",
+    "paperTitle": "广东东莞市虎门第三中学等校2026-2027学年第一学期阶段学情质量自查八年级英语科目",
+    "sectionTitle": "一、语法选择",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "语法选择",
+    "diff": 1,
+    "kp": [
+      "记叙文",
+      "家人和亲人",
+      "人物比较",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞虎门三中阶段自查 语法选择（性格各异的两姐妹）",
+    "passage": "Mrs Cooper has two girls named Jenny and Amy. They are so different, but they have their own shining points (闪光点). Jenny is ___1___ shy girl. She enjoys doing things by ___2___. She likes quiet time and puts her heart into what she does. Though she is quiet, she is willing to share things ___3___ others. Jenny performs well in many things. She is better at studying than other students in her class, ___4___ schoolwork is easier for her.\nJenny’s sister Amy is more outgoing than her. Amy likes doing sports and often plays badminton with her friends after school. She is warm-hearted and she is always ready to help people around her. However, Amy has some ___5___ with her schoolwork. But she ___6___ to work hard and make a change. She starts listening to her teachers carefully in class and spends enough time ___7___. Little by little, her exam grades are getting much ___8___.\nMrs Cooper often helps her two daughters. She encourages Jenny to go out and make more friends. She ___9___ cares about Amy and helps Amy study. Mrs Cooper thinks parents ___10___ ignore (忽视) their children. They should stay with their children and try their best to help children grow up healthily. All parents hope their children will live happily in the future.",
+    "passageHtml": "<p><span class=\"ind\">Mrs Cooper has two girls named Jenny and Amy. They are so different, but they have their own shining points (闪光点). Jenny is <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> shy girl. She enjoys doing things by <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u>. She likes quiet time and puts her heart into what she does. Though she is quiet, she is willing to share things <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> others. Jenny performs well in many things. She is better at studying than other students in her class, <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> schoolwork is easier for her.</span></p><p><span class=\"ind\">Jenny’s sister Amy is more outgoing than her. Amy likes doing sports and often plays badminton with her friends after school. She is warm-hearted and she is always ready to help people around her. However, Amy has some <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> with her schoolwork. But she <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> to work hard and make a change. She starts listening to her teachers carefully in class and spends enough time <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u>. Little by little, her exam grades are getting much <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u>.</span></p><p><span class=\"ind\">Mrs Cooper often helps her two daughters. She encourages Jenny to go out and make more friends. She <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> cares about Amy and helps Amy study. Mrs Cooper thinks parents <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> ignore (忽视) their children. They should stay with their children and try their best to help children grow up healthily. All parents hope their children will live happily in the future.</span></p>",
+    "intro": "本文讲述库珀太太两个性格不同的女儿珍妮和艾米，她们各有优缺点，母亲帮助她们健康成长的故事。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "a",
+          "an",
+          "the"
+        ],
+        "ans": "A",
+        "exp": "句意：珍妮是一个害羞的女孩。泛指且shy以辅音音素开头，用a。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "she",
+          "her",
+          "herself"
+        ],
+        "ans": "C",
+        "exp": "句意：她喜欢独自做事。by oneself意为“独自”，主语是She，填herself。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "with",
+          "to",
+          "for"
+        ],
+        "ans": "A",
+        "exp": "句意：但她愿意和别人分享东西。share sth. with sb.意为“和某人分享某物”。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "but",
+          "so",
+          "or"
+        ],
+        "ans": "B",
+        "exp": "句意：她比班里其他同学更擅长学习，所以功课对她来说更容易。前后为因果关系，用so。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "problem",
+          "problems",
+          "problem’s"
+        ],
+        "ans": "B",
+        "exp": "句意：然而，艾米在学业上有一些问题。some后接可数名词复数problems。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "decide",
+          "decided",
+          "decides"
+        ],
+        "ans": "C",
+        "exp": "句意：但是她决定努力学习并做出改变。全文为一般现在时，主语she是第三人称单数，用decides。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "study",
+          "studied",
+          "studying"
+        ],
+        "ans": "C",
+        "exp": "句意：花足够的时间学习。spend time (in) doing sth.，填studying。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "good",
+          "better",
+          "best"
+        ],
+        "ans": "B",
+        "exp": "句意：渐渐地，她的考试成绩变得好多了。much修饰比较级better。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "also",
+          "too",
+          "either"
+        ],
+        "ans": "A",
+        "exp": "句意：她也关心艾米并帮助艾米学习。肯定句句中用also。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "can",
+          "mustn’t",
+          "don’t have to"
+        ],
+        "ans": "B",
+        "exp": "句意：库珀太太认为父母绝不能忽视他们的孩子。mustn’t表示“禁止、绝不能”。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_hm_8a_2",
+    "paperId": "paper_dg_hm_8a",
+    "paperTitle": "广东东莞市虎门第三中学等校2026-2027学年第一学期阶段学情质量自查八年级英语科目",
+    "sectionTitle": "二、完形填空",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "完形填空",
+    "diff": 1,
+    "kp": [
+      "记叙文",
+      "人与动植物",
+      "哲理感悟",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞虎门三中阶段自查 完形填空（小狗Minnie的新家）",
+    "passage": "Last summer vacation, I worked at the pet dog help centre, so I could see a lot of dogs. Minnie was the funniest-looking dog I’d ever seen. Her body looked like a sausage (香肠). She looked so strange and ugly that ___1___ wanted to take her home. But I thought Minnie was ___2___ and sweet. So I gave Minnie a good bath, and put up a ___3___ on the wall. It said, “A great dog, gentle (温柔的) and sweet, needs a loving ___4___.”\nLater, a boy called me. He told me that his grandfather’s dog died a week ago. They wanted to ___5___ Minnie very much because she was so good. Hearing these words, I felt very happy and said that they could take Minnie away.\nTwo days later, a car stopped in front of the pet help centre. The boy came into the centre, and he put Minnie into his arms and walked to his grandfather. Inside the car, the grandfather put Minnie in his arms and ___6___ her soft hair. She looked very relaxed and happy. “She’s perfect, and I like her!” the old man said. I knew that Minnie had found a good owner.\nAfter that summer vacation, I missed Minnie so much and worried about her, so I went back to the grandfather’s house to see Minnie. ___7___, the grandfather was playing with Minnie happily in the garden. I could see ___8___ of them were glad. I went to them and ___9___ the grandfather. “Minnie is the most ___10___ dog in my eyes,” said the grandfather. “I’ve never felt happier before!” Hearing this, I realized we shouldn’t judge (判断) people by their appearance!",
+    "passageHtml": "<p><span class=\"ind\">Last summer vacation, I worked at the pet dog help centre, so I could see a lot of dogs. Minnie was the funniest-looking dog I’d ever seen. Her body looked like a sausage (香肠). She looked so strange and ugly that <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> wanted to take her home. But I thought Minnie was <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> and sweet. So I gave Minnie a good bath, and put up a <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> on the wall. It said, “A great dog, gentle (温柔的) and sweet, needs a loving <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u>.”</span></p><p><span class=\"ind\">Later, a boy called me. He told me that his grandfather’s dog died a week ago. They wanted to <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> Minnie very much because she was so good. Hearing these words, I felt very happy and said that they could take Minnie away.</span></p><p><span class=\"ind\">Two days later, a car stopped in front of the pet help centre. The boy came into the centre, and he put Minnie into his arms and walked to his grandfather. Inside the car, the grandfather put Minnie in his arms and <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> her soft hair. She looked very relaxed and happy. “She’s perfect, and I like her!” the old man said. I knew that Minnie had found a good owner.</span></p><p><span class=\"ind\">After that summer vacation, I missed Minnie so much and worried about her, so I went back to the grandfather’s house to see Minnie. <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u>, the grandfather was playing with Minnie happily in the garden. I could see <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> of them were glad. I went to them and <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> the grandfather. “Minnie is the most <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> dog in my eyes,” said the grandfather. “I’ve never felt happier before!” Hearing this, I realized we shouldn’t judge (判断) people by their appearance!</span></p>",
+    "intro": "本文是一篇记叙文，讲述作者在宠物救助中心遇到一只长相奇特的小狗Minnie，作者登海报为它寻找主人，最后一位爷爷收养了它，告诉我们不要以貌取人。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "everybody",
+          "somebody",
+          "nobody",
+          "anybody"
+        ],
+        "ans": "C",
+        "exp": "句意：她看起来十分奇怪、丑陋，没有人想要带她回家。nobody“没有人”符合语境。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "lazy",
+          "scary",
+          "sick",
+          "friendly"
+        ],
+        "ans": "D",
+        "exp": "句意：但是我认为Minnie是友好又温顺的。friendly“友好的”符合语境。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "e-mail",
+          "poster",
+          "letter",
+          "conversation"
+        ],
+        "ans": "B",
+        "exp": "句意：并且在墙上张贴了一则海报。put up a poster on the wall意为“在墙上贴海报”。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "owner",
+          "teacher",
+          "worker",
+          "partner"
+        ],
+        "ans": "A",
+        "exp": "句意：需要一个充满爱的主人。owner“主人”符合语境。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "keep",
+          "buy",
+          "cook",
+          "sell"
+        ],
+        "ans": "A",
+        "exp": "句意：他们非常想要收养Minnie。keep意为“饲养、收留”。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "tidied",
+          "cleaned",
+          "pulled",
+          "touched"
+        ],
+        "ans": "D",
+        "exp": "句意：爷爷把她抱进怀里，抚摸她柔软的毛。touched“抚摸、触摸”符合语境。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "Suddenly",
+          "Finally",
+          "Actually",
+          "Especially"
+        ],
+        "ans": "C",
+        "exp": "句意：事实上，爷爷正和Minnie在花园里开心玩耍。Actually“事实上”符合语境。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "both",
+          "all",
+          "each",
+          "some"
+        ],
+        "ans": "A",
+        "exp": "句意：我能看到他们两个都很开心。指爷爷和小狗两者，用both。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "connected with",
+          "talked with",
+          "fought with",
+          "agreed with"
+        ],
+        "ans": "B",
+        "exp": "句意：我走向他们，和爷爷交谈。talked with“和……交谈”符合语境。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "serious",
+          "beautiful",
+          "hard-working",
+          "disappointing"
+        ],
+        "ans": "B",
+        "exp": "句意：爷爷说：“在我眼里，Minnie是最漂亮的小狗。”beautiful“美丽的、漂亮的”符合主旨。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_hm_8a_3",
+    "paperId": "paper_dg_hm_8a",
+    "paperTitle": "广东东莞市虎门第三中学等校2026-2027学年第一学期阶段学情质量自查八年级英语科目",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "应用文",
+      "体育活动",
+      "细节理解",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞虎门三中阶段自查 阅读理解A篇（亲子运动会通知）",
+    "passage": "Parent-Child Sports Day\nTime: 9:00 a.m.—3:00 p.m. Saturday, October 25, 2025\nWho can join: Kids aged 5—12 with their parents or grandparents (under 65) are welcome.\nEasy and fun activities:\n◆Basketball Shooting: Families take turns to shoot baskets. The family with the most points wins.\n◆Tie-and-Run: Parents and children tie (绑) one of their legs together and race.\n◆Jump Rope Challenge: Families will work together to see how many jumps they can finish in one minute.\nAward & Prize:\n◆Each activity has 1st, 2nd and 3rd prizes. We will give winning families sports equipment (器材).\n◆All families can get a small and special gift.\nImportant tips:\n◆Clothing: Remember to wear comfortable sports shoes. We give white T-shirts only.\n◆Safety first: Parents must stay with children all the time.\n◆Food and drink: We have free pizza and ice cream at noon.\nMore information: Email us at sports@greenschool.edu.",
+    "passageHtml": "<div class=\"bx\"><p class=\"ct\"><b>Parent-Child Sports Day</b></p><p><b>Time:</b> 9:00 a.m.—3:00 p.m. Saturday, October 25, 2025<br><b>Who can join:</b> Kids aged 5—12 with their parents or grandparents (under 65) are welcome.</p><p><b>Easy and fun activities:</b><br>◆<b>Basketball Shooting:</b> Families take turns to shoot baskets. The family with the most points wins.<br>◆<b>Tie-and-Run:</b> Parents and children tie (绑) one of their legs together and race.<br>◆<b>Jump Rope Challenge:</b> Families will work together to see how many jumps they can finish in one minute.</p><p><b>Award &amp; Prize:</b><br>◆Each activity has 1st, 2nd and 3rd prizes. We will give winning families sports equipment (器材).<br>◆All families can get a small and special gift.</p><p><b>Important tips:</b><br>◆<b>Clothing:</b> Remember to wear comfortable sports shoes. We give white T-shirts only.<br>◆<b>Safety first:</b> Parents must stay with children all the time.<br>◆<b>Food and drink:</b> We have free pizza and ice cream at noon.</p><p><b>More information:</b> Email us at sports@greenschool.edu.</p></div>",
+    "intro": "本文是一篇应用文，介绍了2025年10月25日亲子运动会的相关事宜，包含活动时间、参与要求、活动项目、奖项设置、注意事项及咨询渠道。",
+    "qs": [
+      {
+        "q": "Who can take part in Parent-Child Sports Day?",
+        "opts": [
+          "A 13-year-old girl and her mother.",
+          "A 15-year-old girl and her aunt.",
+          "A boy aged 5 and his 70-year-old grandpa.",
+          "A boy aged 7 and his father."
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据“Kids aged 5—12 with their parents or grandparents (under 65) are welcome.”可知7岁男孩和他的父亲符合条件。"
+      },
+      {
+        "q": "What do parents and kids need to do in the Tie-and-Run?",
+        "opts": [
+          "<img src=\"assets/images/paper_dg_hm_8a_img1.png\" alt=\"A\" style=\"max-width:85px;height:auto\">",
+          "<img src=\"assets/images/paper_dg_hm_8a_img2.png\" alt=\"B\" style=\"max-width:85px;height:auto\">",
+          "<img src=\"assets/images/paper_dg_hm_8a_img3.png\" alt=\"C\" style=\"max-width:85px;height:auto\">",
+          "<img src=\"assets/images/paper_dg_hm_8a_img4.png\" alt=\"D\" style=\"max-width:85px;height:auto\">"
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据“Tie-and-Run: Parents and children tie (绑) one of their legs together and race.”可知是两人绑腿跑，对应图片B。"
+      },
+      {
+        "q": "How many kinds of prizes does each activity have?",
+        "opts": [
+          "1.",
+          "2.",
+          "3.",
+          "4."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“Each activity has 1st, 2nd and 3rd prizes.”可知每个项目有3种奖项。"
+      },
+      {
+        "q": "Which of the following is TRUE according to the passage?",
+        "opts": [
+          "Families need to prepare their white T-shirts.",
+          "Every family can get sports equipment if they come.",
+          "Parents have to be with their children all the time.",
+          "The Sports Day will start on the afternoon of October 25th, 2025."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。根据“Safety first: Parents must stay with children all the time.”可知家长必须全程陪伴在孩子身边。"
+      },
+      {
+        "q": "What kind of text is this passage?",
+        "opts": [
+          "A notice.",
+          "A story.",
+          "A diary.",
+          "A report."
+        ],
+        "ans": "A",
+        "exp": "推理判断题。本文告知公众亲子运动日安排，属于活动通知（A notice）。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_hm_8a_4",
+    "paperId": "paper_dg_hm_8a",
+    "paperTitle": "广东东莞市虎门第三中学等校2026-2027学年第一学期阶段学情质量自查八年级英语科目",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "说明文",
+      "自然景观",
+      "生态保护",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞虎门三中阶段自查 阅读理解B篇（神奇的莫纳岛）",
+    "passage": "Mona Island (岛) is an amazing place to take a vacation. Some of the animals living there can’t be found anywhere else in the world. There are gorgeous beaches and caves (洞穴) to explore. The sea around the island has colourful fishes.\nMona Island is very small but important. The people there take care of the island. That means the island’s animals and plants are protected from being hurt by people. Mona Island is different from other places because people can’t live there. ▲ . Their job is to keep Mona Island safe. There are some rules on the island. For example, visitors can’t use the sunscreen (防晒霜) in order to protect the sea. Another rule is that only 100 people at a time can visit the island. In this way, the park workers can make sure the animals and plants on Mona Island will be safe and wonderful.\nAlso, visitors can come to the island to have a close look at many kinds of fishes. They can swim far below the sea. Through the clear water, visitors can see the bright colours of the fishes. Visitors can also explore caves. After all these fun activities, visitors can have a rest, listen to the night sounds, and watch the stars in the huge sky. The stars are easier to see there. Visitors say that watching the stars is amazing. It’s the perfect end to a perfect day.",
+    "passageHtml": "<p><span class=\"ind\">Mona Island (岛) is an amazing place to take a vacation. Some of the animals living there can’t be found anywhere else in the world. There are <u>gorgeous</u> beaches and caves (洞穴) to explore. The sea around the island has colourful fishes.</span></p><p><span class=\"ind\">Mona Island is very small but important. The people there take care of the island. That means the island’s animals and plants are protected from being hurt by people. Mona Island is different from other places because people can’t live there. <u>&nbsp;&nbsp;▲&nbsp;&nbsp;</u>. Their job is to keep Mona Island safe. There are some rules on the island. For example, visitors can’t use the sunscreen (防晒霜) in order to protect the sea. Another rule is that only 100 people at a time can visit the island. In this way, the park workers can make sure the animals and plants on Mona Island will be safe and wonderful.</span></p><p><span class=\"ind\">Also, visitors can come to the island to have a close look at many kinds of fishes. They can swim far below the sea. Through the clear water, visitors can see the bright colours of the fishes. Visitors can also explore caves. After all these fun activities, visitors can have a rest, listen to the night sounds, and watch the stars in the huge sky. The stars are easier to see there. Visitors say that watching the stars is amazing. It’s the perfect end to a perfect day.</span></p>",
+    "intro": "本文是一篇说明文，介绍了莫纳岛独特的自然景观、特殊的保护规则以及游客可以进行的活动。",
+    "qs": [
+      {
+        "q": "What does the underlined word “<u>gorgeous</u>” in Paragraph 1 probably mean?",
+        "opts": [
+          "scaring",
+          "beautiful",
+          "dirty",
+          "dangerous"
+        ],
+        "ans": "B",
+        "exp": "词句猜测题。根据第一段度假胜地及五彩斑斓的鱼等积极语境，可知gorgeous意为“美丽的（beautiful）”。"
+      },
+      {
+        "q": "Why is Mona Island different from most places?",
+        "opts": [
+          "Because animals can’t live there.",
+          "Because people can’t live there.",
+          "Because there are some special fishes on the island.",
+          "Because there are some colourful plants and animals on the island."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据第二段“Mona Island is different from other places because people can’t live there.”可知选B。"
+      },
+      {
+        "q": "Which of the following can be put in “<u>&nbsp;&nbsp;▲&nbsp;&nbsp;</u>” in Paragraph 2?",
+        "opts": [
+          "Besides, there are no hotels on the island, so visitors must leave before dark",
+          "So fewer visitors want to go to the island",
+          "Only a few workers of the park can stay there",
+          "Because all the animals on the island are dangerous to visitors"
+        ],
+        "ans": "C",
+        "exp": "推理判断题。上文说人们不能住在那里，下文说“Their job is to keep Mona Island safe.”，C选项“只有少数公园工作人员可以留在那里”承上启下。"
+      },
+      {
+        "q": "What is the right order of these activities in Paragraph 3?<br>① Coming to the island. &nbsp;&nbsp; ② Seeing the bright colours of the fishes.<br>③ Exploring caves. &nbsp;&nbsp; ④ Having a rest, listening to the night sounds and watching the stars.",
+        "opts": [
+          "①②③④",
+          "①②④③",
+          "④①②③",
+          "③④①②"
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据第三段顺序：登岛→看鱼→探洞→休息听夜声看星星，顺序为①②③④。"
+      },
+      {
+        "q": "What’s the best title for the passage?",
+        "opts": [
+          "Mona Island—A Wonderful Place to Live",
+          "Mona Island—A Good Place to Enjoy Seafood",
+          "Mona Island—The Best Place to Swim with Fish",
+          "Mona Island—An Amazing Place to Take a Vacation"
+        ],
+        "ans": "D",
+        "exp": "最佳标题题。根据首句“Mona Island is an amazing place to take a vacation.”及全文内容可知选D。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_hm_8a_5",
+    "paperId": "paper_dg_hm_8a",
+    "paperTitle": "广东东莞市虎门第三中学等校2026-2027学年第一学期阶段学情质量自查八年级英语科目",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "配对阅读",
+    "diff": 2,
+    "kp": [
+      "应用文",
+      "意见/建议",
+      "配对阅读",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞虎门三中阶段自查 配对阅读（同学烦恼与解决对策匹配）",
+    "passage": "配对阅读：左栏是五个同学的烦恼，右栏是七个烦恼的解决对策，请为每个同学选择对应的解决对策。\n\nA. School uniforms help us look the same and stop us from worrying about clothes. You can wear your favourite clothes after school or on weekends.\nB. Your parents love you very much. If you really want to go out with your friends, you can talk with them after doing your homework. I think your parents will let you do that.\nC. You should do more exercise to lose weight. I am sure you will be thinner if you don’t give up.\nD. In my opinion, you can prepare your clothes the night before. Take out your shirt, trousers and socks on the desk or chair. Then you won’t need to choose clothes in a hurry in the morning.\nE. You should be happy if your friends wear the same clothes as you. If you really don’t like it, you can just talk about it with them.\nF. Why don’t you talk about your feelings with your parents? Maybe you can help do some housework at home so that they can have more time to communicate with each other.\nG. I think you should try your best to do your homework more quickly. Go to bed earlier so that you can have enough time for sleep.",
+    "passageHtml": "<p><strong>配对阅读：</strong>左栏是五个同学的烦恼，右栏是七个烦恼的解决对策，请为每个同学选择对应的解决对策。</p><div class=\"bx\"><p><b>A.</b> School uniforms help us look the same and stop us from worrying about clothes. You can wear your favourite clothes after school or on weekends.</p><p><b>B.</b> Your parents love you very much. If you really want to go out with your friends, you can talk with them after doing your homework. I think your parents will let you do that.</p><p><b>C.</b> You should do more exercise to lose weight. I am sure you will be thinner if you don’t give up.</p><p><b>D.</b> In my opinion, you can prepare your clothes the night before. Take out your shirt, trousers and socks on the desk or chair. Then you won’t need to choose clothes in a hurry in the morning.</p><p><b>E.</b> You should be happy if your friends wear the same clothes as you. If you really don’t like it, you can just talk about it with them.</p><p><b>F.</b> Why don’t you talk about your feelings with your parents? Maybe you can help do some housework at home so that they can have more time to communicate with each other.</p><p><b>G.</b> I think you should try your best to do your homework more quickly. Go to bed earlier so that you can have enough time for sleep.</p></div>",
+    "intro": "本文左栏是五个同学的烦恼，右栏是七个烦恼的解决对策，需为每个同学选择对应的解决对策。",
+    "qs": [
+      {
+        "q": "(   ) Kate’s parents often fight because of the housework. She really doesn’t like it. She doesn’t know what to do.",
+        "opts": [],
+        "ans": "F",
+        "exp": "Kate的父母常因家务吵架，F项建议和父母谈谈感受并帮忙分担家务，与之匹配。"
+      },
+      {
+        "q": "(   ) Eric thinks his parents are too strict with him. His parents want him to stay at home and they don’t let him play with friends outside after school.",
+        "opts": [],
+        "ans": "B",
+        "exp": "Eric的父母不让他放学后出去和朋友玩，B项建议做完作业后和父母沟通，与之匹配。"
+      },
+      {
+        "q": "(   ) Because Jane doesn’t know how to choose her clothes every morning, she is often late for school. So she is unhappy.",
+        "opts": [],
+        "ans": "D",
+        "exp": "Jane每天早上挑衣服导致上学迟到，D项建议前一晚准备好衣服，与之匹配。"
+      },
+      {
+        "q": "(   ) Jenny doesn’t like the school uniforms, and she wants to wear her own clothes to school. She doesn’t know how to solve it.",
+        "opts": [],
+        "ans": "A",
+        "exp": "Jenny不喜欢穿校服，A项解释校服的作用并建议放学后或周末穿自己喜欢的衣服，与之匹配。"
+      },
+      {
+        "q": "(   ) Frank always feels tired in class because he always stays up late at night to do his homework.",
+        "opts": [],
+        "ans": "G",
+        "exp": "Frank因熬夜写作业导致上课疲倦，G项建议尽快完成作业早点睡觉，与之匹配。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_hm_8a_6",
+    "paperId": "paper_dg_hm_8a",
+    "paperTitle": "广东东莞市虎门第三中学等校2026-2027学年第一学期阶段学情质量自查八年级英语科目",
+    "sectionTitle": "四、句子翻译",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "句子翻译",
+      "中译英",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞虎门三中阶段自查 四、句子翻译（5小题）",
+    "passage": "请将下列中文句子翻译成英文：\n(___1___) 你和家人是怎么度过你上一个假期的？\n(___2___) 我和她一样地努力工作。\n(___3___) 我的哥哥经常告诉我一些有趣的事情。\n(___4___) 竹子是世界上最有用的植物之一。\n(___5___) 你能帮我把这些照片挂上去吗？",
+    "passageHtml": "<p><b>【四、句子翻译】</b>请将下列中文句子翻译成英文：</p><p><b>(<u>&nbsp;&nbsp;1&nbsp;&nbsp;</u>)</b> 你和家人是怎么度过你上一个假期的？</p><p><b>(<u>&nbsp;&nbsp;2&nbsp;&nbsp;</u>)</b> 我和她一样地努力工作。</p><p><b>(<u>&nbsp;&nbsp;3&nbsp;&nbsp;</u>)</b> 我的哥哥经常告诉我一些有趣的事情。</p><p><b>(<u>&nbsp;&nbsp;4&nbsp;&nbsp;</u>)</b> 竹子是世界上最有用的植物之一。</p><p><b>(<u>&nbsp;&nbsp;5&nbsp;&nbsp;</u>)</b> 你能帮我把这些照片挂上去吗？</p>",
+    "intro": "本大题考查八年级上册核心句型的中译英表达，包括一般过去时特殊疑问句、as...as同级比较、双宾语结构、最高级“one of the+最高级+复数名词”及礼貌请求句型。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "How did you and your family spend your last holiday?",
+        "exp": "“怎么度过”用疑问副词How，过去时助动词用did，spend your last holiday表示“度过你上一个假期”。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "I work as hard as she does. / I work as hard as her.",
+        "exp": "“努力工作”为work hard，“和……一样”用as...as同级比较结构。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "My brother often tells me some interesting things.",
+        "exp": "“告诉某人某事”用tell sb. sth.，主语My brother是第三人称单数，一般现在时用tells。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "Bamboo is one of the most useful plants in the world.",
+        "exp": "“最……的……之一”用one of the most useful plants in the world。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "Can you help me put up / hang up these photos?",
+        "exp": "“帮我做某事”用help me (to) do sth.，“把照片挂上去”用put up / hang up these photos。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_hm_8a_7",
+    "paperId": "paper_dg_hm_8a",
+    "paperTitle": "广东东莞市虎门第三中学等校2026-2027学年第一学期阶段学情质量自查八年级英语科目",
+    "sectionTitle": "五、选词填空",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "说明文",
+      "人与动植物",
+      "导盲犬",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞虎门三中阶段自查 选词填空（导盲犬的选拔与训练）",
+    "passage": "| plan   help   good   get   they   eye   learn   when   skill   what   one   without |\nGuide dogs are people’s good friends. For the blind (失明的), guide dogs help ___1___ a lot in their life. They can become the “___2___” of the blind. They can be their good friends. Some blind people say that they can’t live ___3___ their guide dogs. Not every dog can become a guide dog. ___4___ kind of dog can become the guide dog? Read on and find out more information.\n___5___, one of their parents must be a guide dog.\nSecond, they must be healthy and have a ___6___ temper (脾气).\nThird, they must ___7___ how to get on with people. It is one of the guide dogs’ skills. ___8___ they are two months old, they are sent to a special place to learn the skills. Then they can understand people better.\nLast, they must go to a training centre to learn more ___9___ when they are one year old. They have to learn skills to ___10___ people. They have to take a test before becoming guide dogs. If they pass the test, they can be guide dogs. If they fail the test, they will have to continue learning.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">plan &nbsp; help &nbsp; good &nbsp; get &nbsp; they &nbsp; eye &nbsp; learn &nbsp; when &nbsp; skill &nbsp; what &nbsp; one &nbsp; without</div><p><span class=\"ind\">Guide dogs are people’s good friends. For the blind (失明的), guide dogs help <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> a lot in their life. They can become the “<u>&nbsp;&nbsp;2&nbsp;&nbsp;</u>” of the blind. They can be their good friends. Some blind people say that they can’t live <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> their guide dogs. Not every dog can become a guide dog. <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> kind of dog can become the guide dog? Read on and find out more information.</span></p><p><span class=\"ind\"><u>&nbsp;&nbsp;5&nbsp;&nbsp;</u>, one of their parents must be a guide dog.</span></p><p><span class=\"ind\">Second, they must be healthy and have a <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> temper (脾气).</span></p><p><span class=\"ind\">Third, they must <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> how to get on with people. It is one of the guide dogs’ skills. <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> they are two months old, they are sent to a special place to learn the skills. Then they can understand people better.</span></p><p><span class=\"ind\">Last, they must go to a training centre to learn more <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> when they are one year old. They have to learn skills to <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> people. They have to take a test before becoming guide dogs. If they pass the test, they can be guide dogs. If they fail the test, they will have to continue learning.</span></p>",
+    "intro": "本文介绍导盲犬对盲人的重要意义，同时说明了成为导盲犬需要满足的几项条件。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "them",
+        "exp": "句意：对于盲人来说，导盲犬在生活中给他们很多帮助。动词help后接宾格them指代the blind。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "eyes",
+        "exp": "句意：它们可以成为盲人的“眼睛”。用复数形式eyes。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "without",
+        "exp": "句意：一些盲人说没有导盲犬他们无法生活。without意为“没有”。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "What",
+        "exp": "句意：什么样的狗可以成为导盲犬？What kind of意为“什么样的”。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "First",
+        "exp": "句意：首先，它们的父母之一必须是导盲犬。与后文Second、Third、Last呼应，填First。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "good",
+        "exp": "句意：其次，它们必须身体健康，并且脾气好。good temper意为“好脾气”。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "learn",
+        "exp": "句意：第三，它们必须学习如何与人相处。情态动词must后接动词原形learn。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "When",
+        "exp": "句意：当它们两个月大的时候，会被送到专门的地方学习技能。When引导时间状语从句。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "skills",
+        "exp": "句意：它们一岁的时候要去训练中心学习更多技能。more后接复数名词skills。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "help",
+        "exp": "句意：它们必须学习技能来帮助人们。不定式符号to后接动词原形help。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_hm_8a_8",
+    "paperId": "paper_dg_hm_8a",
+    "paperTitle": "广东东莞市虎门第三中学等校2026-2027学年第一学期阶段学情质量自查八年级英语科目",
+    "sectionTitle": "六、读写综合",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "读写综合",
+    "diff": 2,
+    "kp": [
+      "读写综合",
+      "家人和亲人",
+      "家庭日",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞虎门三中阶段自查 读写综合（加拿大家庭日与幸福家庭秘诀）",
+    "passage": "请阅读下面短文，根据所提供的信息，回答5个问题。要求所写答案语法正确、语义完整切题。\n\nDo you know about Family Day? It was first held in Alberta, Canada in 1990. Its purpose (目的) is to make people focus more on the happiness of the family. It is a holiday that gives families a chance to stay together. In some places of Canada, Family Day is on the third Monday of February every year. People have one day off and they often do some simple and daily things to get closer to their family members.\nOn that day, there are many kinds of activities. Many people just choose to stay at home to do some cleaning or cooking, or play games together. Hot chocolate and freshly made cookies are the most popular snacks for them. Some families like to go to another city because they want to try something new there. Other people think of the day as a chance to take a short winter break. These activities make family members know each other better.\nDifferent families have different activities, but they are all very happy on Family Day. What about your Family Day? If you have a great time with your family, you can show it by posting a photo or a video. We can’t wait to see your meaningful photos or videos!",
+    "passageHtml": "<p style=\"margin-bottom:8px;color:var(--mu);font-size:13.5px\"><strong>A．回答问题：</strong>请阅读下面短文，根据所提供的信息，回答5个问题。要求所写答案语法正确、语义完整切题。</p><p><span class=\"ind\">Do you know about Family Day? It was first held in Alberta, Canada in 1990. Its purpose (目的) is to make people focus more on the happiness of the family. It is a holiday that gives families a chance to stay together. In some places of Canada, Family Day is on the third Monday of February every year. People have one day off and they often do some simple and daily things to get closer to their family members.</span></p><p><span class=\"ind\">On that day, there are many kinds of activities. Many people just choose to stay at home to do some cleaning or cooking, or play games together. Hot chocolate and freshly made cookies are the most popular snacks for them. Some families like to go to another city because they want to try something new there. Other people think of the day as a chance to take a short winter break. These activities make family members know each other better.</span></p><p><span class=\"ind\">Different families have different activities, but they are all very happy on Family Day. What about your Family Day? If you have a great time with your family, you can show it by posting a photo or a video. We can’t wait to see your meaningful photos or videos!</span></p>",
+    "intro": "本文是一篇说明文，主要介绍了加拿大的“家庭日”（Family Day）的起源、目的、时间以及人们在这一天通常会进行的各种活动。",
+    "qs": [
+      {
+        "q": "What is the purpose of Family Day?",
+        "opts": [],
+        "ans": "To make people focus more on the happiness of the family.",
+        "exp": "定位第1段“Its purpose (目的) is to make people focus more on the happiness of the family.”直接提取。"
+      },
+      {
+        "q": "When is Family Day in some provinces of Canada?",
+        "opts": [],
+        "ans": "On the third Monday of February every year.",
+        "exp": "定位第1段“In some places of Canada, Family Day is on the third Monday of February every year.”直接提取。"
+      },
+      {
+        "q": "Why do some families like to go to another city on Family Day?",
+        "opts": [],
+        "ans": "Because they want to try something new there.",
+        "exp": "定位第2段“Some families like to go to another city because they want to try something new there.”直接提取。"
+      },
+      {
+        "q": "Do these activities make family members know each other worse or better?",
+        "opts": [],
+        "ans": "Better.",
+        "exp": "定位第2段“These activities make family members know each other better.”可知答案为Better。"
+      },
+      {
+        "q": "What do you think of Family Day?",
+        "opts": [],
+        "ans": "I think it is very meaningful.",
+        "exp": "开放性问题，家庭日能增进家人感情，非常有意义。"
+      },
+      {
+        "q": "<div style=\"margin-top:10px;padding-top:10px;border-top:1px dashed var(--bd)\"><strong>B．书面表达</strong><p style=\"margin:4px 0\">假设你叫李华，你校英语校刊将要举办“Happier Family, Better Life”的征文活动。请你用英语写一篇短文投稿，分享家庭幸福的秘诀。内容包括：</p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/paper_dg_hm_8a_img5.png\" alt=\"幸福家庭思维导图\" style=\"max-width:440px;width:100%;height:auto;border-radius:6px\"></div><p style=\"margin:4px 0\">注意：<br>（1）不能照抄原文；不得在作文中出现真实校名和考生的真实姓名。<br>（2）语句连贯，词数80左右。作文标题已经给出，不计入总词数。</p><p class=\"ct\" style=\"margin:8px 0\"><b>Happier Family, Better Life</b></p><p style=\"margin:4px 0\">In my opinion, having a happy family is very ______________________________</p></div>",
+        "opts": [],
+        "ans": "【参考范文】\nHappier Family, Better Life\nIn my opinion, having a happy family is very important for everyone. It gives us warmth and courage when we meet difficulties.\nThere are some good ways to build a happy family. First, we should often communicate with our family members to understand each other. Second, it’s a good idea to share housework together. We can also spend free time doing fun activities with our family.\nI feel relaxed and loved at home. Let’s try our best to create happy families, and we will have a better life.",
+        "exp": "写作步骤\n[第一步：审题立意]\n确定文体：征文短文，一般现在时为主\n明确要点：幸福家庭的意义、营造幸福家庭的方法（多沟通、分担家务、一起活动）、感悟与呼吁\n[第二步：构思布局]\n三段式结构：开头点明幸福家庭的重要性；主体段阐述营造幸福家庭的具体方法；结尾段表达感受并发出呼吁。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_zx_8a_1",
+    "paperId": "paper_dg_zx_8a",
+    "paperTitle": "广东东莞市竹溪中学2026-2027学年第一学期八年级英语阶段学情自测",
+    "sectionTitle": "一、语法选择",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "语法选择",
+    "diff": 1,
+    "kp": [
+      "记叙文",
+      "志愿服务",
+      "旅行",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞竹溪阶段自测 语法选择（泰国动物园大象志愿者）",
+    "passage": "My name’s Ella. I’m 22. I stayed in Thailand for two weeks with my sister Josie in the summer holiday. We ___1___ as volunteers (志愿者) at a zoo to help the elephants.\nOn the first day, a zoo worker told us the ___2___ of our work and thanked us. Then he taught us to collect the elephants’ food. They ate lots of grass and banana plants. After that, we helped ___3___ the elephants by the river. How amazing! We also took ___4___ walk with the elephants in the forest.\nAll of ___5___ stayed in the same house. The food like meat and fish there was really delicious. After dinner, we sang and danced ___6___ in the yard. And some went fishing by the river. However, we ___7___ go to bed before 9 p.m. because we needed to get up early the next morning.\n___8___ we are back in the UK, Josie often thinks of the life in Thailand with her friends. She is happy because she learnt so much thanks ___9___ the experience in Thailand. She played a part in taking care of the ___10___ animals on the land and made many friends.",
+    "passageHtml": "<p><span class=\"ind\">My name’s Ella. I’m 22. I stayed in Thailand for two weeks with my sister Josie in the summer holiday. We <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> as volunteers (志愿者) at a zoo to help the elephants.</span></p><p><span class=\"ind\">On the first day, a zoo worker told us the <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> of our work and thanked us. Then he taught us to collect the elephants’ food. They ate lots of grass and banana plants. After that, we helped <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> the elephants by the river. How amazing! We also took <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> walk with the elephants in the forest.</span></p><p><span class=\"ind\">All of <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> stayed in the same house. The food like meat and fish there was really delicious. After dinner, we sang and danced <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> in the yard. And some went fishing by the river. However, we <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> go to bed before 9 p.m. because we needed to get up early the next morning.</span></p><p><span class=\"ind\"><u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> we are back in the UK, Josie often thinks of the life in Thailand with her friends. She is happy because she learnt so much thanks <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> the experience in Thailand. She played a part in taking care of the <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> animals on the land and made many friends.</span></p>",
+    "intro": "本文讲述Ella姐妹暑假在泰国动物园做志愿者的经历。她们照顾大象，体验生活，收获很多，回国后怀念那段时光。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "work",
+          "will work",
+          "worked"
+        ],
+        "ans": "C",
+        "exp": "句意：我们在一家动物园当志愿者，帮助大象。叙述过去之事，用一般过去时worked。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "important",
+          "importantly",
+          "importance"
+        ],
+        "ans": "C",
+        "exp": "句意：一位动物园工作人员告诉我们这份工作的重要性。定冠词the后接名词importance。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "to clean",
+          "cleaning",
+          "cleaned"
+        ],
+        "ans": "A",
+        "exp": "句意：我们帮忙在河边给大象清洁。help (to) do sth.为固定用法，故选to clean。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "a",
+          "an",
+          "the"
+        ],
+        "ans": "A",
+        "exp": "句意：我们还和大象一起在森林里散步。take a walk为固定短语。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "we",
+          "our",
+          "us"
+        ],
+        "ans": "C",
+        "exp": "句意：我们所有人都住在同一间房子里。介词of后接宾格代词us。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "happy",
+          "happily",
+          "happiness"
+        ],
+        "ans": "B",
+        "exp": "句意：晚饭后我们在院子里开心地唱歌跳舞。修饰动词sang and danced用副词happily。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "can’t",
+          "must",
+          "might"
+        ],
+        "ans": "B",
+        "exp": "句意：但是，我们必须晚上9点前睡觉，因为第二天早上需要早起。表示规定或义务用must。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "After",
+          "Before",
+          "If"
+        ],
+        "ans": "A",
+        "exp": "句意：回到英国之后，乔西经常想起在泰国和朋友们一起的生活。After“在……之后”符合语境。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "in",
+          "to",
+          "on"
+        ],
+        "ans": "B",
+        "exp": "句意：多亏了这次泰国之行，她学到了很多东西。thanks to为固定搭配，意为“多亏，由于”。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "large",
+          "larger",
+          "largest"
+        ],
+        "ans": "C",
+        "exp": "句意：她参与照料这片陆地上最大的动物（大象）。the后接形容词最高级largest。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_zx_8a_2",
+    "paperId": "paper_dg_zx_8a",
+    "paperTitle": "广东东莞市竹溪中学2026-2027学年第一学期八年级英语阶段学情自测",
+    "sectionTitle": "二、完形填空",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "完形填空",
+    "diff": 3,
+    "kp": [
+      "记叙文",
+      "友谊",
+      "互帮互助",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞竹溪阶段自测 完形填空（好朋友Billy与Jack互助成长）",
+    "passage": "Billy and Jack are both in Class 3, Grade 8. They are best friends and always ___1___ each other. They had many happy moments.\nOne day, Billy’s teacher said that Billy was ___2___ in playing basketball. He was very happy and wanted to ___3___ this with Jack. So he asked Jack to watch him play basketball on the playground. ___4___ Jack doesn’t like any sports, he came to support (支持) Billy. Billy plays basketball ___5___ than most of the classmates and he got many points. After the game, Billy ___6___ Jack for coming and supporting him. Jack said, “I’m always happy to support my best friend.” Soon, Jack heard that there would be a maths test ___7___ a few days and he was worried. After knowing that, Billy decided to help Jack. Billy answered Jack’s ___8___ about maths in an easy and interesting way. After finishing the test, Jack thought he could get a better ___9___ than before.\nSure enough, he did well in this test. Jack believed his maths could be better and better with the help of Billy.\nBilly and Jack always help each other and they can also ___10___ each other’s heart. They are sure that they will be best friends all the time. It is wonderful to have such a good friend!",
+    "passageHtml": "<p><span class=\"ind\">Billy and Jack are both in Class 3, Grade 8. They are best friends and always <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> each other. They had many happy moments.</span></p><p><span class=\"ind\">One day, Billy’s teacher said that Billy was <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u> in playing basketball. He was very happy and wanted to <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> this with Jack. So he asked Jack to watch him play basketball on the playground. <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> Jack doesn’t like any sports, he came to support (支持) Billy. Billy plays basketball <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> than most of the classmates and he got many points. After the game, Billy <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> Jack for coming and supporting him. Jack said, “I’m always happy to support my best friend.” Soon, Jack heard that there would be a maths test <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> a few days and he was worried. After knowing that, Billy decided to help Jack. Billy answered Jack’s <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> about maths in an easy and interesting way. After finishing the test, Jack thought he could get a better <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> than before.</span></p><p><span class=\"ind\">Sure enough, he did well in this test. Jack believed his maths could be better and better with the help of Billy.</span></p><p><span class=\"ind\">Billy and Jack always help each other and they can also <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> each other’s heart. They are sure that they will be best friends all the time. It is wonderful to have such a good friend!</span></p>",
+    "intro": "本文是一篇记叙文，主要讲述了Billy和Jack作为好朋友，在篮球和数学学习上互相支持、帮助，共同进步的感人故事。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [
+          "dream about",
+          "write about",
+          "care about",
+          "hear about"
+        ],
+        "ans": "C",
+        "exp": "句意：他们是最好的朋友，总是互相关心。care about“关心”符合语境。"
+      },
+      {
+        "q": "(2)",
+        "opts": [
+          "strict",
+          "talented",
+          "interested",
+          "busy"
+        ],
+        "ans": "B",
+        "exp": "句意：一天，Billy的老师说Billy在打篮球方面很有天赋。be talented in“在……方面有天赋”。"
+      },
+      {
+        "q": "(3)",
+        "opts": [
+          "share",
+          "pick",
+          "find",
+          "finish"
+        ],
+        "ans": "A",
+        "exp": "句意：他很高兴，想和Jack分享这件事。share sth. with sb.“和某人分享某事”。"
+      },
+      {
+        "q": "(4)",
+        "opts": [
+          "Because",
+          "When",
+          "After",
+          "Though"
+        ],
+        "ans": "D",
+        "exp": "句意：尽管Jack不喜欢任何运动，但他还是来支持Billy。Though引导让步状语从句。"
+      },
+      {
+        "q": "(5)",
+        "opts": [
+          "well",
+          "better",
+          "badly",
+          "worse"
+        ],
+        "ans": "B",
+        "exp": "句意：Billy打篮球比大多数同学都好。根据than可知用比较级better。"
+      },
+      {
+        "q": "(6)",
+        "opts": [
+          "helped",
+          "thanked",
+          "asked",
+          "paid"
+        ],
+        "ans": "B",
+        "exp": "句意：比赛结束后，Billy感谢Jack的到来和支持。thank sb. for doing sth.“因某事感谢某人”。"
+      },
+      {
+        "q": "(7)",
+        "opts": [
+          "at",
+          "on",
+          "in",
+          "to"
+        ],
+        "ans": "C",
+        "exp": "句意：不久，Jack听说几天后将有一场数学考试。“in+一段时间”表示“在……之后”。"
+      },
+      {
+        "q": "(8)",
+        "opts": [
+          "rules",
+          "subjects",
+          "questions",
+          "activities"
+        ],
+        "ans": "C",
+        "exp": "句意：Billy用一种简单而有趣的方式回答了Jack关于数学的问题。questions“问题”与answered搭配。"
+      },
+      {
+        "q": "(9)",
+        "opts": [
+          "answer",
+          "idea",
+          "habit",
+          "grade"
+        ],
+        "ans": "D",
+        "exp": "句意：完成考试后，Jack认为他能比以前取得更好的成绩。grade“分数，成绩”符合语境。"
+      },
+      {
+        "q": "(10)",
+        "opts": [
+          "touch",
+          "break",
+          "forget",
+          "give"
+        ],
+        "ans": "A",
+        "exp": "句意：Billy和Jack总是互相帮助，他们也能触动彼此的心。touch one’s heart“触动某人的内心”。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_zx_8a_3",
+    "paperId": "paper_dg_zx_8a",
+    "paperTitle": "广东东莞市竹溪中学2026-2027学年第一学期八年级英语阶段学情自测",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "阅读理解",
+    "diff": 1,
+    "kp": [
+      "应用文",
+      "旅行",
+      "细节理解",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞竹溪阶段自测 阅读理解A篇（北京四大景点游览指南）",
+    "passage": "Tony, a middle school student, is 15 years old. He and his parents want to travel around Beijing this summer. He found some information about some famous places in Beijing.\n1. The Palace Museum: Opening hours: Tuesday~Sunday 6:30~18:00 (Monday Closed) | Admission: adult: ¥60 | TEL: 010-85007058\n2. The Summer Palace: Opening hours: Monday~Sunday 6:00~19:30 | Admission: adult: ¥30 | TEL: 010-62881144\n3. The Badaling Great Wall: Opening hours: Monday~Sunday 7:30~19:30 | Admission: adult: ¥40, student: ¥20 | TEL: 010-61118002\n4. Beijing Zoo: Opening hours: Monday~Sunday 5:30~18:00 | Admission: adult: ¥15, child (under 6): free | TEL: 010-68390274",
+    "passageHtml": "<p><span class=\"ind\">Tony, a middle school student, is 15 years old. He and his parents want to travel around Beijing this summer. He found some information about some famous places in Beijing.</span></p><div class=\"g2\"><div><p class=\"ct\"><img src=\"assets/images/paper_dg_zx_8a_img1.png\" alt=\"The Palace Museum\" style=\"max-width:140px;height:auto\"></p><p><b>The Palace Museum</b><br>Opening hours: Tuesday~Sunday 6:30~18:00 (Monday Closed)<br>Admission: adult: ¥60<br>TEL: 010-85007058</p></div><div><p class=\"ct\"><img src=\"assets/images/paper_dg_zx_8a_img2.png\" alt=\"The Summer Palace\" style=\"max-width:140px;height:auto\"></p><p><b>The Summer Palace</b><br>Opening hours: Monday~Sunday 6:00~19:30<br>Admission: adult: ¥30<br>TEL: 010-62881144</p></div><div><p class=\"ct\"><img src=\"assets/images/paper_dg_zx_8a_img3.png\" alt=\"The Badaling Great Wall\" style=\"max-width:140px;height:auto\"></p><p><b>The Badaling Great Wall</b><br>Opening hours: Monday~Sunday 7:30~19:30<br>Admission: adult: ¥40 &nbsp; student: ¥20<br>TEL: 010-61118002</p></div><div><p class=\"ct\"><img src=\"assets/images/paper_dg_zx_8a_img4.png\" alt=\"Beijing Zoo\" style=\"max-width:140px;height:auto\"></p><p><b>Beijing Zoo</b><br>Opening hours: Monday~Sunday 5:30~18:00<br>Admission: adult: ¥15 &nbsp; child (under 6): free<br>TEL: 010-68390274</p></div></div>",
+    "intro": "本文是一篇应用文，介绍了北京故宫、颐和园、八达岭长城、北京动物园四处景点的开放时间、门票价格及联系电话。",
+    "qs": [
+      {
+        "q": "Tony and his parents can’t go to visit the Palace Museum on ________.",
+        "opts": [
+          "Monday",
+          "Sunday",
+          "Tuesday",
+          "Saturday"
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据The Palace Museum部分的“Monday Closed”可知周一闭馆。"
+      },
+      {
+        "q": "What time can Tony and his parents visit the Summer Palace?",
+        "opts": [
+          "6:30~18:00.",
+          "6:00~19:30.",
+          "7:30~19:30.",
+          "5:30~18:00."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据The Summer Palace部分的“Opening hours: Monday~Sunday 6:00~19:30”可知选B。"
+      },
+      {
+        "q": "How much will Tony and his parents pay if they visit the Badaling Great Wall?",
+        "opts": [
+          "¥45.",
+          "¥90.",
+          "¥100.",
+          "¥180."
+        ],
+        "ans": "C",
+        "exp": "细节理解题。八达岭长城成人票40元，学生票20元，Tony和父母共需40×2+20=100元。"
+      },
+      {
+        "q": "Tony is interested in wild animals, so he can go to ________ for fun.",
+        "opts": [
+          "the Summer Palace",
+          "the Palace Museum",
+          "Beijing Zoo",
+          "the Badaling Great Wall"
+        ],
+        "ans": "C",
+        "exp": "细节理解题。对野生动物感兴趣可以去北京动物园（Beijing Zoo）。"
+      },
+      {
+        "q": "If you want to visit Beijing Zoo, you can call ________ for more information.",
+        "opts": [
+          "010-85007058",
+          "010-62881144",
+          "010-61118002",
+          "010-68390274"
+        ],
+        "ans": "D",
+        "exp": "细节理解题。根据Beijing Zoo部分的“TEL: 010-68390274”可知选D。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_zx_8a_4",
+    "paperId": "paper_dg_zx_8a",
+    "paperTitle": "广东东莞市竹溪中学2026-2027学年第一学期八年级英语阶段学情自测",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "阅读理解",
+    "diff": 2,
+    "kp": [
+      "记叙文",
+      "友谊",
+      "书信",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞竹溪阶段自测 阅读理解B篇（跨越60年的书信友谊）",
+    "passage": "One day in June, I pulled a large box down from the attic (阁楼). There were many letters inside. They were from my friend, Stephen.\nOur friendship started nearly 60 years ago. We started writing to each other when we were in middle school. To memorize the past better, we decided to change all those letters into something more meaningful (有意义的).\nOne Sunday morning last autumn, we met at my house. We read all the letters. Before Stephen arrived, I carefully decorated my house. I played our favourite song. Like actors in a play, we took turns to read our words. The letters reminded us that we called each other “sweetest cake”.\nThat day, we went through two years in eight hours. We talked about famous singers and hobbies a lot when we studied at the university.\nStephen and I supported (支持) each other with letters. We shared our family activities, our early jobs and our problems. There were phones, but they were too expensive for us, so we kept writing. As time went on, the letters became more and more numerous.\nNow, the letters stay in a beautiful box in my study. Stephen and I are going to read them again in ten years. We also wrote new notes and put them in the box. We will read them then.",
+    "passageHtml": "<p><span class=\"ind\">One day in June, I pulled a large box down from the attic (阁楼). There were many letters inside. They were from my friend, Stephen.</span></p><p><span class=\"ind\">Our friendship started nearly 60 years ago. We started writing to each other when we were in middle school. To <u>memorize</u> the past better, we decided to change all those letters into something more meaningful (有意义的).</span></p><p><span class=\"ind\">One Sunday morning last autumn, we met at my house. We read all the letters. Before Stephen arrived, I carefully decorated my house. I played our favourite song. Like actors in a play, we took turns to read our words. The letters reminded us that we called each other “sweetest cake”.</span></p><p><span class=\"ind\">That day, we went through two years in eight hours. We talked about famous singers and hobbies a lot when we studied at the university.</span></p><p><span class=\"ind\">Stephen and I supported (支持) each other with letters. We shared our family activities, our early jobs and our problems. There were phones, but they were too expensive for us, so we kept writing. As time went on, the letters became more and more numerous.</span></p><p><span class=\"ind\">Now, the letters stay in a beautiful box in my study. Stephen and I are going to read them again in ten years. We also wrote new notes and put them in the box. We will read them then.</span></p>",
+    "intro": "本文讲述了作者与朋友Stephen跨越60年的友谊，通过重读旧信件回忆过去，并约定十年后再读的故事。",
+    "qs": [
+      {
+        "q": "What does the underlined word “<u>memorize</u>” probably mean in Paragraph 2?",
+        "opts": [
+          "Use.",
+          "Remember.",
+          "Finish.",
+          "Prepare."
+        ],
+        "ans": "B",
+        "exp": "词句猜测题。根据第二段“To memorize the past better...”可知是为了更好地铭记/记住（Remember）过去。"
+      },
+      {
+        "q": "Why did they meet last autumn?",
+        "opts": [
+          "To act plays.",
+          "To read letters.",
+          "To sing songs.",
+          "To solve problems."
+        ],
+        "ans": "B",
+        "exp": "细节理解题。根据第三段“One Sunday morning last autumn, we met at my house. We read all the letters.”可知是为了读信。"
+      },
+      {
+        "q": "What did they share about when they studied at the university?",
+        "opts": [
+          "Famous singers and hobbies.",
+          "School rules and teachers.",
+          "Early jobs and problems.",
+          "Family activities and hobbies."
+        ],
+        "ans": "A",
+        "exp": "细节理解题。根据第四段“We talked about famous singers and hobbies a lot when we studied at the university.”可知选A。"
+      },
+      {
+        "q": "What can we infer (推断) from the passage?",
+        "opts": [
+          "The writer and Stephen are both 60 years old now.",
+          "The writer and Stephen have babies in the same year.",
+          "The writer shared everything with Stephen in the letters.",
+          "The writer and Stephen will meet again ten years later."
+        ],
+        "ans": "D",
+        "exp": "推理判断题。根据最后一段“Stephen and I are going to read them again in ten years... We will read them then.”可知他们十年后会再次见面读信。"
+      },
+      {
+        "q": "What may be the best title for the passage?",
+        "opts": [
+          "Our Favourite Song.",
+          "The Meaningful Past.",
+          "A True Friendship.",
+          "A Future Life."
+        ],
+        "ans": "C",
+        "exp": "最佳标题题。全文围绕两人跨越60年的真挚友谊展开，“A True Friendship.”最契合主题。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_zx_8a_5",
+    "paperId": "paper_dg_zx_8a",
+    "paperTitle": "广东东莞市竹溪中学2026-2027学年第一学期八年级英语阶段学情自测",
+    "sectionTitle": "三、阅读理解",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "配对阅读",
+    "diff": 2,
+    "kp": [
+      "应用文",
+      "旅行",
+      "研学活动",
+      "配对阅读",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞竹溪阶段自测 配对阅读（初中生研学需求与项目匹配）",
+    "passage": "配对阅读。左栏是五名初中生的研学需求介绍，右栏是七个研学项目的相关情况，请为每名学生选择一个合适的研学项目。选项中有两项为多余项。\n\nA. To meet the needs of hikers, the park has many roads with different levels. In the Dalingu Park, visitors can enjoy the traditional Hakka (客家人) building culture.\nB. You can enjoy Cantonese Opera. Some teachers will tell you the history of it. You can also watch the lion dance.\nC. The study tour is mostly in Tianjin High-tech (高科技) Area. There are lots of different robots. You can visit a robot museum.\nD. We will take you to Xi’an. It is a big city with a long history. You can see old city walls and enjoy historical shows.\nE. It’s a study tour on Mount Huangshan. You can see many different beautiful plants and rocks.\nF. Two teachers will teach you how to travel in a big city. You can plan the traffic line, and learn about the places of interest in this city.\nG. You can visit a few beautiful gardens in Suzhou. They contain some old Chinese buildings. We will show you around and tell you about the art.",
+    "passageHtml": "<p><strong>配对阅读：</strong>左栏是五名初中生的研学需求介绍，右栏是七个研学项目的相关情况，请为每名学生选择一个合适的研学项目。选项中有两项为多余项。</p><div class=\"bx\"><p><b>A.</b> To meet the needs of hikers, the park has many roads with different levels. In the Dalingu Park, visitors can enjoy the traditional Hakka (客家人) building culture.</p><p><b>B.</b> You can enjoy Cantonese Opera. Some teachers will tell you the history of it. You can also watch the lion dance.</p><p><b>C.</b> The study tour is mostly in Tianjin High-tech (高科技) Area. There are lots of different robots. You can visit a robot museum.</p><p><b>D.</b> We will take you to Xi’an. It is a big city with a long history. You can see old city walls and enjoy historical shows.</p><p><b>E.</b> It’s a study tour on Mount Huangshan. You can see many different beautiful plants and rocks.</p><p><b>F.</b> Two teachers will teach you how to travel in a big city. You can plan the traffic line, and learn about the places of interest in this city.</p><p><b>G.</b> You can visit a few beautiful gardens in Suzhou. They contain some old Chinese buildings. We will show you around and tell you about the art.</p></div>",
+    "intro": "本文介绍了五名学生的研学需求，同时提供了七个研学项目的相关情况，需为每名学生匹配合适的研学项目。",
+    "qs": [
+      {
+        "q": "(   ) Li Feng is a 14-year-old boy. He likes geography. He really wants to have a look at the plants in different mountains.",
+        "opts": [],
+        "ans": "E",
+        "exp": "李峰想看不同山里的植物，E选项黄山研学项目能看到多样的植物与岩石，与之匹配。"
+      },
+      {
+        "q": "(   ) Qi Li is a schoolgirl. She likes Chinese history. She reads many history books. She would like to learn more about Chinese history.",
+        "opts": [],
+        "ans": "D",
+        "exp": "齐丽想深入了解中国历史，D选项西安研学项目可看古城墙与历史表演，与之匹配。"
+      },
+      {
+        "q": "(   ) Josh is a 15-year-old student from Australia. He likes Chinese buildings and gardens. He wants to learn more about them during his visit to China.",
+        "opts": [],
+        "ans": "G",
+        "exp": "Josh喜欢中国古建筑与园林，G选项苏州园林研学项目与之匹配。"
+      },
+      {
+        "q": "(   ) Xu Jia is from Guangzhou. She enjoys the art of Yue. She likes listening to Cantonese Opera (粤剧) and watching the lion dance.",
+        "opts": [],
+        "ans": "B",
+        "exp": "徐佳喜欢听粤剧和看舞狮，B选项包含粤剧欣赏与舞狮观看，与之匹配。"
+      },
+      {
+        "q": "(   ) Chen Zi is a student from Hong Kong, China. She studies in Shanghai. She likes robots. She wants to know more about robots.",
+        "opts": [],
+        "ans": "C",
+        "exp": "陈梓想了解机器人，C选项天津高新区机器人博物馆研学项目与之匹配。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_zx_8a_6",
+    "paperId": "paper_dg_zx_8a",
+    "paperTitle": "广东东莞市竹溪中学2026-2027学年第一学期八年级英语阶段学情自测",
+    "sectionTitle": "四、句子翻译",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "句子翻译",
+      "中译英",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞竹溪阶段自测 四、句子翻译（5小题）",
+    "passage": "请将下列中文句子翻译成英文：\n(___1___) 你去了哪里度假？\n(___2___) Amy总是比我早起。\n(___3___) 对学生来说学好英语很重要。\n(___4___) 它是世界上最有趣的植物。\n(___5___) 你能帮我挂下相片吗？",
+    "passageHtml": "<p><b>【四、句子翻译】</b>请将下列中文句子翻译成英文：</p><p><b>(<u>&nbsp;&nbsp;1&nbsp;&nbsp;</u>)</b> 你去了哪里度假？</p><p><b>(<u>&nbsp;&nbsp;2&nbsp;&nbsp;</u>)</b> Amy总是比我早起。</p><p><b>(<u>&nbsp;&nbsp;3&nbsp;&nbsp;</u>)</b> 对学生来说学好英语很重要。</p><p><b>(<u>&nbsp;&nbsp;4&nbsp;&nbsp;</u>)</b> 它是世界上最有趣的植物。</p><p><b>(<u>&nbsp;&nbsp;5&nbsp;&nbsp;</u>)</b> 你能帮我挂下相片吗？</p>",
+    "intro": "本大题考查八年级上册核心句型的中译英表达，包括过去时特殊疑问句、副词比较级、It is + adj. + for sb. + to do sth. 句型、形容词最高级及礼貌请求句型。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "Where did you go on vacation?",
+        "exp": "“去度假”用go on vacation，过去时疑问句用Where did you go on vacation?"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "Amy always gets up earlier than me.",
+        "exp": "主语Amy为第三人称单数，谓语用gets up，“更早”用比较级earlier。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "It’s very important for students to learn English well.",
+        "exp": "使用固定句型It is + adj. + for sb. + to do sth.。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "It is the most interesting plant in the world.",
+        "exp": "“最有趣的植物”用最高级the most interesting plant。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "Can you help me hang up the photo?",
+        "exp": "“挂相片”用hang up the photo。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_zx_8a_7",
+    "paperId": "paper_dg_zx_8a",
+    "paperTitle": "广东东莞市竹溪中学2026-2027学年第一学期八年级英语阶段学情自测",
+    "sectionTitle": "五、选词填空",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "选词填空",
+    "diff": 2,
+    "kp": [
+      "记叙文",
+      "家人和亲人",
+      "人物对比",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞竹溪阶段自测 选词填空（我的两个哥哥Matt和Martin）",
+    "passage": "| little   or   so   personality   touch   school   outgoing   enjoy   look   from   they   slim |\nI have two brothers, Matt and Martin. I am their only younger sister in the family ___1___ they love me very much.\nBoth Matt and Martin have dark hair and big eyes, so they look similar. They are also strong and healthy. After ___2___, they often do sports on the playground before they go home. For example, Matt ___3___ football but Martin is a tennis player. They are much taller than me and I always have to ___4___ up when I talk to them. They both love to eat a lot of food, so my mother often says ___5___ can eat a horse.\nHowever, their ___6___ are very different. Matt is more ___7___ and has a strong sense of humour. He often takes part in clubs ___8___ contests (比赛). He loves meeting new people and talking to them. He also likes to play jokes on others, especially on Martin! Sometimes Mother is angry with Matt because he is ___9___ hard-working than me and does not listen to his teachers carefully in class. However, Martin studies harder and got better grades than Matt.\nAlthough they are different ___10___ each other, they love me and are always there to help me. I’m lucky to have them as my brothers.",
+    "passageHtml": "<div class=\"bx ct\" style=\"font-weight:400;word-spacing:1em;margin-bottom:10px\">little &nbsp; or &nbsp; so &nbsp; personality &nbsp; touch &nbsp; school &nbsp; outgoing &nbsp; enjoy &nbsp; look &nbsp; from &nbsp; they &nbsp; slim</div><p><span class=\"ind\">I have two brothers, Matt and Martin. I am their only younger sister in the family <u>&nbsp;&nbsp;1&nbsp;&nbsp;</u> they love me very much.</span></p><p><span class=\"ind\">Both Matt and Martin have dark hair and big eyes, so they look similar. They are also strong and healthy. After <u>&nbsp;&nbsp;2&nbsp;&nbsp;</u>, they often do sports on the playground before they go home. For example, Matt <u>&nbsp;&nbsp;3&nbsp;&nbsp;</u> football but Martin is a tennis player. They are much taller than me and I always have to <u>&nbsp;&nbsp;4&nbsp;&nbsp;</u> up when I talk to them. They both love to eat a lot of food, so my mother often says <u>&nbsp;&nbsp;5&nbsp;&nbsp;</u> can eat a horse.</span></p><p><span class=\"ind\">However, their <u>&nbsp;&nbsp;6&nbsp;&nbsp;</u> are very different. Matt is more <u>&nbsp;&nbsp;7&nbsp;&nbsp;</u> and has a strong sense of humour. He often takes part in clubs <u>&nbsp;&nbsp;8&nbsp;&nbsp;</u> contests (比赛). He loves meeting new people and talking to them. He also likes to play jokes on others, especially on Martin! Sometimes Mother is angry with Matt because he is <u>&nbsp;&nbsp;9&nbsp;&nbsp;</u> hard-working than me and does not listen to his teachers carefully in class. However, Martin studies harder and got better grades than Matt.</span></p><p><span class=\"ind\">Although they are different <u>&nbsp;&nbsp;10&nbsp;&nbsp;</u> each other, they love me and are always there to help me. I’m lucky to have them as my brothers.</span></p>",
+    "intro": "本文是一篇记叙文，讲述了作者的两个哥哥Matt和Martin在外貌上相似、爱好各异、性格截然不同，但都很爱作者、乐于帮助她。",
+    "qs": [
+      {
+        "q": "(1)",
+        "opts": [],
+        "ans": "so",
+        "exp": "句意：我是家里唯一的妹妹，所以他们非常爱我。前后句为因果关系，填so。"
+      },
+      {
+        "q": "(2)",
+        "opts": [],
+        "ans": "school",
+        "exp": "句意：放学后，他们经常在回家前在操场上做运动。After school意为“放学后”。"
+      },
+      {
+        "q": "(3)",
+        "opts": [],
+        "ans": "enjoys",
+        "exp": "句意：例如，Matt喜欢踢足球，而Martin是网球运动员。主语Matt为单数，一般现在时用enjoys。"
+      },
+      {
+        "q": "(4)",
+        "opts": [],
+        "ans": "look",
+        "exp": "句意：他们比我高得多，我和他们说话时总是得抬头看。look up意为“抬头看”，have to后接动词原形。"
+      },
+      {
+        "q": "(5)",
+        "opts": [],
+        "ans": "they",
+        "exp": "句意：我妈妈常说他们能吃下一匹马。指代两个哥哥作从句主语，用主格they。"
+      },
+      {
+        "q": "(6)",
+        "opts": [],
+        "ans": "personalities",
+        "exp": "句意：然而，他们的性格非常不同。谓语动词是are，personality用复数personalities。"
+      },
+      {
+        "q": "(7)",
+        "opts": [],
+        "ans": "outgoing",
+        "exp": "句意：Matt更外向，很有幽默感。outgoing意为“外向的”。"
+      },
+      {
+        "q": "(8)",
+        "opts": [],
+        "ans": "or",
+        "exp": "句意：他经常参加俱乐部或比赛。or意为“或者”。"
+      },
+      {
+        "q": "(9)",
+        "opts": [],
+        "ans": "less",
+        "exp": "句意：因为他不如我用功。根据than me可知用比较级less。"
+      },
+      {
+        "q": "(10)",
+        "opts": [],
+        "ans": "from",
+        "exp": "句意：虽然他们彼此不同，但他们爱我。be different from意为“与……不同”。"
+      }
+    ]
+  },
+  {
+    "id": "paper_dg_zx_8a_8",
+    "paperId": "paper_dg_zx_8a",
+    "paperTitle": "广东东莞市竹溪中学2026-2027学年第一学期八年级英语阶段学情自测",
+    "sectionTitle": "六、读写综合",
+    "stage": "junior",
+    "grade": "八年级",
+    "semester": "八年级上册",
+    "type": "读写综合",
+    "diff": 2,
+    "kp": [
+      "读写综合",
+      "劳动实践",
+      "家务劳动",
+      "八年级上册"
+    ],
+    "title": "八上名校卷 · 东莞竹溪阶段自测 读写综合（学做家务的成长经历与家务劳动征文）",
+    "passage": "请阅读下面短文，根据所提供的信息回答问题。要求所写答案语法正确、语义完整切题。\n\nDoing housework is an important skill for teenagers and it can teach us a lot. I began to help with housework at home at the age of twelve. It was on a sunny Sunday morning. My parents were always busy with their work and returned home late every day. One day, I watched my mother come back home, tired and sleepy. She still needed to clean rooms and prepare dinner for our family. Looking at her tired face, I made up my mind to share housework with them.\nAt first, I was not good at doing chores. I tried to wash clothes, but I made a mistake. I mixed white shirts with dark trousers. Soon the white shirts turned dark. Then I learned to tidy up in the living room. I folded quilts and put books and toys in order. I also helped wash dishes after dinner. Sometimes the plates were still greasy (油污的) after I washed them. Luckily, my parents never blamed (责怪) me. Instead, they encouraged (鼓励) me and taught me some useful skills. Little by little, I became better at doing housework.\nNow I usually do chores on weekends. I sweep the floor, take out the rubbish and cook simple food. Doing housework helps me understand how hard my parents work and to be independent (独立的). I think every teenager should learn to do some housework. We should not only pay attention to our schoolwork. When we help with chores, our parents will feel warm and proud of us.",
+    "passageHtml": "<p style=\"margin-bottom:8px;color:var(--mu);font-size:13.5px\"><strong>A．回答问题：</strong>请阅读下面短文，根据所提供的信息回答问题。要求所写答案语法正确、语义完整切题。</p><p><span class=\"ind\">Doing housework is an important skill for teenagers and it can teach us a lot. I began to help with housework at home at the age of twelve. It was on a sunny Sunday morning. My parents were always busy with their work and returned home late every day. One day, I watched my mother come back home, tired and sleepy. She still needed to clean rooms and prepare dinner for our family. Looking at her tired face, I made up my mind to share housework with them.</span></p><p><span class=\"ind\">At first, I was not good at doing chores. I tried to wash clothes, but I made a mistake. I mixed white shirts with dark trousers. Soon the white shirts turned dark. Then I learned to tidy up in the living room. I folded quilts and put books and toys in order. I also helped wash dishes after dinner. Sometimes the plates were still greasy (油污的) after I washed them. Luckily, my parents never blamed (责怪) me. Instead, they encouraged (鼓励) me and taught me some useful skills. Little by little, I became better at doing housework.</span></p><p><span class=\"ind\">Now I usually do chores on weekends. I sweep the floor, take out the rubbish and cook simple food. Doing housework helps me understand how hard my parents work and to be independent (独立的). I think every teenager should learn to do some housework. We should not only pay attention to our schoolwork. When we help with chores, our parents will feel warm and proud of us.</span></p>",
+    "intro": "本文是一篇记叙文。文章主要讲述了作者从十二岁开始帮父母做家务的经历，虽然起初会犯错，但在父母的鼓励下逐渐掌握了家务技能，并认识到做家务对青少年培养独立性和理解父母辛苦的重要性。",
+    "qs": [
+      {
+        "q": "When did the writer start to help with housework at home?",
+        "opts": [],
+        "ans": "When the writer was twelve (years old). / At the age of twelve.",
+        "exp": "第一段提到“I began to help with housework at home at the age of twelve.”，说明作者12岁开始在家帮忙做家务。"
+      },
+      {
+        "q": "Where did the writer learn to tidy up?",
+        "opts": [],
+        "ans": "In the living room.",
+        "exp": "第二段提到“Then I learned to tidy up in the living room.”，说明作者在客厅学习整理。"
+      },
+      {
+        "q": "What mistake did the writer make when washing clothes at first?",
+        "opts": [],
+        "ans": "The writer mixed white shirts with dark trousers and the white shirts turned dark.",
+        "exp": "第二段提到“I mixed white shirts with dark trousers. Soon the white shirts turned dark.”，直接提取答案。"
+      },
+      {
+        "q": "How did the writer’s parents make him become good at doing housework?",
+        "opts": [],
+        "ans": "They encouraged him/her and taught him/her some useful skills.",
+        "exp": "第二段提到“Instead, they encouraged (鼓励) me and taught me some useful skills.”，直接提取答案。"
+      },
+      {
+        "q": "Why does the writer think teenagers should learn to do housework?",
+        "opts": [],
+        "ans": "Because it helps them understand how hard their parents work and to be independent.",
+        "exp": "第三段提到“Doing housework helps me understand how hard my parents work and to be independent”，直接提取原因。"
+      },
+      {
+        "q": "<div style=\"margin-top:10px;padding-top:10px;border-top:1px dashed var(--bd)\"><strong>B．书面表达</strong><p style=\"margin:4px 0\">劳动教育是青少年全面发展的重要组成部分。假设你是李华，学校正在开展主题为“家务劳动”的英语征文活动，请根据以下提示用英文写一篇短文参加此次征文活动。</p><div style=\"text-align:center;margin:8px 0\"><img src=\"assets/images/paper_dg_zx_8a_img5.png\" alt=\"家务劳动征文思维导图\" style=\"max-width:440px;width:100%;height:auto;border-radius:6px\"></div><p style=\"margin:4px 0\">注意：<br>（1）可在思维导图内容提示的基础上适当拓展信息。<br>（2）不得在作文中出现真实校名、地名和考生的真实姓名。<br>（3）语句连贯，词数80左右。作文的标题和开头已经给出，不计入总词数。</p><p class=\"ct\" style=\"margin:8px 0\"><b>Housework</b></p><p style=\"margin:4px 0\">Doing housework is an important part of our daily lives. ______________________________</p></div>",
+        "opts": [],
+        "ans": "【参考范文】\nHousework\nDoing housework is an important part of our daily lives. In my opinion, we should share housework at home.\nDoing housework is good for teenagers. Firstly, we can develop many life skills by doing housework. These skills help us to take care of ourselves. Secondly, we can also understand hard work and respect the effort behind everyday tasks. Finally, it is a good way to relax after busy schoolwork.\nIn short, doing chores makes a big difference to my family, so let’s do more housework. For example, we can sweep the floor after meals and take out the rubbish.",
+        "exp": "写作步骤\n[第一步：审题立意]\n确定文体：观点阐述类短文，以一般现在时为主\n明确要点：表达自己的观点，说明做家务的好处，并提出呼吁和具体行动建议\n[第二步：构思布局]\n三段式结构：第一段承接开头表明分担家务的观点；第二段分点阐述做家务对青少年的好处；第三段总结呼吁并给出具体行动建议。"
+      }
+    ]
   }
 ];
