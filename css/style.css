@@ -679,6 +679,77 @@ button.d {
   color: var(--tx);
 }
 
+/* 配对阅读左右双栏对照排版 (按照标准中考试卷排版设计) */
+.match-intro {
+  margin: 6px 0 10px 0;
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--tx);
+  font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+.match-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid var(--tx);
+  margin: 8px 0 14px 0;
+  background: transparent;
+  color: var(--tx);
+  table-layout: fixed;
+  font-family: "Times New Roman", Georgia, serif;
+}
+
+.match-table td {
+  vertical-align: top;
+  padding: 12px 14px;
+  border: 1px solid var(--tx);
+  line-height: 1.65;
+  font-size: 14.5px;
+}
+
+.match-table .match-left {
+  width: 42%;
+  border-right: 1px solid var(--tx);
+  padding-right: 16px;
+}
+
+.match-table .match-right {
+  width: 58%;
+  padding-left: 16px;
+}
+
+.match-q-item {
+  margin: 0 0 16px 0;
+  line-height: 1.65;
+  text-align: justify;
+}
+
+.match-q-item:last-child {
+  margin-bottom: 0;
+}
+
+.match-opt-item {
+  margin: 0 0 12px 0;
+  line-height: 1.65;
+  text-align: justify;
+}
+
+.match-opt-item:last-child {
+  margin-bottom: 0;
+}
+
+.match-table u {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  font-weight: 500;
+}
+
+.sheet .match-table,
+.sheet .match-table td {
+  border-color: #000000;
+  color: #000000;
+}
+
 .rw-ans-line {
   margin: 6px 0 12px 0;
   border-bottom: 1px solid #94a3b8;
